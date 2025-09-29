@@ -1,5 +1,185 @@
 {
   "prompts": [
+    {
+  "id": "prompt_050",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_050.png",
+  "prompt": "CompositionalPortrait, dreamy floral gaze, golden hour, cinematic close-up of a young woman (same as in image i uploaded), filtered sunlight through wildflowers casting intricate shadows on skin, soft film grain, muted violet palette, 85 mm lens, f/1.4, sharp skin texture, subtle freckles, glossy lips, delicate bokeh, zero over-processing -ar 3:4 -v 6 -style raw -no text, watermark, distortion.",
+  "category": "Close-up Portrait",
+  "tags": ["All", "Female", "Cinematic", "Floral", "Golden Hour", "Film Grain", "Bokeh", "Raw Style", "Portrait"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_049",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_049.png",
+  "prompt": "Create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is a 3D modeling process of this figurine. Next to the computer screen is a toy packaging box, designed in a style reminiscent of high-quality collectible figures, printed with original artwork. The packaging features two-dimensional flat illustrations.",
+  "category": "Product Visualization",
+  "tags": ["All", "Male", "Figurine", "Collectible", "3D Modeling", "Product", "Realistic", "Commercial"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_048",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_048.png",
+  "prompt": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect white colour suit Pinteresty aesthetic retro pants. It must feel like a '90s movie hair baddie with a small flower bookey in hand and romanticising a windy environment. The man is standing against a solid deep shadow and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with golden tones evoking a sunset or golden hour glow. The background is minimalist.",
+  "category": "Fashion/Mood",
+  "tags": ["All", "Male", "Retro", "Vintage", "Grainy", "90s", "Fashion", "Golden Hour", "Moody", "Minimalist"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_047",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_047.png",
+  "prompt": "A black-and-white aesthetic portrait of a stylish me(use my image with accurate face 100%) sitting on the floor in dramatic lighting. He is wearing an oversized dark coat, with messy, voluminous hair partially covering his face. His pose is emotional and introspective, sitting on chair and his head slightly turned to the side. Shadows from a window fall across the wall behind him, creating a moody and artistic atmosphere. The overall vibe is mysterious, emotional, and cinematic.",
+  "category": "Black & White Portrait",
+  "tags": ["All", "Male", "B&W", "Aesthetic", "Dramatic", "Moody", "Cinematic", "Introspective", "Portrait"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_046",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_046.png",
+  "prompt": "Create a retro, vintage-inspired image grainy yet bright based on the reference picture. The girl should be draped in a perfect blue cotton saree with small white flower prints, paired with a white blouse with sleeves above the elbow, styled in a Pinterest-inspired aesthetic. The vibe must capture the essence of a 90s movie dark-brown-hairedbaddie, with silky hair and a small flower tucked visibly into her hair, enhanced by a windy, romantic atmosphere. She is sitting on a wooden bench as a few leaves blovw in the air, while dramatic contrastsadd mystery and artistry to the scene, creating amoody yet enchanting cinematic effect. Her pose should suggest that she is reading a book.",
+  "category": "Fashion/Mood",
+  "tags": ["All", "Female", "Retro", "Vintage", "Saree", "90s", "Cinematic", "Moody", "Reading", "Fashion"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_045",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_045.png",
+  "prompt": "Hyper-realistic overhead 9:16 close-up of myself with glasses, playfully leaning against an ivy-covered stone wall of an old countryside cottage during golden hour. I'm (laughing or smiling) with my head slightly tilted back, one hand brushing away a dangling vine, wearing a (textured earth-tone knit sweater layered over a soft white t-shirt/red saree with blouse.) The flowering vines are in full bloom with orange, magenta, and lavender hues, softly blurred in the foreground.",
+  "category": "Close-up Portrait",
+  "tags": ["All", "Male", "Female", "Hyper-realistic", "Golden Hour", "Cottage", "Outdoor", "Portrait", "Laughter"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_044",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_044.png",
+  "prompt": "A beautiful woman [exact face from the image] in Navratri traditional Indian attire, possibly a(desi chamkila vibrant jaipuri kalamkari lehenga) lehenga choli, with intricate embroidery She has long, wavy black hair and is looking slightly to her right. The image has warm lighting, suggesting either sunrise or sunset, creating a dramatic shadow on the burgandy colour wall behind her. She is holding what appears to be a dandiya stick. Use my actual face and don't alter my face from the picture.",
+  "category": "Cultural Portrait",
+  "tags": ["All", "Female", "Navratri", "Indian", "Traditional", "Lehenga", "Cultural", "Dramatic", "Portrait"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_043",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_043.png",
+  "prompt": "A stylish young man, facial will be the same as the reference image, with sharp features and dark tousled hair parted naturally. He is leaning casually against a vintage suitcase. He wears a textured brown blazer over an open-collar dark brown shirt, slightly unbuttoned at the top, paired with high-waisted light beige pleated trousers and a dark belt. The aesthetic is elegant and retro-inspired, with earthy tones. Minimalistic indoor background, cinematic warm natural lighting.",
+  "category": "Fashion Portrait",
+  "tags": ["All", "Male", "Stylish", "Retro", "Vintage", "Elegant", "Fashion", "Cinematic", "Portrait"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_042",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_042.png",
+  "prompt": "Hyper-realistic overhead 9:16 close-up of myself with glasses, playfully leaning against an ivy-covered stone wall of an old countryside cottage during golden hour. I'm laughing with my head slightly tilted back, one hand brushing away a dangling vine, wearing a textured earth-tone knit sweater layered over a soft white t-shirt. The flowering vines are in full bloom with orange, magenta, and lavender hues, softly blurred in the foreground. Warm, cinematic lighting with a pastel sky glow ultra-detailed textures, and natural skin tones in sharp focus, captured in 8K.",
+  "category": "Close-up Portrait",
+  "tags": ["All", "Male", "Hyper-realistic", "Golden Hour", "Cinematic", "Cottage", "Outdoor", "8K", "Portrait"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_041",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_041.png",
+  "prompt": "without changing my facial features create an aesthetic outdoor candid of a young woman standing beside a rustic fountain, wearing a sleeveless white crop top and a flowy tiered blue maxi skirt, holding a tote bag on her shoulder. Natural greenery and hanging plants frame the scene with soft warm daylight, giving a cozy and vintage Pinterest vibe.",
+  "category": "Outdoor/Lifestyle",
+  "tags": ["All", "Female", "Outdoor", "Candid", "Aesthetic", "Rustic", "Vintage", "Pinterest", "Fashion"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_040",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_040.png",
+  "prompt": "Apply bold hand-drawn doodles and motivational words directly on the uploaded photo. Use colors and accents that match and balance with the tones already in the photo for a seamless look. Replace the words with: [COURAGE,FOCUS,MOTIVATED] Make the doodles dynamic with handwritten typography, arrows, lightning bolts, swirls, and abstract strokes, integrated into the composition so they enhance the subject without overpowering it. The style should keep the same energetic and modern vibe as the reference.",
+  "category": "Graphic Overlay",
+  "tags": ["All", "Male", "Doodle", "Motivational", "Graphic", "Artistic", "Modern", "Typography"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_039",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_039.png",
+  "prompt": "Editorial 3* 3 photo grid in a clean cream/beige studio. Photo of character as attached image, wearing cream silk blouse, camel high-waist trousers, gold hoop earrings, minimal bracelets. Large softbox left-front, reflector right, subtle top rim. Shots to include: (1) extreme close-up of face with gold hoop earring catching light, shallow DOF (85mm, f/1.4); (2) full-body seated on modern lounge chair with a sleek laptop on lap, relaxed posture (35mm, f/5.6); (3) medium close, leaning on chair back, holding a coffee mug, eyes downward (50mm, f/2.2); (4) mid-shot adjusting wristwatch, soft smile (50mm, f/2.8); (5) tight crop of hands holding smartphone, nails visible (85mm, f/1.8); (6) 3/4 body walking past cream bike prop, looking to side (50mm, f/4); (7) black & white profile, necklace highlighted by side rim light (50-85mm, f/2.0); (8) distant full-body seated cross-legged on rug with tablet in hand (35mm, f/5.6); (9) close frontal with hands framing cheeks, soft reflective glasses catching studio light (85mm, f/1.9). Angles: mostly eye-level, occasional slight high angle for interest. Capture in RAW, moderate warm color grade, soft contrast, emphasize silk, leather, and metallic textures; shallow DOF for portraits. Mood: minimal editorial, lifestyle chic.",
+  "category": "Editorial",
+  "tags": ["All", "Male", "Editorial", "Studio", "Fashion", "Lifestyle", "Grid", "Minimalist", "Portrait"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_038",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_038.png",
+  "prompt": "Create a grainy retro vintage of a young woman standing front of wall with wearing loose white wool T-shirt and pant, luxury formal watch, hair like 90's movie baddie.plucking flowers from a flowering vine by one hand another hand at head looked in cemera. face 100% match from uploaded image, windy environment hd sharpen resolution with sunlight and soft shadows.",
+  "category": "Portrait",
+  "tags": ["All", "Female", "Retro", "Vintage", "90s", "Grainy", "Fashion", "Outdoor", "Flower"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_037",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_037.png",
+  "prompt": "Create a Photorealistic Hong Kong retro portrait with authentic 1990s film look. Use image[0] as face reference. Half-body. Subject leaning against newspaper-covered wall, gaze soft and Hair messy, strands falling across face. Makeup glossy lips, dewy skin. Narrow Hong Kong room, walls plastered with old yellowed Cantonese newspapers. Fluffy white cat blurred in foreground. Tungsten bulb glow with faint green spill. Shadows heavy, highlights bloom.",
+  "category": "Portrait",
+  "tags": ["All", "Male", "Retro", "Vintage", "Hong Kong", "90s", "Film Look", "Photorealistic", "Cinematic"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_036",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_036.png",
+  "prompt": "Beautiful young woman (used uploaded photo refernce) in a glamorous blue dress, wearing a sparkling tiara, sitting at a decorated partytable with a cute layered birthday cake with number 28 candle. Surrounded by balloons, flowers, and a picnic basket, spotlight shining down on her, confetti falling from above, dreamy pastel purple background, cinematic lighting, soft glow, elegant and playful mood, high detail, ultrarealistic, 8K portrait photography.",
+  "category": "Celebration/Fantasy",
+  "tags": ["All", "Female", "Celebration", "Birthday", "Glamorous", "Fantasy", "Cinematic", "Ultrarealistic", "8K"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_035",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_035.png",
+  "prompt": "Rain-dark forest switchback - He wears a forest-green waterproof shell, graphite trek pants, brown hikers. Pose: paused mid-step on wet roots, torso angled 30° to camera, hand brushing moss, eyes down-trail. Light: soft overcast, droplets on lashes, micro-speckled lens. Camera: Pixel 8 Pro 25 mm f/1.68 1/250 s ISO 200 AWB Cloudy 6200 K HDR+ RAW+JPEG. CAF on face center-weighted metering. man (face reference image uploaded).",
+  "category": "Outdoor/Nature",
+  "tags": ["All", "Male", "Outdoor", "Nature", "Forest", "Rain", "Hiking", "Realistic", "Photography"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_034",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_034.png",
+  "prompt": "Create an artistic collage of 6 vintage Polaroid photos, attached with a decorative rope and mini clothespins, like a home photo gallery. Each Polaroid frame has a slight fading and an old paper effect. The background is a soft pastel wall with light shadows, creating a cozy and creatively chaotic atmosphere. Emotions & Pose: Light laughter -eyes closed, natural joy. Dreamy gaze upwards, relaxed pose. Playful wink. Calm smile with a head tilted to the side.",
+  "category": "Artistic Collage",
+  "tags": ["All", "Male", "Vintage", "Polaroid", "Collage", "Artistic", "Cozy", "Emotions", "Photography"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_033",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_033.png",
+  "prompt": "Editorial 3* 3 photo grid in a clean cream/beige studio. Photo of character as attached image, wearing cream silk blouse, camel high-waist trousers, gold hoop earrings, minimal bracelets. Large softbox left-front, reflector right, subtle top rim. Shots to include: (1) extreme close-up of face with gold hoop earring catching light, shallow DOF (85mm, f/1.4); (2) full-body seated on modern lounge chair with a sleek laptop on lap, relaxed posture (35mm, f/5.6); (3) medium close, leaning on chair back, holding a coffee mug, eyes downward (50mm, f/2.2); (4) mid-shot adjusting wristwatch, soft smile (50mm, f/2.8); (5) tight crop of hands holding smartphone, nails visible (85mm, f/1.8); (6) 3/4 body walking past cream bike prop, looking to side (50mm, f/4); (7) black & white profile, necklace highlighted by side rim light (50-85mm, f/2.0); (8) distant full-body seated cross-legged on rug with tablet in hand (35mm, f/5.6); (9) close frontal with hands framing cheeks, soft reflective glasses catching studio light (85mm, f/1.9). Angles: mostly eye-level, occasional slight high angle for interest. Capture in RAW, moderate warm color grade, soft contrast, emphasize silk, leather, and metallic textures; shallow DOF for portraits. Mood: minimal editorial, lifestyle chic.",
+  "category": "Editorial",
+  "tags": ["All", "Male", "Editorial", "Studio", "Fashion", "Lifestyle", "Grid", "Minimalist", "Portrait"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
 {
   "id": "prompt_032",
   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_032.png",
