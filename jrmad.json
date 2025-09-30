@@ -1,6 +1,137 @@
 {
   "prompts": [
     {
+  "id": "prompt_064",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_064.png",
+  "prompt": "A stylish man stands beside a dark brown horse, gently caressing its face with affection. He is wearing a black pathani sute ith a silver wristwatch visible on his wrist. His expression is calm and focused, showing a strong bond with the horse. The background is softly blurred with green trees and natural daylight, giving the scene a cinematic and warm.",
+  "category": "Animals",
+  "tags": ["All", "Trending", "New", "Male", "Cinematic", "Horse", "PathaniSuit", "Outdoor", "Affection", "Elegance"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_063",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_063.png",
+  "prompt": "Ultra-realistic cinematic portrait of the same face from the reference picture, sitting outside a small tea stall. He is wearing a traditional black salwar kameez holding a folded newspaper in one hand, and sitting casually on a simple wooden bench A steaming cup of chai is placed on the table beside him The background shows a rustic street tea hotel with a warm desi atmosphere,natural daylight, and subtle hustle and bustle. Full body shot, natural skin tones, detailed clothing",
+  "category": "Cultural",
+  "tags": ["All", "Trending", "New", "Male", "UltraRealistic", "Cinematic", "Chai", "Desi", "Street", "SalwarKameez"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_062",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_062.png",
+  "prompt": "A hyper-realistic cinematic mid-shot portrait in Mario Testino’s vibrant fashion style. The man sits casually in the driver’s seat of a matte black Lamborghini with the door lifted open, medium-dark skin tone, sharp beard, and voluminous hair swept back. He wears a crisp white shirt with sleeves rolled, tailored trousers, and a luxury wristwatch gleaming under the light",
+  "category": "Fashion",
+  "tags": ["All", "Trending", "New", "Male", "HyperRealistic", "Cinematic", "TestinoStyle", "Lamborghini", "Luxury", "Vibrant"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_061",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_061.png",
+  "prompt": "A stylish young man stands confidently in front of a large, detailed pencil sketch of his own smiling portrait. He wears a fitted black hoodie with the sleeves pushed up and light grey trousers, creating a clean, modern look. His arms are crossed, revealing a sleek silver wristwatch. The background is a minimalist beige wall, allowing the contrast between the realistic hand-drawn sketch and his real presence to stand out. Soft, even lighting enhances the textures of both the drawing and his clothing, creating a visually compelling editorial-style image that blends art with realism.",
+  "category": "Artistic",
+  "tags": ["All", "Trending", "New", "Male", "Editorial", "Sketch", "PencilArt", "Contrast", "Modern", "Minimalist"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_060",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_060.png",
+  "prompt": "Photo-realistic 8K full-body portrait of the man from the uploaded image, wearing the same outfit. He leans casually against a light-gray wall, Sitting on Office white chair \uD83E\uDE91. On the wall, add a bold black-and-white vector portrait of him with modern geometric style. Below it, write: 'Social Media Activist' and ‘ Your Name Here'. Bright studio lighting, modern minimal premium look.",
+  "category": "Editorial",
+  "tags": ["All", "Trending", "New", "Male", "8K", "PhotoRealistic", "Studio", "Minimalist", "VectorArt", "Modern"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_059",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_059.png",
+  "prompt": "Dream lifestyle shot, a man standing on the deck of a private yacht in Dubai Marina, skyline glowing behind him. Outfit: cream open shirt, linen trousers, sunglasses, barefoot on polished teak wood. One hand holds champagne while the other rests on the railing, posture calm and powerful. Use uploaded image for face reference and ensure 100% alignment.",
+  "category": "Luxury",
+  "tags": ["All", "Trending", "New", "Male", "Lifestyle", "Yacht", "Dubai", "Luxury", "Travel", "Evening"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_058",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_058.png",
+  "prompt": "High-fashion travel shot, a man stepping down from a private jet onto the runway, holding a sleek leather duffel bag in one hand. Outfit: sharp navy blazer, white tee, fitted jeans, designer sneakers. One hand adjusts sunglasses, posture casual but commanding. Behind him, the jet gleams under golden morning light. Use uploaded image for face reference and ensure 100% alignment.",
+  "category": "Fashion",
+  "tags": ["All", "Trending", "New", "Male", "HighFashion", "Travel", "PrivateJet", "Luxury", "Editorial", "GoldenHour"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_057",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_057.png",
+  "prompt": "Use my face from the original photo and keep the same hairstyle as in the image. Create a handsome man wearing a black polo shirt, white pants, white shoes, a Rolex watch, black square eyeglasses, and an outdoor hiking cap. He is sitting on a camping chair with his legs crossed by the stream, with a white Toyota Land Cruiser SUV slightly blurred in the background.",
+  "category": "Travel",
+  "tags": ["All", "Trending", "New", "Male", "Outdoor", "Camping", "SUV", "Rolex", "Lifestyle", "Fashion"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_056",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_056.png",
+  "prompt": "Ultra-realistic full-body shot of a stylish young man sitting confidently with a matte grey jawa 42 bobber motorcycle under lush green trees. He has short black hair, black sunglasses. One leg on the ground, and other leg on brake or gear, Id looking \"O the right. The bike has bold wide tires, dynamic retro design, black frame, and a jawa on the fuel tank. A sleek modern bobber-style dont change my face",
+  "category": "Vehicles",
+  "tags": ["All", "Trending", "New", "Male", "UltraRealistic", "Motorcycle", "Jawa", "Bobber", "Outdoor", "Lifestyle"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_055",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_055.png",
+  "prompt": "Photo-realistic 8K full-body portrait of this man, I'm the above image leaning casually against a clean light-grey wall. He is wearing Pakistani style shalwar Qameez in Hadali style and peshawari style shoes, Sindhi Ajrak in his neck, Hands closed on belly having golden Colour wrist watch in his left hand, one leg crossed over the other, relaxed, confident pose",
+  "category": "Cultural",
+  "tags": ["All", "Trending", "New", "Male", "8K", "PhotoRealistic", "Pakistani", "ShalwarQameez", "Ajrak", "Fashion"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_054",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_054.png",
+  "prompt": "Create an ultra realistic high-resolution image with the attached photo. Keep the same face and the same clothes 100% real without any changes. A cinematic outdoor portrait of me standing beside a majestic white horse, captured with a professional DSLR camera using a large-aperture lens, creating shallow depth of field and creamy bokeh in the background. A silver wristwatch is visible on my left wrist. My posture is upright and confident, with my right arm gently raised, hand softly placed near the horse’s muzzle as if caressing it. My face is straight, looking forward with a composed expression, showing calm connection and elegance. The horse stands beside me with a natural pose, its glossy coat and details highlighted by the warm natural sunlight. The background consists of blurred green trees with sunlight filtering through, creating a cinematic golden atmosphere. The lighting is natural and soft, enhancing fine details while keeping the image realistic and elegant, like a professional magazine photoshoot.keep my face 100% same as in the reference image",
+  "category": "Animals",
+  "tags": ["All", "Trending", "New", "Male", "UltraRealistic", "Cinematic", "Horse", "Outdoor", "Elegance", "Magazine"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_053",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_053.png",
+  "prompt": "Create a hyper-realistic cinematic lifestyle portrait entirely based on the uploaded reference photo, keeping the exact same face, hairstyle, and overall appearance with no alterations. A stylish young Indian man lounges confidently on a modern hanging wicker chair, dressed in a trendy all-white coord set with a casual T-shirt and open shirt, paired with colorful designer sneakers and a luxury wristwatch. His expression is cool and composed as he slightly leans back with a relaxed posture",
+  "category": "Lifestyle",
+  "tags": ["All", "Trending", "New", "Male", "HyperRealistic", "Cinematic", "Modern", "Fashion", "WhiteOutfit", "Luxury"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_052",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_052.png",
+  "prompt": "Create a cinematic full-body portrait of me in a moody urban setting with stone & brick textures in the background. I should be leaning confidently against a low stone wall, turning slightly toward the camera with an intense, self-assured look. Outfit: a gray shalwar qameez & black shoes. The lighting should be natural yet diffused, casting soft shadows that enhance the dramatic mood while keeping details clear. The overall aesthetic should feel bold, stylish & modern.",
+  "category": "Portrait",
+  "tags": ["All", "Trending", "New", "Male", "Cinematic", "Urban", "ShalwarQameez", "Cultural", "Moody", "Fashion"],
+  "popularity": 0,
+  "createdAt": "2025-09-30T16:23:09Z",
+  "isFeatured": false
+}
+    ,
+    {
   "id": "prompt_051",
   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_051a.jpeg",
   "prompt": "Create ultra realistic photo of me, A full-body shot of a light-skinned man with a beard and dark hair, wearing a maroon polo shirt and blue jeans, standing casually with his hands in his pockets and one leg crossed over the other, against a plain light gray wall. To his right, there's a black and white logo featuring a stylized illustration of a man's face with a beard, above the text 'Ehtesham Rasheed' and 'Facebook: Ehtesham Rasheed' The overall lighting is even.",
