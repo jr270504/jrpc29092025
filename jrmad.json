@@ -1,5 +1,137 @@
 {
   "prompts": [
+    
+  {
+    "id": "prompt_078",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_078.jpeg",
+    "prompt": "A realistic, high-resolution office scene. The same man (face, haircut, beard unchanged). Pose: sitting at an open white desk, focused on a silver Acer laptop. Outfit: crisp white button-up shirt with rolled-up sleeves. Accessories: black smartwatch on left wrist, thin red thread bracelet on right wrist. Pose detail: right elbow resting on desk, right hand touching forehead in thoughtful pose. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Lifestyle",
+    "tags": ["All", "New", "Male", "Realistic", "Office", "Business", "Professional", "High-Resolution", "Desk", "Work"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T12:06:10Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_077",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_077.jpeg",
+    "prompt": "Convert reference into a stylish young man, keeping the same face. Outfit: textured brown blazer over an open-collar dark brown shirt (slightly unbuttoned), paired with high-waisted light beige pleated trousers and dark belt. Aesthetic: elegant, retro-inspired, earthy tones. Background: minimalistic indoor setting. Lighting: cinematic warm natural tones. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Fashion",
+    "tags": ["All", "New", "Male", "Stylish", "Elegant", "Retro", "Earthy-Tones", "Minimalistic", "Blazer", "Portrait"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_076",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_076.jpeg",
+    "prompt": "A cinematic, high-definition portrait. Scene: young man reclining casually on the hood of a vintage black car, parked on a rugged dirt hill with blurred mountains in background. Outfit: sleek skinny leather-hood jacket, thin polished black boots. Accessories: subtle rings, watch, chain. Pose: lying back, one knee bent, holding a lit cigarette with smoke drifting dramatically. Lighting: golden hour, warm soft evening light with strong shadows. Style: rich, vibrant, hyper-saturated colors, cinematic bokeh. Dynamic effects: drifting smoke, subtle motion blur, lens flare on car, reflective highlights on accessories, slight surreal zoom effect. Mood: moody, rebellious, stylish, nostalgic, fashion editorial vibe. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Editorial",
+    "tags": ["All", "New", "Trending", "Male", "Cinematic", "Rebellious", "Vintage-Car", "Golden-Hour", "Moody", "Fashion"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_075",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_075.jpeg",
+    "prompt": "Ultra-realistic cinematic portrait of the reference face. Setting: luxurious high-rise apartment. Pose: sitting confidently on a modern armchair, leaning back casually with one arm on the armrest and the other hand near face. Outfit: light gray blazer over white shirt, dark trousers, brown formal shoes. Mood: charisma and authority. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Portrait",
+    "tags": ["All", "New", "Male", "Cinematic", "Ultra-Realistic", "Luxury", "Formal", "Business", "Apartment", "Authority"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_074",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_074.jpeg",
+    "prompt": "Hyper-realistic 8K portrait of the same 29-year-old, 5’10”, with reference face. Hairstyle: modern short-sides, longer textured top with natural volume. Wears glasses. Outfit: monochrome black layers – t-shirt, open button-up, cargo pants, sneakers. Pose: leaning casually in a doorway with one arm on the frame and one leg crossed. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Portrait",
+    "tags": ["All", "New", "Male", "Hyper-Realistic", "Casual", "Monochrome", "Modern", "Doorway", "Fashion"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_073",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_073.jpeg",
+    "prompt": "Cinematic hyper-realistic portrait (mid-close, half-body shot). Outfit: light linen shirt and relaxed pants. Scene: sitting in a small wooden boat floating peacefully on a calm lake. Pose: eyes closed, serene expression, relaxed. Lighting: soft natural sunlight reflecting on water, gentle ripples. Style: dreamy atmosphere, warm golden tones, ultra-detailed textures, photo-realistic lighting, 8K quality. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Portrait",
+    "tags": ["All", "New", "Male", "Cinematic", "Dreamy", "Nature", "Boat", "Serene", "Golden-Hour", "Realistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_072",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_072.jpeg",
+    "prompt": "A photorealistic, sun-drenched lifestyle photograph of a handsome athletic young man (same face as reference). Features: black hair, black beard, striking brown eyes, muscular build. Captured mid-action in a crystal-clear swimming pool, looking intensely at camera while running a hand through his hair. Dynamic splashes of water freeze mid-air, glistening under bright direct sunlight. Mood: candid, confident, luxurious summer moment. Style: editorial lifestyle, hyper-detailed, 8K resolution. Lighting: bright natural sunlight, glistening wet skin, sharp highlights. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Lifestyle",
+    "tags": ["All", "New", "Trending", "Male", "Photorealistic", "Summer", "Pool", "Athletic", "Water", "Editorial"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_071",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_071.jpeg",
+    "prompt": "A dreamy, ultra-realistic portrait of the same person (face unchanged). He lies gracefully beside white lilies, head resting gently on his arms, reflected perfectly on a glossy black surface. Soft cinematic lighting highlights glowing skin and sharp yet delicate facial features. Slightly wet strands of hair fall naturally across his forehead. Mood: ethereal, romantic, artistic, serene atmosphere. Style: professional studio photography, 8K resolution. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Portrait",
+    "tags": ["All", "New", "Male", "Dreamy", "Ultra-Realistic", "Studio", "Ethereal", "Artistic", "Reflective", "Romantic"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_070",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_070.jpeg",
+    "prompt": "Generate a 4K DSLR Photography of a man (same person in image, exactly same facial features). He stands relaxed against a metal shutter, centered. A vivid magenta circle casts a crisp shadow around his silhouette. Outfit: denim jacket, black tee, rolled-up sleeves, hands in pockets. Accessories: glasses framing a calm, dark expression. Lighting: dramatic side light that sculpts face and textures of jacket. Background: cool grey lines of shutter contrasting with bold colors. Style: cinematic urban vibe. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Portrait",
+    "tags": ["All", "New", "Male", "Cinematic", "Urban", "DSLR", "Dramatic-Lighting", "Fashion", "Street-Style"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_069",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_069.jpeg",
+    "prompt": "Create a stylish look: oversized brown linen shirt, grey cargo pants, white sneakers. Watch on left hand, slightly messy dark hair, sharp jawline. Pose: hands in pockets, direct gaze. Background: blurred trees (like DSLR portrait bokeh effect). (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Fashion",
+    "tags": ["All", "New", "Male", "Stylish", "Oversized", "Casual", "Bokeh", "Portrait", "DSLR"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_068",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_068.jpeg",
+    "prompt": "A highly realistic, cinematic photo of a stylish South Asian man sitting confidently on a chair outside a modern café. Outfit: fitted white shirt, black pants, white stylish sneakers. Accessories: white Apple Watch on wrist. He has wavy hair and wears clear sunglasses. He holds a Starbucks coffee cup in one hand while looking at an Apple MacBook laptop on the table in front of him in a relaxed X-pose. Background: café shop logo and some people. Replace the face and hairstyle with the exact face and hairstyle of the reference. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Lifestyle",
+    "tags": ["All", "New", "Male", "Cinematic", "Realistic", "Café", "Business", "Modern", "Fashion", "South-Asian"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_067",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_067.jpeg",
+    "prompt": "A close-up, high-resolution portrait of a stylish man with dark, curly hair and a beard, wearing a cream-colored sweater. He is lying down with his head slightly laid on his folded arms, looking directly at the viewer with a thoughtful expression. Several white lilies are artfully placed around his head and arms. The man and flowers are reflected clearly on a glossy, dark surface below. Background: soft, dark gray, creating a dramatic contrast. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Portrait",
+    "tags": ["All", "New", "Male", "Close-up", "Reflective", "Dramatic", "Artistic", "Floral", "High-Resolution"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_066",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_066.jpeg",
+    "prompt": "A hyper-realistic cinematic editorial portrait of the uploaded person (preserve face 100%). He stands tall in a dark white moody studio, surrounded by soft drifting black white smoke under a dramatic spotlight. Outfit: Fit white luxury suit with fit-leg trousers, paired with a slightly unbuttoned black silk shirt. Both hands tucked casually in pockets, shoulders relaxed, confident expression, straight tilted slightly upward. 8K resolution picture. (Optimized for TikTok/Reels mobile screen.)",
+    "category": "Portrait",
+    "tags": ["All", "New", "Trending", "Male", "Cinematic", "Editorial", "Studio", "Fashion", "Suit", "Moody"],
+    "popularity": 0,
+    "createdAt": "2025-10-01T11:56:02Z",
+    "isFeatured": false
+  }
+,
     {
   "id": "prompt_064",
   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_064.png",
