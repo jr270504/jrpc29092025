@@ -2,7 +2,7 @@
   "prompts": [
     {
       "id": "prompt_020",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_020.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_020.jpeg",
       "prompt": "Professional headshot of me (female), warm flattering lighting, blurred high-rise office window background with city skyline, suit or smart casual outfit.",
       "category": "Headshot",
       "tags": ["All", "Female", "Executive", "High-Rise", "City Skyline", "Warm Light", "Suit", "Corporate"],
@@ -12,7 +12,7 @@
     },
     {
       "id": "prompt_019",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_019.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_019.jpeg",
       "prompt": "Clean portrait of me (female), crisp white background, evenly lit with professional studio lighting, minimal shadows, simple and fresh LinkedIn-ready style.",
       "category": "Portrait",
       "tags": ["All", "Female", "LinkedIn", "Studio", "White Background", "Clean", "Minimalist", "Fresh"],
@@ -22,7 +22,7 @@
     },
     {
       "id": "prompt_018",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_018.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_018.jpeg",
       "prompt": "Headshot of me (female), cinematic natural light with subtle rim lighting, blurred office corridor in background, face sharp, expression calm and confident.",
       "category": "Headshot",
       "tags": ["All", "Female", "Cinematic", "Office", "Rim Lighting", "Confident", "High-Quality"],
@@ -32,7 +32,7 @@
     },
     {
       "id": "prompt_017",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_017.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_017.jpeg",
       "prompt": "Professional portrait of me (female), lit with balanced cool light, modern conference stage blurred in background, sharp focus on face, confident but approachable tone.",
       "category": "Portrait",
       "tags": ["All", "Female", "Professional", "Conference", "Stage", "Cool Light", "Confident", "Public Speaking"],
@@ -42,7 +42,7 @@
     },
     {
       "id": "prompt_016",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_016.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_016.jpeg",
       "prompt": "Fresh outdoor headshot of me (female), golden hour lighting, background of blurred greenery, natural flattering shadows, professional yet approachable look.",
       "category": "Headshot",
       "tags": ["All", "Female", "Outdoor", "Golden Hour", "Greenery", "Natural Light", "Approachable"],
@@ -52,7 +52,7 @@
     },
     {
       "id": "prompt_015",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_015.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_015.jpeg",
       "prompt": "Headshot of me (female), warm neutral lighting, business casual outfit, background with soft blurred brown and beige office tones, approachable and trustworthy expression.",
       "category": "Headshot",
       "tags": ["All", "Female", "Corporate", "Business Casual", "Warm Light", "Approachable", "Trustworthy"],
@@ -62,7 +62,7 @@
     },
     {
       "id": "prompt_014",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_014.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_014.jpeg",
       "prompt": "Professional photo of me (female), lit by large soft window light, background slightly blurred, airy and clean, smiling naturally.",
       "category": "Photo",
       "tags": ["All", "Female", "Professional", "Daylight", "Soft Light", "Airy", "Clean", "Smiling"],
@@ -72,7 +72,7 @@
     },
     {
       "id": "prompt_013",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_013.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_013.jpeg",
       "prompt": "Portrait of me (female), casual smart outfit, natural lighting, blurred coworking office background with laptops and plants, vibrant but professional tone.",
       "category": "Portrait",
       "tags": ["All", "Female", "Casual Smart", "Coworking", "Office", "Natural Light", "Vibrant"],
@@ -82,7 +82,7 @@
     },
     {
       "id": "prompt_012",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_012.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_012.jpeg",
       "prompt": "Clean headshot of me (female), studio lighting with balanced highlights, neutral gray backdrop, crisp professional look, eyes sharp in focus, natural retouching only.",
       "category": "Headshot",
       "tags": ["All", "Female", "LinkedIn", "Studio", "Clean", "Professional", "Minimalist", "Gray Backdrop"],
@@ -92,7 +92,7 @@
     },
     {
       "id": "prompt_011",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_011.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_011.jpeg",
       "prompt": "A professional headshot of me (female), natural skin tones, flattering daylight from a window, soft shadows, blurred modern office background with glass walls, head slightly tilted, friendly confident expression.",
       "category": "Headshot",
       "tags": ["All", "Trending", "Female", "Professional", "Office", "Daylight", "Corporate", "Confident"],
@@ -102,7 +102,7 @@
     },
     {
       "id": "prompt_010",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_010.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_010.jpeg",
       "prompt": "Professional headshot of a male, warm flattering lighting, blurred high-rise office window background with city skyline, suit or smart casual outfit.",
       "category": "Professional Headshot",
       "tags": ["All", "New", "Male", "Professional", "Headshot", "Executive", "City Skyline", "High-Rise", "Warm Lighting", "Suit", "Office"],
@@ -112,7 +112,7 @@
     },
     {
       "id": "prompt_009",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_009.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_009.jpeg",
       "prompt": "Clean portrait of a male, crisp white background, evenly lit with professional studio lighting, minimal shadows, simple and fresh LinkedIn-ready style.",
       "category": "Professional Headshot",
       "tags": ["All", "New", "Male", "Professional", "Portrait", "Studio", "White Background", "Minimalist", "Clean", "LinkedIn", "Fresh"],
@@ -122,7 +122,7 @@
     },
     {
       "id": "prompt_008",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_008.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_008.jpeg",
       "prompt": "Headshot of a male, cinematic natural light with subtle rim lighting, blurred office corridor in background, face sharp, expression calm and confident.",
       "category": "Professional Headshot",
       "tags": ["All", "New", "Male", "Professional", "Headshot", "Office", "Cinematic", "Rim Lighting", "Calm", "Confident", "Corridor"],
@@ -132,7 +132,7 @@
     },
     {
       "id": "prompt_007",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_007.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_007.jpeg",
       "prompt": "Professional portrait of a male, lit with balanced cool light, modern conference stage blurred in background, sharp focus on face, confident but approachable tone.",
       "category": "Professional Headshot",
       "tags": ["All", "New", "Male", "Professional", "Portrait", "Conference", "Stage", "Cool Light", "Modern", "Confident"],
@@ -142,7 +142,7 @@
     },
     {
       "id": "prompt_006",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_006.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_006.jpeg",
       "prompt": "Fresh outdoor headshot of a male, golden hour lighting, background of blurred greenery, natural flattering shadows, professional yet approachable look.",
       "category": "Professional Headshot",
       "tags": ["All", "New", "Male", "Professional", "Headshot", "Outdoor", "Greenery", "Golden Hour", "Natural Light", "Approachable"],
@@ -152,7 +152,7 @@
     },
     {
       "id": "prompt_005",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_005.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_005.jpeg",
       "prompt": "Headshot of a male, warm neutral lighting, business casual outfit, background with soft blurred brown and beige office tones, approachable and trustworthy expression.",
       "category": "Professional Headshot",
       "tags": ["All", "New", "Male", "Professional", "Headshot", "Office", "Warm", "Corporate", "Business Casual", "Brown Tones", "Trustworthy"],
@@ -162,7 +162,7 @@
     },
     {
       "id": "prompt_004",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_004.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_004.jpeg",
       "prompt": "Professional photo of a male, lit by large soft window light, background slightly blurred, airy and clean, smiling naturally.",
       "category": "Professional Headshot",
       "tags": ["All", "New", "Male", "Professional", "Photo", "Daylight", "Window Light", "Soft", "Airy", "Clean", "Smiling"],
@@ -172,7 +172,7 @@
     },
     {
       "id": "prompt_003",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_003.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_003.jpeg",
       "prompt": "Portrait of a male, casual smart outfit, natural lighting, blurred coworking office background with laptops and plants, vibrant but professional tone.",
       "category": "Professional Headshot",
       "tags": ["All", "New", "Male", "Professional", "Portrait", "Office", "Startup", "Coworking", "Casual Smart", "Vibrant", "Plants"],
@@ -182,7 +182,7 @@
     },
     {
       "id": "prompt_002",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_002.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_002.jpeg",
       "prompt": "Clean headshot of a male, studio lighting with balanced highlights, neutral gray backdrop, crisp professional look, eyes sharp in focus, natural retouching only.",
       "category": "Professional Headshot",
       "tags": ["All", "New", "Male", "Professional", "Headshot", "Studio", "Neutral", "Gray Backdrop", "LinkedIn", "Crisp"],
@@ -192,7 +192,7 @@
     },
     {
       "id": "prompt_001",
-      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_001.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_001.jpeg",
       "prompt": "A professional headshot of a male, natural skin tones, flattering daylight from a window, soft shadows, blurred modern office background with glass walls, head slightly tilted, friendly confident expression.",
       "category": "Professional Headshot",
       "tags": ["All", "New", "Male", "Professional", "Headshot", "Office", "Daylight", "Window Light", "Modern", "Friendly"],
