@@ -1,5 +1,65 @@
 {
   "prompts": [
+    {
+    "id": "prompt_084",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_084.png",
+    "prompt": "Hyper-realistic portrait of me lounging on a yacht at the beach, topless and wearing a dark green short. My hair is short forward fringe and messy top. He is leaning slightly back against the edge of the boat, gazing at the camera with a relaxed, alluring expression. Background: turquoise ocean water with gentle ripples, distant green hills, and a partly cloudy blue sky. Lighting is bright natural sunlight, casting soft highlights and reflections on the water. Apply cinematic soft filter with pastel aqua and teal tones, slightly desaturated blues and greens, smooth skin glow, and dreamy summer haze. Color grading: warm sunlight highlights with cool shadows.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Beach", "Summer", "Yacht", "Ocean", "Cinematic", "Topless", "Hyper-realistic", "Outdoor"],
+    "popularity": 0,
+    "createdAt": "2025-10-02T12:55:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_083",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_083.png",
+    "prompt": "A vertical portrait shot in 1080x1920 format. Characterized by stark cinematic lighting and intense contrast. Captured in a slightly low, upward-facing angle that dramatized the subject's jawline and neck, the composition evokes quite dominance and sculptural elegance. Make it a Calvin Klein-style shoot with a muted blue background, wearing baggy denim. The person should be topless.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Cinematic", "Fashion", "Calvin Klein", "Denim", "Topless", "Studio", "Dramatic", "Vertical"],
+    "popularity": 0,
+    "createdAt": "2025-10-02T12:55:05Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_082",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_082.png",
+    "prompt": "photorealistic Hong Kong retro portrait of a handsome young man, with an authentic 1990s film look. Half-body. The subject is leaning against a newspaper-covered wall, with a soft gaze and messy comma haircut. He is wearing a black t-shirt and blue sunglasses, with strands of hair falling across his face. He has very little glossy lips and dewy skin. The setting is a narrow Hong Kong room with walls plastered with old yellowed Cantonese newspapers. There is a tungsten bulb glow with a faint green spill. Shadows are heavy and highlights bloom. --ar 4:5 --s 250 --raw",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Retro", "90s", "Hong Kong", "Film Look", "Vintage", "Photorealistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-02T12:55:04Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_081",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_081.png",
+    "prompt": "Make a photoshoot closed-up of me in a studio against a plain, pure white backdrop. He is giving off an elegant and minimalist vibe. His hair is korea styled that accentuates his facial features. Natural looking on his face no make up look, focusing on defined eyes, neat brows. The man poses with his head propped up on a white table, gazing at the camera with a soft alluring expression and he's topless with muscular body no blush just a even, face side view. Make it high resolution.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Studio", "Minimalist", "White Backdrop", "Korean Style", "Elegant", "Topless", "Photoshoot"],
+    "popularity": 0,
+    "createdAt": "2025-10-02T12:55:03Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_080",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_080.png",
+    "prompt": "Black and white fine art portrait of a young man, short slightly messy hair some flowing on his face framing his delicate face, smooth fair skin, wearing a wet oversized long white polo. Pose: sitting with one hand resting gently under his chin, looking at the camera with a calm and thoughtful expression. Studio setting with plain grey backdrop, soft cinematic lighting, minimalistic composition. Ultra realistic, sharp facial details, natural textures, elegant and sophisticated style. Professional photography, 8k quality, high contrast monochrome aesthetic.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Black and White", "Monochrome", "Studio", "Cinematic", "Minimalist", "Fine Art", "Elegant", "Wet Look"],
+    "popularity": 0,
+    "createdAt": "2025-10-02T12:55:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_079",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_079.png",
+    "prompt": "A cinematic profile silhouette of a young man, looking down introspectively. The image is split with a dramatic chiaroscuro lighting effect: one side is in deep shadow, the other is brightly lit. The man's silhouette is digitally disintegrating and shattering into sharp, geometric shards and pixels where it meets the light. A subtle vertical glitch art effect with chromatic aberration runs along the edge of his form.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Cinematic", "Silhouette", "Chiaroscuro", "Abstract", "Glitch Art", "Digital Art", "Dramatic"],
+    "popularity": 0,
+    "createdAt": "2025-10-02T12:55:01Z",
+    "isFeatured": false
+  },
     
   {
     "id": "prompt_078",
