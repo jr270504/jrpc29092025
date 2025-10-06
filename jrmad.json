@@ -1,7 +1,105 @@
 {
   "prompts": [
-    
- 
+    {
+    "id": "prompt_109",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_109.jpeg",
+    "prompt": "A hyper-realistic 4K DSLR photograph of the uploaded person, with his exact facial structure fully preserved. A distinguished man reclines confidently on a wicker sofa in a stylish open garden-side patio. He wears a traditional Pakistani kurta pajama, exuding elegance and cultural sophistication. The scene is framed by lush greenery, with softly blurred flowering plants in the background creating depth and a serene upscale resort ambiance.",
+    "category": "Lifestyle",
+    "tags": ["All", "Trending", "New", "Male", "Hyper-realistic", "4K", "DSLR", "Pakistani", "Traditional", "Garden", "Resort", "Elegant"],
+    "popularity": 0,
+    "createdAt": "2024-05-18T12:30:09Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_108",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_108.jpeg",
+    "prompt": "Hyper-realistic cinematic lifestyle portrait of a stylish young Indian man lounging confidently on a modern hanging wicker chair. He is dressed in a trendy all-white-ord set with a casual T-shirt and open shirt, paired with colorful designer sneakers and a luxury wristwatch. His expression is cool and composed as he slightly leans back with a relaxed posture, wearing dark sunglasses that add charisma to his look. The setting is a minimal outdoor terrace with subtle decor, soft natural daylight, and a clean modern vibe. Captured in ultra-detailed 8K resolution with sharp textures, natural skin tones, realistic shadows, and a premium fashion editorial aesthetic",
+    "category": "Lifestyle",
+    "tags": ["All", "Trending", "New", "Male", "Hyper-realistic", "Cinematic", "Lifestyle", "Fashion", "Indian", "Outdoor", "8K"],
+    "popularity": 0,
+    "createdAt": "2024-05-18T12:30:08Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_107",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_107.jpeg",
+    "prompt": "Create an Ultra detailed, 8K photo realistic, vertical ratio 3:4 image of a man (use exact face given in above image) with the exact same face and hairstyle as the uploaded in the given image, including matching nose, eyes, cheeks, and eyebrows) wearing a blue suit with a white shirt that's unbuttoned at the top. He's sporting sunglasses with dark lenses. His hands are casually tucked into his suit pockets. The background is a dark gray color with a subtle gradient effect that adds depth to the image. The overall vibe should be stylish and confident.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Ultra-detailed", "8K", "Photorealistic", "Suit", "Sunglasses", "Stylish", "Confident"],
+    "popularity": 0,
+    "createdAt": "2024-05-18T12:30:07Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_106",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_106.jpeg",
+    "prompt": "Ultra-realistic cinematic portrait of a person standing on a rooftop during a golden sunset. He is wearing a dark olive green textured kurta with a subtle checkered pattern, the sleeves rolled up to his elbows, and crisp white slim-fit trousers. His hands are casually placed in the pockets, adding to his relaxed yet stylish posture. He has a sharp jawline, face with the face from the uploaded image, keeping the facial features exactly the same. Perfectly styled hair with natural volume and texture. Black sunglasses, adding mystery and attitude to his look. A black thread bracelet is visible on his right wrist. The rooftop is made of concrete with slight cracks, giving an authentic urban feel. The background shows blurred city buildings and rooftops under a soft, warm orange sky as the sun sets on the horizon. The lighting casts soft highlights and shadows, enhancing the texture of his clothing and facial features, while the atmosphere evokes calmness, strength, and modern elegance.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Cinematic", "Rooftop", "Sunset", "Fashion", "Urban", "Elegant"],
+    "popularity": 0,
+    "createdAt": "2024-05-18T12:30:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_105",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_105.jpeg",
+    "prompt": "Young man is sitting casually in an airport waiting area. He sits on a black waiting chair, with one leg crossed over the other. He is wearing a plain white T-shirt, a black jacket, black pants, and white sneakers. His clean white shoes and socks stand out in contrast to his dark outfit. On the floor to his left is a black backpack. On his right side, there is a medium-sized black suitcase with its handle extended, and he rests his left hand on top of the handle. The suitcase is decorated with several travel stickers, one of which features an airplane. In the background, the airport runway can be seen, featuring a large white commercial airplane, a jet bridge, and part of the terminal. The sky is bright and blue. The young man’s facial expression looks calm and confident as he gazes directly at the camera. The overall scene conveys a relaxed atmosphere, ready for a journey. Aspect ratio: 9:16.",
+    "category": "Travel",
+    "tags": ["All", "Trending", "New", "Male", "Airport", "Travel", "Casual", "Confident", "Journey", "Realistic"],
+    "popularity": 0,
+    "createdAt": "2024-05-18T12:30:05Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_104",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_104.jpeg",
+    "prompt": "Using the nano-banana model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is the brush modeling process of this figurine. Next to the computer screen is a BANDAI-style toy packaging box printed with the original artwork. The packaging features two-dimensional flat illustrations. Please turn this photo into a figure. Behind it, there should be a model packaging box with the character from this photo printed on it. In front of the box, on a round plastic base, place the figure version of the photo I gave you. I’d like the PVC material to be clearly represented. It would be even better if the background is indoors.",
+    "category": "Product",
+    "tags": ["All", "Trending", "New", "Male", "Figurine", "Realistic", "Product", "PVC", "Packaging", "Indoors"],
+    "popularity": 0,
+    "createdAt": "2024-05-18T12:30:04Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_103",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_103.jpeg",
+    "prompt": "Create a 1/7 scale commercialized figurine of (the character in the picture), realistic style, in a real environment. Figurine placed on a computer desk. Has a round transparent acrylic base. Next to the desk is the real person in the picture, in the real life size with the same attire as in the picture and the figurine, cleaning the figurine carefully with a fine brush. In a modern styled studio room, brightly lit. With some collection of toys and action figures in the background.",
+    "category": "Product",
+    "tags": ["All", "Trending", "New", "Male", "Figurine", "Realistic", "Studio", "Collectibles", "Product Shot"],
+    "popularity": 0,
+    "createdAt": "2024-05-18T12:30:03Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_102",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_102.jpeg",
+    "prompt": "Cinematic automotive photoshoot of me, keeping my real face unchanged. The scene is composed of three perspectives: 1. interior close-up (mirror reflection): tight portrait of my face.",
+    "category": "Automotive",
+    "tags": ["All", "Trending", "New", "Male", "Cinematic", "Automotive", "Close-up", "Portrait", "Mirror Reflection"],
+    "popularity": 0,
+    "createdAt": "2024-05-18T12:30:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_101",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_101.jpeg",
+    "prompt": "An 8K ultra-realistic image of a man leaning against a sleek Jaguar car, with his arms folded. He is wearing a perfectly tailored pant shirt, exuding confidence. The lighting is impeccable, highlighting the car’s curves and the man’s attire. The background is minimalistic, focusing on the subject and the luxury of the moment.",
+    "category": "Automotive",
+    "tags": ["All", "Trending", "New", "Male", "Ultra-realistic", "8K", "Luxury", "Car", "Fashion", "Confident"],
+    "popularity": 0,
+    "createdAt": "2024-05-18T12:30:01Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_100",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_100.jpeg",
+    "prompt": "Keep the facial and body features from my provided photo the same. Make the background predominantly black and red, slightly bright but simple. A soft light should fall from the front so that the face looks clear and radiant. I will be wearing a white T-shirt with a black jacket over it. The pose should be confident, with one hand resting against my head and a slightly smiling gaze. I will be sitting in a confident posture, leaning a bit on a beige velvet sofa. My hair should remain exactly as it is. Style: Modern portrait photography, high resolution.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Modern", "Portrait", "High Resolution", "Confident"],
+    "popularity": 0,
+    "createdAt": "2024-05-18T12:30:00Z",
+    "isFeatured": false
+  }, 
   {
     "id": "prompt_099",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_099.jpeg",
