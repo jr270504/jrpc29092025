@@ -1,5 +1,116 @@
 {
   "prompts": [
+    {
+  "id": "prompt_120",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_120.jpeg",
+  "prompt": "A Pakistani man, original face (no edits). He is wearing a brown shalwar kameez, black classic shoes, and black sunglasses. The man is standing on the rooftop of a traditional house, feeding pigeons with one hand. The pigeons are black and white in color, gathered around him as he scatters grain. Natural daylight, realistic details, rooftop setting visible in the background. Incorporate the name 'prompt Craft' in a sophisticated, unobtrusive font, subtly integrated into the upper right corner of the frame.",
+  "category": "Scene",
+  "tags": ["All", "Male", "Pakistani", "Realistic", "Rooftop", "Traditional", "Shalwar Kameez", "Daylight", "Pigeons", "Signature"],
+  "popularity": 0,
+  "createdAt": "2025-10-07T12:55:14Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_119",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_119.jpeg",
+  "prompt": "realistic photo of me walking slowly in the courtyard of Masjid al-Nabawi after light rain, ground reflecting the mosque lights, wearing a grey kurta and white shawl, holding a tasbeeh in my hand, my original face clear and natural, keep my face 100% same as in the reference image.",
+  "category": "Religious",
+  "tags": ["All", "Male", "Realistic", "Masjid al-Nabawi", "Madinah", "Islamic", "Pilgrimage", "Rainy", "Kurta"],
+  "popularity": 0,
+  "createdAt": "2025-10-07T12:55:14Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_118",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_118.jpeg",
+  "prompt": "realistic photo of me walking slowly in the courtyard of Khana Qaba after light rain, ground reflecting the mosque lights, wearing a grey kurta and white shawl on my shoulder, holding a tasbeeh in my hand, my original face clear and natural, keep my face 100% same as in the reference image.",
+  "category": "Religious",
+  "tags": ["All", "Male", "Realistic", "Khana Qaba", "Makkah", "Islamic", "Pilgrimage", "Rainy", "Kurta"],
+  "popularity": 0,
+  "createdAt": "2025-10-07T12:55:14Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_117",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_117.jpeg",
+  "prompt": "A full-body vertical portrait of a stylish young man with a sharply groomed beard and jet black, styled hair. He wears a tailored, all-black suit (three-piece preferred), patent leather dress shoes, minimalist black sunglasses, and a luxury stainless steel watch adorns his wrist. He holds a pristine white disposable coffee cup in his right hand. The subject is powerfully centered in a hyper-modern, high-rise elevator, with his left hand casually placed in his pocket. The elevator walls are made of highly-reflective, dark brushed stainless steel, creating dynamic reflections. The scene is illuminated by harsh, bright LED strip lighting directly overhead, emphasizing dramatic, hard shadows and a cool, steely atmosphere. Ultra-realistic photo, 8K resolution, hyper-detailed texture, cinematic composition, high-contrast lighting, cool color grading, sharp focus on the face and suit with a shallow depth of field blurring the immediate background.",
+  "category": "Fashion",
+  "tags": ["All", "Male", "Ultra-Realistic", "8K", "Cinematic", "High-Contrast", "Suit", "Monochrome", "Modern"],
+  "popularity": 0,
+  "createdAt": "2025-10-07T12:55:14Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_116",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_116.jpeg",
+  "prompt": "Full-body, ultra-detailed, 16K hyper-photorealistic portrait of a 26-year-old stylish Pakistani man with an average height (5'6\"). CRITICAL INSTRUCTION: The face must be 100% identical to the reference image provided. DO NOT make any changes to the facial features, expression, or bone structure. Cinematic quality, professional photography, and hyper-realistic skin texture. Description: The subject has a medium-toned complexion, a meticulously well-groomed beard and neat hair, exuding calm, effortless confidence, and a contemporary style. He is leaning casually and confidently with one shoulder against a vividly textured matte black wall on a modern outdoor staircase. Outfit: A relaxed-fit shirt with a subtle mauve and white striped design, worn casually with the top few buttons undone and the sleeves rolled up to the forearms. Accessories: Sleek dark-tinted modern sunglasses. Lighting/Aesthetics: Soft, dramatic Golden Hour lighting with subtle rim lighting. Shot with a high-end prime lens (85mm...",
+  "category": "Portrait",
+  "tags": ["All", "Male", "Pakistani", "Hyper-Realistic", "Golden Hour", "Cinematic", "16K", "Full-Body", "Modern"],
+  "popularity": 0,
+  "createdAt": "2025-10-07T12:55:14Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_115",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_115.jpeg",
+  "prompt": "Masterpiece, Ultra-realistic Cinematic Portrait, 8K Super Resolution, 4:5 Aspect Ratio, Hyper-detailed, High Dynamic Range (HDR), Clean Aesthetic. The subject's age is 26 and height is 5'6\". Colors must be Natural, realistic, and subtly desaturated with true-to-life tones. The overall pose should be aesthetic and relaxed. 100% BACKGROUND IS CRITICAL (USE THE UPLOADED FACE, DO NOT ALTER), SIGNATURE MANDATE. Add a subtle signature in an attractive, high-quality font in the bottom corner. Spelling MUST be exactly \"Sham\", a stylish man with a messy textured hairstyle and natural flow. Wearing a green and white striped shirt and pastel beige trousers. Background: soft mint green wall with sophisticated, smooth shadow play, ambient lighting, vibrant but soothing mood. Modern, premium, minimalist studio setup.",
+  "category": "Portrait",
+  "tags": ["All", "Male", "Ultra-Realistic", "Cinematic", "Studio", "Minimalist", "8K", "HDR", "Fashion", "Signature"],
+  "popularity": 0,
+  "createdAt": "2025-10-07T12:55:14Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_114",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_114.jpeg",
+  "prompt": "Golden hour cinematic full-body vertical shot of a 20-year-old young handsome man with a slim-fit body, sitting cross-legged on a rocky boulder near the shoreline, leaning slightly forward with both hands resting on his knees as he stares thoughtfully at the ocean waves. The camera is positioned at eye-level from the front, capturing both his reflective emotions and the water behind him. He is wearing a V-neck color-block oversized sweater over a light yellow shirt, baggy distressed jeans, and Converse sneakers. Natural golden-hour lighting, cinematic bokeh, waves gently crashing, warm atmospheric color grading with seagulls flying in the background. Face ratio to remain 100% identical to the uploaded photo.",
+  "category": "Scene",
+  "tags": ["All", "Male", "Golden Hour", "Cinematic", "Full-Body", "Ocean", "Nature", "Emotional", "Atmospheric"],
+  "popularity": 0,
+  "createdAt": "2025-10-07T12:55:14Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_113",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_113.jpeg",
+  "prompt": "\"A vibrant, ultra-realistic half-body portrait of a handsome man. CRITICAL: Use the user-provided reference image for a 100% face and likeness match. The subject has stylishly messy, light brown hair. He is casually leaning against a sleek, modern black metal railing in an outdoor setting (city balcony or stylish café terrace). He wears a striking orange and beige horizontally striped button-down shirt, unbuttoned at the top to reveal the neckline and a hint of the chest, and tailored black trousers. Accessories include matching branded sunglasses. He holds a steaming hot coffee cup in his right hand. His left wrist is adorned with a few bracelets and a substantial silver kada. Aesthetic: High-detail, cinematic lighting, vibrant realism, casually sophisticated style. Focus: sharp focus on the man, with a slight depth-of-field effect (bokeh) in the background.\"",
+  "category": "Portrait",
+  "tags": ["All", "Male", "Ultra-Realistic", "Half-Body", "Cinematic", "Modern", "Sophisticated", "Outdoor", "Vibrant"],
+  "popularity": 0,
+  "createdAt": "2025-10-07T12:55:14Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_112",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_112.jpeg",
+  "prompt": "19 year-old handsome man in front of Starbucks, wearing pastel white shirt, dark brown linen baggy pants, white sneakers, silver watch. Holding Starbucks cold drink in right hand, left hand in pocket, relaxed pose leaning on railing. Golden hour sunlight, cinematic lighting, shallow depth of field, soft bokeh. Ultra-realistic, face identical to reference.",
+  "category": "Portrait",
+  "tags": ["All", "Male", "Ultra-Realistic", "Golden Hour", "Cinematic", "Street Style", "Outdoor", "Casual", "Starbucks"],
+  "popularity": 0,
+  "createdAt": "2025-10-07T12:55:14Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_111",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_111.jpeg",
+  "prompt": "Face must remain 100% identical to the uploaded reference image, with no changes to features or identity. Create a full-body ultra-realistic fashion photograph of the subject. He has a clean military-style haircut with short, wavy, curly hair. He is leaning casually on a black metal railing, looking directly at the camera with a charismatic, slightly rebellious face. He wears high-waisted, wide-leg navy blue pants and a slightly oversized, striped half-sleeved shirt in forest green and cream, tucked in, with a few buttons undone. A sleek silver watch and a subtle gold chain necklace with an elongated pendant elements complete the outfit. The background is a warm, teakwood deck with subtle green to one side, deep with natural sunlight, casting gentle highlights and shadows, enhancing the vibrant colors and clean lines. Shot on a Canon EOS R5, 85mm f/1.4 lens, shallow depth of field with smooth bokeh, cinematic color grading, and professional editorial lighting for a polished fashion photography look.",
+  "category": "Fashion",
+  "tags": ["All", "Male", "Ultra-Realistic", "Fashion", "Full-Body", "Editorial", "Cinematic", "Outdoor", "Modern"],
+  "popularity": 0,
+  "createdAt": "2025-10-07T12:55:14Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_110",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_110.jpeg",
+  "prompt": "Create a high-fashion outdoor portrait of me using the exact same face from the reference image, no changes or alterations. I wear a tailored off-white Shalwar Kameez with a light brown waistcoat, subtle embroidery on edges, and polished cufflinks with a natural gleam. Fabric and waistcoat show gentle, lifelike motion. I fly standing pose is elegant and dynamic adjusting cufflinks with one hand, the other relaxed by my side, slight torso twist, subtle weight shift on one leg, shoulders relaxed, gaze to the side. Outdoor setup: soft natural sunlight with realistic shadows, upscale garden, terrace, or urban backdrop, subtle depth-of-field to keep focus on me. Skin, hair, fabric and accessories are ultra-detailed, producing a high-fashion editorial portrait with cinematic realism, natural motion, and perfectly realistic lighting.",
+  "category": "Fashion",
+  "tags": ["All", "Male", "Pakistani", "High-Fashion", "Editorial", "Outdoor", "Cinematic", "Shalwar Kameez", "Waistcoat"],
+  "popularity": 0,
+  "createdAt": "2025-10-07T12:55:14Z",
+  "isFeatured": false
+}
+    ,
    {
     "id": "prompt_109",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_109.jpeg",
