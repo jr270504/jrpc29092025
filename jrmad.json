@@ -1,6 +1,86 @@
 {
   "prompts": [
     {
+    "id": "prompt_128",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_128.jpeg",
+    "prompt": "A cinematic portrait of a stylish young man dressed in a sleek all-black suit, standing confidently in a vast, snow-covered landscape with his hand resting on a majestic black wolf. The wolf has striking amber eyes and stands calmly beside him. The background is a serene winter scene with snow-laden pine trees and distant, misty mountains, creating a powerful and moody atmosphere. High-resolution photography.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Cinematic", "Winter", "Wolf", "Suit", "Snow", "Mountains", "High-Resolution", "Moody"],
+    "popularity": 0,
+    "createdAt": "2025-10-08T16:12:59Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_127",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_127.jpeg",
+    "prompt": "A hyper-realistic cinematic 9:16 portrait based on the uploaded image, keeping the same face and hairstyle of stylish young man standing: outdoors in front of metallic fence background, urban street style. He is wearing a dark black shirt with sleeves rolled up, paired with dark trousers. He has a modern voluminous hairstyle, sharp jawline, and is wearing large square sunglasses. On his wrist is a smart watch. His pose is confident and casual, with one hand resting down and the other relaxed by his side, slightly leaning. Cinematic portrait photography, ultra realistic details, shallow depth of field, DSLR 85mm lens, muted tones with soft lighting, fashion, photoshoot style, 8k resolution same face",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Hyperrealistic", "Cinematic", "Urban", "Street Style", "Fashion", "8K", "DSLR", "Confident"],
+    "popularity": 0,
+    "createdAt": "2025-10-08T16:12:59Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_126",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_126.jpeg",
+    "prompt": "Ultra realistic candid photo of a (as in reference), standing in a crowded place with people holding cameras and taking photos. The background is filled with fans and a little chaos of crowd, giving a true celebrity vibe. The photo should look like a real-life captured moment, with natural lighting, sharp details wathentic atmosphere.",
+    "category": "Candid",
+    "tags": ["All", "Trending", "New", "Male", "Female", "Celebrity", "Candid", "Realistic", "Crowd", "Fans", "Authentic", "Natural Light"],
+    "popularity": 0,
+    "createdAt": "2025-10-08T16:12:59Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_125",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_125.jpeg",
+    "prompt": "Take the reference image of the boy, edit it into a pakistani wedding scene. he black tradinonal kurta in yellow holding gift the background should have an aesthetic retro vibe- grainy vintage film effect,decorative festival wedding vibes with lights glowing, and aesthetic with warm golden sunlight casting highlights. the background should be of a chhath ghat full of some people capture the joyful, nostalgic, and cinematic mood of wedding night",
+    "category": "Wedding",
+    "tags": ["All", "Trending", "New", "Male", "Wedding", "Pakistani", "Retro", "Vintage", "Film Effect", "Festival", "Chhath Ghat", "Nostalgic", "Cinematic"],
+    "popularity": 0,
+    "createdAt": "2025-10-08T16:12:59Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_124",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_124.jpeg",
+    "prompt": "A young man lying in a hospital bed, wearing a green hospital gown, connected to IV drips and monitors, with medical equipment around the bed. His eyes are closed, looking weak as if he is resting after treatment. Realistic, clear face, no face change, ultra-realistic, HP, 4K hospital environment",
+    "category": "Medical",
+    "tags": ["All", "New", "Male", "Hospital", "Realistic", "4K", "Medical", "Sick", "Resting"],
+    "popularity": 0,
+    "createdAt": "2025-10-08T16:12:59Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_123",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_123.jpeg",
+    "prompt": "A young man with a neatly trimmed beard and mustache, wearing a patterned collared shirt and beige pants, sits casually on a metal bridge structure. He has sunglasses in his right hand and a watch on his left wrist. The background features a blurry cityscape under a clear sky. The lighting is bright and natural, suggesting an outdoor daytime setting. The overall mood is relaxed",
+    "category": "Portrait",
+    "tags": ["All", "New", "Male", "Casual", "Outdoor", "Cityscape", "Daylight", "Relaxed", "Fashion"],
+    "popularity": 0,
+    "createdAt": "2025-10-08T16:12:59Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_122",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_122.jpeg",
+    "prompt": "creating a hyper-realistic, cinematic portrait in the style of magical realism. The image should feature a young man in a dimly lit, modern room, gazing at an outstretched hand from which a spiritual eagle made of golden light and smoke is emerging. The eagle serves as the main light source, creating a warm, dramatic glow on the man's face and arm. The portrait should be hyper-realistic and cinematic. The style is magical realism. A spiritual eagle of golden light and smoke emerges from the man's hand. The eagle is the primary light source, creating high-contrast lighting.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Hyperrealistic", "Cinematic", "Magical Realism", "Eagle", "Light", "Smoke", "Fantasy"],
+    "popularity": 0,
+    "createdAt": "2025-10-08T16:12:59Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_121",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_121.jpeg",
+    "prompt": "Photorealistic full-body underwater photos of a Subject [person in the photo] in the same dark and loose clothing, hovering beneath a whitish four-panel door floating horizontally just below the rippling water surface; the door is horizontally centered in the upper third with the bottom side visible, four legible embedded rectangles, and a small dark knob near the lower middle edge, silver foam and reflections gathered just above it. The subject occupies the middle-lower third with the body completely horizontal - the spine parallel to the bottom edge of the image - head to the left of the camera and feet to the right, arms relaxed with open palms, knees loosely bent, a flow of fine bubbles rising diagonally toward the door, and the face oriented upward toward the surface/ door (chin slightly raised, gaze upward). The water forms a dark gradient from cobalt to blue - brightest near the surface and nearly black at the bottom - leaving a considerable amount of negative space around the subject. Camera at medium depth, subject level, full-frame mirrorless digital camera in an underwater housing, wide-angle 24-28 mm, f / 4, 1 / 250 s, ISO 400, daylight white balance, no filtering. Lit only by sunlight from above with soft volumetric rays and sharp highlights on the lower part of the door, minimal backscatter, crisp detail in the bubbles, clean edges, fine outlines; cinematic bluish-teal levels with neutral whites. No fish, no particles, no text, no additional elements.",
+    "category": "Underwater",
+    "tags": ["All", "Underwater", "Photorealistic", "Cinematic", "Person", "Water", "Door", "Bubbles", "Realistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-08T16:12:59Z",
+    "isFeatured": false
+  },
+    {
   "id": "prompt_120",
   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_120.jpeg",
   "prompt": "A Pakistani man, original face (no edits). He is wearing a brown shalwar kameez, black classic shoes, and black sunglasses. The man is standing on the rooftop of a traditional house, feeding pigeons with one hand. The pigeons are black and white in color, gathered around him as he scatters grain. Natural daylight, realistic details, rooftop setting visible in the background. Incorporate the name 'prompt Craft' in a sophisticated, unobtrusive font, subtly integrated into the upper right corner of the frame.",
