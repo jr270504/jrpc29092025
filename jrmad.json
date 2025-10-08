@@ -1,5 +1,15 @@
 {
   "prompts": [
+     {
+    "id": "prompt_129",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_129.jpeg",
+    "prompt": "Cinematic automotive photoshoot of me, keeping my real face unchanged. The scene is composed of three perspectives: 1. interior close-up (mirror reflection): tight portrait of my face.",
+    "category": "Automotive",
+    "tags": ["All", "New", "Male", "Female", "Cinematic", "Automotive", "Photoshoot", "Interior", "Portrait", "Reflection", "Car"],
+    "popularity": 0,
+    "createdAt": "2025-10-08T16:15:30Z",
+    "isFeatured": false
+  },
     {
     "id": "prompt_128",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_128.jpeg",
