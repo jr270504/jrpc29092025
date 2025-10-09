@@ -2,8 +2,7 @@
   "paths": [
     "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_2.json",
     "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_1.json",
-    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad.json",
-    ""
+    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad.json"
   ],
   "values": {
     "dailyFreeCopies": 1,
