@@ -1,0 +1,20 @@
+{
+  "paths": [
+    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_2.json",
+    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_1.json",
+    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad.json",
+    ""
+  ],
+  "values": {
+    "dailyFreeCopies": 3,
+    "adRewardCredits": 3,
+    "adCooldownSeconds": 120,
+    "maxRewardedAdsPerSession": 5,
+    "maxInterstitialPerSession": 2,
+    "interstitialCooldownSeconds": 180,
+    "maxRewardedInterstitialPerSession": 2,
+    "riCooldownSeconds": 180,
+    "unlimitedCopyDurationSeconds": 900,
+    "removeBannerDurationSeconds": 3600
+  }
+}
