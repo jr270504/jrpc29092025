@@ -7,12 +7,12 @@
   "values": {
     "dailyFreeCopies": 1,
     "adRewardCredits": 2,
-    "adCooldownSeconds": 120,
+    "adCooldownSeconds": 80,
     "maxRewardedAdsPerSession": 5,
-    "maxInterstitialPerSession": 2,
-    "interstitialCooldownSeconds": 180,
-    "maxRewardedInterstitialPerSession": 2,
-    "riCooldownSeconds": 180,
+    "maxInterstitialPerSession": 5,
+    "interstitialCooldownSeconds": 120,
+    "maxRewardedInterstitialPerSession": 5,
+    "riCooldownSeconds": 120,
     "unlimitedCopyDurationSeconds": 300,
     "removeBannerDurationSeconds": 3600
   }
