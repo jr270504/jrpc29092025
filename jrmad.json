@@ -1,5 +1,15 @@
 {
   "prompts": [
+       {
+  "id": "prompt_050",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_050a.jpeg",
+  "prompt": "CompositionalPortrait, dreamy floral gaze, golden hour, cinematic close-up of a young woman (same as in image i uploaded), filtered sunlight through wildflowers casting intricate shadows on skin, soft film grain, muted violet palette, 85 mm lens, f/1.4, sharp skin texture, subtle freckles, glossy lips, delicate bokeh, zero over-processing -ar 3:4 -v 6 -style raw -no text, watermark, distortion.",
+  "category": "Close-up Portrait",
+  "tags": ["All", "Female", "Cinematic", "Floral", "Golden Hour", "Film Grain", "Bokeh", "Raw Style", "Portrait", "Trending"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
 
 {
   "id": "prompt_049",
