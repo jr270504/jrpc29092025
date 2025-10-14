@@ -1,6 +1,176 @@
 {
   "prompts": [
-    
+    {
+      "id": "prompt_146",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_146.jpeg",
+      "prompt": "model's hair is styled in soft curls, and his body posture is relaxed yet bold. The lighting highlights his muscular build and facial structure. Photographed with a Hasselblad X2D 100C for ultra-detailed DSLR quality. Full-length portrait, studio fashion shoot aesthetic, 4:5 aspect ratio, ultra-sharp focus, magazine-style realism.",
+      "category": "Fashion",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Portrait",
+        "Fashion",
+        "Studio",
+        "Ultra-detailed",
+        "Magazine Style",
+        "Muscular"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_145",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_145.jpeg",
+      "prompt": "Keep same face features and body figure as in the uploaded photo. A medium shot of a young man (same as in the uploaded photo) leaning against a light gray paneled wall. He is wearing an oversized dark blue to light gray ombre short-sleeved collared button-up shirt, black cargo pants, white sneakers and black sunglasses. His hands are in his pockets, and he has a watch on his left wrist. The lighting is even, and the background is simple and uncluttered. Hyper realistic, 8k resolution.",
+      "category": "Fashion",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Medium Shot",
+        "Fashion",
+        "Hyper Realistic",
+        "Street Style",
+        "8K"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_144",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_144.jpeg",
+      "prompt": "Editorial 3x3 photo grid against a lined notebook paper backdrop, split vertically: left half realistic photo, right half detailed black-and-white manga/comic sketch. Photo of character as attached image matches 100%, wearing a light blue hoodie and holding a black pen. The real side blends smoothly into the drawn side, creating a half-human half-doodle art effect with seamless transition across the split. Lighting is soft, natural, studio-like for clean skin tones and gentle shadows. Shots to include: (1) close frontal at center, vertical split through face; left side photoreal, right side manga sketch with doodle halo of stars, hearts, smiley faces, and tiny cartoon figures (85mm, f/2.0); (2) 3/4 body with pen lifted near split edge, ink strokes crossing into the sketch side mid-air (50mm, f/2.8); (3) extreme close-up of eye at the split, iris on photo side and screentone/shaded eye on sketch side (85mm, f/1.8); (4) tight crop on hand holding black pen, pen tip drawing the boundary line between real and sketch (85mm, f/2.2); (5) full-body centered, notebook lines curving subtly toward the sketch half, hoodie texture on photo side, crosshatching on sketch side (35mm, f/5.0); (6) profile view with split through nose bridge, sketch side featuring handwritten Korean words and playful decorations floating (85mm, f/2.0); (7) medium shot with floating doodles orbiting the head on the sketch side while sticky-note style frames overlap into the real side (50mm, f/3.2); (8) tight crop of hoodie fabric transitioning from knit texture to manga screentone pattern at the seam (85mm, f/2.0); (9) medium close with hand extending from real side into sketch side, leaving a trail of drawn sparkles and mini emoticons (50mm, f/2.5). Angles: Mostly eye-level with a few slight low angles for dynamism; maintain clean geometry to emphasize the vertical split. Capture in RAW, professional color grade with soft neutrals and gentle blues; sketch side pure monochrome with crisp linework and halftone textures. Mood: creative, modern, aesthetic sketchbook portrait. Style keywords: mixed media, half drawing half real, sketchbook art, aesthetic doodle, creative portrait. Important: Character and product remain visually identical in every shot. Resolution locked to 1080×1920, vertical 9:16 ratio. Camera: RAW capture, strictly 1080×1920, vertical image (9:16) ratio.",
+      "category": "Editorial",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Female",
+        "Editorial",
+        "Photo Grid",
+        "Mixed Media",
+        "Manga",
+        "Hyper-realistic",
+        "Creative"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_143",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_143.jpeg",
+      "prompt": "A young (Photo of character as attached image matches 100%) wearing a light blue hoodie, holding a black pen, standing against a lined notebook paper background. The image is split vertically in half: the left side is a realistic photo, the right side is a detailed black-and-white sketch drawing in manga/comic style. The sketched side includes doodles like stars, hearts, smiley faces, and small cartoon figures around the head. The sketch also has handwritten Korean words and playful decorations. The real side blends smoothly into the drawn side, creating a half-human half-doodle art effect. Clean, aesthetic, creative, modern illustration style.”: •Style keywords: “mixed media, half drawing half real, sketchbook art, aesthetic doodle, creative portrait” •Lighting: soft, natural, studio-like",
+      "category": "Artistic",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Female",
+        "Mixed Media",
+        "Half Drawing",
+        "Manga",
+        "Sketchbook",
+        "Aesthetic",
+        "Creative Portrait"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_142",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_142.jpeg",
+      "prompt": "Night portrait, cinematic, photorealistic, an individual (same face as reference), relaxed and contemplative on a worn yellow park bench with white concrete supports. Wears outfit from reference, leaning left elbow on bench, gazing right. Dark background, blurred dense foliage right, soft distant white lights creating rim light. Soft, directional front-left light casts subtle jawline shadows, highlights outfit texture. Yellow bench reflects dark sky/lights. Dark, indistinct ground. Ultra-realistic, high-resolution, dark moody aesthetic, lens correction, shallow depth of field, volumetric lighting.",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Female",
+        "Night",
+        "Cinematic",
+        "Moody",
+        "Photorealistic",
+        "Contemplative",
+        "Shallow Depth of Field"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_141",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_141.jpeg",
+      "prompt": "Add Me in the given image scene, i have added my selfie, kewp 100% facial accuracy. Pose me and dress me according to scene, no not alter facial features. I am facing opposite to light with my body but turned backwards to look towards sunlight, in such a way, that My front side (not back) of body is visible as if I was sitting on a chair, facing my back towards sun but I turned my body, with one hand placed on chair's back, supporting my elbow, to pose ...and then gazing the sun, which casts orange sunshine on my face, and makes me basking in the sun, i am wearing beige knitware sweater and the shot skin texture, hairs and details are super crisp. The image is Close-up shot, side face, and slightly at an angle. The harsh sunlight creates an interplay of light parts in sunshine, highlighted partswith yellow orange hue, and dark parts with brown and blue hues. It looks very ethereal, dreamy, nostalgic at 10x Optical Zoom of a 50-250mm Prime lens used with a mirrorless camera. There is slight prism like reflections casted on back wall due to glass refraction. There is very Subtle calm yet confident and bold look on face. The Photo has slight Glass filter effect with some light patches (very subtle with soft edges) and Grains, to create a Hyper-realistic yet retro-futuristic look.",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "New",
+        "Male",
+        "Female",
+        "Close-up",
+        "Sunlight",
+        "Basking",
+        "Ethereal",
+        "Dreamy",
+        "Retro-Futuristic",
+        "Hyper-realistic"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_140",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_140.jpeg",
+      "prompt": "Ultra realistic, hyper-detailed, 8K mirror selfie of a young south indian slimfot man (as in photo all features same) standing shirtless in a modern gym. He is holding down a orange iphone 17pro max in his left hand, taking the photo, while flexing his right arm upward in a strong bicep pose. His body is lean and muscular with well-defined six-pack abs and visible chest definition.",
+      "category": "Fitness",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Selfie",
+        "Gym",
+        "Fitness",
+        "Ultra Realistic",
+        "Muscular",
+        "8K"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_139",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_139.jpeg",
+      "prompt": "A cozy birthday celebration setup for refrence 1/2 body potrait person with elegant black and white decorations. The background features clusters of white balloons with black bows and a big black bow centerpiece. On the wall, stylish black letters spell out 'happy birthday'. A small round table in the foreground has a black birthday cake on a glass stand, lit candles with black ribbon details, and a couple of small flower vases. Soft warm lighting creates a dreamy, intimate atmosphere.",
+      "category": "Celebration",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Portrait",
+        "Black and White",
+        "Birthday",
+        "Elegant",
+        "Cozy",
+        "Intimate"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    }
+    ,
   {
     "id": "prompt_138",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_138.jpeg",
