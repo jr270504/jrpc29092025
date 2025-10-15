@@ -6,13 +6,13 @@
   ],
   "values": {
     "dailyFreeCopies": 0,
-    "adRewardCredits": 2,
-    "adCooldownSeconds": 80,
-    "maxRewardedAdsPerSession": 10,
-    "maxInterstitialPerSession": 5,
-    "interstitialCooldownSeconds": 120,
-    "maxRewardedInterstitialPerSession": 10,
-    "riCooldownSeconds": 120,
+    "adRewardCredits": 1,
+    "adCooldownSeconds": 20,
+    "maxRewardedAdsPerSession": 100,
+    "maxInterstitialPerSession": 100,
+    "interstitialCooldownSeconds": 30,
+    "maxRewardedInterstitialPerSession": 100,
+    "riCooldownSeconds": 30,
     "unlimitedCopyDurationSeconds": 300,
     "removeBannerDurationSeconds": 3600
   }
