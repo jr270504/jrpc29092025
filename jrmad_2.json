@@ -1,6 +1,481 @@
 {
   "prompts": [
      {
+    "id": "prompt_167",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_167.jpeg",
+    "prompt": "CINEMATIC PORTRAIT OF [YOUR UPLOADED PHOTO SUBJECT] SITTING ON A WOODEN CHAIR BY A BEACH CAMPFIRE AT NIGHT. SOFT MOONLIGHT SHINING OVER THE OCEAN WAVES AND DISTANT MOUNTAINS IN THE BACKGROUND. A VINTAGE VAN IS PARKED NEARBY. SUBJECT IS BAREFOOT, WEARING A COLORFUL HAWAIIAN FLORAL SHIRT WITH PLAID SHORTS, HOLDING A DRINK CAN IN HAND. A GOLDEN RETRIEVER SITS BY HIS SIDE ON THE SAND. WARM FIRELIGHT MIXES WITH COOL MOONLIGHT, CREATING DRAMATIC CONTRAST AND CINEMATIC ATMOSPHERE. ULTRA-REALISTIC, HIGH RESOLUTION, PROFESSIONAL PHOTOGRAPHY STYLE WITH SHALLOW DEPTH OF FIELD.",
+    "category": "Portrait",
+    "tags": ["Male", "Cinematic", "Beach", "Campfire", "Night", "Hawaiian Shirt", "Golden Retriever", "Ultra-realistic", "Dramatic Contrast"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_166",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_166.jpeg",
+    "prompt": "Side profile portrait of the person from the input photo, facing right, eyes closed, calm expression, on a pure black background. Plain hoodie with the hood up and Apple silver over-ear headphones. Lighting: Dual Neon - Cyan/Turquoise key light from the front right and vivid red rim light from the opposite side; high contrast, pronounced rim glow, glossy reflections on the headphones, soft cinematic bloom. Photorealistic, subtle beauty retouch, shallow depth of field (F/2), minimal, no other elements.",
+    "category": "Portrait",
+    "tags": ["Male", "Side Profile", "Neon Lighting", "Hoodie", "Headphones", "Minimal", "High Contrast", "Photorealistic", "Cinematic"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_165",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_165.jpeg",
+    "prompt": "A cinematic street-style portrait of myself, keeping my exact face unchanged. I am walking forward with a confident posture, my body slightly turned as sunlight highlights one side of me. My left hand is holding a light cream pinstriped blazer casually slung over my shoulder, with my arm bent at the elbow. My right hand rests on my hip, tucked into the waistband of my trousers in a relaxed, self-assured gesture. My gaze is directed slightly to the side, away from the camera, with a thoughtful, composed expression.I am wearing a textured short-sleeve knit polo shirt in a muted beige tone with dark trim along the collar and sleeves. The shirt is tucked into high-waisted cream trousers with thin vertical pinstripes, tailored and elegant. Around my wrist is a subtle bracelet, adding a refined accessory to the look. The blazer I carry matches the trousers, creating a cohesive and sophisticated outfit. The lighting is strong and directional, with a sharp contrast of sunlight and shadow, giving the image a dramatic,",
+    "category": "Portrait",
+    "tags": ["Male", "Street Style", "Cinematic", "Pinstripe", "Blazer", "Knit Polo", "Confident", "High Contrast", "Sophisticated", "Fashion"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_164",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_164.jpeg",
+    "prompt": "A portrait of me standing outdoors in a mountainous landscape with misty clouds in the background. I am standing slightly at an angle, with my body turned subtly to the side while my face remains directed toward the camera, giving a strong and calm presence. Both of my hands are casually resting inside the front pockets of my pants. My legs are relaxed and slightly apart, though not fully visible in the frame. I am wearing a loose, textured knit sweater in earthy brown, with long sleeves that extend to my wrists, slightly wrinkled around the elbows. The sweater has a round crew neckline. I am also wearing brown casual trousers, partially visible, with a relaxed fit that complements the natural, outdoors setting. My facial expression is neutral yet confident, as I look directly toward the camera. The image is captured from a low angle shot, making me appear taller and more dominant in the frame. The camera uses a portrait focal length around 85mm, giving a natural perspective with shallow depth of field",
+    "category": "Portrait",
+    "tags": ["Male", "Outdoor", "Mountainous", "Misty", "Knit Sweater", "Earthy Tones", "Low Angle", "Shallow Depth", "Confident"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_163",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_163.jpeg",
+    "prompt": "A close-up portrait of me standing in front of a mirror, with my reflection visible at the right edge of the frame. My body is turned slightly sideways toward the mirror, while my face is directed toward the camera, giving an intense and captivating gaze. My right arm is raised above my head, bent at the elbow, with my hand resting casually out of frame, creating a dynamic diagonal line. My left side is closer to the camera, while the reflection in the mirror shows the profile of my face and beard. I am wearing a dark denim shirt, slightly unbuttoned at the chest, revealing part of my collarbone and upper chest, adding a relaxed yet confident vibe. The shirt fabric is textured and matte, with visible seams and folds. My hair is styled in a voluminous, slightly messy way, and I have light stubble that enhances a rugged but refined look. The camera captures me at eye-level, with a portrait lens around 85mm, producing shallow depth of field that blurs the reflection slightly while keeping my direct gaze sharply",
+    "category": "Portrait",
+    "tags": ["Male", "Close-up", "Mirror Reflection", "Denim Shirt", "Intense Gaze", "Shallow Depth", "Eye Level", "Rugged", "Confident"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_162",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_162.jpeg",
+    "prompt": "High-fashion cinematic half-length portrait of the person from input photo, dreamlike editorial style. Multi-exposure motion blur with ghosting and vertical streaks. Clean gradient background from deep azure (#0033A0) to cyan (#00CCFF). Subject in plain white oversized T-shirt with soft folds catching colored lights. Dramatic lighting: cool blue wash plus orange/yellow edge glow from camera- left/backlight. Expression neutral/introspective, eyes softly lit or shadowed. Shot on 50-85mm f/1.8, shallow depth, cinematic blur and chromatic separation. Crisp skin/fabric in focus, surreal minimal glitch-inspired fashion mood.",
+    "category": "Portrait",
+    "tags": ["Male", "High-fashion", "Cinematic", "Editorial", "T-shirt", "Motion Blur", "Neon", "Dramatic Lighting", "Shallow Depth", "Surreal"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_161",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_161.jpeg",
+    "prompt": "A young man, dressed in a traditional white kurta and white pants, is barefoot and crouches down to light a small oil lamp (diya) placed on the steps. He is focused on the task, with a tray of offerings beside him. In the background, there are other people, some in traditional Indian attire, and a temple lit up with lights. The overall atmosphere is festive and spiritual, possibly during an evening celebration like Diwali, with a soft, diffused light",
+    "category": "Portrait",
+    "tags": ["Male", "Diwali", "Kurta", "Diya", "Temple", "Spiritual", "Festive", "Traditional Attire", "Barefoot"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_160",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_160.jpeg",
+    "prompt": "A candid, action-packed photo of a 23-year-old slim fit boy with slightly smile looking straight on camera widely while lighting a row of small clay diyas on the stone steps of a ghat. He is dressed in a bright orange or deep red casual kurta with rolled-up sleeves. The scene should be intensely lit by the warm firelight of hundreds of surrounding diyas and a large 'Happy Diwali' sign glowing brightly in the background. Photo-realistic, high contrast, emphasizing the energy. Do not change or edit my face",
+    "category": "Portrait",
+    "tags": ["Male", "Diwali", "Candid", "Ghat", "Diyas", "Kurta", "Festive", "High Contrast", "Photo-realistic", "Energy"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_159",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_159.jpeg",
+    "prompt": "Ultra realistic festive Diwali scene. A young man stands confidently wearing stylish traditional clothes, holding a lit full chadi (sparkler) in his hand. The sparkler glows brightly, creating a beautiful golden ring of light around him as he waves it in the air. His outfit is vibrant and festive, with a shining designer kurta and pajama. In the background, there are colorful Diwali decorations, glowing diyas, fairy lights, and fireworks bursting in the night sky. The entire scene glows.",
+    "category": "Portrait",
+    "tags": ["Male", "Diwali", "Festive", "Sparkler", "Kurta", "Pajama", "Fireworks", "Diyas", "Ultra-realistic", "Golden Light"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_158",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_158.jpeg",
+    "prompt": "Create a beachy look of me like I'm on a beach where it's dark but someone took my picture with a flash, making my face sun-kissed, slightly glittery, and glowing. In the background, add a sunset where the sun has 98% set, leaving a deep purple-red sky, almost dark. The image is taken from behind my back as I turn toward the camera. I'm wearing a light yellow, loose, half-open linen shirt with sleeves rolled up, paired with a subtle gold seashell necklace. My hair is windswept, giving natural surfer vibes. The picture is cropped from above the waist, focusing on the upper body and glowing beachy aesthetic.",
+    "category": "Portrait",
+    "tags": ["Male", "Beachy", "Night Flash", "Sunset", "Surfer Vibe", "Linen Shirt", "Seashell Necklace", "Windswept Hair", "Coastal"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_157",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_157.jpeg",
+    "prompt": "A young man with a bright, genuine smile, looking directly at the viewer, holding two lit sparklers in his outstretched hands. He is wearing a stylish, light-colored traditional Maharashtrian style kurta with intricate, subtle patterns. The setting is outdoors at night, with a blurred background of festive, bokeh lights from buildings or trees, creating a warm and celebratory atmosphere. The focus is on the man and the sparkling light from the sparklers, conveying a sense of happiness and festivity. The overall style is photorealistic with a joyful and energetic mood.",
+    "category": "Portrait",
+    "tags": ["Male", "Sparklers", "Diwali", "Festive", "Maharashtrian", "Kurta", "Bokeh", "Night", "Joyful", "Photorealistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_156",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_156.jpeg",
+    "prompt": "Ultra hyper-realistic, eye-level full-body vertical portrait of a handsome young maharashtrian man mid-step walking outdoors on a lavish terrace outside a bangle. One hand adjusts his elegant embroidered Dupatta, other hand holding a sparkling Diwali phooljhari (sparkler), creating a lively festive vibe. Wearing luxurious embroidered designer kurta, premium leather sandals. Face and perfectly styled hairstyle exactly as in uploaded reference. Luxury wristwatch sparkles, bold armban Do not change or edit my face and hairs",
+    "category": "Portrait",
+    "tags": ["Male", "Maharashtrian", "Full Body", "Festive", "Diwali", "Kurta", "Dupatta", "Sparkler", "Phooljhari", "Ultra-realistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_155",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_155.jpeg",
+    "prompt": "Ultra-realistic, cinematic fll-body portrait of a stylish young man celebrating Diwali at night in front of a modern decorated Indian house. Face and hairstyle exactly match the uploaded reference image, perfectly styled, looking directly at the camera with a soft gentle smile. He is holding a sparkler in one hand, the other hand casually holding his stole.Exploding fireworks and colorful crackers surround him, lighting the night sky with vibrant colors. Outfit: luxurious royal black and gold heavily embroidered kurta pyjama with matching stole, traditional golden mojari, shoes. The outfit is rich, festive, and majestic. Background includes glowing diyas, colorful rangoli, fairy lights, cinematic bokeh, soft golden light. Above or in background, \"Happy Diwali\" golden text elegantly glowing Lighting: cinematic, ultra-realistic, soft golden glow, photorealistic, 8K, detailed textures, festive and joyful atmosphere.",
+    "category": "Portrait",
+    "tags": ["Male", "Diwali", "Full Body", "Kurta Pyjama", "Sparkler", "Fireworks", "Rangoli", "8K", "Cinematic", "Festive"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_154",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_154.jpeg",
+    "prompt": "A young man in a stylish white gray kurta with fine texture, standing near glowing golden fairy lights. He is facing slightly sideways with one hand resting gently on the string lights while the other hand is relaxed by his side. His gaze is directed confidently towards the camera with a soft smile, giving a charismatic presence. The shot is taken from a slightly low-angle perspec- tive, making him look taller and more dominant in frame. Golden fairy lights create dreamy bokeh around him, softly blurring into the background. His hairstyle is voluminous, neatly styled, with a sharp beard and clean features Cinematic light- ing, shallow depth of field, hyper-realistic details 4K ultra high quality, photorealistic, festive warm tones, professional DSLR \"wearing round black smartwatch, fix uploaded photo propikes in this description, face no change, 8k qualiby re- alistic picbure, Make sure the face remains the same and 100% preserved.",
+    "category": "Portrait",
+    "tags": ["Male", "Kurta", "Fairy Lights", "Bokeh", "Low Angle", "Charismatic", "Hyper-realistic", "8K", "Festive", "Smartwatch"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_153",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_153.jpeg",
+    "prompt": "Ultra-realistic BK DSLR waist-up festive photo of the same young man (face must remain identical, no changes). He wears a cream-white kurta with subtle golden embroidery and a round black smartwatch. Kneeling slightly, he gently lights a row of traditional diyas with a matchstick, his face glowing warmly in the soft diya light. Background decorated with marigold flowers, fairy lights hanging across the wall, creating a serene and devotional Diwali mood. Cinematic shallow depth of field. ultra-realistic textures, warm golden tones, professional DSLR 8K quality.",
+    "category": "Portrait",
+    "tags": ["Male", "Diwali", "Festive", "Kurta", "Diyas", "Marigold Flowers", "Devotional", "8K", "DSLR", "Cinematic"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_152",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_152.jpeg",
+    "prompt": "Use the uploaded reference image as the main base.UItra-realistic cinematic portrait of a young Man standing near glowing string lights at night. The Man is wearing a stylish yellow traditional kurta and pajama, softly smiling and gazing upward with a dreamy expression. Backaround is dark and blurred with warm golden bokeh liahts creating a festive, magical atmosphere Lighting is warm,glowing, and softly illuminating the face, with smooth shadows and depth of field for.",
+    "category": "Portrait",
+    "tags": ["Male", "Kurta", "Pajama", "String Lights", "Bokeh", "Festive", "Cinematic", "Night", "Dreamy", "Ultra-realistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_151",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_151.jpeg",
+    "prompt": "A stylist I Indian man dressed in a elegant black shirt with a thin gold border is holding two sparklers (phuljhadi). he is smiling and looking directly at the camera. Touseld style hair. The background is a vibrant, moody mix of deep red and green mist/smoke. he is wearing Rolex watch Dramatic lighting. Use 100% uploaded image face Don't change the face keep facial features same.",
+    "category": "Portrait",
+    "tags": ["Male", "Indian", "Sparklers", "Diwali", "Phuljhadi", "Black Shirt", "Rolex Watch", "Dramatic Lighting", "Moody"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_150",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_150.jpeg",
+    "prompt": "Hyper-realistic 8K half bodv portrait of a stvlish voung man celebrating Diwali. Wearing white kurta and ethnic pants, touseld style hair. he lights sparkling fireworks surrounded by glowing lamps. festive vibe. Background: 'Happy Diwali' in stylish font with emojis. Use uploaded reference image for exact face and hairstyle. Ultra-detailed, cinematic warm lighting, dynamic festive composition. Use 100% uploaded image face Don't change the face keep facial features same.",
+    "category": "Portrait",
+    "tags": ["Male", "Diwali", "Festive", "Kurta", "Fireworks", "Diyas", "Hyper-realistic", "8K", "Cinematic Lighting", "Indian"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_149",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_149.jpeg",
+    "prompt": "An individual photographed in a medium shot from a slightly low angle, almost eye-level, with the camera positioned at the lower chest/waist area. The subject is casually reclining in a chair, body positioned at a 45-degree angle towards the right. The chair is a modern design, likely made of metal and leather. One arm is bent with the hand raised to the face, fingertips gently touching the chin/lower lip in a thoughtful or contemplative gesture. The other arm is bent and resting in the lap. Legs are outstretched, one foot resting on the armrest of another chair in the foreground, creating depth. The shot is taken with a normal lens, resulting in a natural perspective and slight distortion due to the closeness of the feet in the foreground. Depth of field is moderately shallow, blurring both the far background",
+    "category": "Portrait",
+    "tags": ["Male", "Medium Shot", "Low Angle", "Reclining", "Chair", "Contemplative", "Modern Design", "Shallow Depth"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+
+  {
+    "id": "prompt_148",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_148.jpeg",
+    "prompt": "A full body studio portrait of a man dressed in beige tones wearing sunglasses, a collared shirt, vest, and jacket. The soft, natural lighting creates a sophisticated, elegant mood.",
+    "category": "Portrait",
+    "tags": ["Male", "Full Body", "Studio", "Beige Tones", "Sunglasses", "Elegant", "Sophisticated", "Fashion", "Natural Lighting"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_147",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_147.jpeg",
+    "prompt": "A person photographed in a medium shot, taken at eye level. The subject is standing outdoors with a slight contrapposto pose, leaning gently back against a low brick wall. The body is facing the camera almost directly, with a subtle shift to the left. One leg is straight, bearing most of the weight, while the other leg is slightly bent at the knee and crossed in front, with the foot partially lifted off the ground. The subject is holding a small lit diya (oil lamp) in both hands, looking down at it with a gentle smile. Arms are bent at the elbows, bringing the diya up towards the chest. The composition is balanced, with the subject centered within the frame. There's a generous amount of headroom above the individual's head, allowing the branches of a large tree to fill the upper portion of the frame. Numerous small diyas are arranged along the brick wall and on the ground in the foreground, creating depth. The background consists of the out-of-focus tree, illuminated with strands of fairy lights.",
+    "category": "Portrait",
+    "tags": ["Male", "Outdoor", "Medium Shot", "Eye Level", "Diwali", "Festive", "Diya", "Brick Wall", "Tree", "Fairy Lights"],
+    "popularity": 0,
+    "createdAt": "2025-10-15T19:42:17Z",
+    "isFeatured": false
+  }
+
+,
+    {
+      "id": "prompt_146",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_146.jpeg",
+      "prompt": "model's hair is styled in soft curls, and his body posture is relaxed yet bold. The lighting highlights his muscular build and facial structure. Photographed with a Hasselblad X2D 100C for ultra-detailed DSLR quality. Full-length portrait, studio fashion shoot aesthetic, 4:5 aspect ratio, ultra-sharp focus, magazine-style realism.",
+      "category": "Fashion",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Portrait",
+        "Fashion",
+        "Studio",
+        "Ultra-detailed",
+        "Magazine Style",
+        "Muscular"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_145",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_145.jpeg",
+      "prompt": "Keep same face features and body figure as in the uploaded photo. A medium shot of a young man (same as in the uploaded photo) leaning against a light gray paneled wall. He is wearing an oversized dark blue to light gray ombre short-sleeved collared button-up shirt, black cargo pants, white sneakers and black sunglasses. His hands are in his pockets, and he has a watch on his left wrist. The lighting is even, and the background is simple and uncluttered. Hyper realistic, 8k resolution.",
+      "category": "Fashion",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Medium Shot",
+        "Fashion",
+        "Hyper Realistic",
+        "Street Style",
+        "8K"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_144",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_144.jpeg",
+      "prompt": "Editorial 3x3 photo grid against a lined notebook paper backdrop, split vertically: left half realistic photo, right half detailed black-and-white manga/comic sketch. Photo of character as attached image matches 100%, wearing a light blue hoodie and holding a black pen. The real side blends smoothly into the drawn side, creating a half-human half-doodle art effect with seamless transition across the split. Lighting is soft, natural, studio-like for clean skin tones and gentle shadows. Shots to include: (1) close frontal at center, vertical split through face; left side photoreal, right side manga sketch with doodle halo of stars, hearts, smiley faces, and tiny cartoon figures (85mm, f/2.0); (2) 3/4 body with pen lifted near split edge, ink strokes crossing into the sketch side mid-air (50mm, f/2.8); (3) extreme close-up of eye at the split, iris on photo side and screentone/shaded eye on sketch side (85mm, f/1.8); (4) tight crop on hand holding black pen, pen tip drawing the boundary line between real and sketch (85mm, f/2.2); (5) full-body centered, notebook lines curving subtly toward the sketch half, hoodie texture on photo side, crosshatching on sketch side (35mm, f/5.0); (6) profile view with split through nose bridge, sketch side featuring handwritten Korean words and playful decorations floating (85mm, f/2.0); (7) medium shot with floating doodles orbiting the head on the sketch side while sticky-note style frames overlap into the real side (50mm, f/3.2); (8) tight crop of hoodie fabric transitioning from knit texture to manga screentone pattern at the seam (85mm, f/2.0); (9) medium close with hand extending from real side into sketch side, leaving a trail of drawn sparkles and mini emoticons (50mm, f/2.5). Angles: Mostly eye-level with a few slight low angles for dynamism; maintain clean geometry to emphasize the vertical split. Capture in RAW, professional color grade with soft neutrals and gentle blues; sketch side pure monochrome with crisp linework and halftone textures. Mood: creative, modern, aesthetic sketchbook portrait. Style keywords: mixed media, half drawing half real, sketchbook art, aesthetic doodle, creative portrait. Important: Character and product remain visually identical in every shot. Resolution locked to 1080×1920, vertical 9:16 ratio. Camera: RAW capture, strictly 1080×1920, vertical image (9:16) ratio.",
+      "category": "Editorial",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Female",
+        "Editorial",
+        "Photo Grid",
+        "Mixed Media",
+        "Manga",
+        "Hyper-realistic",
+        "Creative"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_143",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_143.jpeg",
+      "prompt": "A young (Photo of character as attached image matches 100%) wearing a light blue hoodie, holding a black pen, standing against a lined notebook paper background. The image is split vertically in half: the left side is a realistic photo, the right side is a detailed black-and-white sketch drawing in manga/comic style. The sketched side includes doodles like stars, hearts, smiley faces, and small cartoon figures around the head. The sketch also has handwritten Korean words and playful decorations. The real side blends smoothly into the drawn side, creating a half-human half-doodle art effect. Clean, aesthetic, creative, modern illustration style.”: •Style keywords: “mixed media, half drawing half real, sketchbook art, aesthetic doodle, creative portrait” •Lighting: soft, natural, studio-like",
+      "category": "Artistic",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Female",
+        "Mixed Media",
+        "Half Drawing",
+        "Manga",
+        "Sketchbook",
+        "Aesthetic",
+        "Creative Portrait"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_142",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_142.jpeg",
+      "prompt": "Night portrait, cinematic, photorealistic, an individual (same face as reference), relaxed and contemplative on a worn yellow park bench with white concrete supports. Wears outfit from reference, leaning left elbow on bench, gazing right. Dark background, blurred dense foliage right, soft distant white lights creating rim light. Soft, directional front-left light casts subtle jawline shadows, highlights outfit texture. Yellow bench reflects dark sky/lights. Dark, indistinct ground. Ultra-realistic, high-resolution, dark moody aesthetic, lens correction, shallow depth of field, volumetric lighting.",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Female",
+        "Night",
+        "Cinematic",
+        "Moody",
+        "Photorealistic",
+        "Contemplative",
+        "Shallow Depth of Field"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_141",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_141.jpeg",
+      "prompt": "Add Me in the given image scene, i have added my selfie, kewp 100% facial accuracy. Pose me and dress me according to scene, no not alter facial features. I am facing opposite to light with my body but turned backwards to look towards sunlight, in such a way, that My front side (not back) of body is visible as if I was sitting on a chair, facing my back towards sun but I turned my body, with one hand placed on chair's back, supporting my elbow, to pose ...and then gazing the sun, which casts orange sunshine on my face, and makes me basking in the sun, i am wearing beige knitware sweater and the shot skin texture, hairs and details are super crisp. The image is Close-up shot, side face, and slightly at an angle. The harsh sunlight creates an interplay of light parts in sunshine, highlighted partswith yellow orange hue, and dark parts with brown and blue hues. It looks very ethereal, dreamy, nostalgic at 10x Optical Zoom of a 50-250mm Prime lens used with a mirrorless camera. There is slight prism like reflections casted on back wall due to glass refraction. There is very Subtle calm yet confident and bold look on face. The Photo has slight Glass filter effect with some light patches (very subtle with soft edges) and Grains, to create a Hyper-realistic yet retro-futuristic look.",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "New",
+        "Male",
+        "Female",
+        "Close-up",
+        "Sunlight",
+        "Basking",
+        "Ethereal",
+        "Dreamy",
+        "Retro-Futuristic",
+        "Hyper-realistic"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_140",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_140.jpeg",
+      "prompt": "Ultra realistic, hyper-detailed, 8K mirror selfie of a young south indian slimfot man (as in photo all features same) standing shirtless in a modern gym. He is holding down a orange iphone 17pro max in his left hand, taking the photo, while flexing his right arm upward in a strong bicep pose. His body is lean and muscular with well-defined six-pack abs and visible chest definition.",
+      "category": "Fitness",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Male",
+        "Selfie",
+        "Gym",
+        "Fitness",
+        "Ultra Realistic",
+        "Muscular",
+        "8K"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_139",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_139.jpeg",
+      "prompt": "A cozy birthday celebration setup for refrence 1/2 body potrait person with elegant black and white decorations. The background features clusters of white balloons with black bows and a big black bow centerpiece. On the wall, stylish black letters spell out 'happy birthday'. A small round table in the foreground has a black birthday cake on a glass stand, lit candles with black ribbon details, and a couple of small flower vases. Soft warm lighting creates a dreamy, intimate atmosphere.",
+      "category": "Celebration",
+      "tags": [
+        "All",
+        "Trending",
+        "New",
+        "Portrait",
+        "Black and White",
+        "Birthday",
+        "Elegant",
+        "Cozy",
+        "Intimate"
+      ],
+      "popularity": 0,
+      "createdAt": "2025-10-14T18:02:05Z",
+      "isFeatured": false
+    }
+    ,
+  {
+    "id": "prompt_138",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_138.jpeg",
+    "prompt": "Create a professional football poster in a cinematic style featuring (reference image). Keep the face, hair, shape, and angle exactly as in the image. Show the person in three perspectives: a super close-up portrait wearing the Baercelona 2025 jersey with the last name Mansoor, a side view wearing the Baercelona 2025 football jersey, and a full-body image in complete football gear (Baercelona 2025 jersey, shorts, socks, and boots) with the sponsor logo. At the bottom, add a dynamic action scene of the player performing a high jump bicycle kick with motion blur effects and grass flying around. The jersey must clearly show the number 10 on the front, back, and shorts. Use a deep dark blue SANTIAGO BERNABEU stadium background with a large glowing number 10 and the name 'Mansoor' behind the character. The overall style should be ultra-realistic, high-resolution, cinematic, and memorable like a professional sports poster.",
+    "category": "Sports",
+    "tags": ["All", "Trending", "New", "Male", "Football", "Poster", "Cinematic", "Barcelona", "Athlete", "Action", "Ultra Realistic", "High Resolution", "Sports Poster","Lionel Messi"],
+    "popularity": 0,
+    "createdAt": "2025-10-12T23:30:19Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_137",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_137.jpeg",
+    "prompt": "Create a photo and don't change face \"Ultra-realistic black and white digital painting. A man (use exact 1:1 facial features from the provided profile photo, fully photorealistic) stares forward with a sorrowful expression, realistic tears running down his cheeks, skin texture and pores sharply detailed. His real face shows sadness and inner pain. In his hand he holds a perfectly sculpted mask of his own face, smiling with joy and confidence, creating a strong emotional contrast. The mask has the same facial resemblance, but with a broad happy grin. Hair, skin, and eyes are hyper-detailed, realistic textures with chiaroscuro lighting emphasizing the duality. Cinematic dramatic atmosphere, symbolic and emotional, representing hidden sorrow behind a false happy façade!",
+    "category": "Art",
+    "tags": ["All", "Trending", "New", "Male", "Ultra Realistic", "Black and White", "Digital Painting", "Emotional", "Symbolic", "Dramatic", "Chiaroscuro", "Portrait", "Mask"],
+    "popularity": 0,
+    "createdAt": "2025-10-12T23:30:19Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_136",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_136.jpeg",
+    "prompt": "Moody cinematic interior of a man sitting in a vintage cinema. Red velvet seats behind him fade into darkness. Projector beam cuts haze, lighting half his face. Calm yet commanding posture",
+    "category": "Interior",
+    "tags": ["All", "Trending", "New", "Male", "Moody", "Cinematic", "Vintage", "Cinema", "Dark", "Dramatic", "Portrait"],
+    "popularity": 0,
+    "createdAt": "2025-10-12T23:30:19Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_135",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_135.jpeg",
+    "prompt": "Create an image of lean and well-groomed man (light but sharp beard) from the uploaded picture, a singer, sleeveless white shirt, necklace in his neck with a small pendant, wearing dark jeans. Low quality grainy image from a live concert, low angle shot, black tousled hair, tousled bangs, snapback, microphone in hand. Sweat, slim build. Moment of rest standing, he is positioned on the side of the frame, not centered. Green and red spotlights in the dark background.",
+    "category": "Concert",
+    "tags": ["All", "Trending", "New", "Male", "Singer", "Live Concert", "Grainy", "Low Angle", "Rockstar", "Music", "Spotlight"],
+    "popularity": 0,
+    "createdAt": "2025-10-12T23:30:19Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_134",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_134.jpeg",
+    "prompt": "Hyper-realistic editorial portrait of the uploaded person in a fitted white suit with silk shirt. Standing under spotlight, smoke drifting, hands in pockets. confident expression.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Hyper Realistic", "Editorial", "Suit", "Silk Shirt", "Spotlight", "Smoke", "Confident", "Fashion"],
+    "popularity": 0,
+    "createdAt": "2025-10-12T23:30:19Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_133",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_133.jpeg",
+    "prompt": "ULTRA HD, 8K resolution, hyper-realistic outdoor portrait of a stylish man leaning casually against a stone wall with an ornate carved wooden door. He is wearing a black button-up shirt with the top buttons open, revealing a necklace, paired with loose light gray trousers and clean white sneakers. His hands are in his pockets, giving a relaxed, confident different pose. He has short dark hair, an neatly groomed beard, and is wearing modern sunglasses.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Ultra HD", "8K", "Hyper Realistic", "Outdoor", "Stylish", "Casual", "Modern", "Fashion"],
+    "popularity": 0,
+    "createdAt": "2025-10-12T23:30:19Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_132",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_132.jpeg",
+    "prompt": "A hyper-realistic full-body editorial portrait of a 24years old stylish Pakistani man He has sharp dark hair and a well-groomed beard, wearing a perfectly tailored dark blue suit over a sleek black turtleneck. His stance is bold and fashionable: standing in front of a tall, oval black-framed mirror, one hand rests lightly on the mirror's edge while his legs are elegantly crossed, exuding effortless runway-style sophistication. His other hand slips casually into his trouser pocket, enhancing his confident poise. In the mirror, his reflection captures the same stylish crossed-leg pose, adding cinematic depth and symmetry to the scene. The minimalist luxury room features polished marble flooring, muted gold accents, and soft, dramatic lighting that highlights the textures of his outfit. Polished leather shoes and a discreet designer watch complete the look, creating a striking GQ-inspired editorial atmosphere.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Hyper Realistic", "Editorial", "Fashion", "Pakistani", "Stylish", "Suit", "Luxury", "GQ", "Cinematic"],
+    "popularity": 0,
+    "createdAt": "2025-10-12T23:30:19Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_131",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_131.jpeg",
+    "prompt": "Create a professional football poster in a cinematic style featuring (reference image). Keep the face, hair, shape, and angle exactly as in the image. Show the person in three perspectives: a super close-up portrait wearing the REAL MADRID 2025 jersey with the last name Mansoor, a side view wearing the REAL MADRID 2025 football jersey, and a full-body image in complete football gear (REAL MADRID 2025 jersey, shorts, socks, and boots) with the sponsor logo. At the bottom, add a dynamic action scene of the player performing a high jump bicycle kick with motion blur effects and grass flying around. The jersey must clearly show the number 7 on the front, back, and shorts. Use a deep dark blue SANTIAGO BERNABEU stadium background with a large glowing number 7 and the name 'Mansoor' behind the character. The overall style should be ultra-realistic, high-resolution, cinematic, and memorable like a professional sports poster.",
+    "category": "Sports",
+    "tags": ["All", "Trending", "New", "Male", "Football", "Poster", "Cinematic", "Real Madrid", "Athlete", "Action", "Ultra Realistic", "High Resolution", "Sports Poster","Cristiano Ronaldo"],
+    "popularity": 0,
+    "createdAt": "2025-10-12T23:30:19Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_130",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_130.jpeg",
+    "prompt": "Ultra realistic 8K DSLR shot of a man sitting relaxed on a modern white sofa, wearing a BLACK button-down shirt with sleeves rolled up, paired with slim-fit white chinos with folded hems, and clean white sneakers. His pose is casual and laid-back: leaning comfortably on the sofa armrest with one arm bent to support his head, the other arm stretched across the backrest. Expression is relaxed with a slight smile. Lighting is cinematic and evenly balanced, don't change facial features",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Ultra Realistic", "8K", "DSLR", "Modern", "Relaxed", "Cinematic", "Fashion"],
+    "popularity": 0,
+    "createdAt": "2025-10-12T23:30:19Z",
+    "isFeatured": false
+  }
+
+    , {
     "id": "prompt_129",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_129.jpeg",
     "prompt": "Cinematic automotive photoshoot of me, keeping my real face unchanged. The scene is composed of three perspectives: 1. interior close-up (mirror reflection): tight portrait of my face.",
