@@ -1,6 +1,227 @@
 {
   "prompts": [
-    
+
+    {
+    "id": "prompt_189",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_189.jpeg",
+    "prompt": "A retro vintage grainy but bright image of the reference picture but draped in a perfect black colour suit Pinteresty aesthetic retro pants. It must feel like a '90s movie hair baddie with a small flower bookey in hand and romanticising a windy environment. The man is standing against a solid deep shadow and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with golden tones evoking a sunset or golden hour glow. The background is minimalist",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Retro", "Vintage", "90s", "Movie", "Fashion", "Suit", "Pinterest", "Artistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_188",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_188.jpeg",
+    "prompt": "Photo of me(in the photo please preserving my exact original face and features in the photo) standing by a wall, one hand adjusting my wristwatch, the other tucked into my traouser pocket. The light source creates angular shadows on my shiseled face and suit, emphasizing the tailoring. My Gaze is downward, evoking calm confidence and refined masculinity",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Fashion", "Suit", "Confident", "Masculine"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_187",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_187.jpeg",
+    "prompt": "Create A 90s vintage editorial-style full body portrait of a 25-year-old man(Photo Uploaded), 5\"11 tall, leaning casually against an old rustic doorway. He poses with one hand gripping the chipped wooden door and the other tucked in his beige pleated trousers, exuding effortless confidence. He wears a loose warm red short-sleeve button-up shirt, slightly unbuttoned at the chest, styled in a retro casual way, with medium-length wavy hair. Retro textures, grainy aesthetic, film look.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Vintage", "90s", "Editorial", "Retro", "Film", "Fashion", "Full Body"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_186",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_186.jpeg",
+    "prompt": "Black and white photo of me(in the photo please preserving my exact original face and features in the photo) standing by a wall, one hand adjusting my wristwatch, the other tucked into my traouser pocket. The light source creates angular shadows on my shiseled face and suit, emphasizing the tailoring. My Gaze is downward, evoking calm confidence and refined masculinity",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Black and White", "Fashion", "Suit", "Confident", "Masculine"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_185",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_185.jpeg",
+    "prompt": "Prompted Create a retro vintage grainy but bright image of the reference picture but draped in a perfect black colour suit Pinteresty aesthetic retro pants. It must feel like a '90s movie hair baddie with a small flower bookey in hand and romanticising a windy environment. The man is standing against a solid deep shadow and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with golden tones evoking a sunset or golden hour glow. The background is minimalist",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Retro", "Vintage", "90s", "Movie", "Fashion", "Suit", "Pinterest", "Artistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_184",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_184.jpeg",
+    "prompt": "Ultra-realistic cinematic portrait of a stylish young man standing against a dark minimal background with a soft golden sunlight beam casting dramatic shadows. He is wearing a crisp, elegant yellow suit (blazer and wide-leg trousers) with one hand casually in his pocket and the other holding a bouquet of red roses close to his chest. His hair is voluminous and slightly tousled, styled naturally with texture. His expression is serene and confident, basking in the warm sunlight.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Cinematic", "Ultra-realistic", "Stylish", "Fashion", "Suit", "Roses", "Golden Hour"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_183",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_183.jpeg",
+    "prompt": "A striking, modern advertisement featuring a handsome male (my face 100% match), with short, stylish hair and glasses, sitting comfortably in a vibrant blue, plush, rounded armchair. He is dressed in a contemporary, athletic-inspired outfit: bright blue pants and a matching blue and yellow patterned long-sleeved top. His sneakers are a light neutral color, and he wears white socks. He is looking directly at the viewer with a friendly, confident smile. The background is a clean, gradient blue, with a large, stylized white letter \"T\" subtly placed behind him. There are also faint, placeholder text elements in the top left and top right corners of the image, characteristic of a magazine or product advertisement",
+    "category": "Advertisement",
+    "tags": ["All", "Trending", "New", "Male", "Modern", "Advertisement", "Fashion", "Athletic", "Vibrant"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_182",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_182.jpeg",
+    "prompt": "Man leaning against an old stone wall in warm golden sunlight, wearing a beige linen shirt with rolled-up sleeves, olive green pleated trousers, and a brown leather belt. Cinematic vintage aesthetic, Mediterranean summer atmosphere, soft shadows, timeless and elegant style.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Cinematic", "Vintage", "Mediterranean", "Summer", "Elegant", "Golden Hour"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_181",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_181.jpeg",
+    "prompt": "Black and white photo of me(in the photo please preserving my exact original face and features in the photo) standing by a wall, one hand adjusting my wristwatch, the other tucked into my trouser pocket. The light source creates angular shadows on my chiselled face and suit, emphasizing the tailoring. My Gaze is downward, evoking calm confidence and refined masculinity",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Black and White", "Fashion", "Suit", "Confident", "Masculine"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_180",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_180.jpeg",
+    "prompt": "Black and white artistic portrait of a man, with a fashionable model dressed in a sophisticated suit, black socks and shoes. He is sitting with a slightly hunched posture, looking down as if lost in thought. His facial features are the same as the original photo, like her hairstyle. It features minimalist accessories that highlight the elegant and editorial tone. The studio's clean lighting enhances textures and depth, creating an elegant, couture feel. Use the uploaded picture as a reference for the face. Aspect ratio: 4:5 vertical.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Black and White", "Artistic", "Fashion", "Suit", "Editorial", "Elegant"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_179",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_179.jpeg",
+    "prompt": "Use face image Create a hyper-realistic photo set in a narrow, dimly lit forest path. At the center, an young man in his early 20s in a hoodie stands facing the camera with a neutral yet intense expression. He's wearing a black hoodie. The lighting is cold, coming from the left, half body behind foreground blurred bushes, enhancing the claustrophobic, cinematic feel. The entire environment should be sharply in focus no background blur. Think editorial Vogue aesthetic. --ar 9:16",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Hyper-realistic", "Forest", "Dimly Lit", "Cinematic", "Editorial", "Vogue"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_178",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_178.jpeg",
+    "prompt": "A cinematic black and white portrait of me, real face unchanged, standing in profile, leaning relaxed yet elegantly against a smooth wall. Head tilted back, chin raised, eyes closed for a calm, introspective mood. Left arm rests naturally, right arm bent, holding a glass tumbler loosely at waist height. I wear a fitted white button-down shirt, sleeves rolled up, tucked into dark, well-fitted trousers with a slim black belt. Dramatic high-contrast lighting highlights my face, shirt creases,",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Cinematic", "Black and White", "Profile", "Elegant", "Introspective", "High Contrast"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_177",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_177.jpeg",
+    "prompt": "A retro cinematic high-quality portrait of the uploaded image as main character, sitting on a vintage wooden chair in a relaxed pose. He is wearing a cream retro suit with open collar shirt, styled hair, and a confident subtle smile. The background is a Famous anime retro room with soft golden lighting, film grain, and cinematic shadows. The image should have a nostalgic Pinterest-style aesthetic, perfectly balanced warm tones, and high detail realism.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Retro", "Cinematic", "Vintage", "Anime", "Nostalgic", "Pinterest", "Film Grain"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_176",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_176.jpeg",
+    "prompt": "Fine black and white photography of a handsome young man with dark, his head tilted back in a moment of intense creative thought or ecstasy. his Hands are open. He is wearing a loose white collared shirt, standing in a dimly lit study filled with stacks of books and papers floating all over. The image is captured with a slow shutter speed, creating dramatic horizontal motion blur that streaks the background and the edges of his form, and super realistic.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Black and White", "Artistic", "Creative", "Ecstasy", "Books", "Motion Blur", "Realistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_175",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_175.jpeg",
+    "prompt": "Stylish fashion editorial photo of a male model wearing an oversized white sweatshirt and white sweatpants, paired with white sneakers. A soft red studio backdrop with soft cinematic lighting, highlighting textures, futuristic editorial style, model sitting elegantly, head slightly tilted, relaxed posture.",
+    "category": "Fashion",
+    "tags": ["All", "Trending", "New", "Male", "Fashion", "Editorial", "Futuristic", "Minimalist", "Studio", "Red Backdrop"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_174",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_174.jpeg",
+    "prompt": "Create a retro vintage grainy but bright image of the reference picture styled in an old retro shirt, slightly loose and worn, giving a 90s movie vibe. The man is standing and laying casually on a classic white Indian Ambassador car near the headlights, romanticising the windy outdoor environment. The scene must feel cinematic, with deep shadows and contrast drama, warm",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Retro", "Vintage", "90s", "Movie", "Cinematic", "Indian Ambassador", "Outdoor", "Warm"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_173",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_173.jpeg",
+    "prompt": "Ultra realistic, high resolution cinematic portrait of a person standing in front of a mirror with sleek vertical white light strips in the background. The person has a medium-light skin tone, short dark brown hair styled neatly, Face with the face from the uploaded image, keeping the facial features exactly the same. He is wearing a white button-down shirt with the sleeves rolled up and slightly unbuttoned at the top, revealing a subtle hint of his chest. A black tie is loosely draped around his neck, creating a casual yet sophisticated vibe. He is wearing black dress pants with a black belt, and his hands are casually placed in his pockets. His facial expression is intense and contemplative, with his eyes looking directly into the camera, conveying quiet confidence. The lighting is soft 6k and diffused, highlighting the texture of his skin and fabric, while the reflections in the mirror add depth to the composition. The overall mood is stylish, modern, and cinematic, with a sense Of 25 effortless charm and",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Ultra Realistic", "Cinematic", "Modern", "Stylish", "Mirror", "Sophisticated"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_172",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_172.jpeg",
+    "prompt": "Ultra-realistic, 8K resolution cinematic image of a person crouching beside a powerful black horse in a snow-covered mountainous landscape. Face with the face from the uploaded image, keeping the facial features exactly the same. wavy hair, and wears dark sunglasses, a cozy black sweater, grey cargo pants, and black boots. He crouches with one knee bent, holding the reins of the horse with a relaxed yet confident posture. The horse is muscular, with a glossy jet-black coat, flowing mane, and expressive eyes, wearing a simple Leather halter. Snow blankets the ground with footprints and scattered rocks visible. In the background, soft-focus snow-covered hills, pine trees, and distant mountain peaks stretch under clear blue sky, Snowflakes gently fall around them, adding depth and softness to the scene. The 23.6K lighting is soft and natural, highlighting details like the texture of the snow, fabric folds, and hair strands. The overall mood is calm, adventurous, and majestic, evoking a sense of freedom and PROMP",
+    "category": "Landscape",
+    "tags": ["All", "Trending", "New", "Male", "Ultra-realistic", "8K", "Cinematic", "Horse", "Snow", "Mountain", "Adventurous", "Majestic"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_171",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_171.jpeg",
+    "prompt": "I am standing in a three-quarter pose, my body slightly turned to the left while my head faces forward, looking directly at the camera with a confident, intense gaze. My lips are pressed together, and my jawline is sharp under the light. My right shoulder is closer to the camera, and my arms remain relaxed at my sides, not visible in detail. I am wearing a thick, dark knitted sweater with a tall, turned-up turtleneck collar that frames my and stylish fabric textured with chunky ribbing, giving a masculine face, the appearance. The overall look is minimalist, without accessories except for a subtle metallic chain peeking from under the sweater. The scene is dramatically lit with a strong beam of warm light cutting diagonally across my face and upper body, creating high contrast between illuminated areas and deep shadows. The background is dark, matte, and softly textured, with a reddish tone that enhances the cinematic atmosphere. The camera angle is eye-level, capturing me from the chest up in a portrait style.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Three-quarter pose", "Confident", "Intense", "Turtleneck", "Minimalist", "Dramatic Lighting", "Cinematic"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_170",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_170.jpeg",
+    "prompt": "A black-and-white studio portrait of the same man from the selfie – exact face and skin details retained, no retouching. He is lit with a single Rembrandt light source, creating strong contrast and moody shadows on one side of the face. The background is completely black, isolating the subject with a sense of mystery and confidence. He's wearing a dark shirt or jacket. Ultra-detailed skin texture, sharp clarity, shallow depth of field. Studio photo taken on a Leica SL2 + 90mm APO lens.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Black and White", "Studio", "Rembrandt Lighting", "High Contrast", "Moody", "Ultra-detailed"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_169",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_169.jpeg",
+    "prompt": "Create a vintage 1970s Bollywood-inspired photograph of a stylish man sitting casually on the hood of a classic car. He is dressed in a cream pinstriped blazer, cream bell-bottom trousers, and a dark brown shirt with the top buttons open, paired with brown formal shoes, giving a confident mafia-style look. The car has wide whitewall tires, chrome details, and a polished metallic body, reflecting sunlight. In the background, tall green trees and hedges frame the scene. The photograph has the warm, grainy tones of a 1970s film camera, giving it a retro cinematic vibe.",
+    "category": "Fashion",
+    "tags": ["All", "Trending", "New", "Male", "Vintage", "1970s", "Bollywood", "Classic Car", "Mafia Style", "Retro", "Cinematic", "Film Grain"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_168",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_168.jpeg",
+    "prompt": "Ultra-realistic mirror selfie of a stylish man 22 years old with glasses. He is wearing a loose brown sweater layered over a crisp white T-shirt, paired with blue jeans. A silver chain necklace adds a subtle accessory touch. He holds a modern smartphone in one hand, partially covering his same face, while his other hand rests casually in his pocket. The scene is set in warm indoor lighting, creating a cinematic, moody atmosphere with soft shadow",
+    "category": "Selfie",
+    "tags": ["All", "Trending", "New", "Male", "Ultra-realistic", "Mirror Selfie", "Stylish", "Cinematic", "Moody", "Indoor", "Warm Lighting"],
+    "popularity": 0,
+    "createdAt": "2025-10-17T04:38:30Z",
+    "isFeatured": false
+  }
+   , 
   {
     "id": "prompt_167",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_167.jpeg",
