@@ -486,7 +486,7 @@
         "Trending",
         "New",
         "Male",
-        "Female",
+       
         "Editorial",
         "Photo Grid",
         "Mixed Media",
@@ -508,7 +508,7 @@
         "Trending",
         "New",
         "Male",
-        "Female",
+      
         "Mixed Media",
         "Half Drawing",
         "Manga",
@@ -530,7 +530,7 @@
         "Trending",
         "New",
         "Male",
-        "Female",
+       
         "Night",
         "Cinematic",
         "Moody",
@@ -551,7 +551,7 @@
         "All",
         "New",
         "Male",
-        "Female",
+       
         "Close-up",
         "Sunlight",
         "Basking",
@@ -703,7 +703,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_129.jpeg",
     "prompt": "Cinematic automotive photoshoot of me, keeping my real face unchanged. The scene is composed of three perspectives: 1. interior close-up (mirror reflection): tight portrait of my face.",
     "category": "Automotive",
-    "tags": ["All", "New", "Male", "Female", "Cinematic", "Automotive", "Photoshoot", "Interior", "Portrait", "Reflection", "Car"],
+    "tags": ["All", "New", "Male", "Cinematic", "Automotive", "Photoshoot", "Interior", "Portrait", "Reflection", "Car"],
     "popularity": 0,
     "createdAt": "2025-10-08T16:15:30Z",
     "isFeatured": false
@@ -733,7 +733,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_126.jpeg",
     "prompt": "Ultra realistic candid photo of a (as in reference), standing in a crowded place with people holding cameras and taking photos. The background is filled with fans and a little chaos of crowd, giving a true celebrity vibe. The photo should look like a real-life captured moment, with natural lighting, sharp details wathentic atmosphere.",
     "category": "Candid",
-    "tags": ["All", "Trending", "New", "Male", "Female", "Celebrity", "Candid", "Realistic", "Crowd", "Fans", "Authentic", "Natural Light"],
+    "tags": ["All", "Trending", "New", "Male", "Celebrity", "Candid", "Realistic", "Crowd", "Fans", "Authentic", "Natural Light"],
     "popularity": 0,
     "createdAt": "2025-10-08T16:12:59Z",
     "isFeatured": false
