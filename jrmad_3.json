@@ -1,6 +1,246 @@
 {
   "prompts" : [
-
+    {
+    "id": "prompt_200",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_100.jpeg",
+    "prompt": "GENERATE A HYPER REALISTIC, CINEMATIC 8K IMAGE OF THE UPLOADED MAN WITH HIS FACE FULLY PRESERVED. HE IS WEARING SLEEK BLACK SUNGLASSES AND A SHARP BLACK TAILORED SUIT, WALKING CONFIDENTLY ON A RED CARPET IN A NATURAL MOTION. HIS HANDS ARE IN HIS POCKETS, EXUDING CALM AUTHORITY AND CELEBRITY VIBES. SURROUNDING HIM ARE EXCITED FANS AND GLAMOROUS WOMEN REACHING OUT TO TOUCH HIM, WHILE JOURNALISTS' CAMERAS FLASH FROM BELOW THE FRAME, ADDING INTENSE ENERGY AND DRAMA. A LUXURY LAMBORGHINI IS PARKED RIGHT BESIDE THE RED CARPET, ENHANCING THE HIGH-STATUS ATMOSPHERE. THE SETTING SHOULD FEEL CROWDED, DENSE, AND CINEMATIC, WITH RICH LIGHTING, DRAMATIC SHADOWS, AND THE COLOR GRADING OF A HIGH-END SONY A7S4 CAMERA SHOT. ASPECT RATIO 9:16 FOR VERTICAL CINEMATIC FRAMING.",
+    "category": "Portrait",
+    "tags": [
+      "All",
+      "Trending",
+      "New",
+      "Male",
+      "Celebrity",
+      "Red Carpet",
+      "Luxury",
+      "Cinematic",
+      "Suit",
+      "8K",
+      "Hyperrealistic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-18T14:43:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_199",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_099.jpeg",
+    "prompt": "Create by using 100% same face Cinematic 8K wide-angle low angle shot: young man in Royal Blue open-collar oversized shirt, black baggy denim pants, nike white sneakers, tousled hair, walking on abandoned railway track at golden hour, hands in pockets, background bokeh, abandoned tunnel, train coach, trees, dramatic sky, distant urban horizon, rich natural color grading, soft golden light, mood of solitude and journey closer view",
+    "category": "Portrait",
+    "tags": [
+      "All",
+      "New",
+      "Male",
+      "Cinematic",
+      "8K",
+      "Golden Hour",
+      "Streetwear",
+      "Oversized",
+      "Solitude",
+      "Travel",
+      "Railway"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-18T14:43:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_198",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_098.jpeg",
+    "prompt": "A photorealistic portrait in the style of Wong Kar-wai, using the uploaded image as the face model. Emphasize the sculpted jawline and neck. The face and its unique features must be preserved exactly as they are. Pose: The young man is sitting in a congee shop, his head tilted slightly as he gazes absently outside. One elbow rests on the dining table. In front of him is a bowl of steaming hot congee. The scene is set at night in Hong Kong with neon lighting capturing the mood of a Wong Kar-wai film. Outfit: A faded, thin shirt with the top two buttons undone, the hem hanging loosely. He's wearing loose black slacks for a casual look. Color Tone: Muted green and yellow with high contrast and motion blur. Reference Style: Fallen Angels - solitude and the city at night. His hair is korean styled that accentuates with messy bangs. Natural looking on his face no make up look, focusing on defined eyes (preserve eyes), neat brows. Attire: A slightly unbuttoned black shirt, wet hair. Image Tone: High red-green contra",
+    "category": "Portrait",
+    "tags": [
+      "All",
+      "Trending",
+      "New",
+      "Male",
+      "Cinematic",
+      "Wong Kar-wai",
+      "Hong Kong",
+      "Neon",
+      "Night",
+      "Melancholy",
+      "Korean Style"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-18T14:43:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_197",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_097.jpeg",
+    "prompt": "A close-up side profile of a 27-year-old young man (based on the attached photo), standing in the rain, gazing thoughtfully into the distance with a pensive, melancholic look. He's wearing a dark baseball cap featuring a red accent and black over-ear headphones. His thick, dark hair is windswept by the coastal breeze, with strands falling loosely across his face, adding texture and movement. Raindrops glisten on his skin.",
+    "category": "Portrait",
+    "tags": [
+      "All",
+      "New",
+      "Male",
+      "Close-up",
+      "Side Profile",
+      "Rain",
+      "Melancholy",
+      "Pensive",
+      "Headphones",
+      "Coastal"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-18T14:43:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_196",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_096.jpeg",
+    "prompt": "Portrait (waist-up vertical) of a man stepping out of an arch, left arm braced on the arch edge, right arm relaxed. He wears an ivory-cream embroidered kurta with vertical bead-placket, subtle tonal threadwork and light cream trousers visible at the hem. Tousled curly hair, trimmed beard, small pendant, simple wristwatch. Background Lighting: soft diffused daylight from upper-left with warm frontal fill to preserve facial detail; gentle rim highlights on hair and shoulders; Keep my face exactly the same as the uploaded photo. Do not change or edit my face.",
+    "category": "Portrait",
+    "tags": [
+      "All",
+      "Trending",
+      "New",
+      "Male",
+      "Cultural",
+      "Traditional",
+      "Kurta",
+      "Indian",
+      "Festive",
+      "Daylight",
+      "Waist-up"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-18T14:43:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_195",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_095.jpeg",
+    "prompt": "Create a retro-modern cinematic image with subtle film grain and soft golden sunlight rays. The boy is styled in a Gen-Z creative influencer aesthetic: an oversized maroon shirt with a slightly silky texture, half-tucked into off-white wide-leg trousers that balance casual streetwear with polished tailoring. Footwear combines chunky sneakers with a sleek, designer edge. Accessories include layered minimalist jewelry, a slim belt, a crossbody bag, and subtle statement rings. His dark brown hair is wavy, windswept, styled with an effortless 'editorial casual' look. The atmosphere channels a 90s indie movie reimagined for Gen-Z Instagram - standing under a glowing vintage streetlight, book in hand, as autumn leaves swirl in the breeze. Lighting emphasizes romantic contrasts, creating a dreamy, curated mood that feels both relaxed and fashion-forward.",
+    "category": "Portrait",
+    "tags": [
+      "All",
+      "Trending",
+      "New",
+      "Male",
+      "Retro",
+      "Gen-Z",
+      "Streetwear",
+      "Editorial",
+      "90s",
+      "Autumn",
+      "Cinematic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-18T14:43:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_194",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_094.jpeg",
+    "prompt": "A cinematic portrait of a stylish young man leaning casually on a terrace railing at sunset(use reference photo), wearing a deep maroon corduroy shirt with rolled-up sleeves, beige cargo pants, sunglasses, and a golden wristwatch. He gazes to the side with confidence, bathed in warm golden light. In the background, misty mountains and a pastel-colored sky fade into the horizon, creating a dreamy, cinematic atmosphere Do not eit or change my face",
+    "category": "Portrait",
+    "tags": [
+      "All",
+      "Trending",
+      "New",
+      "Male",
+      "Cinematic",
+      "Sunset",
+      "Golden Hour",
+      "Terrace",
+      "Misty Mountains",
+      "Stylish",
+      "Corduroy"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-18T14:43:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_193",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_093.jpeg",
+    "prompt": "HE'S WEARING SUNGLASSES AND A BLACK SUIT, STANDING CASUALLY LOOKING AT THE CAMERA, HANDS IN POCKET. HE'S SURROUNDED BY GIRLS AND FANS TOUCHING HIS BODY. WITH JOURNALISTS' CAMERAS AND FLASHES BELOW THE FRAME, THE ATMOSPHERE IS DENSE CROWDED, AND DRAMATIC. HE IS COMING FROM A RED MAT USED FOR CELEBRITIES AND BESIDE HIM THEREIS HIS LEMBORGHINI 9:16 ASPECT RATIO 8K QUALITY CLICKED FROM SONY A74S",
+    "category": "Portrait",
+    "tags": [
+      "All",
+      "Trending",
+      "New",
+      "Male",
+      "Celebrity",
+      "Red Carpet",
+      "Suit",
+      "Crowd",
+      "Dramatic",
+      "Luxury",
+      "8K"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-18T14:43:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_192",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_092.jpeg",
+    "prompt": "A photorealistic portrait of an Indian man, approximately 5'8\" tall with a medium build. the provided reference image. His face has a clear, symmetrical structure. The overall style is realistic with balanced lighting. He sits casually on a stack of yellow suitcases, with a yellow backpack next to him, looking to the side with a relaxed expression. Keep my face exactly the same as the uploaded photo. Do not change or edit my face.",
+    "category": "Portrait",
+    "tags": [
+      "All",
+      "New",
+      "Male",
+      "Indian",
+      "Travel",
+      "Suitcase",
+      "Casual",
+      "Realistic",
+      "Relaxed"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-18T14:43:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_191",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_091.jpeg",
+    "prompt": "Hyper-realistic eye-level full body vertical shot of a young man leaning on a sofa, adjusting a stylish Dupatta. Wearing luxury kurta, patiyali pyjama, leather sandals, tousled black curls, luxury watch, and armband tattoo. Modern living room with soft morning light, shallow depth of field, creamy bokeh, and warm cinematic color grading in 8K.",
+    "category": "Portrait",
+    "tags": [
+      "All",
+      "Trending",
+      "New",
+      "Male",
+      "Cultural",
+      "Luxury",
+      "Kurta",
+      "Dupatta",
+      "Hyperrealistic",
+      "Cinematic",
+      "8K"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-18T14:43:06Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_190",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_090.jpeg",
+    "prompt": "Create this image in a portrait of a Guy standing among red roses, Messy hair, handsome look, confidence, cinematic atmosphere, red-white tones, soft natural light, detailed retro style, ethereal mood, yellow button up fit casual shirt and black pant .high-fashion magazine style photography, ultra realistic, 55mm lens, depth of field, 4k. Use the uploaded image for the guy face. Do not edit or change my face",
+    "category": "Portrait",
+    "tags": [
+      "All",
+      "Trending",
+      "New",
+      "Male",
+      "Roses",
+      "Fashion",
+      "Magazine Style",
+      "Retro",
+      "Ethereal",
+      "Ultra Realistic",
+      "4K"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-18T14:43:06Z",
+    "isFeatured": false
+  }
+    
+,
       {
     "id": "prompt_189",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_189.jpeg",
