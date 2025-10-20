@@ -1,6 +1,6 @@
 {
   
-  "prompts" [{
+  "prompts" : [{
     "id": "prompt_220",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_220.jpg",
     "prompt": "A high-contrast, gritty street portrait of a man, late 20s, in front of a heavily textured, paint-peeling wall in an old neighborhood. Shot with a vintage film camera aesthetic, heavy grain and subtle color shift.",
