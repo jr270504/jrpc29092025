@@ -5,7 +5,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_220.jpg",
     "prompt": "A high-contrast, gritty street portrait of a man, late 20s, in front of a heavily textured, paint-peeling wall in an old neighborhood. Shot with a vintage film camera aesthetic, heavy grain and subtle color shift.",
     "category": "Artistic",
-    "tags": ["Male", "Street", "Gritty", "Film", "Vintage", "High-Contrast", "Textured", "Portrait"],
+    "tags": ["Male","Trending", "Street", "Gritty", "Film", "Vintage", "High-Contrast", "Textured", "Portrait"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -15,7 +15,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_219.jpg",
     "prompt": "A glitch-art style headshot of a young man with a neutral pose, where digital static and neon geometric lines are subtly overlaid on the image, blending modern tech aesthetics with his face.",
     "category": "Artistic",
-    "tags": ["Male", "Glitch", "Cyberpunk", "Neon", "Abstract", "Tech", "Modern"],
+    "tags": ["Male","Trending", "Glitch", "Cyberpunk", "Neon", "Abstract", "Tech", "Modern"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -25,7 +25,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_218.jpg",
     "prompt": "A low-key portrait (mostly dark tones) of an Indian musician (30s) with long hair, illuminated only by a single warm spotlight from above. Holding a guitar neck partially in the frame.",
     "category": "Artistic",
-    "tags": ["Male", "Low-Key", "Musician", "Dramatic", "Spotlight", "Concert", "Moody"],
+    "tags": ["Male","Trending", "Low-Key", "Musician", "Dramatic", "Spotlight", "Concert", "Moody"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -35,7 +35,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_217.jpg",
     "prompt": "A hyper-realistic close-up of an Indian actor. Focus on the eyes, which are intense and direct. Shot with a wide-aperture lens against a completely out-of-focus, colorful background.",
     "category": "Cinematic",
-    "tags": ["Male", "Actor", "Hyperrealism", "Close-up", "Bokeh", "Intense", "Headshot"],
+    "tags": ["Male","Trending", "Actor", "Hyperrealism", "Close-up", "Bokeh", "Intense", "Headshot"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -45,7 +45,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_216.jpg",
     "prompt": "A cinematic headshot of an Indian man, mid-40s, with a serious expression. Dramatic chiaroscuro lighting, half his face in deep shadow and half intensely lit. Inspired by Caravaggio paintings.",
     "category": "Cinematic",
-    "tags": ["Male", "Cinematic", "Chiaroscuro", "Dramatic", "Moody", "Dark", "Artistic"],
+    "tags": ["Male","Trending", "Cinematic", "Chiaroscuro", "Dramatic", "Moody", "Dark", "Artistic"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -55,7 +55,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_215.jpg",
     "prompt": "A 'candid' moment of a man in a cafe, looking away from the camera, smiling slightly while holding a coffee cup. Warm, tungsten lighting, soft focus.",
     "category": "Casual",
-    "tags": ["Male", "Candid", "Cafe", "Lifestyle", "Warm-Light", "Soft-Focus", "Coffee"],
+    "tags": ["Male","Trending", "Candid", "Cafe", "Lifestyle", "Warm-Light", "Soft-Focus", "Coffee"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -65,7 +65,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_214.jpg",
     "prompt": "A photorealistic portrait of an Indian man with stylishly groomed hair and a simple grey hoodie, shot in soft, diffused evening light. Neutral expression, very high detail on hair strands.",
     "category": "Casual",
-    "tags": ["Male", "Photorealistic", "Hoodie", "Groomed", "Evening-Light", "Neutral", "Headshot"],
+    "tags": ["Male","Trending", "Photorealistic", "Hoodie", "Groomed", "Evening-Light", "Neutral", "Headshot"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -75,7 +75,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_213.jpg",
     "prompt": "A close-up headshot of a male fitness trainer, early 30s, short-cropped hair, wearing athletic wear. Sweat glistening slightly on his forehead. Against a dark, textured gym wall.",
     "category": "Lifestyle",
-    "tags": ["Male", "Fitness", "Gym", "Trainer", "Athletic", "Close-up", "Sweat", "Sports"],
+    "tags": ["Male","Trending", "Fitness", "Gym", "Trainer", "Athletic", "Close-up", "Sweat", "Sports"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -85,7 +85,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_212.jpg",
     "prompt": "A travel blogger (20s) with a light beard, wearing a denim jacket. Smiling genuinely, facing a jungle or mountain backdrop (like the Himalayas). Bright, sunny daylight.",
     "category": "Lifestyle",
-    "tags": ["Male", "Travel", "Blogger", "Adventure", "Himalayas", "Denim", "Sunny", "Outdoor"],
+    "tags": ["Male","Trending", "Travel", "Blogger", "Adventure", "Himalayas", "Denim", "Sunny", "Outdoor"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -95,7 +95,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_211.jpg",
     "prompt": "A casual, relaxed headshot of a man in a simple black t-shirt. Shot in an outdoor urban setting, like a busy street market in Delhi, but with the man sharply in focus and the background blurred (bokeh).",
     "category": "Casual",
-    "tags": ["Male", "Relaxed", "Urban", "Street", "T-shirt", "Bokeh", "Candid", "Lifestyle"],
+    "tags": ["Male","Trending", "Relaxed", "Urban", "Street", "T-shirt", "Bokeh", "Candid", "Lifestyle"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -105,7 +105,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_210.jpg",
     "prompt": "A portrait of a young artist from Kolkata wearing a simple cotton kurta, sitting with a cup of chai. Subtle, moody lighting filtering through a window pane. Extremely realistic skin texture.",
     "category": "Traditional",
-    "tags": ["Male", "Artist", "Kolkata", "Kurta", "Chai", "Moody-Light", "Realistic", "Traditional"],
+    "tags": ["Male","Trending", "Artist", "Kolkata", "Kurta", "Chai", "Moody-Light", "Realistic", "Traditional"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -115,7 +115,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_209.jpg",
     "prompt": "A high-fashion, monochrome portrait of a modern man in a sophisticated black Bandhgala suit. Focus on the intricate texture of the fabric. Intense, direct gaze against a plain dark wall.",
     "category": "Fashion",
-    "tags": ["Male", "Bandhgala", "Monochrome", "High-Fashion", "Indian-Formal", "Intense", "Texture", "Editorial"],
+    "tags": ["Male","Trending", "Bandhgala", "Monochrome", "High-Fashion", "Indian-Formal", "Intense", "Texture", "Editorial"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -125,7 +125,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_208.jpg",
     "prompt": "A candid portrait of an elderly Rajasthani gentleman with a distinguished mustache, wearing a vibrant, patterned turban. Deeply wrinkled face conveying wisdom. Shot with dramatic natural light, highly textured.",
     "category": "Cultural",
-    "tags": ["Male", "Rajasthani", "Turban", "Elderly", "Wisdom", "Mustache", "Cultural", "Textured"],
+    "tags": ["Male","Trending", "Rajasthani", "Turban", "Elderly", "Wisdom", "Mustache", "Cultural", "Textured"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -135,7 +135,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_207.jpg",
     "prompt": "A close-up portrait of a South Indian groom (20s) wearing a traditional silk wedding dhoti and an ornate gold thread shawl (angavastram). Shot with soft, warm light in a temple courtyard.",
     "category": "Cultural",
-    "tags": ["Male", "South-Indian", "Groom", "Wedding", "Dhoti", "Traditional", "Temple", "Gold"],
+    "tags": ["Male","Trending", "South-Indian", "Groom", "Wedding", "Dhoti", "Traditional", "Temple", "Gold"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -145,7 +145,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_206.jpg",
     "prompt": "A striking headshot of a Punjabi man in his late 20s wearing a crisp, ivory white kurta and a light saffron turban (pagdi). Shot outdoors during the Golden Hour, deep saturation.",
     "category": "Cultural",
-    "tags": ["Male", "Punjabi", "Turban", "Pagdi", "Kurta", "Golden-Hour", "Outdoor", "Cultural"],
+    "tags": ["Male","Trending", "Punjabi", "Turban", "Pagdi", "Kurta", "Golden-Hour", "Outdoor", "Cultural"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -155,7 +155,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_205.jpg",
     "prompt": "A corporate headshot of a middle-aged, distinguished man, salt-and-pepper hair, in a classic pinstripe suit. Subtle catchlight in the eyes. Shot with a medium-format lens for extreme detail.",
     "category": "Professional",
-    "tags": ["Male", "Corporate", "CEO", "Distinguished", "Pinstripe", "Business", "Headshot", "Detail"],
+    "tags": ["Male","Trending", "Corporate", "CEO", "Distinguished", "Pinstripe", "Business", "Headshot", "Detail"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -165,7 +165,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_204.jpg",
     "prompt": "A Mumbai-based entrepreneur (30s) wearing a well-fitted light grey Nehru jacket over a white kurta. Clean, white studio background. Professional, approachable smile.",
     "category": "Professional",
-    "tags": ["Male", "Entrepreneur", "Nehru-Jacket", "Mumbai", "Studio-Shot", "Business-Casual", "Clean"],
+    "tags": ["Male","Trending", "Entrepreneur", "Nehru-Jacket", "Mumbai", "Studio-Shot", "Business-Casual", "Clean"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -175,7 +175,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_203.jpg",
     "prompt": "A mid-career Indian financial analyst (40s) in a charcoal grey suit. Shot in black and white, with dramatic, cinematic lighting. Slight furrow in the brow, conveying seriousness and expertise.",
     "category": "Professional",
-    "tags": ["Male", "Finance", "Analyst", "Black-and-White", "Cinematic", "Serious", "Expertise", "Suit"],
+    "tags": ["Male","Trending", "Finance", "Analyst", "Black-and-White", "Cinematic", "Serious", "Expertise", "Suit"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -185,7 +185,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_202.jpg",
     "prompt": "A young Indian software engineer in a light blue collared shirt and modern wire-frame glasses. Against a blurred, minimalist office background. Natural, window-side lighting, close-up, high-resolution photo.",
     "category": "Professional",
-    "tags": ["Male", "Software-Engineer", "Tech", "Glasses", "Office", "Window-Light", "Minimalist", "High-Res"],
+    "tags": ["Male","Trending", "Software-Engineer", "Tech", "Glasses", "Office", "Window-Light", "Minimalist", "High-Res"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -195,7 +195,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_201.jpg",
     "prompt": "A 35-year-old successful South Indian CEO in a tailored dark navy suit, seated at a mahogany desk. Gazing directly at the camera with a confident, open smile. Soft studio lighting. Depth of field effect.",
     "category": "Professional",
-    "tags": ["Male", "CEO", "Corporate", "Business", "Suit", "Desk", "Studio-Light", "Confident", "Headshot"],
+    "tags": ["Male","Trending", "CEO", "Corporate", "Business", "Suit", "Desk", "Studio-Light", "Confident", "Headshot"],
     "popularity": 0,
     "createdAt": "2025-10-20T11:43:57Z",
     "isFeatured": false
@@ -206,7 +206,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_020.jpeg",
       "prompt": "Professional headshot of me (female), warm flattering lighting, blurred high-rise office window background with city skyline, suit or smart casual outfit.",
       "category": "Headshot",
-      "tags": ["All", "Female", "Executive", "High-Rise", "City Skyline", "Warm Light", "Suit", "Corporate"],
+      "tags": ["All","Trending", "Female", "Executive", "High-Rise", "City Skyline", "Warm Light", "Suit", "Corporate"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:04:30Z",
       "isFeatured": false
@@ -216,7 +216,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_019.jpeg",
       "prompt": "Clean portrait of me (female), crisp white background, evenly lit with professional studio lighting, minimal shadows, simple and fresh LinkedIn-ready style.",
       "category": "Portrait",
-      "tags": ["All", "Female", "LinkedIn", "Studio", "White Background", "Clean", "Minimalist", "Fresh"],
+      "tags": ["All","Trending", "Female", "LinkedIn", "Studio", "White Background", "Clean", "Minimalist", "Fresh"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:04:30Z",
       "isFeatured": false
@@ -226,7 +226,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_018.jpeg",
       "prompt": "Headshot of me (female), cinematic natural light with subtle rim lighting, blurred office corridor in background, face sharp, expression calm and confident.",
       "category": "Headshot",
-      "tags": ["All", "Female", "Cinematic", "Office", "Rim Lighting", "Confident", "High-Quality"],
+      "tags": ["All","Trending", "Female", "Cinematic", "Office", "Rim Lighting", "Confident", "High-Quality"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:04:30Z",
       "isFeatured": false
@@ -236,7 +236,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_017.jpeg",
       "prompt": "Professional portrait of me (female), lit with balanced cool light, modern conference stage blurred in background, sharp focus on face, confident but approachable tone.",
       "category": "Portrait",
-      "tags": ["All", "Female", "Professional", "Conference", "Stage", "Cool Light", "Confident", "Public Speaking"],
+      "tags": ["All","Trending", "Female", "Professional", "Conference", "Stage", "Cool Light", "Confident", "Public Speaking"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:04:30Z",
       "isFeatured": false
@@ -246,7 +246,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_016.jpeg",
       "prompt": "Fresh outdoor headshot of me (female), golden hour lighting, background of blurred greenery, natural flattering shadows, professional yet approachable look.",
       "category": "Headshot",
-      "tags": ["All", "Female", "Outdoor", "Golden Hour", "Greenery", "Natural Light", "Approachable"],
+      "tags": ["All","Trending", "Female", "Outdoor", "Golden Hour", "Greenery", "Natural Light", "Approachable"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:04:30Z",
       "isFeatured": false
@@ -256,7 +256,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_015.jpeg",
       "prompt": "Headshot of me (female), warm neutral lighting, business casual outfit, background with soft blurred brown and beige office tones, approachable and trustworthy expression.",
       "category": "Headshot",
-      "tags": ["All", "Female", "Corporate", "Business Casual", "Warm Light", "Approachable", "Trustworthy"],
+      "tags": ["All","Trending", "Female", "Corporate", "Business Casual", "Warm Light", "Approachable", "Trustworthy"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:04:30Z",
       "isFeatured": false
@@ -266,7 +266,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_014.jpeg",
       "prompt": "Professional photo of me (female), lit by large soft window light, background slightly blurred, airy and clean, smiling naturally.",
       "category": "Photo",
-      "tags": ["All", "Female", "Professional", "Daylight", "Soft Light", "Airy", "Clean", "Smiling"],
+      "tags": ["All","Trending", "Female", "Professional", "Daylight", "Soft Light", "Airy", "Clean", "Smiling"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:04:30Z",
       "isFeatured": false
@@ -276,7 +276,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_013.jpeg",
       "prompt": "Portrait of me (female), casual smart outfit, natural lighting, blurred coworking office background with laptops and plants, vibrant but professional tone.",
       "category": "Portrait",
-      "tags": ["All", "Female", "Casual Smart", "Coworking", "Office", "Natural Light", "Vibrant"],
+      "tags": ["All","Trending", "Female", "Casual Smart", "Coworking", "Office", "Natural Light", "Vibrant"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:04:30Z",
       "isFeatured": false
@@ -286,7 +286,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_012.jpeg",
       "prompt": "Clean headshot of me (female), studio lighting with balanced highlights, neutral gray backdrop, crisp professional look, eyes sharp in focus, natural retouching only.",
       "category": "Headshot",
-      "tags": ["All", "Female", "LinkedIn", "Studio", "Clean", "Professional", "Minimalist", "Gray Backdrop"],
+      "tags": ["All","Trending", "Female", "LinkedIn", "Studio", "Clean", "Professional", "Minimalist", "Gray Backdrop"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:04:30Z",
       "isFeatured": false
@@ -306,7 +306,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_010.jpeg",
       "prompt": "Professional headshot of a male, warm flattering lighting, blurred high-rise office window background with city skyline, suit or smart casual outfit.",
       "category": "Professional Headshot",
-      "tags": ["All", "New", "Male", "Professional", "Headshot", "Executive", "City Skyline", "High-Rise", "Warm Lighting", "Suit", "Office"],
+      "tags": ["All","Trending", "New", "Male", "Professional", "Headshot", "Executive", "City Skyline", "High-Rise", "Warm Lighting", "Suit", "Office"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:01:00Z",
       "isFeatured": false
@@ -316,7 +316,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_009.jpeg",
       "prompt": "Clean portrait of a male, crisp white background, evenly lit with professional studio lighting, minimal shadows, simple and fresh LinkedIn-ready style.",
       "category": "Professional Headshot",
-      "tags": ["All", "New", "Male", "Professional", "Portrait", "Studio", "White Background", "Minimalist", "Clean", "LinkedIn", "Fresh"],
+      "tags": ["All","Trending", "New", "Male", "Professional", "Portrait", "Studio", "White Background", "Minimalist", "Clean", "LinkedIn", "Fresh"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:01:00Z",
       "isFeatured": false
@@ -326,7 +326,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_008.jpeg",
       "prompt": "Headshot of a male, cinematic natural light with subtle rim lighting, blurred office corridor in background, face sharp, expression calm and confident.",
       "category": "Professional Headshot",
-      "tags": ["All", "New", "Male", "Professional", "Headshot", "Office", "Cinematic", "Rim Lighting", "Calm", "Confident", "Corridor"],
+      "tags": ["All","Trending", "New", "Male", "Professional", "Headshot", "Office", "Cinematic", "Rim Lighting", "Calm", "Confident", "Corridor"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:01:00Z",
       "isFeatured": false
@@ -336,7 +336,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_007.jpeg",
       "prompt": "Professional portrait of a male, lit with balanced cool light, modern conference stage blurred in background, sharp focus on face, confident but approachable tone.",
       "category": "Professional Headshot",
-      "tags": ["All", "New", "Male", "Professional", "Portrait", "Conference", "Stage", "Cool Light", "Modern", "Confident"],
+      "tags": ["All","Trending", "New", "Male", "Professional", "Portrait", "Conference", "Stage", "Cool Light", "Modern", "Confident"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:01:00Z",
       "isFeatured": false
@@ -346,7 +346,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_006.jpeg",
       "prompt": "Fresh outdoor headshot of a male, golden hour lighting, background of blurred greenery, natural flattering shadows, professional yet approachable look.",
       "category": "Professional Headshot",
-      "tags": ["All", "New", "Male", "Professional", "Headshot", "Outdoor", "Greenery", "Golden Hour", "Natural Light", "Approachable"],
+      "tags": ["All","Trending", "New", "Male", "Professional", "Headshot", "Outdoor", "Greenery", "Golden Hour", "Natural Light", "Approachable"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:01:00Z",
       "isFeatured": false
@@ -356,7 +356,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_005.jpeg",
       "prompt": "Headshot of a male, warm neutral lighting, business casual outfit, background with soft blurred brown and beige office tones, approachable and trustworthy expression.",
       "category": "Professional Headshot",
-      "tags": ["All", "New", "Male", "Professional", "Headshot", "Office", "Warm", "Corporate", "Business Casual", "Brown Tones", "Trustworthy"],
+      "tags": ["All","Trending", "New", "Male", "Professional", "Headshot", "Office", "Warm", "Corporate", "Business Casual", "Brown Tones", "Trustworthy"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:01:00Z",
       "isFeatured": false
@@ -366,7 +366,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_004.jpeg",
       "prompt": "Professional photo of a male, lit by large soft window light, background slightly blurred, airy and clean, smiling naturally.",
       "category": "Professional Headshot",
-      "tags": ["All", "New", "Male", "Professional", "Photo", "Daylight", "Window Light", "Soft", "Airy", "Clean", "Smiling"],
+      "tags": ["All","Trending", "New", "Male", "Professional", "Photo", "Daylight", "Window Light", "Soft", "Airy", "Clean", "Smiling"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:01:00Z",
       "isFeatured": false
@@ -376,7 +376,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_003.jpeg",
       "prompt": "Portrait of a male, casual smart outfit, natural lighting, blurred coworking office background with laptops and plants, vibrant but professional tone.",
       "category": "Professional Headshot",
-      "tags": ["All", "New", "Male", "Professional", "Portrait", "Office", "Startup", "Coworking", "Casual Smart", "Vibrant", "Plants"],
+      "tags": ["All","Trending", "New", "Male", "Professional", "Portrait", "Office", "Startup", "Coworking", "Casual Smart", "Vibrant", "Plants"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:01:00Z",
       "isFeatured": false
@@ -386,7 +386,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_002.jpeg",
       "prompt": "Clean headshot of a male, studio lighting with balanced highlights, neutral gray backdrop, crisp professional look, eyes sharp in focus, natural retouching only.",
       "category": "Professional Headshot",
-      "tags": ["All", "New", "Male", "Professional", "Headshot", "Studio", "Neutral", "Gray Backdrop", "LinkedIn", "Crisp"],
+      "tags": ["All","Trending", "New", "Male", "Professional", "Headshot", "Studio", "Neutral", "Gray Backdrop", "LinkedIn", "Crisp"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:01:00Z",
       "isFeatured": false
@@ -396,7 +396,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/hsp270504/refs/heads/main/prompt_001.jpeg",
       "prompt": "A professional headshot of a male, natural skin tones, flattering daylight from a window, soft shadows, blurred modern office background with glass walls, head slightly tilted, friendly confident expression.",
       "category": "Professional Headshot",
-      "tags": ["All", "New", "Male", "Professional", "Headshot", "Office", "Daylight", "Window Light", "Modern", "Friendly"],
+      "tags": ["All","Trending", "New", "Male", "Professional", "Headshot", "Office", "Daylight", "Window Light", "Modern", "Friendly"],
       "popularity": 0,
       "createdAt": "2025-10-02T15:01:00Z",
       "isFeatured": false
