@@ -1,6 +1,157 @@
 {
   
   "prompts": [
+     {
+    "id": "prompt_250",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_250.jpg",
+    "prompt": "A hyper-realistic cinematic 9:16 portrait based on the uploaded image, keeping the same face and hairstyle of A stylish young man sitting confidently on the front bonnet of a black jeep car at night on a wet road. He is wearing a sharp black suit with a white open-collar shirt, black formal loafers, and dark sunglasses. He is holding a vape, exhaling smoke stylishly. The background is cinematic with glowing street lights, misty fog, and blurred trees, creating a. moody and dramatic atmosphere. The man's pose is casual yet classy, with one hand resting on his thigh and the other. holding the vape near his lips. Ultra realistic, high resolution, 8K, cinematic lighting, professional photography style, detailed textures on the car, wet road reflections, bokeh background, premium luxury vibe",
+    "category": "Cinematic",
+    "tags": ["All", "Trending", "New", "Male", "Car", "Jeep", "Night", "Cinematic", "8K", "Luxury", "Vape", "Hyper-realistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_249",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_249.jpg",
+    "prompt": "BMW X1 luxury SUV in studio, male model (Uploaded image) face and body composition remain same in Black tailored suit standing confidently beside driver's door, glossy black floor reflections, dramatic cinematic studio lighting, Sony FX3, 55mm lens, low angle, ultra-detailed photorealism, fashion editorial look 16:9 style raw",
+    "category": "Automotive",
+    "tags": ["All", "Trending", "New", "Male", "Car", "BMW", "Luxury", "Studio", "Cinematic", "Fashion", "Photorealistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_248",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_248.jpg",
+    "prompt": "Make a Hyper realistic Image Of 20 years Young handsome Man Wearing All black dressing, Clear Sunglasses, Wrist watch, White Nike Sneakers, Hair Same As Uploaded Face, Leaning On yellow and black Modified Mustang In Background Have A Dubai Big Museum, 4k Ultra Realistic Cinematic Image, The atmosphere is serene moody with wam sunlight. 100% face matching",
+    "category": "Automotive",
+    "tags": ["All", "Trending", "New", "Male", "Car", "Mustang", "Dubai", "Museum", "Cinematic", "4K", "Hyper-realistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_247",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_247.jpg",
+    "prompt": "Ultra realistic cinematic photo of a person standing in front of a luxury black Mahindra Thar SUV with massive custom alloy wheels and rugged off-road tires, detailed reflections on the glossy car body, high definition sharpness. Face with the face from the uploaded image, keeping the facial features exactly the same. and a stylish modern hairstyle, wearing a striking black and red leather jacket over a plain black t-shirt, paired with black trousers and black sneakers. He is wearing dark sunglasses, standing with hands in pockets, looking confidently to the side with a cool attitude. The background includes an urban street view with a restaurant sign \"KABIRKK\", outdoor seating area, and a few casually dressed people in the distance, captured in daylight with natural shadows. Hyper-detailed textures on the car, clothes, and pavement, professional fashion photography, HDR quality, realistic depth of field, vibrant yet natural colors, ultra-sharp focus, cinematic composition, premium lux vibe.",
+    "category": "Automotive",
+    "tags": ["All", "Trending", "New", "Male", "Car", "SUV", "Mahindra Thar", "Luxury", "Cinematic", "Urban", "Fashion"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_246",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_246.jpg",
+    "prompt": "Ultra realistic, high-resolution cinematic poster of a person stepping into a rugged black off-road jeep under a dramatic cloudy sky. He has short styled hair, Face with the face from the uploaded image, keeping the facial features exactly the same. He wears a half-sleeve black shirt with the sleeves rolled up, unbuttoned slightly at the chest, revealing a beaded chain around his neck. His lower attire is a traditional crisp white veshti/dhoti with a shiny silver border, folded up in a rugged style, adding to his bold presence. His arm rests on the jeep as he steps. The jeep is large, black, and detailed with thick tires and metallic parts. Dust rises in the background where faint silhouettes of people are running, adding tension and dynamism. The lighting is dramatic and moody, highlighting his figure with cinematic depth, shadows, and contrast. The entire atmosphere conveys strength, authority, cinematic ultra realistic.",
+    "category": "Cinematic",
+    "tags": ["All", "Trending", "New", "Male","Car", "Jeep", "Off-road", "Cinematic", "Dramatic", "Traditional", "Action"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_245",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_245.jpg",
+    "prompt": "Ultra realistic 8K cinematic portrait of a person standing beside a shiny red SUV car. He has thick wavy voluminous hair, Face with the face from the uploaded image, keeping the facial features exactly the same. wears black aviator sunglasses. Outfit: dark black shirt over a black t-shirt, sleeves rolled up, modern classy look. The man is leaning casually on the car door with one hand resting on it while the other hangs relaxed. Background: soft pastel sky with pink and peach sunset gradient, slightly blurred bokeh effect to enhance focus on the subject. Lighting: warm golden tones, cinematic shadows, sharp facial details, smooth skin texture, glossy hair highlights. Photorealistic, high contrast, fashion magazine style, highly detailed, dramatic and stylish atmosphere.",
+    "category": "Automotive",
+    "tags": ["All", "Trending", "New", "Male", "Car", "SUV", "Cinematic", "Sunset", "8K", "Photorealistic", "Fashion"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_244",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_244.jpg",
+    "prompt": "Prompt: \"A cinematic, ultra-clear evening photograph of a young man leaning casually with arms crossed against the front grill of a red Mahindra Thar SUV parked on the side of an empty modern highway. \"he has haircut is same style and beardcut is same style and face is same\". The man wears a fitted black polo shirt, dark blue jeans, and white sneakers with blue accents. He stands with one leg crossed over the other, gazing slightly to the side. The SUV's headlights are off.",
+    "category": "Automotive",
+    "tags": ["All", "Trending", "New", "Male", "Car", "SUV", "Cinematic", "Evening", "Highway", "Mahindra Thar"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_243",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_243.jpg",
+    "prompt": "This is a photo of me. Please create a cinematic high-quality portrait of me without changing any of my facial features and appearances. Joyful birthday celebration scene with a young man (me) sitting on the floor in a bright studio spaсе, wearing a stylish white shirt with rolled-up sleeves and tailored trousers. He has a modern, well-groomed hairstyle and is smiling brightly while holding a confetti popper that has just exploded, filling the air with sparkling rose-gold and metallic confetti. Around him are several large shiny rose-gold balloons scattered across the floor, reflecting light. In front of him sits a white birthday cake decorated with pink and gold accents, topped with metallic \"29\" candles. The floor and background are covered with glittering confetti, creating a festive and glamorous atmosphere. The lighting is soft, bright, and celebratory, highlighting his joyful expression and the playful yet elegant mood of the scene",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Male", "Birthday", "Celebration", "Confetti", "Glamorous", "Cinematic", "Studio"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_242",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_242.jpg",
+    "prompt": "\"A stylish young man captured in a mirror selfie, his face obscured by a smartphone with a dark case. He is wearing a slightly oversized, light-colored (off-white/cream) button-up shirt, with one hand casually in his pocket. Minimal accessories are visible, including a red thread on his wrist and a ring. The background is a dynamic collage of black and white elements: newspaper clippings and text, graphic cut-outs of electric guitars, headphones, stars, and bold text overlays like 'HAPPY', 'STAR', and 'DO I WANNA KNOW'. The overall aesthetic is a trendy, urban, and artistic vibe with a grunge or pop-art influence, maintaining the original image's aspect ratio.\"",
+    "category": "Collage",
+    "tags": ["All", "Trending", "New", "Aesthetic","Male", "Selfie", "Grunge", "Pop Art", "Urban", "Black and White", "Trendy"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_241",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_241.jpg",
+    "prompt": "\"A young man is prominently featured in this vibrant, music-themed collage. He's wearing a light blue, long-sleeved collared shirt, and has a silver-toned watch or bracelet on his left wrist. He's holding a dark-cased smartphone directly in front of his face, obscuring it. His figure is sharply outlined with a bright, cool-toned (likely white or very light blue) neon glow, making him stand out from the background. The background itself is a busy and colorful mosaic of various album covers, music player interfaces, and abstract musical graphics, all densely packed together. The overall aesthetic is energetic and contemporary, evoking a strong sense of pop culture and a trendy, youthful vibe, while maintaining the original image's aspect ratio.\"",
+    "category": "Collage",
+    "tags": ["All", "Trending", "New", "Aesthetic","Male", "Music", "Neon", "Colorful", "Pop Culture", "Trendy", "Youthful"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_240",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_240.jpg",
+    "prompt": "\"A young man is the central figure in this dynamic, music-themed collage. He's wearing a red t-shirt with large white numbers '18' on the front and a necklace with a noticeable pendant. He's holding a white-cased smartphone in one hand, while the other hand is near his face, adjusting his hair or holding something. His figure is outlined with a vibrant blue neon glow, giving him a striking, almost electric presence. To his right, a ghostly white skull floats in the air. The background is a dense, chaotic collage of various album covers, song interfaces, and music-related imagery, all set against a dark backdrop. There are subtle fiery particle effects or light flares scattered throughout the image, adding to the energetic and edgy aesthetic. The overall style is reminiscent of a digital scrapbook or a music fan's mood board, with a cool, youthful, and slightly rebellious vibe.\"",
+    "category": "Collage",
+    "tags": ["All", "Trending", "New", "Aesthetic","Male", "Music", "Neon", "Grunge", "Edgy", "Rebellious", "Youthful"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_239",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_239.jpg",
+    "prompt": "A stylish young man taking a mirror selfie, wearing a sky blue loose shirt and white pants, holding the shirt casually with one hand, minimal jewelry, curly hair, realistic lighting, and soft white outline glow around him. The background is a modern grayscale aesthetic collage with elements like electric guitar, headphones, dice, cat face decor, 3D stars, and “STAR” graffiti text. Artistic, trendy, Instagram-style edit with balanced composition and HD quality, same proportions as portrait photo.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Aesthetic", "Male", "Selfie", "Grayscale", "Aesthetic", "Modern", "Instagram", "Trendy"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_238",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_238.jpg",
+    "prompt": "A stylish young man posing with one hand on his face and the other in his pocket, wearing a loose black shirt and light beige pants. He has voluminous curly hair and is standing against an artistic black-and-gray collage background. The collage includes elements like a police car, flying horse (Pegasus), perfume bottle, newspaper text, record label, and abstract paint textures. Aesthetic dark grunge mood with soft white outline glow around the person, realistic lighting, and portrait size composition. Modern Instagram-style HD photo edit.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Aesthetic","Male", "Grunge", "Dark", "Collage", "Artistic", "Instagram", "Curly Hair"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_237",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_237.jpg",
+    "prompt": "Create using uploaded image A stylish young man taking a mirror selfie, wearing a navy blue loose shirt and white pants, minimal jewelry, curly hair, holding a phone in front of his face. Soft pink background decorated with small red spiderweb hearts, aesthetic modern vibe, soft shadow outline around the person, name “Abhi” written in elegant cursive font on the side, clean and realistic portrait, well-lit and trendy Instagram-style edit.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Aesthetic","Male", "Selfie", "Aesthetic", "Modern", "Instagram", "Pink", "Heart"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_236",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_236.jpg",
+    "prompt": "A young man takes a mirror selfie, his face completely covered by a white-cased smartphone. He is dressed in a light blue, long-sleeved collared shirt and white pants, with one hand casually in his pocket. He is wearing a simple gold-colored wristband or watch. The background is a dense, black and white collage of newspaper clippings and articles, creating a textured, monochromatic backdrop. Interspersed within this background are various graphic elements in black and white: a bold pair of lips with lipstick, a star, a classic flip phone, a glossy black ribbon or bow, and some loose buttons. The overall aesthetic is trendy, urban, and slightly edgy, combining fashion with a chaotic yet artistic journalistic feel, maintaining the original image's aspect ratio.",
+    "category": "Portrait",
+    "tags": ["All", "Trending", "New", "Aesthetic","Male", "Selfie", "Fashion", "Urban", "Edgy", "Collage", "Black and White"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  }
+    ,
     {
     "id": "prompt_235",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_235a.jpg",
