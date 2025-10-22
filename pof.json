@@ -18,5 +18,8 @@
     "riCooldownSeconds": 30,
     "unlimitedCopyDurationSeconds": 300,
     "removeBannerDurationSeconds": 3600
-  }
+  },
+  "desiredOrder": [
+      "Trending", "Retro", "Aesthetic", "Couple", "Birthday","Vintage", "Cultural", "Branding", "Sports", "Male", "Female"
+    ]
 }
