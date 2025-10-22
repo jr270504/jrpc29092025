@@ -20,6 +20,6 @@
     "removeBannerDurationSeconds": 3600
   },
   "desiredOrder": [
-      "Trending", "Retro", "Aesthetic","Cinematic", "Couple", "Birthday","Vintage", "Cultural", "Branding", "Sports", "Male", "Female"
+      "Trending", "Retro", "Aesthetic","Cinematic", "Couple", "Car", "Birthday","Vintage", "Cultural", "Branding", "Sports", "Male", "Female"
     ]
 }
