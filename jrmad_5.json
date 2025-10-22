@@ -1,0 +1,25 @@
+{
+ "prompts": [
+  {
+    "id": "prompt_252",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_252.jpeg",
+    "prompt": "A stylish confident young man sitting on the edge of a rugged black SUV Tar) bonnet on a wet Mumbai beach street, driver-side door open. Medium-length pompadour fade hair, short boxed beard black round sunglasses, Outfit all block: fitted half-sleeve shirt with op en collar ripped skinny joms ath tears on both mees, black leather combat boots, black Apple wristwatch. Oncot on the bonnet, other foot frely on wet road, bands casualy resting, looking at the camera. SUV slightly dirty, tires visible. Background: distansen, greczery blurred, overcast bright sky. Mood: cinematic, stylish urban, modern masculine cool color tone. Light high clarity and contrast.\"",
+    "category": "Automotive",
+    "tags": ["All", "Trending", "New", "Male", "Car", "SUV", "Thar", "Mumbai", "Beach", "Cinematic", "Urban", "Stylish", "Masculine"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_251",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_251.jpeg",
+    "prompt": "A stylish confident young man half stepping out of a rugged black SUV (Thar) on a wet Mumbai beach street, driver-side door wide open. Medium-length pompadour fade hair, short boxed beard, black round sunglasses. Outfit all black: fitted half-sleeve shirt with open collar, ripped skinny jeans with tears on both knees, black leather combat boots black pple wristwatch. Left hand resting on open car door, right foot overeted body leaning slightly out. SUV slightly dirty, tiros visible. Background: distantsca, greener blurred, overcast bright sky. Mood: cinematic, modern, masculine, cool color tone. ingh clarity and contrast.\"",
+    "category": "Automotive",
+    "tags": ["All", "Trending", "New", "Male", "Car", "SUV", "Thar", "Mumbai", "Beach", "Cinematic", "Modern", "Masculine"],
+    "popularity": 0,
+    "createdAt": "2025-10-22T00:00:00Z",
+    "isFeatured": false
+  }
+   
+ ]
+}
