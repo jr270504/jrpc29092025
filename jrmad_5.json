@@ -1,6 +1,117 @@
 {
  "prompts": [
   {
+    "id": "prompt_263",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_263.jpeg",
+    "prompt": "Make this photo as reference to create a photo of a me. based on the uploaded photo, make a 6 vintage collage square size a Authentic retro film look: faded tones, pastel, creamy whites, film grain, dust, scratches, dreamy morning light. Subject wearing white spaghetti duster dress. light make up, pink blush, messy long semi wavy dark brown hair, natural candid wake-up vibe. Mix of shy smiles, playful laughter, covering face, pouting, lying on bed.",
+    "category": "Portrait",
+    "tags": ["All", "New", "Trending", "Female", "Vintage", "Collage", "Film", "Soft Light", "Retro", "Aesthetic", "Candid", "Morning Vibe"],
+    "popularity": 0,
+    "createdAt": "2025-10-24T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_262",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_262.jpeg",
+    "prompt": "Outdoor portrait photograph with a bright low-angle perspective. The main subject is a young man with smooth skin [reference man on the photo] and messy black hair, looking at a cat with a happy expression. The man is wearing a broken white linen shirt, he is in the middle of a dense white flowering tree, with the flowers framing his face and the top of the frame, creating a beautiful blurred effect in the foreground and background. On the man's shoulder, there is a large, fluffy white cat that.",
+    "category": "Portrait",
+    "tags": ["All", "New", "Male", "Cat", "Outdoor", "Nature", "Flowers", "Bright", "Soft Focus", "Warm Light", "Happy Expression"],
+    "popularity": 0,
+    "createdAt": "2025-10-24T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_261",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_261.jpeg",
+    "prompt": "Create a vertical frame size 2160x3840 pixels (4K quality) - divided into three equally sized horizontal images placed together. The main character is based on the reference face, hairstyle, and body: a young figure with an expression of sadness and nostalgia, deep eyes radiating loneliness. The outfit is a loose winter puffer set with wide-leg pants and a black scarf. The overall atmosphere is covered in white snow, with a cold color palette that evokes melancholy and solitude. Image 1 (portrait): The character holds a transparent umbrella, turning their head slightly back while looking directly at the frame. The expression is sorrowful, with soulful eyes. Image 2 (full body): The character stands alone in a vast snowy field, walking while gazing at the sky. In the distance, a few bare, leafless trees stand. The scene conveys smallness and isolation against the vastness of nature. Image 3 (close-up): A zoomed-in shot of the character's eyes, with a distant, sorrowful gaze that evokes feelings of loneliness and yearning.",
+    "category": "Storyboard",
+    "tags": ["All", "New", "Male", "Cinematic", "Winter", "Snow", "Melancholy", "4K", "Atmospheric", "Sadness", "Umbrella", "Close-Up"],
+    "popularity": 0,
+    "createdAt": "2025-10-24T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_260",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_260.jpeg",
+    "prompt": "Multi-panel photorealistic storyboard, 3 panels (Top / Middle / Bottom stacked vertically). Retro Japanese summer seaside editorial, nostalgic aesthetic. Unisex subject, keep the original face. Top: extreme low-angle wide shot, arms stretched, patterned shirt, indigo sky with seagulls, freedom. Middle: close-up eye-level, facing camera, oversized summer T-shirt, nostalgic gaze or faint smile, blurred teal sea, dreamy haze. 20 years boy Face reference 100%.",
+    "category": "Storyboard",
+    "tags": ["All", "New", "Unisex", "Editorial", "Retro", "Summer", "Japanese", "Seaside", "Nostalgia", "Dreamy", "Cinematic", "Film Look"],
+    "popularity": 0,
+    "createdAt": "2025-10-24T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_259",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_259.jpeg",
+    "prompt": "Create a cinematic and atmospheric photo featuring a young man uploaded person in a dimly lit public transportation vehicle, such as a train or bus. Wearing a tee, hoodie jacket, wireless earphones, he enjoys music from his phone. In front of him is a visual overlay from a music player app playing the song 'Creepin' by the vocalist of 'Metro Boomin, The Weekend, 21 Savage.' The lighting in the photo is warm and slightly yellowish, with soft light coming from outside the window.",
+    "category": "Cinematic",
+    "tags": ["All", "New", "Male", "Cinematic", "Low Light", "Public Transport", "Urban", "Music", "Mood", "Warm Light", "Atmosphere"],
+    "popularity": 0,
+    "createdAt": "2025-10-24T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_258",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_258.jpeg",
+    "prompt": "Without changing my facial features and face. It should be look like realistic. remove my earrings. Generate an image of a young woman sitting on a stone bench in a narrow alleyway with beige buildings and greenery in the background. She has long brown hair and is wearing a lime green saree with large white daisies and a matching dupatta. She's wearing pink heart-shaped sunglasses, red nail polish, multiple colorful bangles on her right wrist, and rings on her left hand. The lighting is soft and natural with a warm tone. Capture the image with high realism, sharpness, and quality. The woman's pose is with her right hand adjusting her sunglasses and her left hand resting on her lap.",
+    "category": "Portrait",
+    "tags": ["All", "New", "Female", "Saree", "Fashion", "Indian", "Street", "Natural Light", "Warm Tone", "Colorful", "Realistic"],
+    "popularity": 0,
+    "createdAt": "2025-10-24T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_257",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_257.jpeg",
+    "prompt": "photograph of a man with dark curly hair (don't change the face make sure the face is exactly like the uploaded image), wearing a black and beige striped windbreaker and black pants, sitting on the roof of a white race car with decals. He is looking away from the camera, set against a dark, moody, and overcast sky. --ar 9:16 --style raw --v 6.0",
+    "category": "Portrait",
+    "tags": ["All", "New", "Male", "Moody", "Automotive", "Overcast", "Cinematic", "Urban", "Raw Style", "9:16"],
+    "popularity": 0,
+    "createdAt": "2025-10-24T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_256",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_256.jpeg",
+    "prompt": "Edit foto menjadi dua buah foto yang dipegang dengan satu tangan di bagian depan gambar, dengan jari terlihat memegang kedua foto secara berdampingan, foto di sebelah kiri pria (dengan referensi wajah dan rambut asli pada foto pertama), terlihat sedikit tersenyum, mata terpejam, memakai kemeja putih kerah formal, dengan latar belakang biru. Sedangkan foto di sebelah kanan wanita (referensi wajah foto kedua) berhijab hitam dan membuat ekspresi wajah tersenyum sambil menunjuk ke pipi pria, memakai kemeja lengan panjang putih kerah formal dengan latar biru, buat tangan nya keluar dari foto dan berinteraksi menekan pipi sang pria disampingnya, foto keduanya menyerupai pas foto formal buku nikah. Komposisi keseluruhan bersifat lucu, romantis dan penuh keceriaan. Tidak mengubah fitur dan struktur wajah asli.",
+    "category": "Couple",
+    "tags": ["All", "New", "Male", "Female", "Romantic", "Cute", "Couple", "Formal", "Wedding", "Blue Background", "Creative Edit"],
+    "popularity": 0,
+    "createdAt": "2025-10-24T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_255",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_255.jpeg",
+    "prompt": "D-portrait with Fuji film Pro 400H camera using old lens filter, keeping face and face as photo reference. A young woman is wearing a clean white solitaire dress with a cute and flowly design. The dress looks like a corset or folds slightly into the shape of the chest and body, showing her beautiful figure. There are soft pleated edges or details. Hairstyle is 'long black hair with butterfly cut' modern or layered that accentuate the face frame. She sat by an old wooden window covered with lush green leaves and vines crawling around. The sun shines through the leaves gently and beautifully. Don't change my face features.",
+    "category": "Portrait",
+    "tags": ["All", "New", "Female", "Film", "Vintage", "Fuji", "Editorial", "Soft Light", "Window", "Greenery", "Butterfly Cut"],
+    "popularity": 0,
+    "createdAt": "2025-10-24T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_254",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_254.jpeg",
+    "prompt": "A very handsome young boy with uploaded reference face, standing naturally in a tall grass field filled with soft white pampas flowers, wearing a loose white button-up shirt with slightly rolled sleeves and white trousers. One hand gently holding a pampas flower, other hand in pocket. Body facing forward, head slightly tilted down, eyes softly downward, calm thoughtful expression. Background softly blurred, pampas glowing in sunlight, dreamy bright atmosphere. Cinematic soft tones, pastel colour.",
+    "category": "Portrait",
+    "tags": ["All", "New", "Male", "Nature", "Pampas", "Soft Light", "Pastel", "Dreamy", "Calm", "Fashion", "Cinematic"],
+    "popularity": 0,
+    "createdAt": "2025-10-24T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_253",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_253.jpeg",
+    "prompt": "Buatkan gambar realistis 8k hd high resolution dengan ukuran 3:4, Seorang pria muda di foto (jangan ubah wajah asli) duduk santai di rerumputan hijau yang diterangi cahaya matahari siang. Rambutnya hitam pekat, tebal, agak bergelombang, sedikit berantakan alami namun tetap rapi, menambah kesan kasual. la mengenakan kaos pendek oversize berwarna hitam dengan grafik, dipadukan dengan celana jins biru longgar. Di kakinya, ia memakai sepatu kets putih bersih dengan desain klasik. Pria itu menatap ke arah langit biru luas yang dipenuhi awan putih tebal berbentuk dramatis, ekspresinya tenang sekaligus penuh perenungan. Di belakangnya, terlihat sebuah motor klasik berwarna oranye mengilap dengan detail chrome, menambah kesan maskulin dan bebas. Suasana foto terasa natural, realistis, dan sinematis, menggambarkan momen istirahat seorang pria muda yang sedang menikmati hari cerah di alam terbuka dengan latar langit luas.",
+    "category": "Portrait",
+    "tags": ["All", "New", "Male", "8K", "Realistic", "Outdoor", "Motorcycle", "Nature", "Casual", "Sunny", "Cinematic", "Freedom"],
+    "popularity": 0,
+    "createdAt": "2025-10-24T00:00:00Z",
+    "isFeatured": false
+  }
+  ,
+  {
     "id": "prompt_252",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_252.jpg",
     "prompt": "A stylish confident young man sitting on the edge of a rugged black SUV Tar) bonnet on a wet Mumbai beach street, driver-side door open. Medium-length pompadour fade hair, short boxed beard black round sunglasses, Outfit all block: fitted half-sleeve shirt with op en collar ripped skinny joms ath tears on both mees, black leather combat boots, black Apple wristwatch. Oncot on the bonnet, other foot frely on wet road, bands casualy resting, looking at the camera. SUV slightly dirty, tires visible. Background: distansen, greczery blurred, overcast bright sky. Mood: cinematic, stylish urban, modern masculine cool color tone. Light high clarity and contrast.\"",
