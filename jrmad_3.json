@@ -2,7 +2,7 @@
   "prompts" : [
     {
     "id": "prompt_200",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_200.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_200.jpg",
     "prompt": "GENERATE A HYPER REALISTIC, CINEMATIC 8K IMAGE OF THE UPLOADED MAN WITH HIS FACE FULLY PRESERVED. HE IS WEARING SLEEK BLACK SUNGLASSES AND A SHARP BLACK TAILORED SUIT, WALKING CONFIDENTLY ON A RED CARPET IN A NATURAL MOTION. HIS HANDS ARE IN HIS POCKETS, EXUDING CALM AUTHORITY AND CELEBRITY VIBES. SURROUNDING HIM ARE EXCITED FANS AND GLAMOROUS WOMEN REACHING OUT TO TOUCH HIM, WHILE JOURNALISTS' CAMERAS FLASH FROM BELOW THE FRAME, ADDING INTENSE ENERGY AND DRAMA. A LUXURY LAMBORGHINI IS PARKED RIGHT BESIDE THE RED CARPET, ENHANCING THE HIGH-STATUS ATMOSPHERE. THE SETTING SHOULD FEEL CROWDED, DENSE, AND CINEMATIC, WITH RICH LIGHTING, DRAMATIC SHADOWS, AND THE COLOR GRADING OF A HIGH-END SONY A7S4 CAMERA SHOT. ASPECT RATIO 9:16 FOR VERTICAL CINEMATIC FRAMING.",
     "category": "Portrait",
     "tags": [
@@ -24,7 +24,7 @@
   },
   {
     "id": "prompt_199",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_195.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_195.jpg",
     "prompt": "Create by using 100% same face Cinematic 8K wide-angle low angle shot: young man in Royal Blue open-collar oversized shirt, black baggy denim pants, nike white sneakers, tousled hair, walking on abandoned railway track at golden hour, hands in pockets, background bokeh, abandoned tunnel, train coach, trees, dramatic sky, distant urban horizon, rich natural color grading, soft golden light, mood of solitude and journey closer view",
     "category": "Portrait",
     "tags": [
@@ -46,7 +46,7 @@
   },
   {
     "id": "prompt_198",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_192.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_192.jpg",
     "prompt": "A photorealistic portrait in the style of Wong Kar-wai, using the uploaded image as the face model. Emphasize the sculpted jawline and neck. The face and its unique features must be preserved exactly as they are. Pose: The young man is sitting in a congee shop, his head tilted slightly as he gazes absently outside. One elbow rests on the dining table. In front of him is a bowl of steaming hot congee. The scene is set at night in Hong Kong with neon lighting capturing the mood of a Wong Kar-wai film. Outfit: A faded, thin shirt with the top two buttons undone, the hem hanging loosely. He's wearing loose black slacks for a casual look. Color Tone: Muted green and yellow with high contrast and motion blur. Reference Style: Fallen Angels - solitude and the city at night. His hair is korean styled that accentuates with messy bangs. Natural looking on his face no make up look, focusing on defined eyes (preserve eyes), neat brows. Attire: A slightly unbuttoned black shirt, wet hair. Image Tone: High red-green contra",
     "category": "Portrait",
     "tags": [
@@ -68,7 +68,7 @@
   },
   {
     "id": "prompt_197",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_191.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_191.jpg",
     "prompt": "A close-up side profile of a 27-year-old young man (based on the attached photo), standing in the rain, gazing thoughtfully into the distance with a pensive, melancholic look. He's wearing a dark baseball cap featuring a red accent and black over-ear headphones. His thick, dark hair is windswept by the coastal breeze, with strands falling loosely across his face, adding texture and movement. Raindrops glisten on his skin.",
     "category": "Portrait",
     "tags": [
@@ -89,7 +89,7 @@
   },
   {
     "id": "prompt_196",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_190.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_190.jpg",
     "prompt": "Portrait (waist-up vertical) of a man stepping out of an arch, left arm braced on the arch edge, right arm relaxed. He wears an ivory-cream embroidered kurta with vertical bead-placket, subtle tonal threadwork and light cream trousers visible at the hem. Tousled curly hair, trimmed beard, small pendant, simple wristwatch. Background Lighting: soft diffused daylight from upper-left with warm frontal fill to preserve facial detail; gentle rim highlights on hair and shoulders; Keep my face exactly the same as the uploaded photo. Do not change or edit my face.",
     "category": "Portrait",
     "tags": [
@@ -111,7 +111,7 @@
   },
   {
     "id": "prompt_195",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_196.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_196.jpg",
     "prompt": "Create a retro-modern cinematic image with subtle film grain and soft golden sunlight rays. The boy is styled in a Gen-Z creative influencer aesthetic: an oversized maroon shirt with a slightly silky texture, half-tucked into off-white wide-leg trousers that balance casual streetwear with polished tailoring. Footwear combines chunky sneakers with a sleek, designer edge. Accessories include layered minimalist jewelry, a slim belt, a crossbody bag, and subtle statement rings. His dark brown hair is wavy, windswept, styled with an effortless 'editorial casual' look. The atmosphere channels a 90s indie movie reimagined for Gen-Z Instagram - standing under a glowing vintage streetlight, book in hand, as autumn leaves swirl in the breeze. Lighting emphasizes romantic contrasts, creating a dreamy, curated mood that feels both relaxed and fashion-forward.",
     "category": "Portrait",
     "tags": [
@@ -133,7 +133,7 @@
   },
   {
     "id": "prompt_194",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_198.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_198.jpg",
     "prompt": "A cinematic portrait of a stylish young man leaning casually on a terrace railing at sunset(use reference photo), wearing a deep maroon corduroy shirt with rolled-up sleeves, beige cargo pants, sunglasses, and a golden wristwatch. He gazes to the side with confidence, bathed in warm golden light. In the background, misty mountains and a pastel-colored sky fade into the horizon, creating a dreamy, cinematic atmosphere Do not eit or change my face",
     "category": "Portrait",
     "tags": [
@@ -155,7 +155,7 @@
   },
   {
     "id": "prompt_193",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_200.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_200.jpg",
     "prompt": "HE'S WEARING SUNGLASSES AND A BLACK SUIT, STANDING CASUALLY LOOKING AT THE CAMERA, HANDS IN POCKET. HE'S SURROUNDED BY GIRLS AND FANS TOUCHING HIS BODY. WITH JOURNALISTS' CAMERAS AND FLASHES BELOW THE FRAME, THE ATMOSPHERE IS DENSE CROWDED, AND DRAMATIC. HE IS COMING FROM A RED MAT USED FOR CELEBRITIES AND BESIDE HIM THEREIS HIS LEMBORGHINI 9:16 ASPECT RATIO 8K QUALITY CLICKED FROM SONY A74S",
     "category": "Portrait",
     "tags": [
@@ -177,7 +177,7 @@
   },
   {
     "id": "prompt_192",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_194.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_194.jpg",
     "prompt": "A photorealistic portrait of an Indian man, approximately 5'8\" tall with a medium build. the provided reference image. His face has a clear, symmetrical structure. The overall style is realistic with balanced lighting. He sits casually on a stack of yellow suitcases, with a yellow backpack next to him, looking to the side with a relaxed expression. Keep my face exactly the same as the uploaded photo. Do not change or edit my face.",
     "category": "Portrait",
     "tags": [
@@ -197,7 +197,7 @@
   },
   {
     "id": "prompt_191",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_193.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_193.jpg",
     "prompt": "Hyper-realistic eye-level full body vertical shot of a young man leaning on a sofa, adjusting a stylish Dupatta. Wearing luxury kurta, patiyali pyjama, leather sandals, tousled black curls, luxury watch, and armband tattoo. Modern living room with soft morning light, shallow depth of field, creamy bokeh, and warm cinematic color grading in 8K.",
     "category": "Portrait",
     "tags": [
@@ -219,7 +219,7 @@
   },
   {
     "id": "prompt_190",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_199.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_199.jpg",
     "prompt": "Create this image in a portrait of a Guy standing among red roses, Messy hair, handsome look, confidence, cinematic atmosphere, red-white tones, soft natural light, detailed retro style, ethereal mood, yellow button up fit casual shirt and black pant .high-fashion magazine style photography, ultra realistic, 55mm lens, depth of field, 4k. Use the uploaded image for the guy face. Do not edit or change my face",
     "category": "Portrait",
     "tags": [
@@ -243,7 +243,7 @@
 ,
       {
     "id": "prompt_189",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_187.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_187.jpeg",
     "prompt": "70s retro portrait of a stylish man in a paisley satin shirt, aviator sunglasses, and gold chain, sitting on a red velvet couch in a room with vinyl records and a neon jukebox. Moody lighting, cinematic photo",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Retro", "Vintage", "90s", "Movie", "Fashion", "Suit", "Pinterest", "Artistic"],
@@ -253,7 +253,7 @@
   },
   {
     "id": "prompt_188",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_188.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_188.jpeg",
     "prompt": "Photo of me(in the photo please preserving my exact original face and features in the photo) standing by a wall, one hand adjusting my wristwatch, the other tucked into my traouser pocket. The light source creates angular shadows on my shiseled face and suit, emphasizing the tailoring. My Gaze is downward, evoking calm confidence and refined masculinity",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Fashion", "Suit", "Confident", "Masculine"],
@@ -263,7 +263,7 @@
   },
   {
     "id": "prompt_187",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_189.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_189.jpeg",
     "prompt": "Create A 90s vintage editorial-style full body portrait of a 25-year-old man(Photo Uploaded), 5\"11 tall, leaning casually against an old rustic doorway. He poses with one hand gripping the chipped wooden door and the other tucked in his beige pleated trousers, exuding effortless confidence. He wears a loose warm red short-sleeve button-up shirt, slightly unbuttoned at the chest, styled in a retro casual way, with medium-length wavy hair. Retro textures, grainy aesthetic, film look.",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Vintage", "90s", "Editorial", "Retro", "Film", "Fashion", "Full Body"],
@@ -273,7 +273,7 @@
   },
   {
     "id": "prompt_186",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_186.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_186.jpeg",
     "prompt": "Black and white photo of me(in the photo please preserving my exact original face and features in the photo) standing by a wall, one hand adjusting my wristwatch, the other tucked into my traouser pocket. The light source creates angular shadows on my shiseled face and suit, emphasizing the tailoring. My Gaze is downward, evoking calm confidence and refined masculinity",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Black and White", "Fashion", "Suit", "Confident", "Masculine"],
@@ -283,7 +283,7 @@
   },
   {
     "id": "prompt_185",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_185.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_185.jpeg",
     "prompt": "Prompted Create a retro vintage grainy but bright image of the reference picture but draped in a perfect black colour suit Pinteresty aesthetic retro pants. It must feel like a '90s movie hair baddie with a small flower bookey in hand and romanticising a windy environment. The man is standing against a solid deep shadow and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with golden tones evoking a sunset or golden hour glow. The background is minimalist",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Retro", "Vintage", "90s", "Movie", "Fashion", "Suit", "Pinterest", "Artistic"],
@@ -293,7 +293,7 @@
   },
   {
     "id": "prompt_184",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_184.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_184.jpeg",
     "prompt": "Ultra-realistic cinematic portrait of a stylish young man standing against a dark minimal background with a soft golden sunlight beam casting dramatic shadows. He is wearing a crisp, elegant yellow suit (blazer and wide-leg trousers) with one hand casually in his pocket and the other holding a bouquet of red roses close to his chest. His hair is voluminous and slightly tousled, styled naturally with texture. His expression is serene and confident, basking in the warm sunlight.",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Cinematic", "Ultra-realistic", "Stylish", "Fashion", "Suit", "Roses", "Golden Hour"],
@@ -303,7 +303,7 @@
   },
   {
     "id": "prompt_183",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_183.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_183.jpeg",
     "prompt": "A striking, modern advertisement featuring a handsome male (my face 100% match), with short, stylish hair and glasses, sitting comfortably in a vibrant blue, plush, rounded armchair. He is dressed in a contemporary, athletic-inspired outfit: bright blue pants and a matching blue and yellow patterned long-sleeved top. His sneakers are a light neutral color, and he wears white socks. He is looking directly at the viewer with a friendly, confident smile. The background is a clean, gradient blue, with a large, stylized white letter \"T\" subtly placed behind him. There are also faint, placeholder text elements in the top left and top right corners of the image, characteristic of a magazine or product advertisement",
     "category": "Advertisement",
     "tags": ["All", "Trending", "New", "Male", "Modern", "Advertisement", "Fashion", "Athletic", "Vibrant"],
@@ -313,7 +313,7 @@
   },
   {
     "id": "prompt_182",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_182.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_182.jpeg",
     "prompt": "Man leaning against an old stone wall in warm golden sunlight, wearing a beige linen shirt with rolled-up sleeves, olive green pleated trousers, and a brown leather belt. Cinematic vintage aesthetic, Mediterranean summer atmosphere, soft shadows, timeless and elegant style.",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Cinematic", "Vintage", "Mediterranean", "Summer", "Elegant", "Golden Hour"],
@@ -323,7 +323,7 @@
   },
   {
     "id": "prompt_181",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_181.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_181.jpeg",
     "prompt": "Black and white photo of me(in the photo please preserving my exact original face and features in the photo) standing by a wall, one hand adjusting my wristwatch, the other tucked into my trouser pocket. The light source creates angular shadows on my chiselled face and suit, emphasizing the tailoring. My Gaze is downward, evoking calm confidence and refined masculinity",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Black and White", "Fashion", "Suit", "Confident", "Masculine"],
@@ -333,7 +333,7 @@
   },
   {
     "id": "prompt_180",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_180.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_180.jpeg",
     "prompt": "Black and white artistic portrait of a man, with a fashionable model dressed in a sophisticated suit, black socks and shoes. He is sitting with a slightly hunched posture, looking down as if lost in thought. His facial features are the same as the original photo, like her hairstyle. It features minimalist accessories that highlight the elegant and editorial tone. The studio's clean lighting enhances textures and depth, creating an elegant, couture feel. Use the uploaded picture as a reference for the face. Aspect ratio: 4:5 vertical.",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Black and White", "Artistic", "Fashion", "Suit", "Editorial", "Elegant"],
@@ -343,7 +343,7 @@
   },
   {
     "id": "prompt_179",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_179.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_179.jpeg",
     "prompt": "Use face image Create a hyper-realistic photo set in a narrow, dimly lit forest path. At the center, an young man in his early 20s in a hoodie stands facing the camera with a neutral yet intense expression. He's wearing a black hoodie. The lighting is cold, coming from the left, half body behind foreground blurred bushes, enhancing the claustrophobic, cinematic feel. The entire environment should be sharply in focus no background blur. Think editorial Vogue aesthetic. --ar 9:16",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Hyper-realistic", "Forest", "Dimly Lit", "Cinematic", "Editorial", "Vogue"],
@@ -353,7 +353,7 @@
   },
   {
     "id": "prompt_178",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_178.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_178.jpeg",
     "prompt": "A cinematic black and white portrait of me, real face unchanged, standing in profile, leaning relaxed yet elegantly against a smooth wall. Head tilted back, chin raised, eyes closed for a calm, introspective mood. Left arm rests naturally, right arm bent, holding a glass tumbler loosely at waist height. I wear a fitted white button-down shirt, sleeves rolled up, tucked into dark, well-fitted trousers with a slim black belt. Dramatic high-contrast lighting highlights my face, shirt creases,",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Cinematic", "Black and White", "Profile", "Elegant", "Introspective", "High Contrast"],
@@ -363,7 +363,7 @@
   },
   {
     "id": "prompt_177",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_177.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_177.jpeg",
     "prompt": "A retro cinematic high-quality portrait of the uploaded image as main character, sitting on a vintage wooden chair in a relaxed pose. He is wearing a cream retro suit with open collar shirt, styled hair, and a confident subtle smile. The background is a Famous anime retro room with soft golden lighting, film grain, and cinematic shadows. The image should have a nostalgic Pinterest-style aesthetic, perfectly balanced warm tones, and high detail realism.",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Retro", "Cinematic", "Vintage", "Anime", "Nostalgic", "Pinterest", "Film Grain"],
@@ -373,7 +373,7 @@
   },
   {
     "id": "prompt_176",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_176.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_176.jpeg",
     "prompt": "Fine black and white photography of a handsome young man with dark, his head tilted back in a moment of intense creative thought or ecstasy. his Hands are open. He is wearing a loose white collared shirt, standing in a dimly lit study filled with stacks of books and papers floating all over. The image is captured with a slow shutter speed, creating dramatic horizontal motion blur that streaks the background and the edges of his form, and super realistic.",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Black and White", "Artistic", "Creative", "Ecstasy", "Books", "Motion Blur", "Realistic"],
@@ -383,7 +383,7 @@
   },
   {
     "id": "prompt_175",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_175.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_175.jpeg",
     "prompt": "Stylish fashion editorial photo of a male model wearing an oversized white sweatshirt and white sweatpants, paired with white sneakers. A soft red studio backdrop with soft cinematic lighting, highlighting textures, futuristic editorial style, model sitting elegantly, head slightly tilted, relaxed posture.",
     "category": "Fashion",
     "tags": ["All", "Trending", "New", "Male", "Fashion", "Editorial", "Futuristic", "Minimalist", "Studio", "Red Backdrop"],
@@ -393,7 +393,7 @@
   },
   {
     "id": "prompt_174",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_174.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_174.jpeg",
     "prompt": "Create a retro vintage grainy but bright image of the reference picture styled in an old retro shirt, slightly loose and worn, giving a 90s movie vibe. The man is standing and laying casually on a classic white Indian Ambassador car near the headlights, romanticising the windy outdoor environment. The scene must feel cinematic, with deep shadows and contrast drama, warm",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Retro", "Vintage", "90s", "Movie", "Cinematic", "Indian Ambassador", "Outdoor", "Warm"],
@@ -403,7 +403,7 @@
   },
   {
     "id": "prompt_173",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_173.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_173.jpeg",
     "prompt": "Ultra realistic, high resolution cinematic portrait of a person standing in front of a mirror with sleek vertical white light strips in the background. The person has a medium-light skin tone, short dark brown hair styled neatly, Face with the face from the uploaded image, keeping the facial features exactly the same. He is wearing a white button-down shirt with the sleeves rolled up and slightly unbuttoned at the top, revealing a subtle hint of his chest. A black tie is loosely draped around his neck, creating a casual yet sophisticated vibe. He is wearing black dress pants with a black belt, and his hands are casually placed in his pockets. His facial expression is intense and contemplative, with his eyes looking directly into the camera, conveying quiet confidence. The lighting is soft 6k and diffused, highlighting the texture of his skin and fabric, while the reflections in the mirror add depth to the composition. The overall mood is stylish, modern, and cinematic, with a sense Of 25 effortless charm and",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Ultra Realistic", "Cinematic", "Modern", "Stylish", "Mirror", "Sophisticated"],
@@ -413,7 +413,7 @@
   },
   {
     "id": "prompt_172",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_172.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_172.jpeg",
     "prompt": "Ultra-realistic, 8K resolution cinematic image of a person crouching beside a powerful black horse in a snow-covered mountainous landscape. Face with the face from the uploaded image, keeping the facial features exactly the same. wavy hair, and wears dark sunglasses, a cozy black sweater, grey cargo pants, and black boots. He crouches with one knee bent, holding the reins of the horse with a relaxed yet confident posture. The horse is muscular, with a glossy jet-black coat, flowing mane, and expressive eyes, wearing a simple Leather halter. Snow blankets the ground with footprints and scattered rocks visible. In the background, soft-focus snow-covered hills, pine trees, and distant mountain peaks stretch under clear blue sky, Snowflakes gently fall around them, adding depth and softness to the scene. The 23.6K lighting is soft and natural, highlighting details like the texture of the snow, fabric folds, and hair strands. The overall mood is calm, adventurous, and majestic, evoking a sense of freedom and PROMP",
     "category": "Landscape",
     "tags": ["All", "Trending", "New", "Male", "Ultra-realistic", "8K", "Cinematic", "Horse", "Snow", "Mountain", "Adventurous", "Majestic"],
@@ -423,7 +423,7 @@
   },
   {
     "id": "prompt_171",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_171.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_171.jpeg",
     "prompt": "I am standing in a three-quarter pose, my body slightly turned to the left while my head faces forward, looking directly at the camera with a confident, intense gaze. My lips are pressed together, and my jawline is sharp under the light. My right shoulder is closer to the camera, and my arms remain relaxed at my sides, not visible in detail. I am wearing a thick, dark knitted sweater with a tall, turned-up turtleneck collar that frames my and stylish fabric textured with chunky ribbing, giving a masculine face, the appearance. The overall look is minimalist, without accessories except for a subtle metallic chain peeking from under the sweater. The scene is dramatically lit with a strong beam of warm light cutting diagonally across my face and upper body, creating high contrast between illuminated areas and deep shadows. The background is dark, matte, and softly textured, with a reddish tone that enhances the cinematic atmosphere. The camera angle is eye-level, capturing me from the chest up in a portrait style.",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Three-quarter pose", "Confident", "Intense", "Turtleneck", "Minimalist", "Dramatic Lighting", "Cinematic"],
@@ -433,7 +433,7 @@
   },
   {
     "id": "prompt_170",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_170.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_170.jpeg",
     "prompt": "A black-and-white studio portrait of the same man from the selfie – exact face and skin details retained, no retouching. He is lit with a single Rembrandt light source, creating strong contrast and moody shadows on one side of the face. The background is completely black, isolating the subject with a sense of mystery and confidence. He's wearing a dark shirt or jacket. Ultra-detailed skin texture, sharp clarity, shallow depth of field. Studio photo taken on a Leica SL2 + 90mm APO lens.",
     "category": "Portrait",
     "tags": ["All", "Trending", "New", "Male", "Black and White", "Studio", "Rembrandt Lighting", "High Contrast", "Moody", "Ultra-detailed"],
@@ -443,7 +443,7 @@
   },
   {
     "id": "prompt_169",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_169.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_169.jpeg",
     "prompt": "Create a vintage 1970s Bollywood-inspired photograph of a stylish man sitting casually on the hood of a classic car. He is dressed in a cream pinstriped blazer, cream bell-bottom trousers, and a dark brown shirt with the top buttons open, paired with brown formal shoes, giving a confident mafia-style look. The car has wide whitewall tires, chrome details, and a polished metallic body, reflecting sunlight. In the background, tall green trees and hedges frame the scene. The photograph has the warm, grainy tones of a 1970s film camera, giving it a retro cinematic vibe.",
     "category": "Fashion",
     "tags": ["All", "Trending", "New", "Male", "Vintage", "1970s", "Bollywood", "Classic Car", "Mafia Style", "Retro", "Cinematic", "Film Grain"],
@@ -453,7 +453,7 @@
   },
   {
     "id": "prompt_168",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_168.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_168.jpeg",
     "prompt": "Ultra-realistic mirror selfie of a stylish man 22 years old with glasses. He is wearing a loose brown sweater layered over a crisp white T-shirt, paired with blue jeans. A silver chain necklace adds a subtle accessory touch. He holds a modern smartphone in one hand, partially covering his same face, while his other hand rests casually in his pocket. The scene is set in warm indoor lighting, creating a cinematic, moody atmosphere with soft shadow",
     "category": "Selfie",
     "tags": ["All", "Trending", "New", "Male", "Ultra-realistic", "Mirror Selfie", "Stylish", "Cinematic", "Moody", "Indoor", "Warm Lighting"],
@@ -464,7 +464,7 @@
    , 
     {
     "id": "prompt_167",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_167.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_167.jpeg",
     "prompt": "CINEMATIC PORTRAIT OF [YOUR UPLOADED PHOTO SUBJECT] SITTING ON A WOODEN CHAIR BY A BEACH CAMPFIRE AT NIGHT. SOFT MOONLIGHT SHINING OVER THE OCEAN WAVES AND DISTANT MOUNTAINS IN THE BACKGROUND. A VINTAGE VAN IS PARKED NEARBY. SUBJECT IS BAREFOOT, WEARING A COLORFUL HAWAIIAN FLORAL SHIRT WITH PLAID SHORTS, HOLDING A DRINK CAN IN HAND. A GOLDEN RETRIEVER SITS BY HIS SIDE ON THE SAND. WARM FIRELIGHT MIXES WITH COOL MOONLIGHT, CREATING DRAMATIC CONTRAST AND CINEMATIC ATMOSPHERE. ULTRA-REALISTIC, HIGH RESOLUTION, PROFESSIONAL PHOTOGRAPHY STYLE WITH SHALLOW DEPTH OF FIELD.",
     "category": "Portrait",
     "tags": ["Male", "Cinematic", "Beach", "Campfire", "Night", "Hawaiian Shirt", "Golden Retriever", "Ultra-realistic", "Dramatic Contrast"],
@@ -474,7 +474,7 @@
   },
   {
     "id": "prompt_166",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_166.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_166.jpeg",
     "prompt": "Side profile portrait of the person from the input photo, facing right, eyes closed, calm expression, on a pure black background. Plain hoodie with the hood up and Apple silver over-ear headphones. Lighting: Dual Neon - Cyan/Turquoise key light from the front right and vivid red rim light from the opposite side; high contrast, pronounced rim glow, glossy reflections on the headphones, soft cinematic bloom. Photorealistic, subtle beauty retouch, shallow depth of field (F/2), minimal, no other elements.",
     "category": "Portrait",
     "tags": ["Male", "Side Profile", "Neon Lighting", "Hoodie", "Headphones", "Minimal", "High Contrast", "Photorealistic", "Cinematic"],
@@ -484,7 +484,7 @@
   },
   {
     "id": "prompt_165",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_165.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_165.jpeg",
     "prompt": "A cinematic street-style portrait of myself, keeping my exact face unchanged. I am walking forward with a confident posture, my body slightly turned as sunlight highlights one side of me. My left hand is holding a light cream pinstriped blazer casually slung over my shoulder, with my arm bent at the elbow. My right hand rests on my hip, tucked into the waistband of my trousers in a relaxed, self-assured gesture. My gaze is directed slightly to the side, away from the camera, with a thoughtful, composed expression.I am wearing a textured short-sleeve knit polo shirt in a muted beige tone with dark trim along the collar and sleeves. The shirt is tucked into high-waisted cream trousers with thin vertical pinstripes, tailored and elegant. Around my wrist is a subtle bracelet, adding a refined accessory to the look. The blazer I carry matches the trousers, creating a cohesive and sophisticated outfit. The lighting is strong and directional, with a sharp contrast of sunlight and shadow, giving the image a dramatic,",
     "category": "Portrait",
     "tags": ["Male", "Street Style", "Cinematic", "Pinstripe", "Blazer", "Knit Polo", "Confident", "High Contrast", "Sophisticated", "Fashion"],
@@ -494,7 +494,7 @@
   },
   {
     "id": "prompt_164",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_164.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_164.jpeg",
     "prompt": "A portrait of me standing outdoors in a mountainous landscape with misty clouds in the background. I am standing slightly at an angle, with my body turned subtly to the side while my face remains directed toward the camera, giving a strong and calm presence. Both of my hands are casually resting inside the front pockets of my pants. My legs are relaxed and slightly apart, though not fully visible in the frame. I am wearing a loose, textured knit sweater in earthy brown, with long sleeves that extend to my wrists, slightly wrinkled around the elbows. The sweater has a round crew neckline. I am also wearing brown casual trousers, partially visible, with a relaxed fit that complements the natural, outdoors setting. My facial expression is neutral yet confident, as I look directly toward the camera. The image is captured from a low angle shot, making me appear taller and more dominant in the frame. The camera uses a portrait focal length around 85mm, giving a natural perspective with shallow depth of field",
     "category": "Portrait",
     "tags": ["Male", "Outdoor", "Mountainous", "Misty", "Knit Sweater", "Earthy Tones", "Low Angle", "Shallow Depth", "Confident"],
@@ -504,7 +504,7 @@
   },
   {
     "id": "prompt_163",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_163.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_163.jpeg",
     "prompt": "A close-up portrait of me standing in front of a mirror, with my reflection visible at the right edge of the frame. My body is turned slightly sideways toward the mirror, while my face is directed toward the camera, giving an intense and captivating gaze. My right arm is raised above my head, bent at the elbow, with my hand resting casually out of frame, creating a dynamic diagonal line. My left side is closer to the camera, while the reflection in the mirror shows the profile of my face and beard. I am wearing a dark denim shirt, slightly unbuttoned at the chest, revealing part of my collarbone and upper chest, adding a relaxed yet confident vibe. The shirt fabric is textured and matte, with visible seams and folds. My hair is styled in a voluminous, slightly messy way, and I have light stubble that enhances a rugged but refined look. The camera captures me at eye-level, with a portrait lens around 85mm, producing shallow depth of field that blurs the reflection slightly while keeping my direct gaze sharply",
     "category": "Portrait",
     "tags": ["Male", "Close-up", "Mirror Reflection", "Denim Shirt", "Intense Gaze", "Shallow Depth", "Eye Level", "Rugged", "Confident"],
@@ -514,7 +514,7 @@
   },
   {
     "id": "prompt_162",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_162.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_162.jpeg",
     "prompt": "High-fashion cinematic half-length portrait of the person from input photo, dreamlike editorial style. Multi-exposure motion blur with ghosting and vertical streaks. Clean gradient background from deep azure (#0033A0) to cyan (#00CCFF). Subject in plain white oversized T-shirt with soft folds catching colored lights. Dramatic lighting: cool blue wash plus orange/yellow edge glow from camera- left/backlight. Expression neutral/introspective, eyes softly lit or shadowed. Shot on 50-85mm f/1.8, shallow depth, cinematic blur and chromatic separation. Crisp skin/fabric in focus, surreal minimal glitch-inspired fashion mood.",
     "category": "Portrait",
     "tags": ["Male", "High-fashion", "Cinematic", "Editorial", "T-shirt", "Motion Blur", "Neon", "Dramatic Lighting", "Shallow Depth", "Surreal"],
@@ -524,7 +524,7 @@
   },
   {
     "id": "prompt_161",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_161.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_161.jpeg",
     "prompt": "A young man, dressed in a traditional white kurta and white pants, is barefoot and crouches down to light a small oil lamp (diya) placed on the steps. He is focused on the task, with a tray of offerings beside him. In the background, there are other people, some in traditional Indian attire, and a temple lit up with lights. The overall atmosphere is festive and spiritual, possibly during an evening celebration like Diwali, with a soft, diffused light",
     "category": "Portrait",
     "tags": ["Male", "Diwali", "Kurta", "Diya", "Temple", "Spiritual", "Festive", "Traditional Attire", "Barefoot"],
@@ -534,7 +534,7 @@
   },
   {
     "id": "prompt_160",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_160.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_160.jpeg",
     "prompt": "A candid, action-packed photo of a 23-year-old slim fit boy with slightly smile looking straight on camera widely while lighting a row of small clay diyas on the stone steps of a ghat. He is dressed in a bright orange or deep red casual kurta with rolled-up sleeves. The scene should be intensely lit by the warm firelight of hundreds of surrounding diyas and a large 'Happy Diwali' sign glowing brightly in the background. Photo-realistic, high contrast, emphasizing the energy. Do not change or edit my face",
     "category": "Portrait",
     "tags": ["Male", "Diwali", "Candid", "Ghat", "Diyas", "Kurta", "Festive", "High Contrast", "Photo-realistic", "Energy"],
@@ -544,7 +544,7 @@
   },
   {
     "id": "prompt_159",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_159.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_159.jpeg",
     "prompt": "Ultra realistic festive Diwali scene. A young man stands confidently wearing stylish traditional clothes, holding a lit full chadi (sparkler) in his hand. The sparkler glows brightly, creating a beautiful golden ring of light around him as he waves it in the air. His outfit is vibrant and festive, with a shining designer kurta and pajama. In the background, there are colorful Diwali decorations, glowing diyas, fairy lights, and fireworks bursting in the night sky. The entire scene glows.",
     "category": "Portrait",
     "tags": ["Male", "Diwali", "Festive", "Sparkler", "Kurta", "Pajama", "Fireworks", "Diyas", "Ultra-realistic", "Golden Light"],
@@ -554,7 +554,7 @@
   },
   {
     "id": "prompt_158",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_158.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_158.jpeg",
     "prompt": "Create a beachy look of me like I'm on a beach where it's dark but someone took my picture with a flash, making my face sun-kissed, slightly glittery, and glowing. In the background, add a sunset where the sun has 98% set, leaving a deep purple-red sky, almost dark. The image is taken from behind my back as I turn toward the camera. I'm wearing a light yellow, loose, half-open linen shirt with sleeves rolled up, paired with a subtle gold seashell necklace. My hair is windswept, giving natural surfer vibes. The picture is cropped from above the waist, focusing on the upper body and glowing beachy aesthetic.",
     "category": "Portrait",
     "tags": ["Male", "Beachy", "Night Flash", "Sunset", "Surfer Vibe", "Linen Shirt", "Seashell Necklace", "Windswept Hair", "Coastal"],
@@ -564,7 +564,7 @@
   },
   {
     "id": "prompt_157",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_157.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_157.jpeg",
     "prompt": "A young man with a bright, genuine smile, looking directly at the viewer, holding two lit sparklers in his outstretched hands. He is wearing a stylish, light-colored traditional Maharashtrian style kurta with intricate, subtle patterns. The setting is outdoors at night, with a blurred background of festive, bokeh lights from buildings or trees, creating a warm and celebratory atmosphere. The focus is on the man and the sparkling light from the sparklers, conveying a sense of happiness and festivity. The overall style is photorealistic with a joyful and energetic mood.",
     "category": "Portrait",
     "tags": ["Male", "Sparklers", "Diwali", "Festive", "Maharashtrian", "Kurta", "Bokeh", "Night", "Joyful", "Photorealistic"],
@@ -574,7 +574,7 @@
   },
   {
     "id": "prompt_156",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_156.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_156.jpeg",
     "prompt": "Ultra hyper-realistic, eye-level full-body vertical portrait of a handsome young maharashtrian man mid-step walking outdoors on a lavish terrace outside a bangle. One hand adjusts his elegant embroidered Dupatta, other hand holding a sparkling Diwali phooljhari (sparkler), creating a lively festive vibe. Wearing luxurious embroidered designer kurta, premium leather sandals. Face and perfectly styled hairstyle exactly as in uploaded reference. Luxury wristwatch sparkles, bold armban Do not change or edit my face and hairs",
     "category": "Portrait",
     "tags": ["Male", "Maharashtrian", "Full Body", "Festive", "Diwali", "Kurta", "Dupatta", "Sparkler", "Phooljhari", "Ultra-realistic"],
@@ -584,7 +584,7 @@
   },
   {
     "id": "prompt_155",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_155.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_155.jpeg",
     "prompt": "Ultra-realistic, cinematic fll-body portrait of a stylish young man celebrating Diwali at night in front of a modern decorated Indian house. Face and hairstyle exactly match the uploaded reference image, perfectly styled, looking directly at the camera with a soft gentle smile. He is holding a sparkler in one hand, the other hand casually holding his stole.Exploding fireworks and colorful crackers surround him, lighting the night sky with vibrant colors. Outfit: luxurious royal black and gold heavily embroidered kurta pyjama with matching stole, traditional golden mojari, shoes. The outfit is rich, festive, and majestic. Background includes glowing diyas, colorful rangoli, fairy lights, cinematic bokeh, soft golden light. Above or in background, \"Happy Diwali\" golden text elegantly glowing Lighting: cinematic, ultra-realistic, soft golden glow, photorealistic, 8K, detailed textures, festive and joyful atmosphere.",
     "category": "Portrait",
     "tags": ["Male", "Diwali", "Full Body", "Kurta Pyjama", "Sparkler", "Fireworks", "Rangoli", "8K", "Cinematic", "Festive"],
@@ -594,7 +594,7 @@
   },
   {
     "id": "prompt_154",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_154.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_154.jpeg",
     "prompt": "A young man in a stylish white gray kurta with fine texture, standing near glowing golden fairy lights. He is facing slightly sideways with one hand resting gently on the string lights while the other hand is relaxed by his side. His gaze is directed confidently towards the camera with a soft smile, giving a charismatic presence. The shot is taken from a slightly low-angle perspec- tive, making him look taller and more dominant in frame. Golden fairy lights create dreamy bokeh around him, softly blurring into the background. His hairstyle is voluminous, neatly styled, with a sharp beard and clean features Cinematic light- ing, shallow depth of field, hyper-realistic details 4K ultra high quality, photorealistic, festive warm tones, professional DSLR \"wearing round black smartwatch, fix uploaded photo propikes in this description, face no change, 8k qualiby re- alistic picbure, Make sure the face remains the same and 100% preserved.",
     "category": "Portrait",
     "tags": ["Male", "Kurta", "Fairy Lights", "Bokeh", "Low Angle", "Charismatic", "Hyper-realistic", "8K", "Festive", "Smartwatch"],
@@ -604,7 +604,7 @@
   },
   {
     "id": "prompt_153",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_153.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_153.jpeg",
     "prompt": "Ultra-realistic BK DSLR waist-up festive photo of the same young man (face must remain identical, no changes). He wears a cream-white kurta with subtle golden embroidery and a round black smartwatch. Kneeling slightly, he gently lights a row of traditional diyas with a matchstick, his face glowing warmly in the soft diya light. Background decorated with marigold flowers, fairy lights hanging across the wall, creating a serene and devotional Diwali mood. Cinematic shallow depth of field. ultra-realistic textures, warm golden tones, professional DSLR 8K quality.",
     "category": "Portrait",
     "tags": ["Male", "Diwali", "Festive", "Kurta", "Diyas", "Marigold Flowers", "Devotional", "8K", "DSLR", "Cinematic"],
@@ -614,7 +614,7 @@
   },
   {
     "id": "prompt_152",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_152.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_152.jpeg",
     "prompt": "Use the uploaded reference image as the main base.UItra-realistic cinematic portrait of a young Man standing near glowing string lights at night. The Man is wearing a stylish yellow traditional kurta and pajama, softly smiling and gazing upward with a dreamy expression. Backaround is dark and blurred with warm golden bokeh liahts creating a festive, magical atmosphere Lighting is warm,glowing, and softly illuminating the face, with smooth shadows and depth of field for.",
     "category": "Portrait",
     "tags": ["Male", "Kurta", "Pajama", "String Lights", "Bokeh", "Festive", "Cinematic", "Night", "Dreamy", "Ultra-realistic"],
@@ -624,7 +624,7 @@
   },
   {
     "id": "prompt_151",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_151.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_151.jpeg",
     "prompt": "A stylist I Indian man dressed in a elegant black shirt with a thin gold border is holding two sparklers (phuljhadi). he is smiling and looking directly at the camera. Touseld style hair. The background is a vibrant, moody mix of deep red and green mist/smoke. he is wearing Rolex watch Dramatic lighting. Use 100% uploaded image face Don't change the face keep facial features same.",
     "category": "Portrait",
     "tags": ["Male", "Indian", "Sparklers", "Diwali", "Phuljhadi", "Black Shirt", "Rolex Watch", "Dramatic Lighting", "Moody"],
