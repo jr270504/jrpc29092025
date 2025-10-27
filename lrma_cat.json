@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+      "id": "new",
+      "name": "New",
+      "icon": "star",
+      "order": 1
+    },
+    {
+      "id": "best",
+      "name": "Best",
+      "icon": "trending_up",
+      "order": 2
+    },
+    {
+      "id": "film",
+      "name": "Film",
+      "icon": "movie",
+      "order": 3
+    },
+    {
+      "id": "vintage",
+      "name": "Vintage",
+      "icon": "access_time",
+      "order": 4
+    },
+    {
+      "id": "trending",
+      "name": "Trending",
+      "icon": "whatshot",
+      "order": 5
+    },
+    {
+      "id": "cinematic",
+      "name": "Cinematic",
+      "icon": "theaters",
+      "order": 6
+    },
+    {
+      "id": "landscape",
+      "name": "Landscape",
+      "icon": "landscape",
+      "order": 7
+    },
+    {
+      "id": "cityscape",
+      "name": "Cityscape",
+      "icon": "location_city",
+      "order": 8
+    },
+    {
+      "id": "portrait",
+      "name": "Portrait",
+      "icon": "person",
+      "order": 9
+    },
+    {
+      "id": "details",
+      "name": "Details",
+      "icon": "zoom_in",
+      "order": 10
+    },
+    {
+      "id": "retro",
+      "name": "Retro",
+      "icon": "restore",
+      "order": 11
+    },
+    {
+      "id": "stock",
+      "name": "Stock",
+      "icon": "photo_library",
+      "order": 12
+    },
+    {
+      "id": "chic",
+      "name": "Chic",
+      "icon": "auto_awesome",
+      "order": 13
+    },
+    {
+      "id": "mobile",
+      "name": "Mobile",
+      "icon": "phone_android",
+      "order": 14
+    }
+  ]
+}
