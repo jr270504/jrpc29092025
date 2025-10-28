@@ -1,6 +1,133 @@
 {
  "prompts": [
   {
+    "id": "prompt_300",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_300.jpg",
+    "prompt": "A clean, modern, and professional digital marketing agency flyer or advertisement. The main subject is a confident and well-groomed young woman, appearing to be in her mid-20s to early 30s, with dark hair, looking directly at the viewer with a professional expression. She is wearing a sharp, tailored blue business blazer over a white top. She is holding a silver digital tablet in her left hand and gesturing with her right hand as if presenting or explaining something. The background features a dynamic, abstract geometric pattern composed of triangles and quadrilaterals in varying shades of blue, teal, yellow, and white, arranged in a mosaic style, concentrated in the upper right and lower left corners. The top left corner features a logo with a stylized hexagonal 'C' icon in blue and orange, followed by the text 'Empowering Digital Growth'. Below this, in large, bold, dark blue font, is the title 'Creative Marketing Agency'. Beneath the title, in a slightly smaller, light blue font, is the tagline 'Unlocking Digital Potential Through Strategy, Design & Innovation'. On the right side of the woman, there is a list of services, each preceded by a modern icon: Lightbulb icon: Branding & Identity, Megaphone icon: Social Media Marketing, Web browser icon: Web & App Development, Magnifying glass icon: SEO & Analytics, Rocket icon: Paid Campaigns & Growth Strategy. The bottom section includes: 'Phone: +1 (555) 123-567', 'Email: contact@creativeagency.com', A prominent rectangular button that says 'Book a Free Consultation' in white text on a yellow background. Social media icons (LinkedIn, Instagram, Facebook) in a simple, flat design. The overall design is minimalist yet engaging, with a vibrant color palette, crisp typography, and a professional, inviting tone. The image dimensions are typical for a portrait-oriented flyer or digital ad",
+    "category": "Advertisement",
+    "tags": [
+      "Female",
+      "Professional",
+      "Business",
+      "Marketing",
+      "Flyer",
+      "Corporate",
+      "Digital Art"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-28T12:07:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_299",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_299.jpg",
+    "prompt": "A captivating full-body portrait of a young woman, appearing to be in her early 20s, with a serene and slightly introspective expression, leaning comfortably against the massive, exposed roots of an ancient, grand tree. Her eyes are gently closed, or cast downwards, immersed in the music. She has long, dark hair, styled loosely. She is holding and playing an acoustic guitar, positioned naturally in her lap. She is wearing a stylish, off-the-shoulder white blouse with voluminous sleeves and dark trousers, paired with light-colored sneakers. The tree itself is a central feature, with a thick, textured trunk and large, gnarled roots spreading wide across the ground. The top of the tree has lush green leaves, some of which are subtly falling around her in a magical, ethereal way, glowing with a soft, greenish-blue light. The ground beneath her is a mix of sparse grass and patches of snow or frost, suggesting a cool, misty environment. The background is soft and hazy, indicating a misty forest or park at either dawn or dusk, with golden light filtering through the mist, creating a dreamlike glow. The lighting is warm and diffused, backlighting the leaves and creating a gentle halo effect around her. The overall mood is peaceful, artistic, and enchanting, with a slightly magical realism aesthetic, featuring soft focus and a warm, glowing filter. The image has a standard portrait orientation, capturing the full scene from the ground up to the lower branches of the tree",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Music",
+      "Guitar",
+      "Fantasy",
+      "Forest",
+      "Ethereal",
+      "Nature"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-28T12:07:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_298",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_298.jpg",
+    "prompt": "A captivating full-body portrait of a young woman standing in a magical winter forest. She has long, flowing dark brown hair and a serene expression, looking upwards with a sense of wonder. She is enveloped in a magnificent, floor-length deep red velvet cloak with a voluminous hood, which trails elegantly behind her on the snow. The forest floor is covered in pristine white snow, with light, scattered snowflakes falling gently. The trees are tall and majestic, with bare, dark branches reaching upwards, but instead of green leaves, they are adorned with an abundance of vibrant, fiery red autumn foliage, creating a stunning contrast against the white snow. The background shows more of the enchanting forest fading into a soft, slightly hazy distance. The lighting is soft and ethereal, highlighting the rich texture of the red cloak and casting a gentle glow on the snow. The overall atmosphere is fantastical, serene, and almost fairytale-like, with a high level of detail and rich, saturated colors, particularly the striking red of the leaves and cloak against the cool white and blue tones of the snow and distant sky. The composition emphasizes the woman's solitary presence within the grand, colorful landscape",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Fantasy",
+      "Winter",
+      "Forest",
+      "Cloak",
+      "Fairytale",
+      "Ethereal"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-28T12:07:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_297",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_297.jpg",
+    "prompt": "A striking, high-contrast black and white studio portrait of a man in his late 20s to early 30s, looking directly at the camera with an intense and serious gaze. He has thick, dark, curly hair and a well-groomed full beard. He is wearing a simple, dark long-sleeved crew-neck sweater. The lighting is dramatic and focused, highlighting his eyes and the textures of his hair and beard, with subtle shadows that sculpt his facial features. The background is a plain, neutral medium grey, providing a clean and stark contrast to the subject. The image has a sharp, crisp focus, with rich blacks, bright whites, and a full range of mid-tones characteristic of classic black and white photography. The composition is a headshot, framed tightly from the chest up, emphasizing his direct eye contact and powerful presence. The overall aesthetic is raw, authentic, and timeless, capturing a strong emotional intensity",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Black and White",
+      "Studio",
+      "High Contrast",
+      "Intense",
+      "Beard",
+      "Headshot"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-28T12:07:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_296",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_296.jpg",
+    "prompt": "A highly detailed and realistic graphite pencil sketch of a young woman, captured from the waist up, with a thoughtful and slightly pensive expression, looking off to the right. Her hair is styled in a loose, elegant bun with a few delicate strands framing her face, gently swept by an unseen breeze. Her right hand is raised, with her index finger delicately touching her chin, indicating deep thought. She is wearing a soft, flowing top or dress with a V-neckline and wide, gathered sleeves that cinch at the wrist with a button detail. The shading is meticulously rendered, showing subtle variations in tone to create depth and form, particularly around her eyes, nose, lips, and the folds of her clothing. The lines are clean and precise, with a slightly textured, realistic pencil stroke quality. The background is a clean, unblemished white, putting full emphasis on the subject. The overall style is classic portraiture with a contemporary feel, maintaining a monochrome, black and white aesthetic that highlights the delicate artistry of the sketch",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Sketch",
+      "Pencil Art",
+      "Monochrome",
+      "Detailed",
+      "Thoughtful",
+      "Classic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-28T12:07:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_295",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_295.jpg",
+    "prompt": "A stunning, photorealistic portrait of a young woman in her early 20s to mid-20s, with a thoughtful and calm expression, looking upwards and slightly to the right. She has long, wavy brown hair, beautifully backlit by the setting sun, creating a golden halo effect around her head. She is wearing a crisp white V-neck top, with a beige or light tan blazer draped casually over her shoulders. A delicate gold choker necklace adorns her neck. The background is softly blurred, depicting an urban landscape or city lights fading into the warm, hazy glow of sunset, creating a bokeh effect. The lighting is warm and golden, coming from behind and to the right, highlighting her features and hair. The overall image has a sophisticated yet natural feel, with a slightly soft focus, warm color grading, and a subtle filmic filter that enhances the gentle golden hour ambiance. The aspect ratio is standard portrait, capturing her from the chest up",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Photorealistic",
+      "Golden Hour",
+      "Cityscape",
+      "Fashion",
+      "Sophisticated",
+      "Bokeh"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-28T12:07:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_294",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_294.jpg",
+    "prompt": "A captivating potrait, photorealistic portrait of a young woman in her early 20s to mid-20s, with a serene and slightly wistful expression, looking upwards and slightly to the left. She has long, wavy brown hair flowing over her shoulders. She is standing gracefully in a vast, golden wheat field at sunset, with her arms slightly outstretched, palms open, and the wheat stalks reaching her waist. She is wearing a flowing, light cream-colored blouse with wide sleeves and dark blue, high-waisted trousers. Around her neck is a delicate pearl necklace. The sky above her is a breathtaking panorama of warm oranges, soft pinks, and gentle purples, with the setting sun creating a vibrant glow on the horizon. A single, faint shooting star is visible in the upper left of the frame. The lighting is soft, warm, and diffused, casting a beautiful golden glow on her and the field. The image has a dreamlike, ethereal quality, with a slightly desaturated yet warm color palette and a subtle, soft-focus effect that enhances the serene and introspective mood. The composition emphasizes her connection to nature and the vastness of the landscape",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Photorealistic",
+      "Sunset",
+      "Wheat Field",
+      "Ethereal",
+      "Nature",
+      "Dreamlike"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-28T12:07:42Z",
+    "isFeatured": false
+  }
+  ,
+  {
     "id": "prompt_293",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_293.jpg",
     "prompt": "A man with a beard and short dark hair is captured in a striking portrait, illuminated by dramatic dual-colored lighting. His face is split, with one side bathed in a cool blue light and the other in a vibrant pink/red hue, creating a high-contrast and neon-like effect. He gazes directly at the viewer with a thoughtful or pensive expression, his left hand resting on his chin. He is wearing a dark t-shirt and a watch on his left wrist. The background is dark and indistinct, further emphasizing the colorful illumination on his face and upper body.",
