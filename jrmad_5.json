@@ -1,6 +1,157 @@
 {
  "prompts": [
   {
+    "id": "prompt_293",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_293.jpg",
+    "prompt": "A man with a beard and short dark hair is captured in a striking portrait, illuminated by dramatic dual-colored lighting. His face is split, with one side bathed in a cool blue light and the other in a vibrant pink/red hue, creating a high-contrast and neon-like effect. He gazes directly at the viewer with a thoughtful or pensive expression, his left hand resting on his chin. He is wearing a dark t-shirt and a watch on his left wrist. The background is dark and indistinct, further emphasizing the colorful illumination on his face and upper body.",
+    "category": "Portrait",
+    "tags": ["Male", "Dramatic Lighting", "Neon", "High Contrast", "Thoughtful"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_292",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_292.jpg",
+    "prompt": "Edit this image into a creative double exposure of a man in side profile, his silhouette seamlessly blended with a vibrant city skyline at dusk. The lights of the city illuminate the contours of his face, symbolizing imagination and ambition. Add depth with warm orange and golden reflections, subtle glow effects, and a dreamy atmosphere — as if the city lives inside his thoughts.",
+    "category": "Portrait",
+    "tags": ["Male", "Double Exposure", "Cityscape", "Dusk", "Dreamy", "Ambition", "Surreal"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_291",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_291.jpg",
+    "prompt": "A cinematic close-up portrait of a stylish individual standing by a large glass window, gazing thoughtfully at their reflection. The person wears a black turtleneck sweater layered under a fitted dark blazer, creating a sleek and elegant look. The lighting is soft and natural, coming from the window, gently illuminating one side of the face while casting subtle shadows on the other, emphasizing depth and texture. The background is softly blurred, highlighting the calm and introspective mood of the scene. The reflection in the glass adds a sense of duality and contemplation. The overall atmosphere is moody, sophisticated, and cinematic, with a color palette dominated by neutral tones and soft daylight.",
+    "category": "Portrait",
+    "tags": ["Male", "Female", "Cinematic", "Reflection", "Thoughtful", "Sophisticated", "Window"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_290",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_290.jpg",
+    "prompt": "Edit this image to show an innovative professional man in a creative thinking pose with one hand touching his chin thoughtfully, other hand holding a laptop open at waist level, standing in a three-quarter stance with an enthusiastic visionary expression. He's wearing a modern electric blue blazer over a casual white henley shirt for creative professional appeal. The background is pristine white fading to soft mint green gradient. Digital marketing visual elements float around him: social media platform icons (Instagram, LinkedIn, Facebook, TikTok logos) in their signature colors, minimalist megaphone graphics, ascending analytics chart symbols, engagement icons like hearts and comment bubbles, target/bullseye symbols, and at-sign symbols. Colorful metric badges showing growth numbers (+2.5k, +850). Connecting lines and nodes between icons suggest integrated campaigns. Small lightning bolt and star accents in blue and green add creative energy. The left side displays compelling typography: \"WE'RE HIRING\" with \"HIRING\" highlighted in an electric blue box, followed by \"digital marketers\" and \"#creative minds wanted\" in contemporary sans-serif font. Top left features a campaign or strategy icon. The overall aesthetic is innovative, data-driven yet creative, with LinkedIn professional recruitment energy. Photorealistic rendering with vibrant engaging lighting, digital agency style, and modern marketing talent acquisition aesthetic.",
+    "category": "Marketing",
+    "tags": ["Male", "Professional", "Digital Marketing", "Recruitment", "Creative", "Innovative", "Laptop", "Social Media"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_289",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_289.jpg",
+    "prompt": "Recreate this scene using my submitted photo as a reference, maintaining the same framing, pose, lighting, and style as the example image. The composition should show a half-length **male** portrait, with the model sitting and leaning slightly forward. The right arm should cross the body, with the left hand resting gently on the opposite arm, conveying elegance and confidence. The facial expression should be serene, confident, and slightly enigmatic. The gaze should be directed toward the camera, with lips softly closed and a firm posture. The outfit consists of a dark, sophisticated ensemble—a structured **black blazer** worn over a **fitted black shirt (or T-shirt/sweater)**. **The hair should be neatly groomed and styled appropriately for a man (e.g., short, slicked back, or a modern cut and wearing Sunglasses).** The lighting should be studio-style, with soft, contrasting directional light (Rembrandt-style or sidelight), highlighting the contours of the face, creating elegant shadows and a subtle gradient in the background. The background should be smooth and neutral, in dark gray tones, with slight depth and no distracting elements. The final style should be black and white, with refined contrast, smooth skin texture, and a realistic editorial portrait look. Vertical format (1080x1920), portrait aspect ratio, professional studio photo quality, and a cinematic, realistic finish.",
+    "category": "Portrait",
+    "tags": ["Male", "Black and White", "Studio", "Elegant", "Confident", "Sophisticated", "Editorial"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_288",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_288.jpg",
+    "prompt": "A captivating, photorealistic portrait of a man in his late 20s to early 30s, with a warm, natural expression, looking slightly upwards and to the right. He has medium-length, dark curly hair and a neatly trimmed beard. He is standing upright, with his hands casually in the pockets of dark, well-fitted trousers, wearing a light-colored, open-collared linen shirt with the sleeves rolled up slightly. The setting is a vast, golden wheat field at sunset, with the wheat stalks reaching up to his waist. The sky is a beautiful gradient of soft orange, pink, and light blue, with a few subtle, distant stars and faint meteor trails. The lighting is soft, warm, and golden, coming from the low sun, creating a gentle rim light on his hair and shoulders. The overall image has a serene, slightly dreamy, and romantic atmosphere, with a natural, slightly desaturated color palette and a subtle, soft-focus filter that enhances the warm tones and textures of the field and sky.",
+    "category": "Portrait",
+    "tags": ["Male", "Photorealistic", "Wheat Field", "Sunset", "Serene", "Dreamy", "Romantic", "Nature"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_287",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_287.jpg",
+    "prompt": "Recrie essa cena utilizando minha foto enviada como base, mantendo o mesmo enquadramento, pose, iluminação e atmosfera da imagem de referência. A composição deve mostrar uma mulher sentada sobre um banco alto de madeira com estrutura metálica preta, em um estúdio minimalista de fundo neutro em tons de cinza. O enquadramento deve capturar o corpo inteiro, com leve distância que realce a postura e o cenário limpo. A modelo deve estar com a perna direita dobrada e apoiada no degrau do banco, enquanto a esquerda toca o chão com elegância, calçando sapatos de salto preto com detalhes translúcidos. O figurino é totalmente preto e elegante: blazer estruturado sobre os ombros, calça de alfaiataria justa e blusa preta por baixo, transmitindo força, estilo e profissionalismo. O cabelo solto e alinhado deve cair suavemente sobre os ombros, e a expressão facial deve ser confiante, com o olhar direcionado levemente para o lado, transmitindo poder e serenidade. A iluminação deve ser de estúdio, com luz suave e direcional, criando contraste equilibrado entre sombras e áreas iluminadas, realçando a textura do tecido e o contorno do rosto. O fundo deve permanecer liso, com um degradê sutil em cinza, sem distrações, mantendo o foco totalmente na modelo. O estilo geral deve ser editorial corporativo moderno, com acabamento realista, aparência fotográfica profissional e composição elegante digna de revista. Formato vertical (1080x1920), proporção de retrato, qualidade fotográfica premium, tom sofisticado e iluminação cinematográfica.",
+    "category": "Portrait",
+    "tags": ["Female", "Studio", "Elegant", "Professional", "Black Outfit", "Corporate", "Editorial"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_286",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_286.jpg",
+    "prompt": "Turn my portrait into a pen-and-marker notebook doodle on ruled paper, with playful arrows and tiny margin sketches. Keep my face recognizable.",
+    "category": "Artistic",
+    "tags": ["Male", "Doodle", "Sketch", "Notebook", "Playful", "Marker Art"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_285",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_285.jpg",
+    "prompt": "Studio photography of a me in a black suit, black turtleneck and round sunglasses with translucent yellow lenses. Vibrant orange background. Unique poses from the front.",
+    "category": "Portrait",
+    "tags": ["Male", "Studio", "Fashion", "Black Suit", "Sunglasses", "Vibrant Background"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_284",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_284.jpg",
+    "prompt": "Edit this image to show a man walking forward on a rain-slicked urban street, positioned in the center-lower third of the frame, captured in a dramatic three-quarter view. He's wearing a sophisticated charcoal gray trench coat over a black turtleneck and dark fitted trousers, with polished black leather boots. His hand is raised near his chest in a contemplative gesture, checking his watch. The left side of his body is dramatically disintegrating into an explosive dispersion effect—swirling smoke tendrils, ornate clockwork gears, shattered fragments, scattered papers, and metallic particles erupting outward in shades of silver, gray, and slate blue. The background features a misty urban canyon with towering buildings fading into a moody overcast sky. Cinematic depth of field with bokeh lights in the distance. Moody blue-gray color grading with high contrast. Photorealistic digital art style with surreal disintegration effects. 8K quality, dramatic lighting from above creating subtle highlights on the coat.",
+    "category": "Artistic",
+    "tags": ["Male", "Urban", "Rain", "Disintegration", "Surreal", "Cinematic", "Dramatic", "Digital Art"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_283",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_283.jpg",
+    "prompt": "Create a hyper-realistic portrait of a man (man of the uploaded photo) sitting in the driver's seat of a car, wearing a black shirt, combined with a faded light gray jacket and light gray wide-leg pants. White shoes should be visible, complementing the casual look. Round sunglasses with dark lenses should be positioned on the nose, highlighting a confident and slightly ironic facial expression. Relaxed posture: one arm on the sports steering wheel, the other supporting the head, conveying a relaxed look. The interior of the car should include side windows showing urban scenery (trees, buildings and part of another vehicle), and a black textured seat. Soft natural lighting, simulating daylight coming through the windows, creating a contrast between the warm colors of the clothing and the neutral environment of the car. Vintage style, with desaturated tones and slightly grainy textures, evoking a nostalgic atmosphere. Dominant tones of gray, white and black, with a balance between external light and internal shadows. Slightly elevated perspective, framing that includes the top of the knees to the head, with the steering wheel partially visible on the right.",
+    "category": "Portrait",
+    "tags": ["Male", "Hyperrealistic", "Car", "Vintage", "Sunglasses", "Nostalgic", "Casual"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_282",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_282.jpg",
+    "prompt": "Use the uploaded photo to create an Ultra-realistic mirror selfie of a stylish man with glasses. He is wearing a loose white sweater layered over a crisp white T-shirt, paired with dark blue denim jeans. He holds a new modern iPhone 17 smartphone orange colour in one hand, partially covering his face, while his other hand rests casually in his pocket. The scene is set in warm indoor lighting, creating a cinematic, moody atmosphere with soft shadow.",
+    "category": "Portrait",
+    "tags": ["Male", "Mirror Selfie", "Ultra-realistic", "Stylish", "Glasses", "iPhone", "Indoor Lighting"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_281",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_281.jpg",
+    "prompt": "Edit this image of a young man into a high-contrast black and white portrait in a quiet classroom. he leans casually on a wooden school chair, legs crossed, wearing a navy blue sweatshirt, beige chinos, and black-and-white Converse sneakers. calm neutral expression. His left arm rests on the desk, his right hand drops casually to the side. Behind him, an off-white classroom wall with visible wear, pinned papers, photos, and sticky notes in a grid. One page clearly shows the printed word “Silence”, positioned above his head. Sunlight enters sharply from the right, casting a triangular beam of light on the wall and her shadow. The contrast is dramatic, cinematic, and natural, with a warm late-afternoon tone. The overall style feels candid and realistic, similar to a film photograph: slightly grainy, soft vintage texture, natural imperfections.",
+    "category": "Portrait",
+    "tags": ["Male", "Black and White", "Classroom", "High Contrast", "Cinematic", "Vintage", "Candid"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_280",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_280.jpg",
+    "prompt": "Uma foto realista com todos os traços e linhas idênticos ao da foto com um semblante imponente, em preto em branco, no traje de terno preto e gravata slim.",
+    "category": "Portrait",
+    "tags": ["Male", "Photorealistic", "Black and White", "Suit", "Imposing", "Formal"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_279",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_279.jpg",
+    "prompt": "edit this image to design a bold, modern art poster of a man immersed in his music — wearing a cap and wireless earbuds, head tilted slightly as he feels the beat. Surround him with energetic doodles in black, orange, and white — arrows, lightning bolts, sound waves, and abstract motion lines bursting from his head. Give the background a clean white or bright orange color, emphasizing contrast and rhythm. Include bold graffiti-style text like “Bass Mode,” “Sound Rush,” “Feel It.” His jacket or hoodie can have metallic textures or glowing lines to match the energy of the composition.",
+    "category": "Artistic",
+    "tags": ["Male", "Music", "Modern Art", "Poster", "Doodles", "Vibrant", "Graffiti Style", "Dynamic"],
+    "popularity": 0,
+    "createdAt": "2024-03-01T16:31:42Z",
+    "isFeatured": false
+  }
+  ,
+  {
     "id": "prompt_278",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_278.jpg",
     "prompt": "Edit this image into a bold, confident portrait of a young woman sitting elegantly, chin resting lightly on her hand, eyes forward with unwavering composure. Use dynamic lighting to emphasize her features and add depth to the scene. Style her in a fitted ribbed sweater or chic blazer in tones of cream or midnight blue. Keep the background minimal, with smooth gradients and soft shadows that frame her aura of grace and empowerment.",
