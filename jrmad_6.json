@@ -1,0 +1,364 @@
+{
+  "prompts" : [
+  {
+    "id": "prompt_321",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_321.jpg",
+    "prompt": "Take a photo taken with a Polaroid camera. The photo should look like an ordinary photograph, without an explicit subject or property. The photo should have a slight blur and a consistent light source, like a flash from a dark room, scattered throughout the photo. Don't change the face. Change the background behind those two people with white curtains. With that boy and me make a cute poses. Make the boy holding a red coca cola can and girl a burger.",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Male",
+      "Polaroid",
+      "Couple",
+      "Cute",
+      "Food",
+      "Indoor"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_320",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_320.jpg",
+    "prompt": "“Create a bold, dramatic GQ-style editorial portrait with intense, directional lighting that creates striking shadows and highlights, emphasizing strong facial contours and jawline. The subject wears a sharply tailored, fashion-forward business casual outfit, Use a minimalist, high-contrast background with moody, dark gradients or shadows to create a powerful visual impact. The expression should be confident and slightly fierce, with a piercing gaze that commands attention and conveys authority. Incorporate artistic shadow play and high-definition details to evoke a cinematic, magazine cover effect. The overall image should feel modern and edgy, pushing the boundaries of traditional corporate portraits with a polished, avant-garde finish and vibrant but moody color grading. Use this person in the picture, his face and facial structure, hair, beard, etc",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Editorial",
+      "GQ",
+      "Business",
+      "High Contrast",
+      "Dramatic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_319",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_319.jpg",
+    "prompt": "Can you convert this man to be seated in a grand, ornate armchair, dark in color. He's dressed in a dark trench coat, a crisp suit, and using distinctive round sunglasses, which add to an enigmatic aura. The postureshould be composed and intentional, with his hands extended to offer a red and a blue pill. The background is dark, almost sterile room, but visually dominated by the cascading green digital code that symbolizes a simulated reality. This code flows down walls or appears as if projected, creating a sense of being within a computer program. The lighting in this scene is dramatic, casting shadows that emphasize the gravity of the choice being made.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Sci-Fi",
+      "Cinematic",
+      "Matrix",
+      "Pills",
+      "Digital Code"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_318",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_318.jpg",
+    "prompt": "A hyper-realistic cinematic image, uploaded image a picture of the young man, 1m60, 22 old years do not edit . He is standing at the very top of a famous tower in Paris, From this high vantage point, the entire Paris skyline is visible: the Eiffel Tower in the distance, classic Parisian rooftops, and winding streets below. White tee-shirt, black watch Golden daylight shines across the city, with soft atmospheric haze adding depth. The camera angle is wide, slightly low, making the person look majestic and free while embracing the panoramic view. Mood: liberating, cinematic, awe-inspiring. Aspect ratio: 16:9, ultra-realistic, cinematic detail.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cinematic",
+      "Paris",
+      "Skyline",
+      "Golden Hour",
+      "Travel"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_317",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_317.jpg",
+    "prompt": "Convert this image so that the elderly man is sitting in the center of a high-back armchair in a minimal, monochromatic studio setting. Replace the current background with a seamless wall and floor in dark gray, symbolizing strength and resilience. Dress him in a matching dark gray suit with a crisp white shirt underneath. The chair should be upholstered in the same dark gray tone, blending seamlessly with the background. Change his hand position so his hands rest firmly on the armrests of the chair, projecting power and control. His posture is upright and commanding. Lighting should be soft but dramatic, adding subtle definition to emphasize authority. The final result should feel strong, dignified, and powerful, in ultra-high-resolution fashion portrait style.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Elderly",
+      "Studio",
+      "Monochrome",
+      "Suit",
+      "Power",
+      "Fashion"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_316",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_316.jpg",
+    "prompt": "Studio fashion editorial poster of a young woman sitting confidently on a modern designer chair, wearing full monochrome red outfit (oversized hoodie, joggers, sneakers). Background is pure red with slight texture. Oversized bold white typography across the top spells ‘MAKE IT HAPPEN.’ Minimal branding text at the bottom. Sharp, vibrant, high-fashion design aesthetic.",
+    "category": "Poster",
+    "tags": [
+      "Female",
+      "Fashion",
+      "Editorial",
+      "Monochrome",
+      "Red",
+      "Typography",
+      "Studio"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_315",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_315.jpg",
+    "prompt": "A hyper-realistic cinematic portrait of the uploaded man. Use precise ID locking to preserve his precise facial features, hairstyle, skin tone, body proportions, age, and expressions with 100% accuracy. He exudes the personality of a powerful and domineering gangster, sitting confidently on a luxurious velvet sofa, leaning back in a comfortable yet dominant posture. A lion rests on his lap, its body flowing naturally and comfortably above it. The man's head tilted slightly downward, looking at the cat with a calm and serene expression, while dark sunglasses enhance his aura of dominance and elegance. One hand rests casually on the cat back, the other on the sofa's armrest. He wears a dark, elegant outfit: either a finely pinstriped suit or an open-necked silk shirt... an aura of calm and authority, his presence radiating a quiet, non-aggressive power. Style: realistic, cinematic lighting, extreme detail, and a luxurious atmosphere",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cinematic",
+      "Luxury",
+      "Gangster",
+      "Lion",
+      "Dominant"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_314",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_314.jpg",
+    "prompt": "Cinematic photorealistic portrait, vertical composition, saturated and vivid colors. A man (use the provided image for accurate facial features) stands outdoors at sunset, waist up, in the right third of the frame, in profile facing left. He holds a giant, bright full moon in both hands, palms supporting its lower part, fingers spread. The moon is large, occupying the upper left quadrant, glowing intensely in a golden orange (#FF9E00 – #FFB84D), with visible craters and texture, radiating strong light. The man wears a light grayish-beige dress shirt. His skin and face are illuminated by a warm, deep orange light from the bright moon. Background: dramatic, saturated twilight sky, deep fiery orange (#FF4500) and intense crimson red (#D9381E) near the horizon, merging upward into a dark purple-violet (#4B2E83). Low: Dark clouds, visible horizon, silhouettes of trees and buildings in pure black (#000000), with some small, bright bokeh lights. Lighting and style: Cinematic golden hour tones, high saturation, high contrast, dramatic and dreamlike, warm and intense highlights of the moon, deep shadows for silhouette effect, photorealistic rendering, poetic atmosphere.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cinematic",
+      "Dreamlike",
+      "Moon",
+      "Sunset",
+      "Fantasy"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_313",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_313.jpg",
+    "prompt": "Recrie essa cena usando o meu rosto e corpo como referência da foto enviada. Mantenha a mesma composição, pose e enquadramento da imagem: uma mulher sentada no chão, com as pernas dobradas e braços apoiados nelas. O cenário deve ser minimalista, com fundo neutro em tons de cinza claro. A iluminação deve ser suave e profissional, destacando o rosto e o cabelo com leve brilho. A roupa deve ser um conjunto branco elegante, composto por calça de alfaiataria e blazer, transmitindo sofisticação e serenidade. A expressão facial deve ser natural e confiante, com um toque de suavidade. Estilo de retrato editorial corporativo, luz de estúdio, tons neutros e acabamento realista.",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Editorial",
+      "Corporate",
+      "Minimalist",
+      "White Suit",
+      "Studio"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_312",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_312.jpg",
+    "prompt": "Create an ultra-realistic 3D selfie in 9:16 vertical aspect ratio from the attached photo of the man (use the provided image for accurate facial features) with a T-800-style robot. The photo should look like a typical iPhone selfie—slightly uneven framing, camera angle of view, slight distortion from the front camera, natural skin texture, daylight in the background, an apocalyptic scene with other T-800-style robots, subtle motion blur from hand movements, and authentic depth of field from the iPhone's front camera. Maintain a high level of realism and detail, but with the casual, unpolished look of a real phone photo rather than a professional DSLR. 9:16 aspect ratio",
+    "category": "Selfie",
+    "tags": [
+      "Male",
+      "Selfie",
+      "Robot",
+      "Sci-Fi",
+      "Apocalyptic",
+      "T-800"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_311",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_311.jpg",
+    "prompt": "Create a realistic and emotional scene showing a man (use the provided image for accurate facial features) and a lion face to face in a moment of connection and respect. The man's eyes are closed, with a serene expression, while the lion gently rests its forehead and muzzle against his, conveying trust and a spiritual bond. Both are standing on ground covered in light snow, with snowflakes gently falling. The man wears a dark coat and hair slightly tousled by the wind, and the lion displays a thick, majestic mane. In the background, a cold, misty natural landscape with blurred mountains and gray tones reinforces the calm and powerful atmosphere. The lighting is soft and diffuse, highlighting the textures of the skin, fur, and coat, creating a cinematic and poetic atmosphere. The composition should convey friendship, courage, and harmony between man and nature.",
+    "category": "Scene",
+    "tags": [
+      "Male",
+      "Lion",
+      "Emotional",
+      "Winter",
+      "Nature",
+      "Cinematic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_310",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_310.jpg",
+    "prompt": "A handsome Asian man (identical to the reference photo, maintaining the original facial features) with a relaxed street-style vibe, sitting in a beauty salon chair with both legs casually resting on the table. He is wearing an oversized white Mbelgedez t-shirt, ripped light blue jeans, brown sunglasses, a silver chain necklace, a G-Shock watch on his wrist, and white high-top sneakers. His hair is styled simply in a neutral tone that complements his outfit. He leans back in a confident yet relaxed pose — one hand lightly touching his face, while the other rests on the armrest of the chair. Style: Photorealistic, urban street style aesthetic. Lighting: Natural indoor lighting with soft shadows and slightly warm tones, enhancing the relaxed atmosphere. Composition: Medium shot, subject centered in a salon environment with mirrors, scattered beauty tools, and raw urban details. Details: Realistic fabric textures (with the Mbelgedez logo clearly visible on the t-shirt), fine hair strand detailing, reflective sunglasses, metallic shine on the silver chain, details on the G-Shock watch, worn textures on the sneakers, and subtle skin shine. A confident expression with an effortless mood in a stylish urban setting. Quality: High detail, 8K, masterpiece, cinematic photography.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Asian",
+      "Street Style",
+      "Urban",
+      "Salon",
+      "Fashion"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_309",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_309.jpg",
+    "prompt": "Retrato masculino em preto e branco, estilo editorial de revista, foco em um homem sentado em um sofá, expressão confiante e introspectiva, olhar direto para a câmera, pose relaxada com a mão apoiando o queixo, camisa social clara com alguns botões abertos, barba bem aparada e cabelo penteado para trás com volume natural, iluminação suave vinda da lateral criando contraste e profundidade, ambiente sofisticado com cortinas e decoração moderna ao fundo, textura realista da pele e do tecido, nitidez alta, qualidade fotográfica profissional, lente 85mm f/1.8, estilo monocromático cinematográfico.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Black and White",
+      "Editorial",
+      "Sofisticated",
+      "Introspective",
+      "Studio"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_308",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_308.jpg",
+    "prompt": "“Retrato Masculino Elegante ao Pôr do Sol com Carro de Luxo” Prompt principal (positivos): Retrato masculino realista, estilo editorial de luxo, mostrando o mesmo homem da referência principal (barba curta bem aparada, cabelo penteado para trás com volume natural, óculos de armação grossa, expressão confiante e madura) encostado em um carro esportivo preto brilhante durante o pôr do sol. Ele veste um terno azul-marinho bem ajustado, camisa branca e gravata bordô. Usa sapatos de couro marrom e relógio elegante no pulso. A cena se passa em um ambiente urbano sofisticado, próximo a um parapeito de pedra com vista panorâmica e montanhas ao fundo. O pôr do sol ilumina o céu com tons dourados, alaranjados e rosados, refletindo suavemente na lataria do carro. O enquadramento é em plano médio, mostrando o homem inteiro encostado casualmente no carro, com uma perna cruzada e uma postura confiante. O foco está na harmonia entre o luxo, o bom gosto e a iluminação cinematográfica dourada. Alta definição, textura realista da pele, tecidos e reflexos do carro. Estilo fotográfico contemporâneo, luz natural dourada, atmosfera elegante e sofisticada. Detalhes técnicos e estéticos: Cenário: rua ou mirante urbano durante o pôr do sol Personagem: mesmo homem da foto original (barba, cabelo, óculos, traços maduros) Roupa: terno azul-marinho ajustado, camisa branca, gravata bordô, sapatos de couro marrom Acessórios: relógio elegante, óculos, lenço no bolso do paletó Carro: esportivo preto de luxo, com acabamento polido Iluminação: dourada e quente, luz natural do entardecer Composição: corpo inteiro, levemente inclinado, encostado no carro Clima/emoção: confiança, poder, sucesso e sofisticação Estilo: editorial de moda masculina / publicidade automotiva",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Luxury",
+      "Car",
+      "Sunset",
+      "Editorial",
+      "Suit"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_307",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_307.jpg",
+    "prompt": "Edit this image to transform it into an expressionist charcoal sketch of a stunning woman with piercing blue-green eyes that shimmer like ocean depths. Create the artwork with bold, passionate, and soulful charcoal strokes that dance between control and abandon. She's captured in a dynamic pose—head turned slightly over her bare shoulder, chin subtly lifted, eyes gazing directly at the viewer with penetrating intensity that's both inviting and guarded. Her features are delicately powerful—high cheekbones, full lips rendered with sensual charcoal lines, a graceful neck that flows like a swan's. The strokes defining her face are confident yet tender, with areas of intense darkness contrasting against luminous, barely-touched paper that creates her highlighted features. She wears a flowing, off-shoulder draped fabric in deep burgundy and charcoal tones that cascades around her collarbone, the texture suggested through sweeping, gestural strokes that imply silk or fine cotton. The lighting is moody and cinematic: warm golden light from the right side kisses her cheekbone, the bridge of her nose, and the curve of her shoulder, while deep violet-tinged shadows pool in the hollows of her collarbones and along her neck. Subtle touches of sage green and aquamarine are woven into the charcoal medium—most prominently in her captivating eyes, but also as ghost-like accents in her dark, loosely rendered hair that appears to move with invisible wind. Her hair is suggested rather than detailed—wild, expressive strokes that create volume and movement, some strands sharply defined while others dissolve into abstract marks. A few loose tendrils frame her face, drawn with delicate precision. The tall vertical composition creates a sense of elegance and timelessness, with intentional breathing room above and below her figure. The background is alive with emotional energy—explosive charcoal marks in the upper right suggesting turmoil or passion, transitioning to soft, meditative tones in the lower left. Include visible texture: paper grain showing through, smudged areas where fingers dragged across wet charcoal, and strategic erasing that creates ethereal highlights. The overall atmosphere is one of haunting beauty—vulnerability wrapped in strength, softness containing fire—a portrait that captures the full spectrum of feminine emotional depth in the tradition of André de Dienes' iconic dramatic portraiture.",
+    "category": "Art",
+    "tags": [
+      "Female",
+      "Charcoal",
+      "Sketch",
+      "Expressionist",
+      "Dramatic",
+      "Fine Art"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_306",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_306.jpg",
+    "prompt": "professional studio portrait of a person, confident and determined expression, head slightly tilted down, wearing a black V-neck t-shirt. Using a low-key photography setup with butterfly lighting (key light from front above), a hair rim light from behind, and a faint background light. The atmosphere is filled with a subtle haze or smoke. Shot on a medium format camera, high contrast, cinematic, sharp focus, soft shadows. The atmosphere has a subtle haze. Hyper-realistic, shot on a 85mm lens, sharp focus on eyes, detailed facial features. --ar 4:5 --style raw",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Studio",
+      "Low Key",
+      "Cinematic",
+      "Professional",
+      "Haze"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_305",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_305.jpg",
+    "prompt": "A young man (face similar to the photo) is sitting casually on the front door of a tuned GTR R34 with a large rear spoiler, chrome rims, a silver body with blue stripes, and a blue-violet street racing vinyl sticker along the side. The background is a busy office street or many tall buildings at night, with warm cinematic lighting and soft shadows. The overall atmosphere is inspired by the street racing culture of the 2000s. Photorealistic, high detail, 4k resolution, 3:4 photo size, shallow depth of field, cinematic atmosphere",
+    "category": "Scene",
+    "tags": [
+      "Male",
+      "Car",
+      "GTR R34",
+      "Street Racing",
+      "Cinematic",
+      "Night"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_304",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_304.jpg",
+    "prompt": "Edit this image to show an elegant woman standing in sharp focus against a beautifully blurred urban backdrop. She's positioned in the center-lower portion of the frame, gazing directly at the camera with a captivating, mysterious expression. Her body is angled slightly to the side while her face turns toward the viewer. She has voluminous, textured dark hair with natural waves flowing down, styled with an effortless glamour. She's wearing a sophisticated all-black ensemble: a luxurious black wool coat or trench coat with a structured silhouette, layered over a black silk blouse or elegant turtleneck. The background features bokeh city lights with glowing neon signs and urban architecture creating dreamy circular light halos. Shot in cinematic black and white with dramatic contrast, shallow depth of field (f/1.4-2.0), professional street photography style. The mood is moody, enigmatic, and high-fashion with film noir aesthetics. High-end editorial quality.",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Black and White",
+      "Film Noir",
+      "High Fashion",
+      "Urban",
+      "Editorial"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_303",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_303.jpg",
+    "prompt": "A hyper-realistic, cinematic low-angle portrait of a young man standing confidently in the middle of a modern city street, surrounded by towering skyscrapers curving inward toward the sky. He wears a casual oversized gray t-shirt with bold lettering text OMER J, camouflage cargo shorts, and carries a backpack. Black headphones rest around his neck, and he holds a water bottle in one hand. The lighting is natural and dramatic, with clear blue skies and scattered clouds above, emphasizing the sense of scale and urban energy. The composition creates a powerful, larger-than-life perspective, making the subject appear heroic and adventurous-with ultra-detailed textures in clothing, skin, and architecture.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cinematic",
+      "Urban",
+      "Low Angle",
+      "Skyscraper",
+      "Adventure"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_302",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_302.jpg",
+    "prompt": "Take a picture with a Polaroid camera. The photo should look like a normal photo, without any clear subject or props. The photo should have a slight blur a consistent light source. Such as a flash from a dark room, spread throughout the photo. Do not change the faces. Replace the background behind the two people with a white curtain.",
+    "category": "Scene",
+    "tags": [
+      "Male",
+      "Video Games",
+      "Polaroid",
+      "Flash",
+      "Theater",
+      "Group"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_301",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_301.jpg",
+    "prompt": "A hyperrealistic cinematic shot inside a dark movie theater with visible blue seats in the background, filled with various video game characters having fun. The main character, a man (from the provided photo), looks embarrassed, wearing a simple black Nintendo t-shirt, holding a large red and white striped popcorn bucket in one hand. On each side of the main character: • Left: Mario Bros. holds a red soda cup in one hand, with a mischievous expression. • Right: Donkey Kong is laughing heartily, holding his own popcorn bucket. His smile is wide and sensual, with gleaming teeth. In the background, other video game characters are visible in the seats, including Goku from Dragon Ball, Kratos from God of War, Sonic, Link, Zelda, Princess Peach, a Pikachu-like character, and many more, some wearing 3D glasses, others tossing popcorn in the air, creating a chaotic and festive atmosphere. The lighting is cinematic, primarily coming from an invisible screen in front of them, with light reflections on their faces and popcorn buckets. The details are extremely realistic. The overall atmosphere is joyful, original, and slightly exaggerated.",
+    "category": "Scene",
+    "tags": [
+      "Male",
+      "Video Games",
+      "Cinematic",
+      "Theater",
+      "Characters",
+      "Fun"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-10-30T12:29:48Z",
+    "isFeatured": false
+  }
+]
+}
