@@ -27,6 +27,7 @@
   "festivals": {
   "USA": ["Thanksgiving", "Christmas", "Independence Day"],
   "India": ["Diwali", "Holi", "Eid"],
-  "Japan": ["Hanami", "Obon", "New Year"]
+  "Japan": ["Hanami", "Obon", "New Year"],
+    "Pakistan": ["Eid ul-Fitr", "Eid ul-Adha", "Independence Day", "Ramadan"],
 }
 }
