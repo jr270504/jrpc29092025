@@ -25,43 +25,7 @@
       "Trending", "Retro", "Aesthetic", "Car","Cinematic", "Couple", "Birthday","Vintage", "Cultural", "Branding", "Sports", "Male", "Female"
     ],
 "festivals": {
-  "USA": {
-    "color": "#3C3B6E",
-    "flag": "🇺🇸",
-    "events": [
-      { "name": "Thanksgiving", "emoji": "🦃" },
-      { "name": "Christmas", "emoji": "🎄" },
-      { "name": "Independence Day", "emoji": "🎆" }
-    ]
-  },
-  "India": {
-    "color": "#FF9933",
-    "flag": "🇮🇳",
-    "events": [
-      { "name": "Diwali", "emoji": "🪔" },
-      { "name": "Holi", "emoji": "🎨" },
-      { "name": "Eid", "emoji": "🌙" }
-    ]
-  },
-  "Japan": {
-    "color": "#BC002D",
-    "flag": "🇯🇵",
-    "events": [
-      { "name": "Hanami", "emoji": "🌸" },
-      { "name": "Obon", "emoji": "🪔" },
-      { "name": "New Year", "emoji": "🎍" }
-    ]
-  },
-  "Pakistan": {
-    "color": "#006600",
-    "flag": "🇵🇰",
-    "events": [
-      { "name": "Eid ul-Fitr", "emoji": "🌙" },
-      { "name": "Eid ul-Adha", "emoji": "🐐" },
-      { "name": "Independence Day", "emoji": "🎆" },
-      { "name": "Ramadan", "emoji": "🕌" }
-    ]
-  }
+ 
 }
 
 
