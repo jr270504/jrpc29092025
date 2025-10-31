@@ -23,5 +23,10 @@
   },
   "desiredOrder": [
       "Trending", "Retro", "Aesthetic", "Car","Cinematic", "Couple", "Birthday","Vintage", "Cultural", "Branding", "Sports", "Male", "Female"
-    ]
+    ],
+  "festivals": {
+  "USA": ["Thanksgiving", "Christmas", "Independence Day"],
+  "India": ["Diwali", "Holi", "Eid"],
+  "Japan": ["Hanami", "Obon", "New Year"]
+}
 }
