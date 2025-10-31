@@ -29,5 +29,8 @@
   "India": ["Diwali", "Holi", "Eid"],
   "Japan": ["Hanami", "Obon", "New Year"],
     "Pakistan": ["Eid ul-Fitr", "Eid ul-Adha", "Independence Day", "Ramadan"],
-}
+},
+  "keywords": ["ai", "prompt", "creative", "art", "design", "productivity"],
+    "contentUrl": "https://play.google.com/store/apps/details?id=com.shaaddevstudio.picsprompt",
+    "nonPersonalizedAds": false,
 }
