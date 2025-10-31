@@ -24,12 +24,29 @@
   "desiredOrder": [
       "Trending", "Retro", "Aesthetic", "Car","Cinematic", "Couple", "Birthday","Vintage", "Cultural", "Branding", "Sports", "Male", "Female"
     ],
-  "festivals": {
-  "USA": ["Thanksgiving", "Christmas", "Independence Day"],
-  "India": ["Diwali", "Holi", "Eid"],
-  "Japan": ["Hanami", "Obon", "New Year"],
-    "Pakistan": ["Eid ul-Fitr", "Eid ul-Adha", "Independence Day", "Ramadan"]
+ "festivals": {
+  "USA": {
+    "color": "#3C3B6E",
+    "flag": "🇺🇸",
+    "events": ["Thanksgiving", "Christmas", "Independence Day"]
+  },
+  "India": {
+    "color": "#FF9933",
+    "flag": "🇮🇳",
+    "events": ["Diwali", "Holi", "Eid"]
+  },
+  "Japan": {
+    "color": "#BC002D",
+    "flag": "🇯🇵",
+    "events": ["Hanami", "Obon", "New Year"]
+  },
+  "Pakistan": {
+    "color": "#006600",
+    "flag": "🇵🇰",
+    "events": ["Eid ul-Fitr", "Eid ul-Adha", "Independence Day", "Ramadan"]
+  }
 }
+
   ,
   "keywords": ["ai", "prompt", "creative", "art", "design", "productivity"],
     "contentUrl": "https://play.google.com/store/apps/details?id=com.shaaddevstudio.picsprompt",
