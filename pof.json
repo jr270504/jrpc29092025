@@ -24,28 +24,46 @@
   "desiredOrder": [
       "Trending", "Retro", "Aesthetic", "Car","Cinematic", "Couple", "Birthday","Vintage", "Cultural", "Branding", "Sports", "Male", "Female"
     ],
- "festivals": {
+"festivals": {
   "USA": {
     "color": "#3C3B6E",
     "flag": "🇺🇸",
-    "events": ["Thanksgiving", "Christmas", "Independence Day"]
+    "events": [
+      { "name": "Thanksgiving", "emoji": "🦃" },
+      { "name": "Christmas", "emoji": "🎄" },
+      { "name": "Independence Day", "emoji": "🎆" }
+    ]
   },
   "India": {
     "color": "#FF9933",
     "flag": "🇮🇳",
-    "events": ["Diwali", "Holi", "Eid"]
+    "events": [
+      { "name": "Diwali", "emoji": "🪔" },
+      { "name": "Holi", "emoji": "🎨" },
+      { "name": "Eid", "emoji": "🌙" }
+    ]
   },
   "Japan": {
     "color": "#BC002D",
     "flag": "🇯🇵",
-    "events": ["Hanami", "Obon", "New Year"]
+    "events": [
+      { "name": "Hanami", "emoji": "🌸" },
+      { "name": "Obon", "emoji": "🪔" },
+      { "name": "New Year", "emoji": "🎍" }
+    ]
   },
   "Pakistan": {
     "color": "#006600",
     "flag": "🇵🇰",
-    "events": ["Eid ul-Fitr", "Eid ul-Adha", "Independence Day", "Ramadan"]
+    "events": [
+      { "name": "Eid ul-Fitr", "emoji": "🌙" },
+      { "name": "Eid ul-Adha", "emoji": "🐐" },
+      { "name": "Independence Day", "emoji": "🎆" },
+      { "name": "Ramadan", "emoji": "🕌" }
+    ]
   }
 }
+
 
   ,
   "keywords": ["ai", "prompt", "creative", "art", "design", "productivity"],
