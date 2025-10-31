@@ -25,7 +25,986 @@
       "Trending", "Retro", "Aesthetic", "Car","Cinematic", "Couple", "Birthday","Vintage", "Cultural", "Branding", "Sports", "Male", "Female"
     ],
 "festivals": {
- 
+  "USA": {
+    "color": "#3C3B6E",
+    "flag": "🇺🇸",
+    "events": []
+  },
+  "India": {
+    "color": "#FF9933",
+    "flag": "🇮🇳",
+    "events": []
+  },
+  "Japan": {
+    "color": "#BC002D",
+    "flag": "🇯🇵",
+    "events": []
+  },
+  "Afghanistan": {
+    "color": "#000000",
+    "flag": "🇦🇫",
+    "events": []
+  },
+  "Albania": {
+    "color": "#E41E20",
+    "flag": "🇦🇱",
+    "events": []
+  },
+  "Algeria": {
+    "color": "#006233",
+    "flag": "🇩🇿",
+    "events": []
+  },
+  "Andorra": {
+    "color": "#10069F",
+    "flag": "🇦🇩",
+    "events": []
+  },
+  "Angola": {
+    "color": "#CC092F",
+    "flag": "🇦🇴",
+    "events": []
+  },
+  "Antigua and Barbuda": {
+    "color": "#CE1126",
+    "flag": "🇦🇬",
+    "events": []
+  },
+  "Argentina": {
+    "color": "#74ACDF",
+    "flag": "🇦🇷",
+    "events": []
+  },
+  "Armenia": {
+    "color": "#D90012",
+    "flag": "🇦🇲",
+    "events": []
+  },
+  "Australia": {
+    "color": "#00008B",
+    "flag": "🇦🇺",
+    "events": []
+  },
+  "Austria": {
+    "color": "#ED2939",
+    "flag": "🇦🇹",
+    "events": []
+  },
+  "Azerbaijan": {
+    "color": "#00B5E2",
+    "flag": "🇦🇿",
+    "events": []
+  },
+  "Bahamas": {
+    "color": "#00ABC9",
+    "flag": "🇧🇸",
+    "events": []
+  },
+  "Bahrain": {
+    "color": "#CE1126",
+    "flag": "🇧🇭",
+    "events": []
+  },
+  "Bangladesh": {
+    "color": "#006A4E",
+    "flag": "🇧🇩",
+    "events": []
+  },
+  "Barbados": {
+    "color": "#00267F",
+    "flag": "🇧🇧",
+    "events": []
+  },
+  "Belarus": {
+    "color": "#C8313E",
+    "flag": "🇧🇾",
+    "events": []
+  },
+  "Belgium": {
+    "color": "#000000",
+    "flag": "🇧🇪",
+    "events": []
+  },
+  "Belize": {
+    "color": "#003F87",
+    "flag": "🇧🇿",
+    "events": []
+  },
+  "Benin": {
+    "color": "#008751",
+    "flag": "🇧🇯",
+    "events": []
+  },
+  "Bhutan": {
+    "color": "#FF4E12",
+    "flag": "🇧🇹",
+    "events": []
+  },
+  "Bolivia": {
+    "color": "#D52B1E",
+    "flag": "🇧🇴",
+    "events": []
+  },
+  "Bosnia and Herzegovina": {
+    "color": "#002395",
+    "flag": "🇧🇦",
+    "events": []
+  },
+  "Botswana": {
+    "color": "#75AADB",
+    "flag": "🇧🇼",
+    "events": []
+  },
+  "Brazil": {
+    "color": "#009B3A",
+    "flag": "🇧🇷",
+    "events": []
+  },
+  "Brunei": {
+    "color": "#F7E017",
+    "flag": "🇧🇳",
+    "events": []
+  },
+  "Bulgaria": {
+    "color": "#FFFFFF",
+    "flag": "🇧🇬",
+    "events": []
+  },
+  "Burkina Faso": {
+    "color": "#EF2B2D",
+    "flag": "🇧🇫",
+    "events": []
+  },
+  "Burundi": {
+    "color": "#CE1126",
+    "flag": "🇧🇮",
+    "events": []
+  },
+  "Cabo Verde": {
+    "color": "#003893",
+    "flag": "🇨🇻",
+    "events": []
+  },
+  "Cambodia": {
+    "color": "#032EA1",
+    "flag": "🇰🇭",
+    "events": []
+  },
+  "Cameroon": {
+    "color": "#007A5E",
+    "flag": "🇨🇲",
+    "events": []
+  },
+  "Canada": {
+    "color": "#FF0000",
+    "flag": "🇨🇦",
+    "events": []
+  },
+  "Central African Republic": {
+    "color": "#003082",
+    "flag": "🇨🇫",
+    "events": []
+  },
+  "Chad": {
+    "color": "#002664",
+    "flag": "🇹🇩",
+    "events": []
+  },
+  "Chile": {
+    "color": "#D52B1E",
+    "flag": "🇨🇱",
+    "events": []
+  },
+  "China": {
+    "color": "#DE2910",
+    "flag": "🇨🇳",
+    "events": []
+  },
+  "Colombia": {
+    "color": "#FCD116",
+    "flag": "🇨🇴",
+    "events": []
+  },
+  "Comoros": {
+    "color": "#3A75C4",
+    "flag": "🇰🇲",
+    "events": []
+  },
+  "Congo (Republic of the Congo)": {
+    "color": "#009543",
+    "flag": "🇨🇬",
+    "events": []
+  },
+  "Costa Rica": {
+    "color": "#002B7F",
+    "flag": "🇨🇷",
+    "events": []
+  },
+  "Côte d'Ivoire": {
+    "color": "#F77F00",
+    "flag": "🇨🇮",
+    "events": []
+  },
+  "Croatia": {
+    "color": "#171796",
+    "flag": "🇭🇷",
+    "events": []
+  },
+  "Cuba": {
+    "color": "#002A8F",
+    "flag": "🇨🇺",
+    "events": []
+  },
+  "Cyprus": {
+    "color": "#FFFFFF",
+    "flag": "🇨🇾",
+    "events": []
+  },
+  "Czechia": {
+    "color": "#11457E",
+    "flag": "🇨🇿",
+    "events": []
+  },
+  "Democratic Republic of the Congo": {
+    "color": "#007FFF",
+    "flag": "🇨🇩",
+    "events": []
+  },
+  "Denmark": {
+    "color": "#C60C30",
+    "flag": "🇩🇰",
+    "events": []
+  },
+  "Djibouti": {
+    "color": "#6AB2E7",
+    "flag": "🇩🇯",
+    "events": []
+  },
+  "Dominica": {
+    "color": "#006B3F",
+    "flag": "🇩🇲",
+    "events": []
+  },
+  "Dominican Republic": {
+    "color": "#002D62",
+    "flag": "🇩🇴",
+    "events": []
+  },
+  "Ecuador": {
+    "color": "#FFDD00",
+    "flag": "🇪🇨",
+    "events": []
+  },
+  "Egypt": {
+    "color": "#CE1126",
+    "flag": "🇪🇬",
+    "events": []
+  },
+  "El Salvador": {
+    "color": "#0F47AF",
+    "flag": "🇸🇻",
+    "events": []
+  },
+  "Equatorial Guinea": {
+    "color": "#3E9A00",
+    "flag": "🇬🇶",
+    "events": []
+  },
+  "Eritrea": {
+    "color": "#EA0437",
+    "flag": "🇪🇷",
+    "events": []
+  },
+  "Estonia": {
+    "color": "#0072CE",
+    "flag": "🇪🇪",
+    "events": []
+  },
+  "Eswatini": {
+    "color": "#3E5EB9",
+    "flag": "🇸🇿",
+    "events": []
+  },
+  "Ethiopia": {
+    "color": "#078930",
+    "flag": "🇪🇹",
+    "events": []
+  },
+  "Fiji": {
+    "color": "#68BFE5",
+    "flag": "🇫🇯",
+    "events": []
+  },
+  "Finland": {
+    "color": "#003580",
+    "flag": "🇫🇮",
+    "events": []
+  },
+  "France": {
+    "color": "#0055A4",
+    "flag": "🇫🇷",
+    "events": []
+  },
+  "Gabon": {
+    "color": "#009E60",
+    "flag": "🇬🇦",
+    "events": []
+  },
+  "Gambia": {
+    "color": "#CE1126",
+    "flag": "🇬🇲",
+    "events": []
+  },
+  "Georgia": {
+    "color": "#FFFFFF",
+    "flag": "🇬🇪",
+    "events": []
+  },
+  "Germany": {
+    "color": "#000000",
+    "flag": "🇩🇪",
+    "events": []
+  },
+  "Ghana": {
+    "color": "#006B3F",
+    "flag": "🇬🇭",
+    "events": []
+  },
+  "Greece": {
+    "color": "#0D5EAF",
+    "flag": "🇬🇷",
+    "events": []
+  },
+  "Grenada": {
+    "color": "#CE1126",
+    "flag": "🇬🇩",
+    "events": []
+  },
+  "Guatemala": {
+    "color": "#4997D0",
+    "flag": "🇬🇹",
+    "events": []
+  },
+  "Guinea": {
+    "color": "#CE1126",
+    "flag": "🇬🇳",
+    "events": []
+  },
+  "Guinea-Bissau": {
+    "color": "#CE1126",
+    "flag": "🇬🇼",
+    "events": []
+  },
+  "Guyana": {
+    "color": "#009E49",
+    "flag": "🇬🇾",
+    "events": []
+  },
+  "Haiti": {
+    "color": "#00209F",
+    "flag": "🇭🇹",
+    "events": []
+  },
+  "Honduras": {
+    "color": "#0073CF",
+    "flag": "🇭🇳",
+    "events": []
+  },
+  "Hungary": {
+    "color": "#CD2A3E",
+    "flag": "🇭🇺",
+    "events": []
+  },
+  "Iceland": {
+    "color": "#02529C",
+    "flag": "🇮🇸",
+    "events": []
+  },
+  "Indonesia": {
+    "color": "#FF0000",
+    "flag": "🇮🇩",
+    "events": []
+  },
+  "Iran": {
+    "color": "#239F40",
+    "flag": "🇮🇷",
+    "events": []
+  },
+  "Iraq": {
+    "color": "#CE1126",
+    "flag": "🇮🇶",
+    "events": []
+  },
+  "Ireland": {
+    "color": "#169B62",
+    "flag": "🇮🇪",
+    "events": []
+  },
+  "Israel": {
+    "color": "#0038B8",
+    "flag": "🇮🇱",
+    "events": []
+  },
+  "Italy": {
+    "color": "#009246",
+    "flag": "🇮🇹",
+    "events": []
+  },
+  "Jamaica": {
+    "color": "#009B3A",
+    "flag": "🇯🇲",
+    "events": []
+  },
+  "Jordan": {
+    "color": "#000000",
+    "flag": "🇯🇴",
+    "events": []
+  },
+  "Kazakhstan": {
+    "color": "#00AFCA",
+    "flag": "🇰🇿",
+    "events": []
+  },
+  "Kenya": {
+    "color": "#BB0000",
+    "flag": "🇰🇪",
+    "events": []
+  },
+  "Kiribati": {
+    "color": "#E73E2C",
+    "flag": "🇰🇮",
+    "events": []
+  },
+  "Kuwait": {
+    "color": "#007A3D",
+    "flag": "🇰🇼",
+    "events": []
+  },
+  "Kyrgyzstan": {
+    "color": "#E8112D",
+    "flag": "🇰🇬",
+    "events": []
+  },
+  "Laos": {
+    "color": "#CE1126",
+    "flag": "🇱🇦",
+    "events": []
+  },
+  "Latvia": {
+    "color": "#9E3039",
+    "flag": "🇱🇻",
+    "events": []
+  },
+  "Lebanon": {
+    "color": "#ED1C24",
+    "flag": "🇱🇧",
+    "events": []
+  },
+  "Lesotho": {
+    "color": "#00209F",
+    "flag": "🇱🇸",
+    "events": []
+  },
+  "Liberia": {
+    "color": "#BF0A30",
+    "flag": "🇱🇷",
+    "events": []
+  },
+  "Libya": {
+    "color": "#239E46",
+    "flag": "🇱🇾",
+    "events": []
+  },
+  "Liechtenstein": {
+    "color": "#002B7F",
+    "flag": "🇱🇮",
+    "events": []
+  },
+  "Lithuania": {
+    "color": "#FDB913",
+    "flag": "🇱🇹",
+    "events": []
+  },
+  "Luxembourg": {
+    "color": "#00A1DE",
+    "flag": "🇱🇺",
+    "events": []
+  },
+  "Madagascar": {
+    "color": "#FC3D32",
+    "flag": "🇲🇬",
+    "events": []
+  },
+  "Malawi": {
+    "color": "#CE1126",
+    "flag": "🇲🇼",
+    "events": []
+  },
+  "Malaysia": {
+    "color": "#010066",
+    "flag": "🇲🇾",
+    "events": []
+  },
+  "Maldives": {
+    "color": "#D21034",
+    "flag": "🇲🇻",
+    "events": []
+  },
+  "Mali": {
+    "color": "#14B53A",
+    "flag": "🇲🇱",
+    "events": []
+  },
+  "Malta": {
+    "color": "#CF142B",
+    "flag": "🇲🇹",
+    "events": []
+  },
+  "Marshall Islands": {
+    "color": "#003893",
+    "flag": "🇲🇭",
+    "events": []
+  },
+  "Mauritania": {
+    "color": "#00A95C",
+    "flag": "🇲🇷",
+    "events": []
+  },
+  "Mauritius": {
+    "color": "#EA2839",
+    "flag": "🇲🇺",
+    "events": []
+  },
+  "Mexico": {
+    "color": "#006847",
+    "flag": "🇲🇽",
+    "events": []
+  },
+  "Micronesia (Federated States of)": {
+    "color": "#75B2DD",
+    "flag": "🇫🇲",
+    "events": []
+  },
+  "Moldova": {
+    "color": "#0046AE",
+    "flag": "🇲🇩",
+    "events": []
+  },
+  "Monaco": {
+    "color": "#CE1126",
+    "flag": "🇲🇨",
+    "events": []
+  },
+  "Mongolia": {
+    "color": "#C4272F",
+    "flag": "🇲🇳",
+    "events": []
+  },
+  "Montenegro": {
+    "color": "#C40308",
+    "flag": "🇲🇪",
+    "events": []
+  },
+  "Morocco": {
+    "color": "#C1272D",
+    "flag": "🇲🇦",
+    "events": []
+  },
+  "Mozambique": {
+    "color": "#007168",
+    "flag": "🇲🇿",
+    "events": []
+  },
+  "Myanmar": {
+    "color": "#FECB00",
+    "flag": "🇲🇲",
+    "events": []
+  },
+  "Namibia": {
+    "color": "#003580",
+    "flag": "🇳🇦",
+    "events": []
+  },
+  "Nauru": {
+    "color": "#002170",
+    "flag": "🇳🇷",
+    "events": []
+  },
+  "Nepal": {
+    "color": "#DC143C",
+    "flag": "🇳🇵",
+    "events": []
+  },
+  "Netherlands": {
+    "color": "#AE1C28",
+    "flag": "🇳🇱",
+    "events": []
+  },
+  "New Zealand": {
+    "color": "#00247D",
+    "flag": "🇳🇿",
+    "events": []
+  },
+  "Nicaragua": {
+    "color": "#0067C6",
+    "flag": "🇳🇮",
+    "events": []
+  },
+  "Niger": {
+    "color": "#E05206",
+    "flag": "🇳🇪",
+    "events": []
+  },
+  "Nigeria": {
+    "color": "#008751",
+    "flag": "🇳🇬",
+    "events": []
+  },
+  "North Korea": {
+    "color": "#024FA2",
+    "flag": "🇰🇵",
+    "events": []
+  },
+  "North Macedonia": {
+    "color": "#D20000",
+    "flag": "🇲🇰",
+    "events": []
+  },
+  "Norway": {
+    "color": "#BA0C2F",
+    "flag": "🇳🇴",
+    "events": []
+  },
+  "Oman": {
+    "color": "#E4002B",
+    "flag": "🇴🇲",
+    "events": []
+  },
+  "Pakistan": {
+    "color": "#01411C",
+    "flag": "🇵🇰",
+    "events": []
+  },
+  "Palau": {
+    "color": "#4AADD6",
+    "flag": "🇵🇼",
+    "events": []
+  },
+  "Panama": {
+    "color": "#DA121A",
+    "flag": "🇵🇦",
+    "events": []
+  },
+  "Papua New Guinea": {
+    "color": "#CE1126",
+    "flag": "🇵🇬",
+    "events": []
+  },
+  "Paraguay": {
+    "color": "#D52B1E",
+    "flag": "🇵🇾",
+    "events": []
+  },
+  "Peru": {
+    "color": "#D91023",
+    "flag": "🇵🇪",
+    "events": []
+  },
+  "Philippines": {
+    "color": "#0038A8",
+    "flag": "🇵🇭",
+    "events": []
+  },
+  "Poland": {
+    "color": "#DC143C",
+    "flag": "🇵🇱",
+    "events": []
+  },
+  "Portugal": {
+    "color": "#006600",
+    "flag": "🇵🇹",
+    "events": []
+  },
+  "Qatar": {
+    "color": "#8D1B3D",
+    "flag": "🇶🇦",
+    "events": []
+  },
+  "Romania": {
+    "color": "#002B7F",
+    "flag": "🇷🇴",
+    "events": []
+  },
+  "Russia": {
+    "color": "#0039A6",
+    "flag": "🇷🇺",
+    "events": []
+  },
+  "Rwanda": {
+    "color": "#00A1DE",
+    "flag": "🇷🇼",
+    "events": []
+  },
+  "Saint Kitts and Nevis": {
+    "color": "#00A651",
+    "flag": "🇰🇳",
+    "events": []
+  },
+  "Saint Lucia": {
+    "color": "#65CFFF",
+    "flag": "🇱🇨",
+    "events": []
+  },
+  "Saint Vincent and the Grenadines": {
+    "color": "#0072C6",
+    "flag": "🇻🇨",
+    "events": []
+  },
+  "Samoa": {
+    "color": "#CE1126",
+    "flag": "🇼🇸",
+    "events": []
+  },
+  "San Marino": {
+    "color": "#5EB3E4",
+    "flag": "🇸🇲",
+    "events": []
+  },
+  "Sao Tome and Principe": {
+    "color": "#12AD2B",
+    "flag": "🇸🇹",
+    "events": []
+  },
+  "Saudi Arabia": {
+    "color": "#165C2B",
+    "flag": "🇸🇦",
+    "events": []
+  },
+  "Senegal": {
+    "color": "#00853F",
+    "flag": "🇸🇳",
+    "events": []
+  },
+  "Serbia": {
+    "color": "#C6363C",
+    "flag": "🇷🇸",
+    "events": []
+  },
+  "Seychelles": {
+    "color": "#003F87",
+    "flag": "🇸🇨",
+    "events": []
+  },
+  "Sierra Leone": {
+    "color": "#1EB53A",
+    "flag": "🇸🇱",
+    "events": []
+  },
+  "Singapore": {
+    "color": "#ED2939",
+    "flag": "🇸🇬",
+    "events": []
+  },
+  "Slovakia": {
+    "color": "#0B4EA2",
+    "flag": "🇸🇰",
+    "events": []
+  },
+  "Slovenia": {
+    "color": "#005DA4",
+    "flag": "🇸🇮",
+    "events": []
+  },
+  "Solomon Islands": {
+    "color": "#0051BA",
+    "flag": "🇸🇧",
+    "events": []
+  },
+  "Somalia": {
+    "color": "#4189DD",
+    "flag": "🇸🇴",
+    "events": []
+  },
+  "South Africa": {
+    "color": "#007A4D",
+    "flag": "🇿🇦",
+    "events": []
+  },
+  "South Korea": {
+    "color": "#C60C30",
+    "flag": "🇰🇷",
+    "events": []
+  },
+  "South Sudan": {
+    "color": "#000000",
+    "flag": "🇸🇸",
+    "events": []
+  },
+  "Spain": {
+    "color": "#AA151B",
+    "flag": "🇪🇸",
+    "events": []
+  },
+  "Sri Lanka": {
+    "color": "#8B4513",
+    "flag": "🇱🇰",
+    "events": []
+  },
+  "Sudan": {
+    "color": "#D21034",
+    "flag": "🇸🇩",
+    "events": []
+  },
+  "Suriname": {
+    "color": "#377E3F",
+    "flag": "🇸🇷",
+    "events": []
+  },
+  "Sweden": {
+    "color": "#006AA7",
+    "flag": "🇸🇪",
+    "events": []
+  },
+  "Switzerland": {
+    "color": "#FF0000",
+    "flag": "🇨🇭",
+    "events": []
+  },
+  "Syria": {
+    "color": "#CE1126",
+    "flag": "🇸🇾",
+    "events": []
+  },
+  "Tajikistan": {
+    "color": "#CC0000",
+    "flag": "🇹🇯",
+    "events": []
+  },
+  "Tanzania": {
+    "color": "#1EB53A",
+    "flag": "🇹🇿",
+    "events": []
+  },
+  "Thailand": {
+    "color": "#2D2A4A",
+    "flag": "🇹🇭",
+    "events": []
+  },
+  "Timor-Leste": {
+    "color": "#DC241F",
+    "flag": "🇹🇱",
+    "events": []
+  },
+  "Togo": {
+    "color": "#006A4E",
+    "flag": "🇹🇬",
+    "events": []
+  },
+  "Tonga": {
+    "color": "#C10000",
+    "flag": "🇹🇴",
+    "events": []
+  },
+  "Trinidad and Tobago": {
+    "color": "#CE1126",
+    "flag": "🇹🇹",
+    "events": []
+  },
+  "Tunisia": {
+    "color": "#E70013",
+    "flag": "🇹🇳",
+    "events": []
+  },
+  "Turkey": {
+    "color": "#E30A17",
+    "flag": "🇹🇷",
+    "events": []
+  },
+  "Turkmenistan": {
+    "color": "#00843D",
+    "flag": "🇹🇲",
+    "events": []
+  },
+  "Tuvalu": {
+    "color": "#418FDE",
+    "flag": "🇹🇻",
+    "events": []
+  },
+  "Uganda": {
+    "color": "#FCDC04",
+    "flag": "🇺🇬",
+    "events": []
+  },
+  "Ukraine": {
+    "color": "#005BBB",
+    "flag": "🇺🇦",
+    "events": []
+  },
+  "United Arab Emirates": {
+    "color": "#00732F",
+    "flag": "🇦🇪",
+    "events": []
+  },
+  "United Kingdom": {
+    "color": "#012169",
+    "flag": "🇬🇧",
+    "events": []
+  },
+  "United States of America": {
+    "color": "#3C3B6E",
+    "flag": "🇺🇸",
+    "events": []
+  },
+  "Uruguay": {
+    "color": "#0038A8",
+    "flag": "🇺🇾",
+    "events": []
+  },
+  "Uzbekistan": {
+    "color": "#1EB53A",
+    "flag": "🇺🇿",
+    "events": []
+  },
+  "Vanuatu": {
+    "color": "#D21034",
+    "flag": "🇻🇺",
+    "events": []
+  },
+  "Vatican City": {
+    "color": "#FFE000",
+    "flag": "🇻🇦",
+    "events": []
+  },
+  "Venezuela": {
+    "color": "#FFCC00",
+    "flag": "🇻🇪",
+    "events": []
+  },
+  "Vietnam": {
+    "color": "#DA251D",
+    "flag": "🇻🇳",
+    "events": []
+  },
+  "Yemen": {
+    "color": "#CE1126",
+    "flag": "🇾🇪",
+    "events": []
+  },
+  "Zambia": {
+    "color": "#198A00",
+    "flag": "🇿🇲",
+    "events": []
+  },
+  "Zimbabwe": {
+    "color": "#319E48",
+    "flag": "🇿🇼",
+    "events": []
+  },
+  "Palestine": {
+    "color": "#000000",
+    "flag": "🇵🇸",
+    "events": []
+  }
 }
 
 
