@@ -1,5 +1,270 @@
 {
   "prompts" : [
+    {
+    "id": "prompt_374",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_374.jpg",
+    "prompt": "Ultra-realistic cinematic poster of a romantic couple facing each other closely with intense eye contact. The man on the left has short styled hair, trimmed beard, and wears a black leather jacket. The woman on the right has long dark hair, natural makeup, and wears a white outfit with green earrings. The background is textured with red graffiti text ‘ADAA’ repeatedly written all over. The title text ‘DEEWANIYAT’ appears in bold artistic orange font at the bottom with glowing edges. Below it, release text reads ‘TITLE SONG OUT ON 29TH AUG 2025’ in bright orange. Additional credits like singer, lyricist, and director are written in smaller fonts at the bottom. The lighting is warm and dramatic, focusing on their faces, creating romantic tension and cinematic depth.\" Use uploaded image face Don't change the face keep facial features same.",
+    "category": "Poster",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Couple",
+      "Cinematic",
+      "Trending",
+      "Female",
+      "Male",
+      "Branding"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_373",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_373.jpg",
+    "prompt": "Ultra realistic outdoor portrait of a 5'5\"young man sitting on grass against a tree.He wears a brown checked shirt Over a white tee, white slim-fit pants, and white Nike sneakers (no visible SOcks). He has the same face, hairstyle, nose, and lips as the reference image. On his left wrist is a white Apple smnartwatch, and he wears a stylish mala locket. A red rose lies beside him on the grass. Soft natural lighting and blurred greenery create calm, dreamy And there's a beautiful young girl sit.",
+    "category": "Portrait",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Couple",
+      "Male",
+      "Female",
+      "Aesthetic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_372",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_372.jpg",
+    "prompt": "A young couple, full shot, seated on a modern outdoor bench in a natural, lush green hilly landscape with a soft bokeh background. The man is wearing a crisp white button-down shirt, black distressed jeans, and white sneakers. The woman is wearing a elegant white traditional Indian outit with a dupatta and white ballet flats. They are holding hands, looking directly at the camera with gentle smiles, exuding warmth and connection. Soft, natural daylight. Portrait photography style.",
+    "category": "Portrait",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Couple",
+      "Female",
+      "Male",
+      "Cultural",
+      "Cinematic",
+      "Aesthetic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_371",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_371.jpg",
+    "prompt": "A hyper-realistic cinematic travel portrait of a stylish young Indian man and women (use reference face, body shape, height) leaning out of the door of a colorful heritage train. He is yellow and dark blue a shirt over a white T-shirt, paired with beige cargo pants.She's wearing a white chudidar and white leggins. He is holding her hands balancing her and Her arms are stretched playfully as they smiles confidently, enjoying the moment.keep the face accurate no changes.",
+    "category": "Travel",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Couple",
+      "Cinematic",
+      "Cultural",
+      "Trending",
+      "Female",
+      "Male"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_370",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_370.jpg",
+    "prompt": "Without changing my facial features, create a stylish, modern portrait of a young man with voluminous dark hair wearing a loose-fitting Navy Blue shirt Top button down. singl accessorized with a watch and a small earring. The background is soft, minimal, and subtly blurred to emphasize a contemporary fashion-forward vifac Transparent sunglasses. Cinematic lighting, ultra-detailed, realistic textures, and a polished editorial aesthetic same face.",
+    "category": "Portrait",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Male",
+      "Aesthetic",
+      "Cinematic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_369",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_369.jpg",
+    "prompt": "Ultra-realistic 4K collage-style photo poster of a man wearing in this is photo a same cloth , white tee, and jeans with white shoes. Multiple creative shots blended together one close-up portrait, one full-body pose, and one side profile all set against a dark, moody background with glowing abstract shapes and shadows. Stylish cinematic poster vibe with dramatic lighting and high contrast.",
+    "category": "Collage",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Male",
+      "Cinematic",
+      "Aesthetic",
+      "Trending",
+      "Branding"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_368",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_368.jpg",
+    "prompt": "Create a realistic this image An 18-year-old boy wearing black checked shirt and blue baggy jeans from the village is setting up a big sound (DJ) set to play music at Chhat Ghat on the river bank and some people are watching him and behind this there is a crowd of people like during Chhat Puja. He is looking towards the camera and smiling warmly. Face 100% match as reference image",
+    "category": "Cultural",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Male",
+      "Cultural",
+      "Trending",
+      "Cinematic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_367",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_367.jpg",
+    "prompt": "Create a realistic this image A handsome young man with dark, curly hair, wearing a red and black flannel shirt over a white t-shirt and blue jeans, stands smiling by the edge of a river, He has his hands casually in his pockets and is looking off to the right. The scene is a busy, ancient Indian ghat, likely in Varanasi. The time is golden hour, with soft, warm, hazy sunlight (or mist) creating a beautiful, ethereal atmosphere. In the blurred background, people are performing rituals, with some wading in the water and others standing on the steps. Vertical orientation, cinematic lighting, shallow depth of field, high-resolution photography.",
+    "category": "Cultural",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Male",
+      "Cultural",
+      "Cinematic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_366",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_366.jpg",
+    "prompt": "A highly realistic photo of a young man sitting stylishly on an old iron staircase outside a building, wearing a loose beige red shirt, faded black cargo, print sneakers, a gold wristwatch, and round sunglasses. He is resting one elbow on the railing and the other hand on his chin in confident pose. The background shows faded concrete walls and soft cinematic lighting with a slightly warm tone. The hairstyle is neat and voluminous, similar",
+    "category": "Portrait",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Male",
+      "Aesthetic",
+      "Vintage",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_365",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_365.jpg",
+    "prompt": "An ultra-detailed 8K hyper-realistic portrait of a young man (use reference face, slim build, height 5'11) standing indoors in a modern, warmly lit room.He has voluminous, perfectly styled black hair, slightly tousled for a casual yet fashionable look. His expression is confident yet relaxed, with a soft half -smile and direct gaze toward the camera.Pose & body language:He leans back casually against the counter with both hands resting on the edge behind him. His head tilis slightly as he looks directly at the camera with a composed, relaxed expression. His stance emphasizes confidence and ease while showcasing his outfit.Outfit details:Oversized graphic sweatshirt in shades of beige, grey, and black with ypryg suayod (ydo.8odG o10u1008 p7oq trousers with a sleek, casual fit A subtle wristwatch visible on hislefiwrist.Background & lighting:The background features a modern mirror setup with warm yellow LED strip lights embedded horizontally, casting a cinematic glow across the scene",
+    "category": "Portrait",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Male",
+      "Cinematic",
+      "Aesthetic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_364",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_364.jpg",
+    "prompt": "Generate an ultra-realistic cinematic portrait of the uploaded person, perfectly blended into this exact scene.The person is sitting on the grass, leaning back against a tall bare-branched tree with eyes closed in a relaxed pose.Outfit: loose white shirt (partly unbuttoned) and black pants. The grassy field is lush green, extending into the distance with scattered trees in the background. Sky is pale with soft daylight. Color grading: muted, slightly desaturated earthy tones with high clarity, soft contrast, and natural shadows. Editorial, fashion-inspired composition with calm and dreamy atmosphere. High quality, sharp details, natural textures, professional outdoor photography style",
+    "category": "Portrait",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Male",
+      "Cinematic",
+      "Aesthetic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_363",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_363.jpg",
+    "prompt": "Generate an ultra-realistic cinematic photo using the uploaded person’s face, seamlessly matched to the original body, outfit, and pose. The person is kneeling in a lush green meadow surrounded by tall grass and wildflowers, wearing a light cream sweater and dark pants, He holds a small bouquet of colorful flowers in one hand while bending forward to pick more flowers with the other hand. The background shows tall green mountains under soft daylight with neutral, cool cinematic tones instead of warm sunlight. Keep the lighting balanced and natural, with no yellow or golden tint, capturing the cinematic film look with detailed textures, depth of field, and high-quality 8K resolution",
+    "category": "Portrait",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Male",
+      "Cinematic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_362",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_362.jpg",
+    "prompt": "A monochromatic, high-contrast surreal image. A male figure, dressed in dark clothing, is suspended mid-air, angled upward to the right, with his eyes closed as if in a trance or unconscious state. From his body, a stream of ethereal smoke or mist extends upwards and transforms into the translucent, ghost-like figure of a woman, also suspended in the air above and to the right of the man. The woman's form is less defined, with smoky edges, and she appears to be looking down towards the . don't change my look",
+    "category": "Surreal",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Male",
+      "Female",
+      "Cinematic",
+      "Aesthetic",
+      "Vintage"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_361",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_361.jpg",
+    "prompt": "Hyper-realistic cinematic artwork of the user naturally lounging or reclining (one arm under behind head) on giant 3D letters spelling \"PUBG,don't change my look",
+    "category": "Fantasy",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Male",
+      "Sports",
+      "Branding",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_360",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_360.jpg",
+    "prompt": "Cinematic night street photography of a man with the exact same face as the reference photo, leaning casually against a large vertical Coca-Cola illuminated light box sign, dramatic red glowing light spilling from the box and illuminating his face and upper body. Framing: medium shot (half body), side profile, slightly low angle. Pose: head tilted slightly upward with a dreamy, thoughtful expression, one hand resting while the other holds a Coca-Cola can. Setting: outdoor park-like area at night with subtle presence of trees and soft foliage shadows in the background, moody cinematic atmosphere. Foreground right side framed by blurred out-of-focus tree leaves and branches, natural depth-of-field effect adding layered cinematic composition. Color grading: dark muted tones, lifted shadows, mattedesaturated style with soft dark gray shadows, faded film aesthetic, film grain",
+    "category": "Portrait",
+    "tags": [
+      "India",
+      "Pakistan",
+      "Cinematic",
+      "Male",
+      "Branding",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-04T00:00:00Z",
+    "isFeatured": false
+  }
+
+    ,
 {
     "id": "prompt_359",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_359.jpg",
