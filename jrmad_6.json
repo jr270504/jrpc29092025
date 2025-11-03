@@ -1,5 +1,66 @@
 {
   "prompts" : [
+    {
+    "id": "prompt_253",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_253.jpg",
+    "prompt": "A cinematic portrait of a man standing in a tall green field, wearing a dark button-up shirt and headphones. He has his eyes closed, head tilted slightly upward, and arms stretched wide open as if embracing the music and the sky. The at- mosphere is serene and emotional, with drama- tic overcast clouds filling the sky. Shot in a wi- de-angle, low-perspective view that captures both the man and the sweeping field around him. Soft natural lighting with muted tones, evo- king freedom, peace, and deep connection with nature. Ultra-realistic, high detail, 8k resolution, cinematic depth of field.",
+    "category": "Portrait",
+    "tags": ["Male", "Nature", "Emotional", "Cinematic", "Field", "Headphones", "Freedom", "Wide-Angle", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-11-03T17:34:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_252",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_252.jpg",
+    "prompt": "[Use the face from the submitted photo], preserving the warm-neutral skin tone, minimalist oversized white crew neck shirt without print, tailored black athletic shorts, clean white techwear sneakers, metallic gray on-ear headphones; giant iPhone on the floor with a clean, minimalist music app screen without logos, you standing centered on the screen at human scale, confident, neutral editorial expression, direct eye contact, one arm relaxed and the other in the shorts pocket, bald head, clean light gray background, minimalist futuristic style; partial top- down camera with a high angle, full-body shot, 35-50mm lens, f/8, 4:5 vertical aspect ratio (1080x1350 px); homogeneous diffuse studio lighting, medium contrast, highlighted hood; 5000K color grade white balance, -5 saturation, neutral props and background, and highlighted skin; 4:5 vertical output - 1080x1350 px, sRGB, overscan +3%, futuristic editorial high definition; Cons: no face/skin alteration, no logos, no cluttered background, no plastic skin, no iPhone cutouts, feet, or headphones.",
+    "category": "Fashion/Editorial",
+    "tags": ["Male", "Minimalist", "Futuristic", "Full-Body", "Techwear", "Editorial", "Studio Lighting", "High-Angle", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-11-03T17:34:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_251",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_251.jpg",
+    "prompt": "Create a photo-style line drawing ink sketch of the faces identical to the uploaded reference image - keep every facial feature, proportion, and expression exactly the same. Use blue and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background. Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.",
+    "category": "Art Style",
+    "tags": ["Male", "Sketch", "Line Art", "Ink", "Blue and White", "Drawing", "Hand-Drawn", "Detail", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-11-03T17:34:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_250",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_250.jpg",
+    "prompt": "A cinematic photo of me(photo attached, same face nd attire) sitting on a bean bag holding a cigar in a circle surrounded by famous horror movie villains: Jason Voorhees, Michael Myers, Chucky, Pennywise the Clown, and Ghostface. They all sit together in seats on a couch, as if casually talking and smoking a cigar. The lighting is moody and dramatic, with warm tones on me and eerie shadows on the villains.",
+    "category": "Fantasy/Thematic",
+    "tags": ["Male", "Horror", "Villains", "Cinematic", "Dark", "Moody Lighting", "Cigar", "Group Shot", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-11-03T17:34:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_249",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_249.jpg",
+    "prompt": "A double-exposure style digital poster of a young superhero with a determined expression, blending his realistic portrait with an urban cityscape. The right side is shown in lifelike detail, while the left side dissolves into abstract blue-tone shattered glass textures and city elements. A glowing red silhouette of the skyline, including the Empire State Building, merges into the lower half of his profile, symbolizing the connection between the hero and the city. Use high-contrast red and blue colors, cinematic lighting, sharp details, modern graphic design aesthetics, futuristic and dramatic poster art.",
+    "category": "Poster/Digital Art",
+    "tags": ["Male", "Superhero", "Double-Exposure", "Cityscape", "Red and Blue", "Futuristic", "Graphic Design", "Dramatic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-11-03T17:34:02Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_248",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_248.jpg",
+    "prompt": "A cinematic, artistic portrait of a man with a sharp undercut hairstyle and intense expression, dressed in a classic three-piece suit with a tie and pocket watch chain, standing against a background of intricate mechanical and scientific schematics. He holds a lighter with a small orange flame, about to light his cigarette. The artwork style blends realism and sketch illustration, with fine ink lines, golden gear elements, and blueprint-style diagrams behind him — evoking",
+    "category": "Portrait",
+    "tags": ["Male", "Steampunk", "Suit", "Schematics", "Cinematic", "Sketch", "Mechanical", "Golden Gears", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-11-03T17:34:02Z",
+    "isFeatured": false
+  }
+    ,
   {
     "id": "prompt_321",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_321.jpg",
