@@ -1,36 +1,38 @@
 {
   
   "prompts": [
-     {
+  
+  {
     "id": "prompt_250",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_250.jpg",
-    "prompt": "A hyper-realistic cinematic 9:16 portrait based on the uploaded image, keeping the same face and hairstyle of A stylish young man sitting confidently on the front bonnet of a black jeep car at night on a wet road. He is wearing a sharp black suit with a white open-collar shirt, black formal loafers, and dark sunglasses. He is holding a vape, exhaling smoke stylishly. The background is cinematic with glowing street lights, misty fog, and blurred trees, creating a. moody and dramatic atmosphere. The man's pose is casual yet classy, with one hand resting on his thigh and the other. holding the vape near his lips. Ultra realistic, high resolution, 8K, cinematic lighting, professional photography style, detailed textures on the car, wet road reflections, bokeh background, premium luxury vibe",
-    "category": "Cinematic",
-    "tags": ["All", "Trending", "New", "Male", "Car", "Jeep", "Night", "Cinematic", "8K", "Luxury", "Vape", "Hyper-realistic"],
+    "prompt": "A cinematic photo of me(photo attached, same face nd attire) sitting on a bean bag holding a cigar in a circle surrounded by famous horror movie villains: Jason Voorhees, Michael Myers, Chucky, Pennywise the Clown, and Ghostface. They all sit together in seats on a couch, as if casually talking and smoking a cigar. The lighting is moody and dramatic, with warm tones on me and eerie shadows on the villains.",
+    "category": "Fantasy/Thematic",
+    "tags": ["Male", "Horror", "Villains", "Cinematic", "Dark", "Moody Lighting", "Cigar", "Group Shot", "Trending"],
     "popularity": 0,
-    "createdAt": "2025-10-22T00:00:00Z",
+    "createdAt": "2025-11-03T17:34:02Z",
     "isFeatured": false
   },
   {
     "id": "prompt_249",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_249.jpg",
-    "prompt": "BMW X1 luxury SUV in studio, male model (Uploaded image) face and body composition remain same in Black tailored suit standing confidently beside driver's door, glossy black floor reflections, dramatic cinematic studio lighting, Sony FX3, 55mm lens, low angle, ultra-detailed photorealism, fashion editorial look 16:9 style raw",
-    "category": "Automotive",
-    "tags": ["All", "Trending", "New", "Male", "Car", "BMW", "Luxury", "Studio", "Cinematic", "Fashion", "Photorealistic"],
+    "prompt": "A double-exposure style digital poster of a young superhero with a determined expression, blending his realistic portrait with an urban cityscape. The right side is shown in lifelike detail, while the left side dissolves into abstract blue-tone shattered glass textures and city elements. A glowing red silhouette of the skyline, including the Empire State Building, merges into the lower half of his profile, symbolizing the connection between the hero and the city. Use high-contrast red and blue colors, cinematic lighting, sharp details, modern graphic design aesthetics, futuristic and dramatic poster art.",
+    "category": "Poster/Digital Art",
+    "tags": ["Male", "Superhero", "Double-Exposure", "Cityscape", "Red and Blue", "Futuristic", "Graphic Design", "Dramatic", "Trending"],
     "popularity": 0,
-    "createdAt": "2025-10-22T00:00:00Z",
+    "createdAt": "2025-11-03T17:34:02Z",
     "isFeatured": false
   },
   {
     "id": "prompt_248",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_248.jpg",
-    "prompt": "Make a Hyper realistic Image Of 20 years Young handsome Man Wearing All black dressing, Clear Sunglasses, Wrist watch, White Nike Sneakers, Hair Same As Uploaded Face, Leaning On yellow and black Modified Mustang In Background Have A Dubai Big Museum, 4k Ultra Realistic Cinematic Image, The atmosphere is serene moody with wam sunlight. 100% face matching",
-    "category": "Automotive",
-    "tags": ["All", "Trending", "New", "Male", "Car", "Mustang", "Dubai", "Museum", "Cinematic", "4K", "Hyper-realistic"],
+    "prompt": "A cinematic, artistic portrait of a man with a sharp undercut hairstyle and intense expression, dressed in a classic three-piece suit with a tie and pocket watch chain, standing against a background of intricate mechanical and scientific schematics. He holds a lighter with a small orange flame, about to light his cigarette. The artwork style blends realism and sketch illustration, with fine ink lines, golden gear elements, and blueprint-style diagrams behind him — evoking",
+    "category": "Portrait",
+    "tags": ["Male", "Steampunk", "Suit", "Schematics", "Cinematic", "Sketch", "Mechanical", "Golden Gears", "Trending"],
     "popularity": 0,
-    "createdAt": "2025-10-22T00:00:00Z",
+    "createdAt": "2025-11-03T17:34:02Z",
     "isFeatured": false
-  },
+  }
+    ,
   {
     "id": "prompt_247",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_247.jpg",
