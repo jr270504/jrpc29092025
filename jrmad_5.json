@@ -529,35 +529,34 @@
     "createdAt": "2025-10-24T00:00:00Z",
     "isFeatured": false
   },
-  {
+ {
     "id": "prompt_253",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_253.jpg",
-    "prompt": "Buatkan gambar realistis 8k hd high resolution dengan ukuran 3:4, Seorang pria muda di foto (jangan ubah wajah asli) duduk santai di rerumputan hijau yang diterangi cahaya matahari siang. Rambutnya hitam pekat, tebal, agak bergelombang, sedikit berantakan alami namun tetap rapi, menambah kesan kasual. la mengenakan kaos pendek oversize berwarna hitam dengan grafik, dipadukan dengan celana jins biru longgar. Di kakinya, ia memakai sepatu kets putih bersih dengan desain klasik. Pria itu menatap ke arah langit biru luas yang dipenuhi awan putih tebal berbentuk dramatis, ekspresinya tenang sekaligus penuh perenungan. Di belakangnya, terlihat sebuah motor klasik berwarna oranye mengilap dengan detail chrome, menambah kesan maskulin dan bebas. Suasana foto terasa natural, realistis, dan sinematis, menggambarkan momen istirahat seorang pria muda yang sedang menikmati hari cerah di alam terbuka dengan latar langit luas.",
+    "prompt": "A cinematic portrait of a man standing in a tall green field, wearing a dark button-up shirt and headphones. He has his eyes closed, head tilted slightly upward, and arms stretched wide open as if embracing the music and the sky. The at- mosphere is serene and emotional, with drama- tic overcast clouds filling the sky. Shot in a wi- de-angle, low-perspective view that captures both the man and the sweeping field around him. Soft natural lighting with muted tones, evo- king freedom, peace, and deep connection with nature. Ultra-realistic, high detail, 8k resolution, cinematic depth of field.",
     "category": "Portrait",
-    "tags": ["All", "New", "Male", "8K", "Realistic", "Outdoor", "Motorcycle", "Nature", "Casual", "Sunny", "Cinematic", "Freedom"],
+    "tags": ["Male","Pakistan", "Nature", "Emotional", "Cinematic", "Field", "Headphones", "Freedom", "Wide-Angle", "Trending"],
     "popularity": 0,
-    "createdAt": "2025-10-24T00:00:00Z",
+    "createdAt": "2025-11-03T17:34:02Z",
     "isFeatured": false
-  }
-  ,
+  },
   {
     "id": "prompt_252",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_252.jpg",
-    "prompt": "A stylish confident young man sitting on the edge of a rugged black SUV Tar) bonnet on a wet Mumbai beach street, driver-side door open. Medium-length pompadour fade hair, short boxed beard black round sunglasses, Outfit all block: fitted half-sleeve shirt with op en collar ripped skinny joms ath tears on both mees, black leather combat boots, black Apple wristwatch. Oncot on the bonnet, other foot frely on wet road, bands casualy resting, looking at the camera. SUV slightly dirty, tires visible. Background: distansen, greczery blurred, overcast bright sky. Mood: cinematic, stylish urban, modern masculine cool color tone. Light high clarity and contrast.\"",
-    "category": "Automotive",
-    "tags": ["All", "Trending", "New", "Male", "Car", "SUV", "Thar", "Mumbai", "Beach", "Cinematic", "Urban", "Stylish", "Masculine"],
+    "prompt": "[Use the face from the submitted photo], preserving the warm-neutral skin tone, minimalist oversized white crew neck shirt without print, tailored black athletic shorts, clean white techwear sneakers, metallic gray on-ear headphones; giant iPhone on the floor with a clean, minimalist music app screen without logos, you standing centered on the screen at human scale, confident, neutral editorial expression, direct eye contact, one arm relaxed and the other in the shorts pocket, bald head, clean light gray background, minimalist futuristic style; partial top- down camera with a high angle, full-body shot, 35-50mm lens, f/8, 4:5 vertical aspect ratio (1080x1350 px); homogeneous diffuse studio lighting, medium contrast, highlighted hood; 5000K color grade white balance, -5 saturation, neutral props and background, and highlighted skin; 4:5 vertical output - 1080x1350 px, sRGB, overscan +3%, futuristic editorial high definition; Cons: no face/skin alteration, no logos, no cluttered background, no plastic skin, no iPhone cutouts, feet, or headphones.",
+    "category": "Fashion/Editorial",
+    "tags": ["Male", "Minimalist", "Futuristic", "Full-Body", "Techwear", "Editorial", "Studio Lighting", "High-Angle", "Trending"],
     "popularity": 0,
-    "createdAt": "2025-10-22T00:00:00Z",
+    "createdAt": "2025-11-03T17:34:02Z",
     "isFeatured": false
   },
   {
     "id": "prompt_251",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_251.jpg",
-    "prompt": "A stylish confident young man half stepping out of a rugged black SUV (Thar) on a wet Mumbai beach street, driver-side door wide open. Medium-length pompadour fade hair, short boxed beard, black round sunglasses. Outfit all black: fitted half-sleeve shirt with open collar, ripped skinny jeans with tears on both knees, black leather combat boots black pple wristwatch. Left hand resting on open car door, right foot overeted body leaning slightly out. SUV slightly dirty, tiros visible. Background: distantsca, greener blurred, overcast bright sky. Mood: cinematic, modern, masculine, cool color tone. ingh clarity and contrast.\"",
-    "category": "Automotive",
-    "tags": ["All", "Trending", "New", "Male", "Car", "SUV", "Thar", "Mumbai", "Beach", "Cinematic", "Modern", "Masculine"],
+    "prompt": "Create a photo-style line drawing ink sketch of the faces identical to the uploaded reference image - keep every facial feature, proportion, and expression exactly the same. Use blue and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background. Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.",
+    "category": "Art Style",
+    "tags": ["Male", "Sketch", "Line Art", "Ink", "Blue and White", "Drawing", "Hand-Drawn", "Detail", "Trending"],
     "popularity": 0,
-    "createdAt": "2025-10-22T00:00:00Z",
+    "createdAt": "2025-11-03T17:34:02Z",
     "isFeatured": false
   }
    
