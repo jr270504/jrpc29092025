@@ -45,5 +45,6 @@
  "keywords": [
 ],
     "contentUrl": "https://play.google.com/store/apps/details?id=com.shaaddevstudio.picsprompt",
-    "nonPersonalizedAds": false
+    "nonPersonalizedAds": false,
+  "testIds" : ["string test id"]
 }
