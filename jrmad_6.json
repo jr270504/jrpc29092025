@@ -1,5 +1,405 @@
 {
   "prompts" : [
+{
+    "id": "prompt_403",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_403.jpg",
+    "prompt": "Full body portrait of a charismatic young Indian man (early 20s), with a playful yet charming smile, wearing a stylish, slightly unbuttoned casual shirt over a clean t-shirt, paired with modern jeans and cool sneakers. He's posing relaxed and approachable, perhaps leaning against a vibrant, quirky cafe exterior or an interesting urban backdrop, with soft, inviting daylight. Attractive, friendly, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Aesthetic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_402",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_402.jpg",
+    "prompt": "Full body portrait of a radiant and elegant young Indian woman (early 20s), dressed in a vibrant, meticulously embroidered lehenga choli with a delicate dupatta. She is posing with a joyful and confident expression amidst a beautifully decorated wedding stage or mandap, surrounded by fresh flowers and warm, glowing lights. Traditional yet chic, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Cultural",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_401",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_401.jpg",
+    "prompt": "Full body portrait of a stylish and charismatic young Indian man (mid-20s), wearing a sophisticated, modern Indo-Western suit or a designer Bandhgala. He's striking a confident and charming pose against a subtly elegant wedding backdrop, perhaps a beautifully decorated entrance or a softly lit architectural feature. Luxurious fabrics, perfect grooming, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cultural",
+      "Trending",
+      "Branding"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_400",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_400.jpg",
+    "prompt": "Full body portrait of a radiant and elegant young Indian woman (early 20s), dressed in a stunning, richly embellished lehenga choli or a designer gown, complete with exquisite traditional jewelry and perfect makeup. She is posing gracefully with a joyful, celebratory expression in a luxurious Indian wedding setting, surrounded by beautiful floral decor and soft, festive lighting. Grand, beautiful, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Cultural",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_399",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_399.jpg",
+    "prompt": "Full body portrait of a dapper and joyful young Indian man (mid-20s), dressed in exquisite wedding attire – a perfectly tailored Sherwani or an elegant suit, adorned with traditional Indian embellishments. He's striking a confident, celebratory pose in a grand wedding venue, with soft, luxurious lighting and a beautifully decorated background (e.g., floral arrangements, chandeliers). Festive, regal, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cultural",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_398",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_398.jpg",
+    "prompt": "Full body portrait of a graceful and modern young Indian woman in her early 20s, elegantly draped in a trendy, lightweight saree (e.g., organza, georgette) with contemporary prints or subtle embellishments. She is posing with a gentle smile and confident posture in a brightly lit, chic art gallery or a heritage building with modern touches. Sophisticated, traditional yet modern, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Cultural",
+      "Trending",
+      "Aesthetic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_397",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_397.jpg",
+    "prompt": "Full body portrait of a charming and gentle young Indian man (early 20s), with a warm, inviting smile, dressed in a soft-colored, open-collar shirt and tailored light trousers. He is standing in a beautiful, sun-drenched garden or a picturesque outdoor cafe, perhaps holding a single flower or looking thoughtfully into the distance. Dreamy lighting, romantic, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Couple",
+      "Aesthetic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_396",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_396.jpg",
+    "prompt": "Full body portrait of a formidable and stylish young Indian man (mid-20s), capturing the essence of the KGF movie look. He's wearing a dark, rugged outfit, possibly a leather jacket or a sturdy shirt, with a fierce, determined expression. The background is a desolate, rocky terrain or a raw construction site, under a dramatic, overcast sky, evoking a sense of power and resilience. Intense, gritty, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cinematic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_395",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_395.jpg",
+    "prompt": "Full body portrait of a powerful and charismatic young Indian man (mid-20s), embodying the stylish KGF movie aesthetic. He's wearing a slightly open dark shirt or t-shirt, possibly a chain, with confident posture and a smoldering gaze. The setting is a dimly lit, industrial-inspired interior or a dramatic outdoor location with strong shadows and focused light. Mysterious, edgy, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cinematic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_394",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_394.jpg",
+    "prompt": "Full body portrait of a rugged and intense young Indian man (mid-20s), embodying the iconic KGF movie style. He's wearing a dark, slightly distressed, strong outfit (like a rugged denim jacket or shirt) with a powerful, determined gaze. The background is a dusty, atmospheric setting reminiscent of a mine or industrial zone, with dramatic, low-key lighting and a hint of smoke or dust. Gritty, masculine, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cinematic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_393",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_393.jpg",
+    "prompt": "Full body portrait of a heroic and stylish young Indian man (mid-20s), embodying a South Indian movie hero's swagger. He's wearing a perfectly tailored, sharp shirt (possibly with sleeves rolled) and dark trousers, with a powerful, confident stance and intense gaze. The background is a dramatic, slightly blurred action sequence setting, perhaps an urban street with subtle smoke or dynamic lighting. Bold, charismatic, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cinematic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_392",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_392.jpg",
+    "prompt": "Full body portrait of a fashionable young Indian woman in her early 20s, wearing a chic oversized hoodie or sweatshirt with stylish leggings and trendy sneakers. She's posing confidently in an urban setting with a modern cafe or a cool street art backdrop, holding a coffee cup, looking casually cool and approachable. Soft urban light, relaxed vibe, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Aesthetic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_391",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_391.jpg",
+    "prompt": "Full body portrait of a rugged yet refined Indian man in his early 30s, sporting a well-groomed beard and a stylish open-collared linen shirt with comfortable trousers. He's standing by the beach or a lakeside during sunset, with a serene and thoughtful expression, warm golden light, full length, ideal for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Aesthetic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_390",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_390.jpg",
+    "prompt": "Full body portrait of a graceful young Indian woman in her early 20s, wearing a contemporary saree or a stylish lehenga choli with modern embroidery, accessorized with delicate contemporary jewelry. She is twirling or posing elegantly on a scenic rooftop with a beautiful city skyline at sunset in the background. Dreamy lighting, elegant, full length, ideal for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Aesthetic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_389",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_389.jpg",
+    "prompt": "Full body portrait of a charming young Indian man (late teens/early 20s), wearing a fashionable open button-up shirt over a graphic tee, modern slim-fit jeans, and cool sneakers. He's leaning casually against a vibrant, graffiti-covered wall in an urban Indian alleyway, with a playful smile and stylish haircut. Bright, edgy, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Aesthetic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_388",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_388.jpg",
+    "prompt": "Full body portrait of a stylish and confident young Indian woman in her early 20s, wearing a contemporary ethnic co-ord set (matching top and bottom with traditional prints) paired with modern sandals and a fashionable handbag. She is striking a dynamic pose while walking in a chic, open-air shopping arcade or a pedestrian street in a modern Indian city. Bright daylight, energetic, full length, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Cultural",
+      "Trending",
+      "Aesthetic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_387",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_387.jpg",
+    "prompt": "Full body portrait of a charismatic Indian man in his mid-20s, dressed in a contemporary semi-formal attire – a collared shirt, tailored vest, and dress trousers. He is standing confidently on a balcony overlooking a modern Indian cityscape at dusk, urban lights softly blurred in the background. Elegant, sophisticated, vertical orientation for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Branding",
+      "Trending",
+      "Aesthetic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_386",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_386.jpg",
+    "prompt": "Full body portrait of a vibrant young Indian woman in her early 20s, wearing a fashionable Indo-western outfit – a chic crop top paired with a flowy, printed maxi skirt and delicate silver jewelry. She is posing gracefully with a joyful expression in a beautifully lit outdoor cafe setting in an Indian city, with lush plants and soft fairy lights in the background. Lively, elegant, perfect for mobile social media.",
+    "category": "Portrait",
+    "tags": [
+      "Female",
+      "Aesthetic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_385",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_385.jpg",
+    "prompt": "Full body portrait of an Indian man around 30, exuding casual coolness, wearing a stylish, well-fitted t-shirt and modern jeans, standing against a backdrop of traditional Indian architecture, perhaps an old fort wall or a vibrant haveli. Relaxed pose, soft daylight, vertical composition for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Aesthetic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_384",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_384.jpg",
+    "prompt": "Dynamic full body shot of an Indian man in his late 20s, wearing a well-fitted formal shirt (sleeves rolled up) and dark trousers, walking with purpose through a bustling yet elegant city square in India. Sharp focus on the subject, motion blur in the background, confident stride, mobile optimized.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Branding",
+      "Trending",
+      "Cinematic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+ 
+  {
+    "id": "prompt_382",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_382.jpg",
+    "prompt": "Full body portrait of an Indian man in his late 20s, casually elegant, wearing a smart casual ensemble (e.g., tailored chinos, well-fitting shirt, smart sneakers), leaning against a vintage motorcycle or a rustic wall, urban Indian setting, golden hour, vertical aspect ratio for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Vintage",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_381",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_381.jpg",
+    "prompt": "Sophisticated portrait of an Indian man in a tailored suit, confident posture, subtle smile, urban backdrop blurred, professional yet approachable, ideal for mobile profiles.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Branding",
+      "AI LinkedIn Prompts for Men"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_380",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_380.jpg",
+    "prompt": "Candid portrait of an energetic young Indian man laughing heartily, casual t-shirt, outdoor setting with greenery, bright and cheerful mood, high-contrast, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_379",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_379.jpg",
+    "prompt": "Thoughtful portrait of an Indian man, slightly older, with distinguished grey in his beard, serene expression, simple white shirt, golden hour lighting, depth of field, optimized for mobile display.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Aesthetic",
+      "Vintage"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_378",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_378.jpg",
+    "prompt": "Dynamic portrait of an Indian man in his late 20s, sharp features, intense gaze, wearing a stylish kurta, subtle studio lighting, modern traditional aesthetic, suitable for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cultural",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_377",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_377.jpg",
+    "prompt": "Close-up portrait of a young Indian man with a warm, genuine smile, wearing a casual denim jacket, natural lighting, bokeh background, vibrant and inviting, perfect for mobile.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Trending",
+      "Aesthetic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_376",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_376.jpg",
+    "prompt": "Full body portrait of a stylish young Indian man, confident pose, wearing a modern traditional outfit (e.g., a well-fitted kurta pajama with a jacket), standing against a vibrant, slightly blurred Indian street market background, warm evening light, perfect for mobile viewing.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cultural",
+      "Trending",
+      "Aesthetic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_375",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_375.jpg",
+    "prompt": "Full body portrait of a young Indian man in a contemporary ethnic wear fusion outfit – a stylish printed kurta with distressed jeans and trendy sneakers. He stands casually with a cool, confident expression in front of a colorful, modern Indian street art mural. Natural daylight, vibrant, full length, mobile aspect ratio.",
+    "category": "Portrait",
+    "tags": [
+      "Male",
+      "Cultural",
+      "Trending",
+      "Aesthetic"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  }
+    ,
     {
     "id": "prompt_374",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_374.jpg",
