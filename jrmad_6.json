@@ -1,5 +1,22 @@
 {
   "prompts" : [
+    {
+    "id": "prompt_404",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_404.jpg",
+    "prompt": "A cinematic, passionate portrait of a confident young man with a dark beard and modern haircut, standing outside at night in an urban setting. He is wearing a black t-shirt with the bold white text "TURN THE VOLUME UP" centered on the chest. He has an energetic and open expression, with his mouth slightly open as if speaking or shouting, and his hand raised in a dynamic, engaging gesture. The background features vibrant, out-of-focus bokeh of city lights and skyscrapers at night. Shot on an 85mm lens, f/1.4, dramatically lit by a street lamp, hyper-detailed, high-quality photograph.",
+    "category": "Portrait",
+    "tags": [
+       "India",
+      "Pakistan",
+      "Male",
+      "Cinematic",
+      "Trending"
+    ],
+    "popularity": 0,
+    "createdAt": "2025-11-06T15:24:23Z",
+    "isFeatured": false
+  },
+    ,
 {
     "id": "prompt_403",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_403.jpg",
