@@ -1,5 +1,17 @@
 {
   "prompts": [
+     {
+  "id": "prompt_445",
+ "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_445.jpg",
+  "prompt": "A dynamic shot of the exact same person from the reference image, with 100% identical facial features, hairstyle, and overall appearance. He is leaning casually against a dark SUV, illuminated by a subtle beam of light from above. He is wearing a black traditional shalwar kameez with a cream-colored shawl draped over his shoulders, and a wristwatch.",
+  "category": "Portrait",
+  "tags": [
+    "Pakistan",
+     ],
+  "popularity": 0,
+  "createdAt": "2025-11-16T22:33:22Z",
+  "isFeatured": false
+},
          {
   "id": "prompt_444",
  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_444.jpg",
