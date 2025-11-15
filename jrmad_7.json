@@ -1,5 +1,17 @@
 {
   "prompts": [
+    {
+  "id": "prompt_057",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_057a.jpeg",
+  "prompt": "Use my face from the original photo and keep the same hairstyle as in the image. Create a handsome man wearing a black polo shirt, white pants, white shoes, a Rolex watch, black square eyeglasses, and an outdoor hiking cap. He is sitting on a camping chair with his legs crossed by the stream, with a white Toyota Land Cruiser SUV slightly blurred in the background.",
+  "category": "Portrait",
+  "tags": [
+    "Pakistan",
+     ],
+  "popularity": 0,
+  "createdAt": "2025-11-16T22:33:22Z",
+  "isFeatured": false
+},
      {
   "id": "prompt_445",
  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_445.jpg",
