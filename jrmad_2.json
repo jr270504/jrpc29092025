@@ -32,16 +32,30 @@
     "createdAt": "2025-10-15T19:42:17Z",
     "isFeatured": false
   },
-  {
-    "id": "prompt_147",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_147.jpeg",
-    "prompt": "A person photographed in a medium shot, taken at eye level. The subject is standing outdoors with a slight contrapposto pose, leaning gently back against a low brick wall. The body is facing the camera almost directly, with a subtle shift to the left. One leg is straight, bearing most of the weight, while the other leg is slightly bent at the knee and crossed in front, with the foot partially lifted off the ground. The subject is holding a small lit diya (oil lamp) in both hands, looking down at it with a gentle smile. Arms are bent at the elbows, bringing the diya up towards the chest. The composition is balanced, with the subject centered within the frame. There's a generous amount of headroom above the individual\\'s head, allowing the branches of a large tree to fill the upper portion of the frame. Numerous small diyas are arranged along the brick wall and on the ground in the foreground, creating depth. The background consists of the out-of-focus tree, illuminated with strands of fairy lights.",
-    "category": "Portrait",
-    "tags": ["Pakistan", "India", "Afghanistan", "Male", "Outdoor", "Medium Shot", "Eye Level", "Diwali", "Festive", "Diya", "Brick Wall", "Tree", "Fairy Lights"],
-    "popularity": 0,
-    "createdAt": "2025-10-15T19:42:17Z",
-    "isFeatured": false
-  }
+ {
+  "id": "prompt_147",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_147.jpeg",
+  "prompt": "A person photographed in a medium shot, taken at eye level. The subject is standing outdoors with a slight contrapposto pose, leaning gently back against a low brick wall. The body is facing the camera almost directly, with a subtle shift to the left. One leg is straight, bearing most of the weight, while the other leg is slightly bent at the knee and crossed in front, with the foot partially lifted off the ground. The subject is holding a small lit diya (oil lamp) in both hands, looking down at it with a gentle smile. Arms are bent at the elbows, bringing the diya up towards the chest. The composition is balanced, with the subject centered within the frame. There's a generous amount of headroom above the individual's head, allowing the branches of a large tree to fill the upper portion of the frame. Numerous small diyas are arranged along the brick wall and on the ground in the foreground, creating depth. The background consists of the out-of-focus tree, illuminated with strands of fairy lights.",
+  "category": "Portrait",
+  "tags": [
+    "Pakistan",
+    "India",
+    "Afghanistan",
+    "Male",
+    "Outdoor",
+    "Medium Shot",
+    "Eye Level",
+    "Diwali",
+    "Festive",
+    "Diya",
+    "Brick Wall",
+    "Tree",
+    "Fairy Lights"
+  ],
+  "popularity": 0,
+  "createdAt": "2025-10-15T19:42:17Z",
+  "isFeatured": false
+}
 
 ,
     {
