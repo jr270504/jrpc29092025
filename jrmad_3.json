@@ -735,12 +735,11 @@
       "category": "Portrait",
       "tags": [
         "India","All",
-        "Pakistan",
         "Male",
         "Cinematic"
       ],
       "popularity": 0,
-      "createdAt": "2025-11-24T00:00:00Z",
+      "createdAt": "2025-11-23T00:00:00Z",
       "isFeatured": false
     },
     {
@@ -765,11 +764,10 @@
       "category": "Portrait",
       "tags": [
         "India","All",
-        "Pakistan",
         "Male"
       ],
       "popularity": 0,
-      "createdAt": "2025-11-24T00:00:00Z",
+      "createdAt": "2025-11-23T00:00:00Z",
       "isFeatured": false
     }
   ]
