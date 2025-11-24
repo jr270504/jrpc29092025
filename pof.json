@@ -22,7 +22,7 @@
     "interstitialCooldownSeconds": 30,
     "maxRewardedInterstitialPerSession": 100,
     "riCooldownSeconds": 30,
-    "unlimitedCopyDurationSeconds": 300,
+    "unlimitedCopyDurationSeconds": 0,
     "removeBannerDurationSeconds": 3600
   },
   "desiredOrder": [
