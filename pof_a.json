@@ -1,0 +1,72 @@
+{
+  "paths": [
+        "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_3.json",
+     "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_4.json",
+    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_7.json",
+    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_6.json",
+    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_5.json",
+   
+   
+     "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_2.json",
+    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_1.json",
+     "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_0.json",
+    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_catd_0.json"
+    
+  ],
+  "values": {
+    "dailyFreeCopies": 0,
+    "adRewardCredits": 1,
+    "adCooldownSeconds": 0,
+    "maxRewardedAdsPerSession": 100,
+    "maxInterstitialPerSession": 100,
+    "interstitialCooldownSeconds": 30,
+    "maxRewardedInterstitialPerSession": 100,
+    "riCooldownSeconds": 30,
+    "unlimitedCopyDurationSeconds": 120,
+    "removeBannerDurationSeconds": 3600
+  },
+  "desiredOrder": [
+      "Trending","Restore and Recreate Old Damaged Photos",
+    "Instagram Trending Ai Image Prompt For Boy",
+    "Happy Birthday AI Photo Editing Prompt for Girls",
+    "Passport Size Photo",
+    "TikTok Trending Ai Image Prompt For Boy",
+    "AI LinkedIn Prompts for Men",
+    "High-Quality 8K AI Photo Editing Prompts for Instagram",
+    "Retro",
+    "Aesthetic",
+    "Car",
+    "Cinematic", 
+    "Couple",
+    "Birthday",
+    "Vintage",
+    "Cultural",
+    "Branding",
+    "Sports", 
+    "Male",
+    "Female",
+    "3 Layer Photo Gemini Prompts"
+    ],
+"festivals": {
+
+  "India": {
+    "color": "#FF9933",
+    "flag": "🇮🇳",
+    "events": []
+  },
+    "Pakistan": {
+    "color": "#01411C",
+    "flag": "🇵🇰",
+    "events": []
+  }
+ 
+}
+
+
+  ,
+ "keywords": [
+],
+    "contentUrl": "https://play.google.com/store/apps/details?id=com.shaaddevstudio.picsprompt",
+    "nonPersonalizedAds": false,
+  "testIds" : ["BP22.250325.006","TKQ1.221114.001"]
+}
