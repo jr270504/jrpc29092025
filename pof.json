@@ -15,14 +15,14 @@
   ],
   "values": {
     "dailyFreeCopies": 0,
-    "adRewardCredits": 0,
+    "adRewardCredits": 1,
     "adCooldownSeconds": 0,
     "maxRewardedAdsPerSession": 100,
     "maxInterstitialPerSession": 100,
     "interstitialCooldownSeconds": 30,
     "maxRewardedInterstitialPerSession": 100,
     "riCooldownSeconds": 30,
-    "unlimitedCopyDurationSeconds": 0,
+    "unlimitedCopyDurationSeconds": 120,
     "removeBannerDurationSeconds": 3600
   },
   "desiredOrder": [
