@@ -10,7 +10,13 @@
       "downloads": 1250,
       "rating": 4.8,
       "size": "2.5 MB",
-      "tags": ["warm", "sunset", "golden", "dreamy"]
+      "tags": [
+        "warm",
+        "sunset",
+        "golden",
+        "dreamy"
+      ],
+      "fileFormat": "DNG"
     },
     {
       "id": "preset_002",
@@ -22,7 +28,13 @@
       "downloads": 2100,
       "rating": 4.9,
       "size": "2.3 MB",
-      "tags": ["moody", "blue", "cinematic", "dark"]
+      "tags": [
+        "moody",
+        "blue",
+        "cinematic",
+        "dark"
+      ],
+      "fileFormat": "XMP"
     },
     {
       "id": "preset_003",
@@ -34,7 +46,13 @@
       "downloads": 1800,
       "rating": 4.7,
       "size": "2.4 MB",
-      "tags": ["film", "grain", "analog", "nostalgic"]
+      "tags": [
+        "film",
+        "grain",
+        "analog",
+        "nostalgic"
+      ],
+      "fileFormat": "DNG"
     },
     {
       "id": "preset_004",
@@ -46,7 +64,13 @@
       "downloads": 1650,
       "rating": 4.6,
       "size": "2.6 MB",
-      "tags": ["urban", "night", "neon", "city"]
+      "tags": [
+        "urban",
+        "night",
+        "neon",
+        "city"
+      ],
+      "fileFormat": "XMP"
     },
     {
       "id": "preset_005",
@@ -58,7 +82,13 @@
       "downloads": 2500,
       "rating": 4.9,
       "size": "2.2 MB",
-      "tags": ["portrait", "soft", "beauty", "skin"]
+      "tags": [
+        "portrait",
+        "soft",
+        "beauty",
+        "skin"
+      ],
+      "fileFormat": "XMP"
     },
     {
       "id": "preset_006",
@@ -70,7 +100,13 @@
       "downloads": 1900,
       "rating": 4.8,
       "size": "2.7 MB",
-      "tags": ["landscape", "nature", "vibrant", "green"]
+      "tags": [
+        "landscape",
+        "nature",
+        "vibrant",
+        "green"
+      ],
+      "fileFormat": "DNG"
     },
     {
       "id": "preset_007",
@@ -82,7 +118,13 @@
       "downloads": 2200,
       "rating": 4.7,
       "size": "2.3 MB",
-      "tags": ["vintage", "faded", "retro", "timeless"]
+      "tags": [
+        "vintage",
+        "faded",
+        "retro",
+        "timeless"
+      ],
+      "fileFormat": "XMP"
     },
     {
       "id": "preset_008",
@@ -94,7 +136,13 @@
       "downloads": 3100,
       "rating": 5.0,
       "size": "2.1 MB",
-      "tags": ["minimal", "clean", "bright", "modern"]
+      "tags": [
+        "minimal",
+        "clean",
+        "bright",
+        "modern"
+      ],
+      "fileFormat": "DNG"
     },
     {
       "id": "preset_009",
@@ -106,7 +154,13 @@
       "downloads": 2800,
       "rating": 4.8,
       "size": "2.4 MB",
-      "tags": ["warm", "trending", "instagram", "orange"]
+      "tags": [
+        "warm",
+        "trending",
+        "instagram",
+        "orange"
+      ],
+      "fileFormat": "DNG"
     },
     {
       "id": "preset_010",
@@ -118,7 +172,13 @@
       "downloads": 1400,
       "rating": 4.6,
       "size": "2.5 MB",
-      "tags": ["macro", "details", "sharp", "texture"]
+      "tags": [
+        "macro",
+        "details",
+        "sharp",
+        "texture"
+      ],
+      "fileFormat": "XMP"
     },
     {
       "id": "preset_011",
@@ -130,7 +190,13 @@
       "downloads": 1700,
       "rating": 4.7,
       "size": "2.3 MB",
-      "tags": ["retro", "summer", "70s", "yellow"]
+      "tags": [
+        "retro",
+        "summer",
+        "70s",
+        "yellow"
+      ],
+      "fileFormat": "DNG"
     },
     {
       "id": "preset_012",
@@ -142,7 +208,13 @@
       "downloads": 2400,
       "rating": 4.8,
       "size": "2.2 MB",
-      "tags": ["stock", "professional", "commercial", "balanced"]
+      "tags": [
+        "stock",
+        "professional",
+        "commercial",
+        "balanced"
+      ],
+      "fileFormat": "XMP"
     },
     {
       "id": "preset_013",
@@ -154,7 +226,13 @@
       "downloads": 2100,
       "rating": 4.9,
       "size": "2.4 MB",
-      "tags": ["fashion", "chic", "editorial", "bold"]
+      "tags": [
+        "fashion",
+        "chic",
+        "editorial",
+        "bold"
+      ],
+      "fileFormat": "XMP"
     },
     {
       "id": "preset_014",
@@ -166,7 +244,13 @@
       "downloads": 3500,
       "rating": 4.9,
       "size": "2.0 MB",
-      "tags": ["mobile", "quick", "instant", "easy"]
+      "tags": [
+        "mobile",
+        "quick",
+        "instant",
+        "easy"
+      ],
+      "fileFormat": "DNG"
     }
   ],
   "last_updated": "2025-10-27T10:00:00Z",
