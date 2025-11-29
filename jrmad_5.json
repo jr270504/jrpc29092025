@@ -1,564 +1,716 @@
 {
  "prompts": [
   {
-    "id": "prompt_300",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_300.jpg",
-    "prompt": "A clean, modern, and professional digital marketing agency flyer or advertisement. The main subject is a confident and well-groomed young woman, appearing to be in her mid-20s to early 30s, with dark hair, looking directly at the viewer with a professional expression. She is wearing a sharp, tailored blue business blazer over a white top. She is holding a silver digital tablet in her left hand and gesturing with her right hand as if presenting or explaining something. The background features a dynamic, abstract geometric pattern composed of triangles and quadrilaterals in varying shades of blue, teal, yellow, and white, arranged in a mosaic style, concentrated in the upper right and lower left corners. The top left corner features a logo with a stylized hexagonal 'C' icon in blue and orange, followed by the text 'Empowering Digital Growth'. Below this, in large, bold, dark blue font, is the title 'Creative Marketing Agency'. Beneath the title, in a slightly smaller, light blue font, is the tagline 'Unlocking Digital Potential Through Strategy, Design & Innovation'. On the right side of the woman, there is a list of services, each preceded by a modern icon: Lightbulb icon: Branding & Identity, Megaphone icon: Social Media Marketing, Web browser icon: Web & App Development, Magnifying glass icon: SEO & Analytics, Rocket icon: Paid Campaigns & Growth Strategy. The bottom section includes: 'Phone: +1 (555) 123-567', 'Email: contact@creativeagency.com', A prominent rectangular button that says 'Book a Free Consultation' in white text on a yellow background. Social media icons (LinkedIn, Instagram, Facebook) in a simple, flat design. The overall design is minimalist yet engaging, with a vibrant color palette, crisp typography, and a professional, inviting tone. The image dimensions are typical for a portrait-oriented flyer or digital ad",
-    "category": "Advertisement",
-    "tags": [
-      "Female",
-      "Professional",
-      "Business",
-      "Marketing",
-      "Flyer",
-      "Corporate",
-      "Digital Art"
-    ],
-    "popularity": 0,
-    "createdAt": "2025-10-28T12:07:42Z",
-    "isFeatured": false
+   "id": "prompt_300",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_300.jpg",
+   "prompt": "A clean, modern, and professional digital marketing agency flyer or advertisement. The main subject is a confident and well-groomed young woman, appearing to be in her mid-20s to early 30s, with dark hair, looking directly at the viewer with a professional expression. She is wearing a sharp, tailored blue business blazer over a white top. She is holding a silver digital tablet in her left hand and gesturing with her right hand as if presenting or explaining something. The background features a dynamic, abstract geometric pattern composed of triangles and quadrilaterals in varying shades of blue, teal, yellow, and white, arranged in a mosaic style, concentrated in the upper right and lower left corners. The top left corner features a logo with a stylized hexagonal 'C' icon in blue and orange, followed by the text 'Empowering Digital Growth'. Below this, in large, bold, dark blue font, is the title 'Creative Marketing Agency'. Beneath the title, in a slightly smaller, light blue font, is the tagline 'Unlocking Digital Potential Through Strategy, Design & Innovation'. On the right side of the woman, there is a list of services, each preceded by a modern icon: Lightbulb icon: Branding & Identity, Megaphone icon: Social Media Marketing, Web browser icon: Web & App Development, Magnifying glass icon: SEO & Analytics, Rocket icon: Paid Campaigns & Growth Strategy. The bottom section includes: 'Phone: +1 (555) 123-567', 'Email: contact@creativeagency.com', A prominent rectangular button that says 'Book a Free Consultation' in white text on a yellow background. Social media icons (LinkedIn, Instagram, Facebook) in a simple, flat design. The overall design is minimalist yet engaging, with a vibrant color palette, crisp typography, and a professional, inviting tone. The image dimensions are typical for a portrait-oriented flyer or digital ad",
+   "category": "Advertisement",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
   },
   {
-    "id": "prompt_299",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_299.jpg",
-    "prompt": "A captivating full-body portrait of a young woman, appearing to be in her early 20s, with a serene and slightly introspective expression, leaning comfortably against the massive, exposed roots of an ancient, grand tree. Her eyes are gently closed, or cast downwards, immersed in the music. She has long, dark hair, styled loosely. She is holding and playing an acoustic guitar, positioned naturally in her lap. She is wearing a stylish, off-the-shoulder white blouse with voluminous sleeves and dark trousers, paired with light-colored sneakers. The tree itself is a central feature, with a thick, textured trunk and large, gnarled roots spreading wide across the ground. The top of the tree has lush green leaves, some of which are subtly falling around her in a magical, ethereal way, glowing with a soft, greenish-blue light. The ground beneath her is a mix of sparse grass and patches of snow or frost, suggesting a cool, misty environment. The background is soft and hazy, indicating a misty forest or park at either dawn or dusk, with golden light filtering through the mist, creating a dreamlike glow. The lighting is warm and diffused, backlighting the leaves and creating a gentle halo effect around her. The overall mood is peaceful, artistic, and enchanting, with a slightly magical realism aesthetic, featuring soft focus and a warm, glowing filter. The image has a standard portrait orientation, capturing the full scene from the ground up to the lower branches of the tree",
-    "category": "Portrait",
-    "tags": [
-      "Female",
-      "Music",
-      "Guitar",
-      "Fantasy",
-      "Forest",
-      "Ethereal",
-      "Nature"
-    ],
-    "popularity": 0,
-    "createdAt": "2025-10-28T12:07:42Z",
-    "isFeatured": false
+   "id": "prompt_299",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_299.jpg",
+   "prompt": "A captivating full-body portrait of a young woman, appearing to be in her early 20s, with a serene and slightly introspective expression, leaning comfortably against the massive, exposed roots of an ancient, grand tree. Her eyes are gently closed, or cast downwards, immersed in the music. She has long, dark hair, styled loosely. She is holding and playing an acoustic guitar, positioned naturally in her lap. She is wearing a stylish, off-the-shoulder white blouse with voluminous sleeves and dark trousers, paired with light-colored sneakers. The tree itself is a central feature, with a thick, textured trunk and large, gnarled roots spreading wide across the ground. The top of the tree has lush green leaves, some of which are subtly falling around her in a magical, ethereal way, glowing with a soft, greenish-blue light. The ground beneath her is a mix of sparse grass and patches of snow or frost, suggesting a cool, misty environment. The background is soft and hazy, indicating a misty forest or park at either dawn or dusk, with golden light filtering through the mist, creating a dreamlike glow. The lighting is warm and diffused, backlighting the leaves and creating a gentle halo effect around her. The overall mood is peaceful, artistic, and enchanting, with a slightly magical realism aesthetic, featuring soft focus and a warm, glowing filter. The image has a standard portrait orientation, capturing the full scene from the ground up to the lower branches of the tree",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
   },
   {
-    "id": "prompt_298",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_298.jpg",
-    "prompt": "A captivating full-body portrait of a young woman standing in a magical winter forest. She has long, flowing dark brown hair and a serene expression, looking upwards with a sense of wonder. She is enveloped in a magnificent, floor-length deep red velvet cloak with a voluminous hood, which trails elegantly behind her on the snow. The forest floor is covered in pristine white snow, with light, scattered snowflakes falling gently. The trees are tall and majestic, with bare, dark branches reaching upwards, but instead of green leaves, they are adorned with an abundance of vibrant, fiery red autumn foliage, creating a stunning contrast against the white snow. The background shows more of the enchanting forest fading into a soft, slightly hazy distance. The lighting is soft and ethereal, highlighting the rich texture of the red cloak and casting a gentle glow on the snow. The overall atmosphere is fantastical, serene, and almost fairytale-like, with a high level of detail and rich, saturated colors, particularly the striking red of the leaves and cloak against the cool white and blue tones of the snow and distant sky. The composition emphasizes the woman's solitary presence within the grand, colorful landscape",
-    "category": "Portrait",
-    "tags": [
-      "Female",
-      "Fantasy",
-      "Winter",
-      "Forest",
-      "Cloak",
-      "Fairytale",
-      "Ethereal"
-    ],
-    "popularity": 0,
-    "createdAt": "2025-10-28T12:07:42Z",
-    "isFeatured": false
+   "id": "prompt_298",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_298.jpg",
+   "prompt": "A captivating full-body portrait of a young woman standing in a magical winter forest. She has long, flowing dark brown hair and a serene expression, looking upwards with a sense of wonder. She is enveloped in a magnificent, floor-length deep red velvet cloak with a voluminous hood, which trails elegantly behind her on the snow. The forest floor is covered in pristine white snow, with light, scattered snowflakes falling gently. The trees are tall and majestic, with bare, dark branches reaching upwards, but instead of green leaves, they are adorned with an abundance of vibrant, fiery red autumn foliage, creating a stunning contrast against the white snow. The background shows more of the enchanting forest fading into a soft, slightly hazy distance. The lighting is soft and ethereal, highlighting the rich texture of the red cloak and casting a gentle glow on the snow. The overall atmosphere is fantastical, serene, and almost fairytale-like, with a high level of detail and rich, saturated colors, particularly the striking red of the leaves and cloak against the cool white and blue tones of the snow and distant sky. The composition emphasizes the woman's solitary presence within the grand, colorful landscape",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
   },
   {
-    "id": "prompt_297",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_297.jpg",
-    "prompt": "A striking, high-contrast black and white studio portrait of a man in his late 20s to early 30s, looking directly at the camera with an intense and serious gaze. He has thick, dark, curly hair and a well-groomed full beard. He is wearing a simple, dark long-sleeved crew-neck sweater. The lighting is dramatic and focused, highlighting his eyes and the textures of his hair and beard, with subtle shadows that sculpt his facial features. The background is a plain, neutral medium grey, providing a clean and stark contrast to the subject. The image has a sharp, crisp focus, with rich blacks, bright whites, and a full range of mid-tones characteristic of classic black and white photography. The composition is a headshot, framed tightly from the chest up, emphasizing his direct eye contact and powerful presence. The overall aesthetic is raw, authentic, and timeless, capturing a strong emotional intensity",
-    "category": "Portrait",
-    "tags": [
-      "Male",
-      "Black and White",
-      "Studio",
-      "High Contrast",
-      "Intense",
-      "Beard",
-      "Headshot"
-    ],
-    "popularity": 0,
-    "createdAt": "2025-10-28T12:07:42Z",
-    "isFeatured": false
+   "id": "prompt_297",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_297.jpg",
+   "prompt": "A striking, high-contrast black and white studio portrait of a man in his late 20s to early 30s, looking directly at the camera with an intense and serious gaze. He has thick, dark, curly hair and a well-groomed full beard. He is wearing a simple, dark long-sleeved crew-neck sweater. The lighting is dramatic and focused, highlighting his eyes and the textures of his hair and beard, with subtle shadows that sculpt his facial features. The background is a plain, neutral medium grey, providing a clean and stark contrast to the subject. The image has a sharp, crisp focus, with rich blacks, bright whites, and a full range of mid-tones characteristic of classic black and white photography. The composition is a headshot, framed tightly from the chest up, emphasizing his direct eye contact and powerful presence. The overall aesthetic is raw, authentic, and timeless, capturing a strong emotional intensity",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
   },
   {
-    "id": "prompt_296",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_296.jpg",
-    "prompt": "A highly detailed and realistic graphite pencil sketch of a young woman, captured from the waist up, with a thoughtful and slightly pensive expression, looking off to the right. Her hair is styled in a loose, elegant bun with a few delicate strands framing her face, gently swept by an unseen breeze. Her right hand is raised, with her index finger delicately touching her chin, indicating deep thought. She is wearing a soft, flowing top or dress with a V-neckline and wide, gathered sleeves that cinch at the wrist with a button detail. The shading is meticulously rendered, showing subtle variations in tone to create depth and form, particularly around her eyes, nose, lips, and the folds of her clothing. The lines are clean and precise, with a slightly textured, realistic pencil stroke quality. The background is a clean, unblemished white, putting full emphasis on the subject. The overall style is classic portraiture with a contemporary feel, maintaining a monochrome, black and white aesthetic that highlights the delicate artistry of the sketch",
-    "category": "Portrait",
-    "tags": [
-      "Female",
-      "Sketch",
-      "Pencil Art",
-      "Monochrome",
-      "Detailed",
-      "Thoughtful",
-      "Classic"
-    ],
-    "popularity": 0,
-    "createdAt": "2025-10-28T12:07:42Z",
-    "isFeatured": false
+   "id": "prompt_296",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_296.jpg",
+   "prompt": "A highly detailed and realistic graphite pencil sketch of a young woman, captured from the waist up, with a thoughtful and slightly pensive expression, looking off to the right. Her hair is styled in a loose, elegant bun with a few delicate strands framing her face, gently swept by an unseen breeze. Her right hand is raised, with her index finger delicately touching her chin, indicating deep thought. She is wearing a soft, flowing top or dress with a V-neckline and wide, gathered sleeves that cinch at the wrist with a button detail. The shading is meticulously rendered, showing subtle variations in tone to create depth and form, particularly around her eyes, nose, lips, and the folds of her clothing. The lines are clean and precise, with a slightly textured, realistic pencil stroke quality. The background is a clean, unblemished white, putting full emphasis on the subject. The overall style is classic portraiture with a contemporary feel, maintaining a monochrome, black and white aesthetic that highlights the delicate artistry of the sketch",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
   },
   {
-    "id": "prompt_295",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_295.jpg",
-    "prompt": "A stunning, photorealistic portrait of a young woman in her early 20s to mid-20s, with a thoughtful and calm expression, looking upwards and slightly to the right. She has long, wavy brown hair, beautifully backlit by the setting sun, creating a golden halo effect around her head. She is wearing a crisp white V-neck top, with a beige or light tan blazer draped casually over her shoulders. A delicate gold choker necklace adorns her neck. The background is softly blurred, depicting an urban landscape or city lights fading into the warm, hazy glow of sunset, creating a bokeh effect. The lighting is warm and golden, coming from behind and to the right, highlighting her features and hair. The overall image has a sophisticated yet natural feel, with a slightly soft focus, warm color grading, and a subtle filmic filter that enhances the gentle golden hour ambiance. The aspect ratio is standard portrait, capturing her from the chest up",
-    "category": "Portrait",
-    "tags": [
-      "Female",
-      "Photorealistic",
-      "Golden Hour",
-      "Cityscape",
-      "Fashion",
-      "Sophisticated",
-      "Bokeh"
-    ],
-    "popularity": 0,
-    "createdAt": "2025-10-28T12:07:42Z",
-    "isFeatured": false
+   "id": "prompt_295",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_295.jpg",
+   "prompt": "A stunning, photorealistic portrait of a young woman in her early 20s to mid-20s, with a thoughtful and calm expression, looking upwards and slightly to the right. She has long, wavy brown hair, beautifully backlit by the setting sun, creating a golden halo effect around her head. She is wearing a crisp white V-neck top, with a beige or light tan blazer draped casually over her shoulders. A delicate gold choker necklace adorns her neck. The background is softly blurred, depicting an urban landscape or city lights fading into the warm, hazy glow of sunset, creating a bokeh effect. The lighting is warm and golden, coming from behind and to the right, highlighting her features and hair. The overall image has a sophisticated yet natural feel, with a slightly soft focus, warm color grading, and a subtle filmic filter that enhances the gentle golden hour ambiance. The aspect ratio is standard portrait, capturing her from the chest up",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
   },
   {
-    "id": "prompt_294",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_294.jpg",
-    "prompt": "A captivating potrait, photorealistic portrait of a young woman in her early 20s to mid-20s, with a serene and slightly wistful expression, looking upwards and slightly to the left. She has long, wavy brown hair flowing over her shoulders. She is standing gracefully in a vast, golden wheat field at sunset, with her arms slightly outstretched, palms open, and the wheat stalks reaching her waist. She is wearing a flowing, light cream-colored blouse with wide sleeves and dark blue, high-waisted trousers. Around her neck is a delicate pearl necklace. The sky above her is a breathtaking panorama of warm oranges, soft pinks, and gentle purples, with the setting sun creating a vibrant glow on the horizon. A single, faint shooting star is visible in the upper left of the frame. The lighting is soft, warm, and diffused, casting a beautiful golden glow on her and the field. The image has a dreamlike, ethereal quality, with a slightly desaturated yet warm color palette and a subtle, soft-focus effect that enhances the serene and introspective mood. The composition emphasizes her connection to nature and the vastness of the landscape",
-    "category": "Portrait",
-    "tags": [
-      "Female",
-      "Photorealistic",
-      "Sunset",
-      "Wheat Field",
-      "Ethereal",
-      "Nature",
-      "Dreamlike"
-    ],
-    "popularity": 0,
-    "createdAt": "2025-10-28T12:07:42Z",
-    "isFeatured": false
+   "id": "prompt_294",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_294.jpg",
+   "prompt": "A captivating potrait, photorealistic portrait of a young woman in her early 20s to mid-20s, with a serene and slightly wistful expression, looking upwards and slightly to the left. She has long, wavy brown hair flowing over her shoulders. She is standing gracefully in a vast, golden wheat field at sunset, with her arms slightly outstretched, palms open, and the wheat stalks reaching her waist. She is wearing a flowing, light cream-colored blouse with wide sleeves and dark blue, high-waisted trousers. Around her neck is a delicate pearl necklace. The sky above her is a breathtaking panorama of warm oranges, soft pinks, and gentle purples, with the setting sun creating a vibrant glow on the horizon. A single, faint shooting star is visible in the upper left of the frame. The lighting is soft, warm, and diffused, casting a beautiful golden glow on her and the field. The image has a dreamlike, ethereal quality, with a slightly desaturated yet warm color palette and a subtle, soft-focus effect that enhances the serene and introspective mood. The composition emphasizes her connection to nature and the vastness of the landscape",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_293",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_293.jpg",
+   "prompt": "A man with a beard and short dark hair is captured in a striking portrait, illuminated by dramatic dual-colored lighting. His face is split, with one side bathed in a cool blue light and the other in a vibrant pink/red hue, creating a high-contrast and neon-like effect. He gazes directly at the viewer with a thoughtful or pensive expression, his left hand resting on his chin. He is wearing a dark t-shirt and a watch on his left wrist. The background is dark and indistinct, further emphasizing the colorful illumination on his face and upper body.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_292",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_292.jpg",
+   "prompt": "Edit this image into a creative double exposure of a man in side profile, his silhouette seamlessly blended with a vibrant city skyline at dusk. The lights of the city illuminate the contours of his face, symbolizing imagination and ambition. Add depth with warm orange and golden reflections, subtle glow effects, and a dreamy atmosphere — as if the city lives inside his thoughts.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_291",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_291.jpg",
+   "prompt": "A cinematic close-up portrait of a stylish individual standing by a large glass window, gazing thoughtfully at their reflection. The person wears a black turtleneck sweater layered under a fitted dark blazer, creating a sleek and elegant look. The lighting is soft and natural, coming from the window, gently illuminating one side of the face while casting subtle shadows on the other, emphasizing depth and texture. The background is softly blurred, highlighting the calm and introspective mood of the scene. The reflection in the glass adds a sense of duality and contemplation. The overall atmosphere is moody, sophisticated, and cinematic, with a color palette dominated by neutral tones and soft daylight.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_290",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_290.jpg",
+   "prompt": "Edit this image to show an innovative professional man in a creative thinking pose with one hand touching his chin thoughtfully, other hand holding a laptop open at waist level, standing in a three-quarter stance with an enthusiastic visionary expression. He's wearing a modern electric blue blazer over a casual white henley shirt for creative professional appeal. The background is pristine white fading to soft mint green gradient. Digital marketing visual elements float around him: social media platform icons (Instagram, LinkedIn, Facebook, TikTok logos) in their signature colors, minimalist megaphone graphics, ascending analytics chart symbols, engagement icons like hearts and comment bubbles, target/bullseye symbols, and at-sign symbols. Colorful metric badges showing growth numbers (+2.5k, +850). Connecting lines and nodes between icons suggest integrated campaigns. Small lightning bolt and star accents in blue and green add creative energy. The left side displays compelling typography: \"WE'RE HIRING\" with \"HIRING\" highlighted in an electric blue box, followed by \"digital marketers\" and \"#creative minds wanted\" in contemporary sans-serif font. Top left features a campaign or strategy icon. The overall aesthetic is innovative, data-driven yet creative, with LinkedIn professional recruitment energy. Photorealistic rendering with vibrant engaging lighting, digital agency style, and modern marketing talent acquisition aesthetic.",
+   "category": "Marketing",
+   "tags": [
+    "AI LinkedIn Prompts for Men",
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_289",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_289.jpg",
+   "prompt": "Recreate this scene using my submitted photo as a reference, maintaining the same framing, pose, lighting, and style as the example image. The composition should show a half-length **male** portrait, with the model sitting and leaning slightly forward. The right arm should cross the body, with the left hand resting gently on the opposite arm, conveying elegance and confidence. The facial expression should be serene, confident, and slightly enigmatic. The gaze should be directed toward the camera, with lips softly closed and a firm posture. The outfit consists of a dark, sophisticated ensemble—a structured **black blazer** worn over a **fitted black shirt (or T-shirt/sweater)**. **The hair should be neatly groomed and styled appropriately for a man (e.g., short, slicked back, or a modern cut and wearing Sunglasses).** The lighting should be studio-style, with soft, contrasting directional light (Rembrandt-style or sidelight), highlighting the contours of the face, creating elegant shadows and a subtle gradient in the background. The background should be smooth and neutral, in dark gray tones, with slight depth and no distracting elements. The final style should be black and white, with refined contrast, smooth skin texture, and a realistic editorial portrait look. Vertical format (1080x1920), portrait aspect ratio, professional studio photo quality, and a cinematic, realistic finish.",
+   "category": "Portrait",
+   "tags": [
+    "AI LinkedIn Prompts for Men",
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_288",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_288.jpg",
+   "prompt": "A captivating, photorealistic portrait of a man in his late 20s to early 30s, with a warm, natural expression, looking slightly upwards and to the right. He has medium-length, dark curly hair and a neatly trimmed beard. He is standing upright, with his hands casually in the pockets of dark, well-fitted trousers, wearing a light-colored, open-collared linen shirt with the sleeves rolled up slightly. The setting is a vast, golden wheat field at sunset, with the wheat stalks reaching up to his waist. The sky is a beautiful gradient of soft orange, pink, and light blue, with a few subtle, distant stars and faint meteor trails. The lighting is soft, warm, and golden, coming from the low sun, creating a gentle rim light on his hair and shoulders. The overall image has a serene, slightly dreamy, and romantic atmosphere, with a natural, slightly desaturated color palette and a subtle, soft-focus filter that enhances the warm tones and textures of the field and sky.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_287",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_287.jpg",
+   "prompt": "Recrie essa cena utilizando minha foto enviada como base, mantendo o mesmo enquadramento, pose, iluminação e atmosfera da imagem de referência. A composição deve mostrar uma mulher sentada sobre um banco alto de madeira com estrutura metálica preta, em um estúdio minimalista de fundo neutro em tons de cinza. O enquadramento deve capturar o corpo inteiro, com leve distância que realce a postura e o cenário limpo. A modelo deve estar com a perna direita dobrada e apoiada no degrau do banco, enquanto a esquerda toca o chão com elegância, calçando sapatos de salto preto com detalhes translúcidos. O figurino é totalmente preto e elegante: blazer estruturado sobre os ombros, calça de alfaiataria justa e blusa preta por baixo, transmitindo força, estilo e profissionalismo. O cabelo solto e alinhado deve cair suavemente sobre os ombros, e a expressão facial deve ser confiante, com o olhar direcionado levemente para o lado, transmitindo poder e serenidade. A iluminação deve ser de estúdio, com luz suave e direcional, criando contraste equilibrado entre sombras e áreas iluminadas, realçando a textura do tecido e o contorno do rosto. O fundo deve permanecer liso, com um degradê sutil em cinza, sem distrações, mantendo o foco totalmente na modelo. O estilo geral deve ser editorial corporativo moderno, com acabamento realista, aparência fotográfica profissional e composição elegante digna de revista. Formato vertical (1080x1920), proporção de retrato, qualidade fotográfica premium, tom sofisticado e iluminação cinematográfica.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_286",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_286.jpg",
+   "prompt": "Turn my portrait into a pen-and-marker notebook doodle on ruled paper, with playful arrows and tiny margin sketches. Keep my face recognizable.",
+   "category": "Artistic",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_285",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_285.jpg",
+   "prompt": "Studio photography of a me in a black suit, black turtleneck and round sunglasses with translucent yellow lenses. Vibrant orange background. Unique poses from the front.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_284",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_284.jpg",
+   "prompt": "Edit this image to show a man walking forward on a rain-slicked urban street, positioned in the center-lower third of the frame, captured in a dramatic three-quarter view. He's wearing a sophisticated charcoal gray trench coat over a black turtleneck and dark fitted trousers, with polished black leather boots. His hand is raised near his chest in a contemplative gesture, checking his watch. The left side of his body is dramatically disintegrating into an explosive dispersion effect—swirling smoke tendrils, ornate clockwork gears, shattered fragments, scattered papers, and metallic particles erupting outward in shades of silver, gray, and slate blue. The background features a misty urban canyon with towering buildings fading into a moody overcast sky. Cinematic depth of field with bokeh lights in the distance. Moody blue-gray color grading with high contrast. Photorealistic digital art style with surreal disintegration effects. 8K quality, dramatic lighting from above creating subtle highlights on the coat.",
+   "category": "Artistic",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_283",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_283.jpg",
+   "prompt": "Create a hyper-realistic portrait of a man (man of the uploaded photo) sitting in the driver's seat of a car, wearing a black shirt, combined with a faded light gray jacket and light gray wide-leg pants. White shoes should be visible, complementing the casual look. Round sunglasses with dark lenses should be positioned on the nose, highlighting a confident and slightly ironic facial expression. Relaxed posture: one arm on the sports steering wheel, the other supporting the head, conveying a relaxed look. The interior of the car should include side windows showing urban scenery (trees, buildings and part of another vehicle), and a black textured seat. Soft natural lighting, simulating daylight coming through the windows, creating a contrast between the warm colors of the clothing and the neutral environment of the car. Vintage style, with desaturated tones and slightly grainy textures, evoking a nostalgic atmosphere. Dominant tones of gray, white and black, with a balance between external light and internal shadows. Slightly elevated perspective, framing that includes the top of the knees to the head, with the steering wheel partially visible on the right.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_282",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_282.jpg",
+   "prompt": "Use the uploaded photo to create an Ultra-realistic mirror selfie of a stylish man with glasses. He is wearing a loose white sweater layered over a crisp white T-shirt, paired with dark blue denim jeans. He holds a new modern iPhone 17 smartphone orange colour in one hand, partially covering his face, while his other hand rests casually in his pocket. The scene is set in warm indoor lighting, creating a cinematic, moody atmosphere with soft shadow.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_281",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_281.jpg",
+   "prompt": "Edit this image of a young man into a high-contrast black and white portrait in a quiet classroom. he leans casually on a wooden school chair, legs crossed, wearing a navy blue sweatshirt, beige chinos, and black-and-white Converse sneakers. calm neutral expression. His left arm rests on the desk, his right hand drops casually to the side. Behind him, an off-white classroom wall with visible wear, pinned papers, photos, and sticky notes in a grid. One page clearly shows the printed word “Silence”, positioned above his head. Sunlight enters sharply from the right, casting a triangular beam of light on the wall and her shadow. The contrast is dramatic, cinematic, and natural, with a warm late-afternoon tone. The overall style feels candid and realistic, similar to a film photograph: slightly grainy, soft vintage texture, natural imperfections.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_280",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_280.jpg",
+   "prompt": "Uma foto realista com todos os traços e linhas idênticos ao da foto com um semblante imponente, em preto em branco, no traje de terno preto e gravata slim.",
+   "category": "Portrait",
+   "tags": [
+    "AI LinkedIn Prompts for Men",
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_279",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_279.jpg",
+   "prompt": "edit this image to design a bold, modern art poster of a man immersed in his music — wearing a cap and wireless earbuds, head tilted slightly as he feels the beat. Surround him with energetic doodles in black, orange, and white — arrows, lightning bolts, sound waves, and abstract motion lines bursting from his head. Give the background a clean white or bright orange color, emphasizing contrast and rhythm. Include bold graffiti-style text like “Bass Mode,” “Sound Rush,” “Feel It.” His jacket or hoodie can have metallic textures or glowing lines to match the energy of the composition.",
+   "category": "Artistic",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_278",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_278.jpg",
+   "prompt": "Edit this image into a bold, confident portrait of a young woman sitting elegantly, chin resting lightly on her hand, eyes forward with unwavering composure. Use dynamic lighting to emphasize her features and add depth to the scene. Style her in a fitted ribbed sweater or chic blazer in tones of cream or midnight blue. Keep the background minimal, with smooth gradients and soft shadows that frame her aura of grace and empowerment.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_277",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_277.jpg",
+   "prompt": "Hyper-realistic cinematic Create an 8k photorealistic image using the attached photo. A close-up portrait of a woman with long, jet-black, slightly wind-swept hair falling across her face. Her striking, light-colored eyes gaze upwards and to the right, catching a sharp, diagonal beam of natural light that illuminates the high points of her cheekbone, nose, and plump, glossy, mauve-toned lips a slightly light weight silk",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_276",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_276.jpg",
+   "prompt": "Recrie essa cena usando minha foto enviada como referência, mantendo o mesmo enquadramento, pose, iluminação e estilo da imagem de exemplo. A composição deve mostrar um retrato feminino de meio corpo, com a modelo sentada e levemente inclinada para a frente. O braço direito deve cruzar o corpo, com a mão esquerda apoiada suavemente no braço oposto, transmitindo elegância e confiança. A expressão facial deve ser serena, confiante e levemente enigmática. O olhar deve estar direcionado à câmera, com os lábios suavemente fechados e postura firme. A roupa é composta por um conjunto escuro e sofisticado — blazer preto estruturado, usado sobre uma blusa preta justa. O cabelo deve estar solto, liso e bem alinhado, caindo sobre um dos ombros de forma natural. A iluminação deve ser de estúdio, com luz direcional suave e contrastada (estilo Rembrandt ou luz lateral), destacando o contorno do rosto, criando sombras elegantes e um degradê sutil no fundo. O fundo deve ser liso e neutro, em tons de cinza escuro, com profundidade leve e sem elementos de distração. O estilo final deve ser preto e branco, com contraste refinado, textura suave da pele e aparência realista de retrato editorial. Formato vertical (1080x1920), proporção retrato, qualidade fotográfica de estúdio profissional, acabamento cinematográfico e realista.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_275",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_275.jpg",
+   "prompt": "Turn the photo into a 3x3 grid of photo strips with different studio-style poses and expressions.",
+   "category": "Photo Strip / Grid",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_274",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_274.jpg",
+   "prompt": "A cinematic urban portrait of me, keeping my real face unchanged. I am sitting casually on outdoor stone steps in front of a building entrance, leaning slightly forward with a confident and contemplative posture. My left elbow rests on my knee, with my hand raised to my temple in a thoughtful gesture, while my right arm hangs more loosely, with my hand extended downward in a relaxed position. My legs are bent naturally, spreading apart for a grounded and strong presence. My gaze is directed toward the camera, steady and intense, with a calm yet powerful expression. I am wearing a black outfit: a fitted turtleneck sweater layered under a black coat with a wide collar and subtle texture. The coat has a tailored yet modern look, with a slightly matte fabric that absorbs the light, creating depth. My trousers are also black, slim-fitted, completing the clean, monochromatic style. No visible accessories, emphasizing minimalism and sophistication. The background shows part of an urban building with glass doors and warm interior lights softly glowing, adding contrast to the darker tones of my outfit. The lighting is warm and diffused, highlighting my face and upper body while creating soft shadows that add cinematic depth. The camera captures me slightly from below (low angle), emphasizing strength and presence, framed from the knees up. The focal length resembles a portrait lens around 50-85mm, producing natural proportions with a shallow depth of field that keeps me sharp against the softly blurred background. Style: cinematic, moody urban portrait, editorial fashion photography, minimalistic monochrome outfit, professional model vibe.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_273",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_273.jpg",
+   "prompt": "Edit this image to show a handsome man standing in sharp focus against a beautifully blurred urban backdrop. He's positioned in the center-lower portion of the frame, gazing directly at the camera with an intense, confident expression. His body is angled slightly to the side while his face turns toward the viewer. He has textured, wavy dark hair styled upward with volume, a well-groomed beard, and strong facial features. He's wearing a sophisticated all-black ensemble: a sleek black overcoat layered over a black collared shirt or turtleneck. The background features bokeh city lights with glowing neon signs and urban architecture creating dreamy circular light halos. Shot in cinematic black and white with dramatic contrast, shallow depth of field (f/1.4-2.0), professional street photography style. The mood is moody, mysterious, and fashion-forward with film noir aesthetics. High-end editorial quality.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_272",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_272.jpg",
+   "prompt": "Hyper-realistic, ultra-detailed close-up portrait showing only the left half of my face submerged in water, one eye in sharp focus, positioned on the far left of the frame, light rays creating caustic patterns on the skin, suspended water droplets and bubbles adding depth, cinematic lighting with soft shadows and sharp highlights, photorealistic textures including skin pores, wet lips, eyelashes, and subtle subsurface scattering, surreal and dreamlike atmosphere, shallow depth of field, underwater macro perspective. 3:4 aspect ratio",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_271",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_271.jpg",
+   "prompt": "dit this image to create a vintage watercolor collage of an elegant woman, blending nostalgic artistic elements with expressive paint splashes and delicate textures. The portrait should feature soft, flowing watercolor techniques with intentional drips, bleeds, and layered translucent washes that create romantic depth and emotional storytelling. Focus on warm amber and rich sepia tones as the dominant color palette, with accents of dusty rose, cream, honey gold, and faded mauve to evoke a timeless, vintage photograph aesthetic. Incorporate collage elements such as vintage lace patterns, antique floral illustrations, old love letters, pressed flowers, weathered journal pages, or Victorian-era ephemera subtly woven into the composition. The woman should be dressed in classic, romantic attire—perhaps a vintage lace dress, flowing blouse, or period-appropriate accessories like pearl earrings or a delicate necklace—with her features rendered in graceful, impressionistic watercolor strokes",
+   "category": "Art / Watercolor",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_270",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_270.jpg",
+   "prompt": "Create a vertical potrait shot in 1080x1920 format using the exact same face features, characterized by stark cinematic lighting and intense contrast. Captured in a slightly low, upward-facing angle that dramatized the subject’s jawline and neck, the composition evokes quite dominance and sculptural elegance. The background is a deep, saturated crimson red, creating a bold visual clash with the model’s luminous skin and dark wardrobe.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_269",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_269.jpg",
+   "prompt": "Edit this image to place a woman in the iconic blue-painted streets of Chefchaouen, Morocco. Position her gracefully ascending blue-painted stone steps, hand gently trailing along the textured wall, captured in a dynamic pose looking up and away with natural joy. She maintains her original tourist clothing. Enhance the lighting to golden hour with warm sunlight streaming between buildings, creating dramatic shadows and highlights on the vibrant blue walls (ranging from azure to deep cobalt). The narrow street features wooden doors with ornate brass knockers, cascading bougainvillea in magenta and purple, terracotta pots with green plants, and traditional Moroccan lanterns casting decorative shadows. Add a stray cat sitting on stone steps for authentic atmosphere. Photorealistic style with rich, saturated colors, slight vignette, and shallow depth of field to create dreamy bokeh in the background.",
+   "category": "Travel / Landscape",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_268",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_268.jpg",
+   "prompt": "Convert this image so that the man is sitting in the center of a high-back armchair in a minimal, monochromatic studio setting. Replace the current background with a seamless wall and floor in a single solid color, either deep teal, slate blue, or forest green. Dress him in a matching jacket and pants in the same color, paired with a simple white T-shirt underneath. Keep his sneakers clean and white with subtle accents matching the outfit. Retain his wristwatch as an accessory. His posture should be upright and composed, with both feet flat on the ground and his hands gently clasped in his lap. The chair should match the overall color scheme to create a seamless monochrome effect. Lighting should be soft, even, and studio-style, with minimal shadows. The final image should be ultra-high-resolution, sleek, modern, and minimalist, in the style of high-fashion portrait photography.",
+   "category": "Portrait / Fashion",
+   "tags": [
+    "AI LinkedIn Prompts for Men",
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_267",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_267.jpg",
+   "prompt": "Studio portrait of a confident man sitting on a modern beige armchair with wooden legs, leaning slightly forward with his hands together. He wears a dark navy blue dress shirt with the top buttons open, light beige slim-fit pants, and black loafers with tan soles. He has short dark brown hair styled with texture, a trimmed full beard, tanned skin, and an intense confident gaze directed at the camera. The background is minimalist light gray with a smooth gradient, evenly lit with soft natural studio lighting. The mood is cinematic and fashion editorial, with high realism and fine details. Shot with a 50mm lens at f/2.8, vertical framing, full-body composition. the subject from the uploaded image, maintaining the exact real face, hairstyle, skin tone, and body identity unchanged.",
+   "category": "Portrait / Fashion",
+   "tags": [
+    "AI LinkedIn Prompts for Men",
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_266",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_266.jpg",
+   "prompt": "Edit this image of a man into a black and white artistic portrait in a minimalist fashion studio. He is dressed in a tailored dark suit with sharp lines, paired with polished black shoes. He sits on a simple modern chair, leaning slightly forward with his hands clasped, giving an introspective and confident expression. Lighting is clean and controlled, using soft studio light to create sculpted shadows and highlight facial structure, textures, and fabric details. The background is plain, smooth gray to keep the focus on the subject. High contrast black and white grading emphasizes elegance and depth. Vertical 4:5 crop, cinematic editorial style — refined, timeless, and powerful.",
+   "category": "Portrait / Fashion",
+   "tags": [
+    "AI LinkedIn Prompts for Men",
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_265",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_265.jpg",
+   "prompt": "Edit this image to show a woman positioned in a close-up portrait shot, face tilted slightly upward at approximately 15-20 degrees with her chin gently lifted, creating a confident, aspirational angle. Her head is centered in the frame with her gaze directed straight toward the camera from behind the sunglasses. She has long, flowing raven-black hair with subtle midnight-blue highlights cascading down both sides of her face and over her shoulders, with strands naturally falling across her chest. She's wearing oversized vintage-inspired cat-eye sunglasses with molten amber-to-gold gradient lenses and lustrous golden frames with delicate etched details, positioned perfectly on the bridge of her nose. Her body is angled slightly (about 30 degrees) to create dimension, with shoulders relaxed and one shoulder subtly closer to the camera. She exudes magnetic confidence with a sultry pout featuring rich burnt-sienna matte lipstick with a subtle glossy center, and dramatic smoky eye makeup with bronze and copper tones visible around the sunglasses. She's wearing a luxurious black silk blazer with peak lapels and a daring plunging neckline, layered with a whisper-thin gold chain necklace featuring a small crescent moon pendant resting at her collarbone, and sleek gold huggie earrings. The background is a rich, saturated golden-yellow that transitions to deeper amber tones at the edges. Dramatic directional lighting from above-left creates sculptural shadows along her neck and cheekbones, with warm backlighting creating a subtle halo effect. The composition is a beauty/fashion portrait style with the face taking up roughly 60% of the frame.",
+   "category": "Portrait / Beauty",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_264",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_264.jpg",
+   "prompt": "Dramatic, ultra-realistic close-up in black and white with high-contrast cinematic lighting from the side, highlighting the contours of his face and beard, casting deep shadows. He wears round, reflective sunglasses. He gazes confidently upward into a dark void. The sunglasses reflect a city's towering skyline. The atmosphere is mysterious with a minimalist black background. Details in 4K. Keep the subject's exact facial structure, hair texture, the original photo.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_263",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_263.jpg",
+   "prompt": "Make this photo as reference to create a photo of a me. based on the uploaded photo, make a 6 vintage collage square size a Authentic retro film look: faded tones, pastel, creamy whites, film grain, dust, scratches, dreamy morning light. Subject wearing white spaghetti duster dress. light make up, pink blush, messy long semi wavy dark brown hair, natural candid wake-up vibe. Mix of shy smiles, playful laughter, covering face, pouting, lying on bed.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_262",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_262.jpg",
+   "prompt": "Outdoor portrait photograph with a bright low-angle perspective. The main subject is a young man with smooth skin [reference man on the photo] and messy black hair, looking at a cat with a happy expression. The man is wearing a broken white linen shirt, he is in the middle of a dense white flowering tree, with the flowers framing his face and the top of the frame, creating a beautiful blurred effect in the foreground and background. On the man's shoulder, there is a large, fluffy white cat that.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_261",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_261.jpg",
+   "prompt": "Create a vertical frame size 2160x3840 pixels (4K quality) - divided into three equally sized horizontal images placed together. The main character is based on the reference face, hairstyle, and body: a young figure with an expression of sadness and nostalgia, deep eyes radiating loneliness. The outfit is a loose winter puffer set with wide-leg pants and a black scarf. The overall atmosphere is covered in white snow, with a cold color palette that evokes melancholy and solitude. Image 1 (portrait): The character holds a transparent umbrella, turning their head slightly back while looking directly at the frame. The expression is sorrowful, with soulful eyes. Image 2 (full body): The character stands alone in a vast snowy field, walking while gazing at the sky. In the distance, a few bare, leafless trees stand. The scene conveys smallness and isolation against the vastness of nature. Image 3 (close-up): A zoomed-in shot of the character's eyes, with a distant, sorrowful gaze that evokes feelings of loneliness and yearning.",
+   "category": "Storyboard",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_260",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_260.jpg",
+   "prompt": "Multi-panel photorealistic storyboard, 3 panels (Top / Middle / Bottom stacked vertically). Retro Japanese summer seaside editorial, nostalgic aesthetic. Unisex subject, keep the original face. Top: extreme low-angle wide shot, arms stretched, patterned shirt, indigo sky with seagulls, freedom. Middle: close-up eye-level, facing camera, oversized summer T-shirt, nostalgic gaze or faint smile, blurred teal sea, dreamy haze. 20 years boy Face reference 100%.",
+   "category": "Storyboard",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_259",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_259.jpg",
+   "prompt": "Create a cinematic and atmospheric photo featuring a young man uploaded person in a dimly lit public transportation vehicle, such as a train or bus. Wearing a tee, hoodie jacket, wireless earphones, he enjoys music from his phone. In front of him is a visual overlay from a music player app playing the song 'Creepin' by the vocalist of 'Metro Boomin, The Weekend, 21 Savage.' The lighting in the photo is warm and slightly yellowish, with soft light coming from outside the window.",
+   "category": "Cinematic",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_258",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_258.jpg",
+   "prompt": "Without changing my facial features and face. It should be look like realistic. remove my earrings. Generate an image of a young woman sitting on a stone bench in a narrow alleyway with beige buildings and greenery in the background. She has long brown hair and is wearing a lime green saree with large white daisies and a matching dupatta. She's wearing pink heart-shaped sunglasses, red nail polish, multiple colorful bangles on her right wrist, and rings on her left hand. The lighting is soft and natural with a warm tone. Capture the image with high realism, sharpness, and quality. The woman's pose is with her right hand adjusting her sunglasses and her left hand resting on her lap.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_257",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_257.jpg",
+   "prompt": "photograph of a man with dark curly hair (don't change the face make sure the face is exactly like the uploaded image), wearing a black and beige striped windbreaker and black pants, sitting on the roof of a white race car with decals. He is looking away from the camera, set against a dark, moody, and overcast sky. --ar 9:16 --style raw --v 6.0",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_256",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_256.jpg",
+   "prompt": "Edit foto menjadi dua buah foto yang dipegang dengan satu tangan di bagian depan gambar, dengan jari terlihat memegang kedua foto secara berdampingan, foto di sebelah kiri pria (dengan referensi wajah dan rambut asli pada foto pertama), terlihat sedikit tersenyum, mata terpejam, memakai kemeja putih kerah formal, dengan latar belakang biru. Sedangkan foto di sebelah kanan wanita (referensi wajah foto kedua) berhijab hitam dan membuat ekspresi wajah tersenyum sambil menunjuk ke pipi pria, memakai kemeja lengan panjang putih kerah formal dengan latar biru, buat tangan nya keluar dari foto dan berinteraksi menekan pipi sang pria disampingnya, foto keduanya menyerupai pas foto formal buku nikah. Komposisi keseluruhan bersifat lucu, romantis dan penuh keceriaan. Tidak mengubah fitur dan struktur wajah asli.",
+   "category": "Couple",
+   "tags": [
+    "Trending",
+    "India",
+    "Passport Size Photo",
+    "Pakistan"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_255",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_255.jpg",
+   "prompt": "D-portrait with Fuji film Pro 400H camera using old lens filter, keeping face and face as photo reference. A young woman is wearing a clean white solitaire dress with a cute and flowly design. The dress looks like a corset or folds slightly into the shape of the chest and body, showing her beautiful figure. There are soft pleated edges or details. Hairstyle is 'long black hair with butterfly cut' modern or layered that accentuate the face frame. She sat by an old wooden window covered with lush green leaves and vines crawling around. The sun shines through the leaves gently and beautifully. Don't change my face features.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_254",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_254.jpg",
+   "prompt": "A very handsome young boy with uploaded reference face, standing naturally in a tall grass field filled with soft white pampas flowers, wearing a loose white button-up shirt with slightly rolled sleeves and white trousers. One hand gently holding a pampas flower, other hand in pocket. Body facing forward, head slightly tilted down, eyes softly downward, calm thoughtful expression. Background softly blurred, pampas glowing in sunlight, dreamy bright atmosphere. Cinematic soft tones, pastel colour.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_253",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_253.jpg",
+   "prompt": "A cinematic portrait of a man standing in a tall green field, wearing a dark button-up shirt and headphones. He has his eyes closed, head tilted slightly upward, and arms stretched wide open as if embracing the music and the sky. The at- mosphere is serene and emotional, with drama- tic overcast clouds filling the sky. Shot in a wi- de-angle, low-perspective view that captures both the man and the sweeping field around him. Soft natural lighting with muted tones, evo- king freedom, peace, and deep connection with nature. Ultra-realistic, high detail, 8k resolution, cinematic depth of field.",
+   "category": "Portrait",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India",
+    "Cinematic"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_252",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_252.jpg",
+   "prompt": "[Use the face from the submitted photo], preserving the warm-neutral skin tone, minimalist oversized white crew neck shirt without print, tailored black athletic shorts, clean white techwear sneakers, metallic gray on-ear headphones; giant iPhone on the floor with a clean, minimalist music app screen without logos, you standing centered on the screen at human scale, confident, neutral editorial expression, direct eye contact, one arm relaxed and the other in the shorts pocket, bald head, clean light gray background, minimalist futuristic style; partial top- down camera with a high angle, full-body shot, 35-50mm lens, f/8, 4:5 vertical aspect ratio (1080x1350 px); homogeneous diffuse studio lighting, medium contrast, highlighted hood; 5000K color grade white balance, -5 saturation, neutral props and background, and highlighted skin; 4:5 vertical output - 1080x1350 px, sRGB, overscan +3%, futuristic editorial high definition; Cons: no face/skin alteration, no logos, no cluttered background, no plastic skin, no iPhone cutouts, feet, or headphones.",
+   "category": "Fashion/Editorial",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
+   "id": "prompt_251",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_251.jpg",
+   "prompt": "Create a photo-style line drawing ink sketch of the faces identical to the uploaded reference image - keep every facial feature, proportion, and expression exactly the same. Use blue and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background. Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.",
+   "category": "Art Style",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
   }
-  ,
-  {
-    "id": "prompt_293",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_293.jpg",
-    "prompt": "A man with a beard and short dark hair is captured in a striking portrait, illuminated by dramatic dual-colored lighting. His face is split, with one side bathed in a cool blue light and the other in a vibrant pink/red hue, creating a high-contrast and neon-like effect. He gazes directly at the viewer with a thoughtful or pensive expression, his left hand resting on his chin. He is wearing a dark t-shirt and a watch on his left wrist. The background is dark and indistinct, further emphasizing the colorful illumination on his face and upper body.",
-    "category": "Portrait",
-    "tags": ["Male", "Dramatic Lighting", "Neon", "High Contrast", "Thoughtful"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_292",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_292.jpg",
-    "prompt": "Edit this image into a creative double exposure of a man in side profile, his silhouette seamlessly blended with a vibrant city skyline at dusk. The lights of the city illuminate the contours of his face, symbolizing imagination and ambition. Add depth with warm orange and golden reflections, subtle glow effects, and a dreamy atmosphere — as if the city lives inside his thoughts.",
-    "category": "Portrait",
-    "tags": ["Male", "Double Exposure", "Cityscape", "Dusk", "Dreamy", "Ambition", "Surreal"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_291",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_291.jpg",
-    "prompt": "A cinematic close-up portrait of a stylish individual standing by a large glass window, gazing thoughtfully at their reflection. The person wears a black turtleneck sweater layered under a fitted dark blazer, creating a sleek and elegant look. The lighting is soft and natural, coming from the window, gently illuminating one side of the face while casting subtle shadows on the other, emphasizing depth and texture. The background is softly blurred, highlighting the calm and introspective mood of the scene. The reflection in the glass adds a sense of duality and contemplation. The overall atmosphere is moody, sophisticated, and cinematic, with a color palette dominated by neutral tones and soft daylight.",
-    "category": "Portrait",
-    "tags": ["Male", "Female", "Cinematic", "Reflection", "Thoughtful", "Sophisticated", "Window"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_290",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_290.jpg",
-    "prompt": "Edit this image to show an innovative professional man in a creative thinking pose with one hand touching his chin thoughtfully, other hand holding a laptop open at waist level, standing in a three-quarter stance with an enthusiastic visionary expression. He's wearing a modern electric blue blazer over a casual white henley shirt for creative professional appeal. The background is pristine white fading to soft mint green gradient. Digital marketing visual elements float around him: social media platform icons (Instagram, LinkedIn, Facebook, TikTok logos) in their signature colors, minimalist megaphone graphics, ascending analytics chart symbols, engagement icons like hearts and comment bubbles, target/bullseye symbols, and at-sign symbols. Colorful metric badges showing growth numbers (+2.5k, +850). Connecting lines and nodes between icons suggest integrated campaigns. Small lightning bolt and star accents in blue and green add creative energy. The left side displays compelling typography: \"WE'RE HIRING\" with \"HIRING\" highlighted in an electric blue box, followed by \"digital marketers\" and \"#creative minds wanted\" in contemporary sans-serif font. Top left features a campaign or strategy icon. The overall aesthetic is innovative, data-driven yet creative, with LinkedIn professional recruitment energy. Photorealistic rendering with vibrant engaging lighting, digital agency style, and modern marketing talent acquisition aesthetic.",
-    "category": "Marketing",
-    "tags": ["Male", "Professional", "Digital Marketing", "Recruitment", "Creative", "Innovative", "Laptop", "Social Media"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_289",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_289.jpg",
-    "prompt": "Recreate this scene using my submitted photo as a reference, maintaining the same framing, pose, lighting, and style as the example image. The composition should show a half-length **male** portrait, with the model sitting and leaning slightly forward. The right arm should cross the body, with the left hand resting gently on the opposite arm, conveying elegance and confidence. The facial expression should be serene, confident, and slightly enigmatic. The gaze should be directed toward the camera, with lips softly closed and a firm posture. The outfit consists of a dark, sophisticated ensemble—a structured **black blazer** worn over a **fitted black shirt (or T-shirt/sweater)**. **The hair should be neatly groomed and styled appropriately for a man (e.g., short, slicked back, or a modern cut and wearing Sunglasses).** The lighting should be studio-style, with soft, contrasting directional light (Rembrandt-style or sidelight), highlighting the contours of the face, creating elegant shadows and a subtle gradient in the background. The background should be smooth and neutral, in dark gray tones, with slight depth and no distracting elements. The final style should be black and white, with refined contrast, smooth skin texture, and a realistic editorial portrait look. Vertical format (1080x1920), portrait aspect ratio, professional studio photo quality, and a cinematic, realistic finish.",
-    "category": "Portrait",
-    "tags": ["Male", "Black and White", "Studio", "Elegant", "Confident", "Sophisticated", "Editorial"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_288",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_288.jpg",
-    "prompt": "A captivating, photorealistic portrait of a man in his late 20s to early 30s, with a warm, natural expression, looking slightly upwards and to the right. He has medium-length, dark curly hair and a neatly trimmed beard. He is standing upright, with his hands casually in the pockets of dark, well-fitted trousers, wearing a light-colored, open-collared linen shirt with the sleeves rolled up slightly. The setting is a vast, golden wheat field at sunset, with the wheat stalks reaching up to his waist. The sky is a beautiful gradient of soft orange, pink, and light blue, with a few subtle, distant stars and faint meteor trails. The lighting is soft, warm, and golden, coming from the low sun, creating a gentle rim light on his hair and shoulders. The overall image has a serene, slightly dreamy, and romantic atmosphere, with a natural, slightly desaturated color palette and a subtle, soft-focus filter that enhances the warm tones and textures of the field and sky.",
-    "category": "Portrait",
-    "tags": ["Male", "Photorealistic", "Wheat Field", "Sunset", "Serene", "Dreamy", "Romantic", "Nature"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_287",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_287.jpg",
-    "prompt": "Recrie essa cena utilizando minha foto enviada como base, mantendo o mesmo enquadramento, pose, iluminação e atmosfera da imagem de referência. A composição deve mostrar uma mulher sentada sobre um banco alto de madeira com estrutura metálica preta, em um estúdio minimalista de fundo neutro em tons de cinza. O enquadramento deve capturar o corpo inteiro, com leve distância que realce a postura e o cenário limpo. A modelo deve estar com a perna direita dobrada e apoiada no degrau do banco, enquanto a esquerda toca o chão com elegância, calçando sapatos de salto preto com detalhes translúcidos. O figurino é totalmente preto e elegante: blazer estruturado sobre os ombros, calça de alfaiataria justa e blusa preta por baixo, transmitindo força, estilo e profissionalismo. O cabelo solto e alinhado deve cair suavemente sobre os ombros, e a expressão facial deve ser confiante, com o olhar direcionado levemente para o lado, transmitindo poder e serenidade. A iluminação deve ser de estúdio, com luz suave e direcional, criando contraste equilibrado entre sombras e áreas iluminadas, realçando a textura do tecido e o contorno do rosto. O fundo deve permanecer liso, com um degradê sutil em cinza, sem distrações, mantendo o foco totalmente na modelo. O estilo geral deve ser editorial corporativo moderno, com acabamento realista, aparência fotográfica profissional e composição elegante digna de revista. Formato vertical (1080x1920), proporção de retrato, qualidade fotográfica premium, tom sofisticado e iluminação cinematográfica.",
-    "category": "Portrait",
-    "tags": ["Female", "Studio", "Elegant", "Professional", "Black Outfit", "Corporate", "Editorial"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_286",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_286.jpg",
-    "prompt": "Turn my portrait into a pen-and-marker notebook doodle on ruled paper, with playful arrows and tiny margin sketches. Keep my face recognizable.",
-    "category": "Artistic",
-    "tags": ["Male", "Doodle", "Sketch", "Notebook", "Playful", "Marker Art"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_285",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_285.jpg",
-    "prompt": "Studio photography of a me in a black suit, black turtleneck and round sunglasses with translucent yellow lenses. Vibrant orange background. Unique poses from the front.",
-    "category": "Portrait",
-    "tags": ["Male", "Studio", "Fashion", "Black Suit", "Sunglasses", "Vibrant Background"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_284",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_284.jpg",
-    "prompt": "Edit this image to show a man walking forward on a rain-slicked urban street, positioned in the center-lower third of the frame, captured in a dramatic three-quarter view. He's wearing a sophisticated charcoal gray trench coat over a black turtleneck and dark fitted trousers, with polished black leather boots. His hand is raised near his chest in a contemplative gesture, checking his watch. The left side of his body is dramatically disintegrating into an explosive dispersion effect—swirling smoke tendrils, ornate clockwork gears, shattered fragments, scattered papers, and metallic particles erupting outward in shades of silver, gray, and slate blue. The background features a misty urban canyon with towering buildings fading into a moody overcast sky. Cinematic depth of field with bokeh lights in the distance. Moody blue-gray color grading with high contrast. Photorealistic digital art style with surreal disintegration effects. 8K quality, dramatic lighting from above creating subtle highlights on the coat.",
-    "category": "Artistic",
-    "tags": ["Male", "Urban", "Rain", "Disintegration", "Surreal", "Cinematic", "Dramatic", "Digital Art"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_283",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_283.jpg",
-    "prompt": "Create a hyper-realistic portrait of a man (man of the uploaded photo) sitting in the driver's seat of a car, wearing a black shirt, combined with a faded light gray jacket and light gray wide-leg pants. White shoes should be visible, complementing the casual look. Round sunglasses with dark lenses should be positioned on the nose, highlighting a confident and slightly ironic facial expression. Relaxed posture: one arm on the sports steering wheel, the other supporting the head, conveying a relaxed look. The interior of the car should include side windows showing urban scenery (trees, buildings and part of another vehicle), and a black textured seat. Soft natural lighting, simulating daylight coming through the windows, creating a contrast between the warm colors of the clothing and the neutral environment of the car. Vintage style, with desaturated tones and slightly grainy textures, evoking a nostalgic atmosphere. Dominant tones of gray, white and black, with a balance between external light and internal shadows. Slightly elevated perspective, framing that includes the top of the knees to the head, with the steering wheel partially visible on the right.",
-    "category": "Portrait",
-    "tags": ["Male", "Hyperrealistic", "Car", "Vintage", "Sunglasses", "Nostalgic", "Casual"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_282",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_282.jpg",
-    "prompt": "Use the uploaded photo to create an Ultra-realistic mirror selfie of a stylish man with glasses. He is wearing a loose white sweater layered over a crisp white T-shirt, paired with dark blue denim jeans. He holds a new modern iPhone 17 smartphone orange colour in one hand, partially covering his face, while his other hand rests casually in his pocket. The scene is set in warm indoor lighting, creating a cinematic, moody atmosphere with soft shadow.",
-    "category": "Portrait",
-    "tags": ["Male", "Mirror Selfie", "Ultra-realistic", "Stylish", "Glasses", "iPhone", "Indoor Lighting"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_281",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_281.jpg",
-    "prompt": "Edit this image of a young man into a high-contrast black and white portrait in a quiet classroom. he leans casually on a wooden school chair, legs crossed, wearing a navy blue sweatshirt, beige chinos, and black-and-white Converse sneakers. calm neutral expression. His left arm rests on the desk, his right hand drops casually to the side. Behind him, an off-white classroom wall with visible wear, pinned papers, photos, and sticky notes in a grid. One page clearly shows the printed word “Silence”, positioned above his head. Sunlight enters sharply from the right, casting a triangular beam of light on the wall and her shadow. The contrast is dramatic, cinematic, and natural, with a warm late-afternoon tone. The overall style feels candid and realistic, similar to a film photograph: slightly grainy, soft vintage texture, natural imperfections.",
-    "category": "Portrait",
-    "tags": ["Male", "Black and White", "Classroom", "High Contrast", "Cinematic", "Vintage", "Candid"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_280",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_280.jpg",
-    "prompt": "Uma foto realista com todos os traços e linhas idênticos ao da foto com um semblante imponente, em preto em branco, no traje de terno preto e gravata slim.",
-    "category": "Portrait",
-    "tags": ["Male", "Photorealistic", "Black and White", "Suit", "Imposing", "Formal"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_279",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_279.jpg",
-    "prompt": "edit this image to design a bold, modern art poster of a man immersed in his music — wearing a cap and wireless earbuds, head tilted slightly as he feels the beat. Surround him with energetic doodles in black, orange, and white — arrows, lightning bolts, sound waves, and abstract motion lines bursting from his head. Give the background a clean white or bright orange color, emphasizing contrast and rhythm. Include bold graffiti-style text like “Bass Mode,” “Sound Rush,” “Feel It.” His jacket or hoodie can have metallic textures or glowing lines to match the energy of the composition.",
-    "category": "Artistic",
-    "tags": ["Male", "Music", "Modern Art", "Poster", "Doodles", "Vibrant", "Graffiti Style", "Dynamic"],
-    "popularity": 0,
-    "createdAt": "2024-03-01T16:31:42Z",
-    "isFeatured": false
-  }
-  ,
-  {
-    "id": "prompt_278",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_278.jpg",
-    "prompt": "Edit this image into a bold, confident portrait of a young woman sitting elegantly, chin resting lightly on her hand, eyes forward with unwavering composure. Use dynamic lighting to emphasize her features and add depth to the scene. Style her in a fitted ribbed sweater or chic blazer in tones of cream or midnight blue. Keep the background minimal, with smooth gradients and soft shadows that frame her aura of grace and empowerment.",
-    "category": "Portrait",
-    "tags": ["Female", "Confident", "Elegant", "Studio", "Minimalist", "Sitting", "Dynamic Lighting", "Fashion"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_277",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_277.jpg",
-    "prompt": "Hyper-realistic cinematic Create an 8k photorealistic image using the attached photo. A close-up portrait of a woman with long, jet-black, slightly wind-swept hair falling across her face. Her striking, light-colored eyes gaze upwards and to the right, catching a sharp, diagonal beam of natural light that illuminates the high points of her cheekbone, nose, and plump, glossy, mauve-toned lips a slightly light weight silk",
-    "category": "Portrait",
-    "tags": ["Female", "Close-up", "Hyper-realistic", "8K", "Cinematic", "Wind-swept", "Dramatic Lighting", "Beauty"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_276",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_276.jpg",
-    "prompt": "Recrie essa cena usando minha foto enviada como referência, mantendo o mesmo enquadramento, pose, iluminação e estilo da imagem de exemplo. A composição deve mostrar um retrato feminino de meio corpo, com a modelo sentada e levemente inclinada para a frente. O braço direito deve cruzar o corpo, com a mão esquerda apoiada suavemente no braço oposto, transmitindo elegância e confiança. A expressão facial deve ser serena, confiante e levemente enigmática. O olhar deve estar direcionado à câmera, com os lábios suavemente fechados e postura firme. A roupa é composta por um conjunto escuro e sofisticado — blazer preto estruturado, usado sobre uma blusa preta justa. O cabelo deve estar solto, liso e bem alinhado, caindo sobre um dos ombros de forma natural. A iluminação deve ser de estúdio, com luz direcional suave e contrastada (estilo Rembrandt ou luz lateral), destacando o contorno do rosto, criando sombras elegantes e um degradê sutil no fundo. O fundo deve ser liso e neutro, em tons de cinza escuro, com profundidade leve e sem elementos de distração. O estilo final deve ser preto e branco, com contraste refinado, textura suave da pele e aparência realista de retrato editorial. Formato vertical (1080x1920), proporção retrato, qualidade fotográfica de estúdio profissional, acabamento cinematográfico e realista.",
-    "category": "Portrait",
-    "tags": ["Female", "Studio", "Black and White", "Cinematic", "Elegant", "Sitting", "Rembrandt Lighting", "Editorial"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_275",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_275.jpg",
-    "prompt": "Turn the photo into a 3x3 grid of photo strips with different studio-style poses and expressions.",
-    "category": "Photo Strip / Grid",
-    "tags": ["Male", "Studio", "Grid", "Collage", "Multiple Poses", "Black and White"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_274",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_274.jpg",
-    "prompt": "A cinematic urban portrait of me, keeping my real face unchanged. I am sitting casually on outdoor stone steps in front of a building entrance, leaning slightly forward with a confident and contemplative posture. My left elbow rests on my knee, with my hand raised to my temple in a thoughtful gesture, while my right arm hangs more loosely, with my hand extended downward in a relaxed position. My legs are bent naturally, spreading apart for a grounded and strong presence. My gaze is directed toward the camera, steady and intense, with a calm yet powerful expression. I am wearing a black outfit: a fitted turtleneck sweater layered under a black coat with a wide collar and subtle texture. The coat has a tailored yet modern look, with a slightly matte fabric that absorbs the light, creating depth. My trousers are also black, slim-fitted, completing the clean, monochromatic style. No visible accessories, emphasizing minimalism and sophistication. The background shows part of an urban building with glass doors and warm interior lights softly glowing, adding contrast to the darker tones of my outfit. The lighting is warm and diffused, highlighting my face and upper body while creating soft shadows that add cinematic depth. The camera captures me slightly from below (low angle), emphasizing strength and presence, framed from the knees up. The focal length resembles a portrait lens around 50-85mm, producing natural proportions with a shallow depth of field that keeps me sharp against the softly blurred background. Style: cinematic, moody urban portrait, editorial fashion photography, minimalistic monochrome outfit, professional model vibe.",
-    "category": "Portrait",
-    "tags": ["Male", "Urban", "Cinematic", "Sitting", "Low Angle", "Black Outfit", "Moody", "Fashion Editorial"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_273",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_273.jpg",
-    "prompt": "Edit this image to show a handsome man standing in sharp focus against a beautifully blurred urban backdrop. He's positioned in the center-lower portion of the frame, gazing directly at the camera with an intense, confident expression. His body is angled slightly to the side while his face turns toward the viewer. He has textured, wavy dark hair styled upward with volume, a well-groomed beard, and strong facial features. He's wearing a sophisticated all-black ensemble: a sleek black overcoat layered over a black collared shirt or turtleneck. The background features bokeh city lights with glowing neon signs and urban architecture creating dreamy circular light halos. Shot in cinematic black and white with dramatic contrast, shallow depth of field (f/1.4-2.0), professional street photography style. The mood is moody, mysterious, and fashion-forward with film noir aesthetics. High-end editorial quality.",
-    "category": "Portrait",
-    "tags": ["Male", "Urban", "Black and White", "Bokeh", "Film Noir", "Fashion", "Street Photography", "Moody"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_272",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_272.jpg",
-    "prompt": "Hyper-realistic, ultra-detailed close-up portrait showing only the left half of my face submerged in water, one eye in sharp focus, positioned on the far left of the frame, light rays creating caustic patterns on the skin, suspended water droplets and bubbles adding depth, cinematic lighting with soft shadows and sharp highlights, photorealistic textures including skin pores, wet lips, eyelashes, and subtle subsurface scattering, surreal and dreamlike atmosphere, shallow depth of field, underwater macro perspective. 3:4 aspect ratio",
-    "category": "Portrait",
-    "tags": ["Male", "Surreal", "Underwater", "Macro", "Hyper-realistic", "Caustics", "Close-up", "Water"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_271",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_271.jpg",
-    "prompt": "dit this image to create a vintage watercolor collage of an elegant woman, blending nostalgic artistic elements with expressive paint splashes and delicate textures. The portrait should feature soft, flowing watercolor techniques with intentional drips, bleeds, and layered translucent washes that create romantic depth and emotional storytelling. Focus on warm amber and rich sepia tones as the dominant color palette, with accents of dusty rose, cream, honey gold, and faded mauve to evoke a timeless, vintage photograph aesthetic. Incorporate collage elements such as vintage lace patterns, antique floral illustrations, old love letters, pressed flowers, weathered journal pages, or Victorian-era ephemera subtly woven into the composition. The woman should be dressed in classic, romantic attire—perhaps a vintage lace dress, flowing blouse, or period-appropriate accessories like pearl earrings or a delicate necklace—with her features rendered in graceful, impressionistic watercolor strokes",
-    "category": "Art / Watercolor",
-    "tags": ["Female", "Watercolor", "Collage", "Vintage", "Romantic", "Sepia Tones", "Nostalgic", "Artistic"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_270",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_270.jpg",
-    "prompt": "Create a vertical potrait shot in 1080x1920 format using the exact same face features, characterized by stark cinematic lighting and intense contrast. Captured in a slightly low, upward-facing angle that dramatized the subject’s jawline and neck, the composition evokes quite dominance and sculptural elegance. The background is a deep, saturated crimson red, creating a bold visual clash with the model’s luminous skin and dark wardrobe.",
-    "category": "Portrait",
-    "tags": ["Male", "Vertical", "Cinematic", "High Contrast", "Red Background", "Low Angle", "Dominant", "Fashion"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_269",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_269.jpg",
-    "prompt": "Edit this image to place a woman in the iconic blue-painted streets of Chefchaouen, Morocco. Position her gracefully ascending blue-painted stone steps, hand gently trailing along the textured wall, captured in a dynamic pose looking up and away with natural joy. She maintains her original tourist clothing. Enhance the lighting to golden hour with warm sunlight streaming between buildings, creating dramatic shadows and highlights on the vibrant blue walls (ranging from azure to deep cobalt). The narrow street features wooden doors with ornate brass knockers, cascading bougainvillea in magenta and purple, terracotta pots with green plants, and traditional Moroccan lanterns casting decorative shadows. Add a stray cat sitting on stone steps for authentic atmosphere. Photorealistic style with rich, saturated colors, slight vignette, and shallow depth of field to create dreamy bokeh in the background.",
-    "category": "Travel / Landscape",
-    "tags": ["Female", "Chefchaouen", "Morocco", "Blue City", "Golden Hour", "Photorealistic", "Travel", "Vibrant"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_268",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_268.jpg",
-    "prompt": "Convert this image so that the man is sitting in the center of a high-back armchair in a minimal, monochromatic studio setting. Replace the current background with a seamless wall and floor in a single solid color, either deep teal, slate blue, or forest green. Dress him in a matching jacket and pants in the same color, paired with a simple white T-shirt underneath. Keep his sneakers clean and white with subtle accents matching the outfit. Retain his wristwatch as an accessory. His posture should be upright and composed, with both feet flat on the ground and his hands gently clasped in his lap. The chair should match the overall color scheme to create a seamless monochrome effect. Lighting should be soft, even, and studio-style, with minimal shadows. The final image should be ultra-high-resolution, sleek, modern, and minimalist, in the style of high-fashion portrait photography.",
-    "category": "Portrait / Fashion",
-    "tags": ["Male", "Monochrome", "Studio", "Minimalist", "Sitting", "Fashion", "Sleek", "Modern"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_267",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_267.jpg",
-    "prompt": "Studio portrait of a confident man sitting on a modern beige armchair with wooden legs, leaning slightly forward with his hands together. He wears a dark navy blue dress shirt with the top buttons open, light beige slim-fit pants, and black loafers with tan soles. He has short dark brown hair styled with texture, a trimmed full beard, tanned skin, and an intense confident gaze directed at the camera. The background is minimalist light gray with a smooth gradient, evenly lit with soft natural studio lighting. The mood is cinematic and fashion editorial, with high realism and fine details. Shot with a 50mm lens at f/2.8, vertical framing, full-body composition. the subject from the uploaded image, maintaining the exact real face, hairstyle, skin tone, and body identity unchanged.",
-    "category": "Portrait / Fashion",
-    "tags": ["Male", "Studio", "Fashion Editorial", "Cinematic", "Full-Body", "Sitting", "Confident", "Realism"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_266",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_266.jpg",
-    "prompt": "Edit this image of a man into a black and white artistic portrait in a minimalist fashion studio. He is dressed in a tailored dark suit with sharp lines, paired with polished black shoes. He sits on a simple modern chair, leaning slightly forward with his hands clasped, giving an introspective and confident expression. Lighting is clean and controlled, using soft studio light to create sculpted shadows and highlight facial structure, textures, and fabric details. The background is plain, smooth gray to keep the focus on the subject. High contrast black and white grading emphasizes elegance and depth. Vertical 4:5 crop, cinematic editorial style — refined, timeless, and powerful.",
-    "category": "Portrait / Fashion",
-    "tags": ["Male", "Black and White", "Studio", "Minimalist", "Suit", "Cinematic", "High Contrast", "Editorial"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_265",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_265.jpg",
-    "prompt": "Edit this image to show a woman positioned in a close-up portrait shot, face tilted slightly upward at approximately 15-20 degrees with her chin gently lifted, creating a confident, aspirational angle. Her head is centered in the frame with her gaze directed straight toward the camera from behind the sunglasses. She has long, flowing raven-black hair with subtle midnight-blue highlights cascading down both sides of her face and over her shoulders, with strands naturally falling across her chest. She's wearing oversized vintage-inspired cat-eye sunglasses with molten amber-to-gold gradient lenses and lustrous golden frames with delicate etched details, positioned perfectly on the bridge of her nose. Her body is angled slightly (about 30 degrees) to create dimension, with shoulders relaxed and one shoulder subtly closer to the camera. She exudes magnetic confidence with a sultry pout featuring rich burnt-sienna matte lipstick with a subtle glossy center, and dramatic smoky eye makeup with bronze and copper tones visible around the sunglasses. She's wearing a luxurious black silk blazer with peak lapels and a daring plunging neckline, layered with a whisper-thin gold chain necklace featuring a small crescent moon pendant resting at her collarbone, and sleek gold huggie earrings. The background is a rich, saturated golden-yellow that transitions to deeper amber tones at the edges. Dramatic directional lighting from above-left creates sculptural shadows along her neck and cheekbones, with warm backlighting creating a subtle halo effect. The composition is a beauty/fashion portrait style with the face taking up roughly 60% of the frame.",
-    "category": "Portrait / Beauty",
-    "tags": ["Female", "Close-up", "Fashion", "Beauty", "Sunglasses", "Confident", "Dramatic Lighting", "Golden Background"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_264",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_264.jpg",
-    "prompt": "Dramatic, ultra-realistic close-up in black and white with high-contrast cinematic lighting from the side, highlighting the contours of his face and beard, casting deep shadows. He wears round, reflective sunglasses. He gazes confidently upward into a dark void. The sunglasses reflect a city's towering skyline. The atmosphere is mysterious with a minimalist black background. Details in 4K. Keep the subject's exact facial structure, hair texture, the original photo.",
-    "category": "Portrait",
-    "tags": ["Male", "Black and White", "Close-up", "High Contrast", "Cinematic", "Sunglasses", "Mysterious", "4K"],
-    "popularity": 0,
-    "createdAt": "2025-10-28T11:13:36Z",
-    "isFeatured": false
-  }
-  ,
-  {
-    "id": "prompt_263",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_263.jpg",
-    "prompt": "Make this photo as reference to create a photo of a me. based on the uploaded photo, make a 6 vintage collage square size a Authentic retro film look: faded tones, pastel, creamy whites, film grain, dust, scratches, dreamy morning light. Subject wearing white spaghetti duster dress. light make up, pink blush, messy long semi wavy dark brown hair, natural candid wake-up vibe. Mix of shy smiles, playful laughter, covering face, pouting, lying on bed.",
-    "category": "Portrait",
-    "tags": ["All", "New", "Trending", "Female", "Vintage", "Collage", "Film", "Soft Light", "Retro", "Aesthetic", "Candid", "Morning Vibe"],
-    "popularity": 0,
-    "createdAt": "2025-10-24T00:00:00Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_262",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_262.jpg",
-    "prompt": "Outdoor portrait photograph with a bright low-angle perspective. The main subject is a young man with smooth skin [reference man on the photo] and messy black hair, looking at a cat with a happy expression. The man is wearing a broken white linen shirt, he is in the middle of a dense white flowering tree, with the flowers framing his face and the top of the frame, creating a beautiful blurred effect in the foreground and background. On the man's shoulder, there is a large, fluffy white cat that.",
-    "category": "Portrait",
-    "tags": ["All", "New", "Male", "Cat", "Outdoor", "Nature", "Flowers", "Bright", "Soft Focus", "Warm Light", "Happy Expression"],
-    "popularity": 0,
-    "createdAt": "2025-10-24T00:00:00Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_261",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_261.jpg",
-    "prompt": "Create a vertical frame size 2160x3840 pixels (4K quality) - divided into three equally sized horizontal images placed together. The main character is based on the reference face, hairstyle, and body: a young figure with an expression of sadness and nostalgia, deep eyes radiating loneliness. The outfit is a loose winter puffer set with wide-leg pants and a black scarf. The overall atmosphere is covered in white snow, with a cold color palette that evokes melancholy and solitude. Image 1 (portrait): The character holds a transparent umbrella, turning their head slightly back while looking directly at the frame. The expression is sorrowful, with soulful eyes. Image 2 (full body): The character stands alone in a vast snowy field, walking while gazing at the sky. In the distance, a few bare, leafless trees stand. The scene conveys smallness and isolation against the vastness of nature. Image 3 (close-up): A zoomed-in shot of the character's eyes, with a distant, sorrowful gaze that evokes feelings of loneliness and yearning.",
-    "category": "Storyboard",
-    "tags": ["All", "New", "Male", "Cinematic", "Winter", "Snow", "Melancholy", "4K", "Atmospheric", "Sadness", "Umbrella", "Close-Up"],
-    "popularity": 0,
-    "createdAt": "2025-10-24T00:00:00Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_260",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_260.jpg",
-    "prompt": "Multi-panel photorealistic storyboard, 3 panels (Top / Middle / Bottom stacked vertically). Retro Japanese summer seaside editorial, nostalgic aesthetic. Unisex subject, keep the original face. Top: extreme low-angle wide shot, arms stretched, patterned shirt, indigo sky with seagulls, freedom. Middle: close-up eye-level, facing camera, oversized summer T-shirt, nostalgic gaze or faint smile, blurred teal sea, dreamy haze. 20 years boy Face reference 100%.",
-    "category": "Storyboard",
-    "tags": ["All", "New", "Unisex", "Editorial", "Retro", "Summer", "Japanese", "Seaside", "Nostalgia", "Dreamy", "Cinematic", "Film Look"],
-    "popularity": 0,
-    "createdAt": "2025-10-24T00:00:00Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_259",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_259.jpg",
-    "prompt": "Create a cinematic and atmospheric photo featuring a young man uploaded person in a dimly lit public transportation vehicle, such as a train or bus. Wearing a tee, hoodie jacket, wireless earphones, he enjoys music from his phone. In front of him is a visual overlay from a music player app playing the song 'Creepin' by the vocalist of 'Metro Boomin, The Weekend, 21 Savage.' The lighting in the photo is warm and slightly yellowish, with soft light coming from outside the window.",
-    "category": "Cinematic",
-    "tags": ["All", "New", "Male", "Cinematic", "Low Light", "Public Transport", "Urban", "Music", "Mood", "Warm Light", "Atmosphere"],
-    "popularity": 0,
-    "createdAt": "2025-10-24T00:00:00Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_258",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_258.jpg",
-    "prompt": "Without changing my facial features and face. It should be look like realistic. remove my earrings. Generate an image of a young woman sitting on a stone bench in a narrow alleyway with beige buildings and greenery in the background. She has long brown hair and is wearing a lime green saree with large white daisies and a matching dupatta. She's wearing pink heart-shaped sunglasses, red nail polish, multiple colorful bangles on her right wrist, and rings on her left hand. The lighting is soft and natural with a warm tone. Capture the image with high realism, sharpness, and quality. The woman's pose is with her right hand adjusting her sunglasses and her left hand resting on her lap.",
-    "category": "Portrait",
-    "tags": ["All", "New", "Female", "Saree", "Fashion", "Indian", "Street", "Natural Light", "Warm Tone", "Colorful", "Realistic"],
-    "popularity": 0,
-    "createdAt": "2025-10-24T00:00:00Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_257",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_257.jpg",
-    "prompt": "photograph of a man with dark curly hair (don't change the face make sure the face is exactly like the uploaded image), wearing a black and beige striped windbreaker and black pants, sitting on the roof of a white race car with decals. He is looking away from the camera, set against a dark, moody, and overcast sky. --ar 9:16 --style raw --v 6.0",
-    "category": "Portrait",
-    "tags": ["All", "New", "Male", "Moody", "Automotive", "Overcast", "Cinematic", "Urban", "Raw Style", "9:16"],
-    "popularity": 0,
-    "createdAt": "2025-10-24T00:00:00Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_256",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_256.jpg",
-    "prompt": "Edit foto menjadi dua buah foto yang dipegang dengan satu tangan di bagian depan gambar, dengan jari terlihat memegang kedua foto secara berdampingan, foto di sebelah kiri pria (dengan referensi wajah dan rambut asli pada foto pertama), terlihat sedikit tersenyum, mata terpejam, memakai kemeja putih kerah formal, dengan latar belakang biru. Sedangkan foto di sebelah kanan wanita (referensi wajah foto kedua) berhijab hitam dan membuat ekspresi wajah tersenyum sambil menunjuk ke pipi pria, memakai kemeja lengan panjang putih kerah formal dengan latar biru, buat tangan nya keluar dari foto dan berinteraksi menekan pipi sang pria disampingnya, foto keduanya menyerupai pas foto formal buku nikah. Komposisi keseluruhan bersifat lucu, romantis dan penuh keceriaan. Tidak mengubah fitur dan struktur wajah asli.",
-    "category": "Couple",
-    "tags": ["All", "New", "Male", "Female", "Romantic", "Cute", "Couple", "Formal", "Wedding", "Blue Background", "Creative Edit"],
-    "popularity": 0,
-    "createdAt": "2025-10-24T00:00:00Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_255",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_255.jpg",
-    "prompt": "D-portrait with Fuji film Pro 400H camera using old lens filter, keeping face and face as photo reference. A young woman is wearing a clean white solitaire dress with a cute and flowly design. The dress looks like a corset or folds slightly into the shape of the chest and body, showing her beautiful figure. There are soft pleated edges or details. Hairstyle is 'long black hair with butterfly cut' modern or layered that accentuate the face frame. She sat by an old wooden window covered with lush green leaves and vines crawling around. The sun shines through the leaves gently and beautifully. Don't change my face features.",
-    "category": "Portrait",
-    "tags": ["All", "New", "Female", "Film", "Vintage", "Fuji", "Editorial", "Soft Light", "Window", "Greenery", "Butterfly Cut"],
-    "popularity": 0,
-    "createdAt": "2025-10-24T00:00:00Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_254",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_254.jpg",
-    "prompt": "A very handsome young boy with uploaded reference face, standing naturally in a tall grass field filled with soft white pampas flowers, wearing a loose white button-up shirt with slightly rolled sleeves and white trousers. One hand gently holding a pampas flower, other hand in pocket. Body facing forward, head slightly tilted down, eyes softly downward, calm thoughtful expression. Background softly blurred, pampas glowing in sunlight, dreamy bright atmosphere. Cinematic soft tones, pastel colour.",
-    "category": "Portrait",
-    "tags": ["All", "New", "Male", "Nature", "Pampas", "Soft Light", "Pastel", "Dreamy", "Calm", "Fashion", "Cinematic"],
-    "popularity": 0,
-    "createdAt": "2025-10-24T00:00:00Z",
-    "isFeatured": false
-  },
- {
-    "id": "prompt_253",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_253.jpg",
-    "prompt": "A cinematic portrait of a man standing in a tall green field, wearing a dark button-up shirt and headphones. He has his eyes closed, head tilted slightly upward, and arms stretched wide open as if embracing the music and the sky. The at- mosphere is serene and emotional, with drama- tic overcast clouds filling the sky. Shot in a wi- de-angle, low-perspective view that captures both the man and the sweeping field around him. Soft natural lighting with muted tones, evo- king freedom, peace, and deep connection with nature. Ultra-realistic, high detail, 8k resolution, cinematic depth of field.",
-    "category": "Portrait",
-    "tags": ["Male","Pakistan", "Nature", "Emotional", "Cinematic", "Field", "Headphones", "Freedom", "Wide-Angle", "Trending"],
-    "popularity": 0,
-    "createdAt": "2025-11-03T17:34:02Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_252",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_252.jpg",
-    "prompt": "[Use the face from the submitted photo], preserving the warm-neutral skin tone, minimalist oversized white crew neck shirt without print, tailored black athletic shorts, clean white techwear sneakers, metallic gray on-ear headphones; giant iPhone on the floor with a clean, minimalist music app screen without logos, you standing centered on the screen at human scale, confident, neutral editorial expression, direct eye contact, one arm relaxed and the other in the shorts pocket, bald head, clean light gray background, minimalist futuristic style; partial top- down camera with a high angle, full-body shot, 35-50mm lens, f/8, 4:5 vertical aspect ratio (1080x1350 px); homogeneous diffuse studio lighting, medium contrast, highlighted hood; 5000K color grade white balance, -5 saturation, neutral props and background, and highlighted skin; 4:5 vertical output - 1080x1350 px, sRGB, overscan +3%, futuristic editorial high definition; Cons: no face/skin alteration, no logos, no cluttered background, no plastic skin, no iPhone cutouts, feet, or headphones.",
-    "category": "Fashion/Editorial",
-    "tags": ["Male", "Minimalist", "Futuristic", "Full-Body", "Techwear", "Editorial", "Studio Lighting", "High-Angle", "Trending"],
-    "popularity": 0,
-    "createdAt": "2025-11-03T17:34:02Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_251",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_251.jpg",
-    "prompt": "Create a photo-style line drawing ink sketch of the faces identical to the uploaded reference image - keep every facial feature, proportion, and expression exactly the same. Use blue and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background. Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.",
-    "category": "Art Style",
-    "tags": ["Male", "Sketch", "Line Art", "Ink", "Blue and White", "Drawing", "Hand-Drawn", "Detail", "Trending"],
-    "popularity": 0,
-    "createdAt": "2025-11-03T17:34:02Z",
-    "isFeatured": false
-  }
-   
  ]
 }
