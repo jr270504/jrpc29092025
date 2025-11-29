@@ -1,10 +1,11 @@
 {
   "paths": [
+          "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_5.json", 
+    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/pb.json",
         "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_6.json",
      "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_4.json",
         "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_3.json",
     "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_7.json",
-    "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_5.json", 
      "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_2.json",
     "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_1.json",
      "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/jrmad_0.json",
@@ -24,26 +25,12 @@
     "removeBannerDurationSeconds": 3600
   },
   "desiredOrder": [
-      "Trending","Restore and Recreate Old Damaged Photos",
-    "Instagram Trending Ai Image Prompt For Boy",
+      "Trending", "Dark Legendary Horror Duos Art",  "Restore and Recreate Old Damaged Photos",
+    "Cinematic",
     "Happy Birthday AI Photo Editing Prompt for Girls",
     "Passport Size Photo",
-    "TikTok Trending Ai Image Prompt For Boy",
     "AI LinkedIn Prompts for Men",
-    "High-Quality 8K AI Photo Editing Prompts for Instagram",
-    "Retro",
-    "Aesthetic",
-    "Car",
-    "Cinematic", 
-    "Couple",
-    "Birthday",
-    "Vintage",
-    "Cultural",
-    "Branding",
-    "Sports", 
-    "Male",
-    "Female",
-    "3 Layer Photo Gemini Prompts"
+   
     ],
 "festivals": {
 
