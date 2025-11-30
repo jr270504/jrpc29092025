@@ -1,6 +1,20 @@
 {
  "prompts": [
   {
+   "id": "prompti_300",
+   "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompti_300.jpg",
+   "prompt": "A stylish young man. Face in Realistic (face in reference) dramatic, hyper-realistic shot featuring a determined man catching a Jerry, standing slightly behind a fierce-looking a man Tom running pose, from behind a wall. The scene is set indoors, possibly a dimly lit hallway or room with a wooden floor and textured walls. The lighting is cinematic, highlighting the characters and creating an atmosphere of anticipation or impending action. 8K, ultra-detailed, photo-realistic",
+   "category": "Advertisement",
+   "tags": [
+    "Trending",
+    "Pakistan",
+    "India"
+   ],
+   "popularity": 0,
+   "createdAt": "2025-11-29T00:00:00Z",
+   "isFeatured": false
+  },
+  {
    "id": "prompt_300",
    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_300.jpg",
    "prompt": "A clean, modern, and professional digital marketing agency flyer or advertisement. The main subject is a confident and well-groomed young woman, appearing to be in her mid-20s to early 30s, with dark hair, looking directly at the viewer with a professional expression. She is wearing a sharp, tailored blue business blazer over a white top. She is holding a silver digital tablet in her left hand and gesturing with her right hand as if presenting or explaining something. The background features a dynamic, abstract geometric pattern composed of triangles and quadrilaterals in varying shades of blue, teal, yellow, and white, arranged in a mosaic style, concentrated in the upper right and lower left corners. The top left corner features a logo with a stylized hexagonal 'C' icon in blue and orange, followed by the text 'Empowering Digital Growth'. Below this, in large, bold, dark blue font, is the title 'Creative Marketing Agency'. Beneath the title, in a slightly smaller, light blue font, is the tagline 'Unlocking Digital Potential Through Strategy, Design & Innovation'. On the right side of the woman, there is a list of services, each preceded by a modern icon: Lightbulb icon: Branding & Identity, Megaphone icon: Social Media Marketing, Web browser icon: Web & App Development, Magnifying glass icon: SEO & Analytics, Rocket icon: Paid Campaigns & Growth Strategy. The bottom section includes: 'Phone: +1 (555) 123-567', 'Email: contact@creativeagency.com', A prominent rectangular button that says 'Book a Free Consultation' in white text on a yellow background. Social media icons (LinkedIn, Instagram, Facebook) in a simple, flat design. The overall design is minimalist yet engaging, with a vibrant color palette, crisp typography, and a professional, inviting tone. The image dimensions are typical for a portrait-oriented flyer or digital ad",
