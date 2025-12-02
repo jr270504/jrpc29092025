@@ -1,6 +1,54 @@
 {
  "prompts": [
   {
+  "id": "prompti_303",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompti_303.jpg",
+  "prompt": "A cinematic double exposure (one exposure) of a young man in profile, with a sunset beach landscape blended into his silhouette. The inner scene depicts the man walking on the wet sand, looking out at the beach. The image blends the portrait silhouette with the landscape texture seamlessly.",
+  "category": "Artistic",
+  "tags": [
+   "Portrait",
+    "Trending",
+    "Pakistan",
+    "India"
+  ],
+  "popularity": 0,
+  "createdAt": "2025-12-03T00:00:00Z",
+  "isFeatured": false
+},
+  {
+  "id": "prompti_302",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompti_302.jpg",
+  "prompt": "A tired man sits low-angle on a wooden chair half-submerged in waves at a pink hour beach. He holds an open book and a beer can, sitting barefoot on rocks. He is wearing an off-white shirt, has a visible tattoo, and wears a watch. The lighting is warm autumn light with creamy bokeh, sharp focus on the subject, and dramatic clouds creating a cinematic mood. The shot utilizes shallow depth of field for texture and serenity.",
+  "category": "Cinematic",
+  "tags": [
+    
+    "Portrait",
+    "Cinematic",
+    "Trending",
+    "Pakistan",
+    "India"
+  ],
+  "popularity": 0,
+  "createdAt": "2025-12-03T00:00:00Z",
+  "isFeatured": false
+},
+  {
+  "id": "prompti_301",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompti_301.jpg",
+  "prompt": "A cinematic side-angle shot of a young man standing barefoot on the moonlit beach at night, body slightly turned sideways facing his glowing ethereal self, one hand subtly reaching forward as if trying to touch, eyes filled with quiet longing. The young man has dark hair and sharp features. The glowing spirit is made of blue-white light particles and stands just within reach. Reflections are softly visible on the damp sand, capturing the emotional tension between reaching and fading. The scene features dreamy lighting, subtle mist, and a melancholic atmosphere. Cinematic realism, ultra-detailed, 8k, shallow depth of field, surreal realism photography.",
+  "category": "Surrealism",
+  "tags": [
+    "Portrait",
+    "Cinematic",
+    "Trending",
+    "Pakistan",
+    "India"
+  ],
+  "popularity": 0,
+  "createdAt": "2025-12-03T00:00:00Z",
+  "isFeatured": false
+},
+  {
    "id": "prompti_300",
    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompti_300.jpg",
    "prompt": "A stylish young man. Face in Realistic (face in reference) dramatic, hyper-realistic shot featuring a determined man catching a Jerry, standing slightly behind a fierce-looking a man Tom running pose, from behind a wall. The scene is set indoors, possibly a dimly lit hallway or room with a wooden floor and textured walls. The lighting is cinematic, highlighting the characters and creating an atmosphere of anticipation or impending action. 8K, ultra-detailed, photo-realistic",
