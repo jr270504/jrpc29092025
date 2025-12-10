@@ -780,78 +780,7 @@
     "createdAt": "2025-11-27T16:31:42Z",
     "isFeatured": false
   },
-  {
-    "id": "prompt_354",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_354.jpg",
-    "prompt": "A stylish man in a dark modern suit with gold watch and bracelet, sitting in a luxurious lounge. He lights a cigar with a match, smoke rising. On the table: silver ice bucket with Jack Daniel's, whiskey glasses, hookah, and ice cubes. Rich wooden walls, velvet sofas, dark cinematic lighting with smoky atmosphere - confident mafia boss vibe. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face.",
-    "category": "Themed Portrait",
-    "tags": ["Cinematic", "Aesthetic", "Male", "India", "Pakistan"],
-    "popularity": 0,
-    "createdAt": "2025-11-27T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_353",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_353.jpg",
-    "prompt": "A cinematic black-and-white portrait of a stylish young man holding a single red rose, with the rose as the only element in vibrant color. He has sharp facial features, voluminous styled black hair, and a chiseled jawline. His head is tilted slightly upward as he gently smells the rose, creating a romantic and mysterious aura. He wears a shearling-lined leather jacket over a crisp white shirt, accessorized with a silver chain necklace, a cross earring, bold rings, and subtle tattoos near his collar and neck. The lighting is dramatic, with a soft spotlight creating contrast and depth, emphasizing the textures of his jacket and the contours of his face. The desaturated background enhances the focus on him and the rose, creating a moody, fashion-editorial look. Ultra-detailed, 8k resolution, cinematic lighting, fashion photography aesthetic, romantic and intense atmosphere.",
-    "category": "Black & White Portrait",
-    "tags": ["Aesthetic", "Cinematic", "Male", "India", "Pakistan"],
-    "popularity": 0,
-    "createdAt": "2025-11-27T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_352",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_352.jpg",
-    "prompt": "Generate a vertical 9:16 high-resolution 8K vintage-style flash photograph entirely based on the uploaded reference photo, keeping the exact same face, hairstyle, and overall appearance of the subject with no changes. The image should depict a stylish white man standing confidently on a nighttime city street, captured with dramatic fisheye lens distortion. Apply subtle grain, light film scratches, and analog texture effects to achieve a nostalgic yet editorial feel. He is wearing an abstract red shirt with bold, expressive artistic patterns, partially unbuttoned to reveal a confident,. The city backdrop should be softened and transformed with cozy intimate atmosphere that blends festivity with the urban night scene. Skin texture must look flawless and realistic, with dramatic lighting, soft shadows, and lens flash reflections for depth. Ensure no distortions, no anatomical flaws. Maintain all the characteristics of the main character from the uploaded photo while elevating the image into a cinematic",
-    "category": "Vintage Portrait",
-    "tags": ["Cinematic", "Vintage", "Male", "India", "Pakistan"],
-    "popularity": 0,
-    "createdAt": "2025-11-27T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_351",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_351.jpg",
-    "prompt": "Edit the photo to be standing casually in a modern style elevator with reflective metal walls. He is wearing an all black outfit: a black suit and trousers, wearing sunglasses and holding a cup of take-away coffee. Elegant and edgy style with a mysterious feel. The dim lighting from the neon lights on the ceiling creates subtle shadows",
-    "category": "Urban Portrait",
-    "tags": ["Aesthetic", "Cinematic", "Male", "India", "Pakistan"],
-    "popularity": 0,
-    "createdAt": "2025-11-27T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_350",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_350.jpg",
-    "prompt": "A stylish full-body studio portrait of a confident man standing against a smooth golden-yellow background with dramatic side lighting that casts a crisp shadow. He wears a tailored black velvet double-breasted blazer over a slightly open white dress shirt and wide-leg black trousers. His hair is neatly styled with a slight side part, and he has a clean-shaven face with a calm, composed expression. The floor reflects a soft golden tone, enhancing the rich contrast between the dark suit and the warm backdrop. The mood is elegant and modern, with sharp focus, high resolution, and fashion-editorial lighting.",
-    "category": "Studio Portrait",
-    "tags": ["Aesthetic", "Male", "India", "Pakistan"],
-    "popularity": 0,
-    "createdAt": "2025-11-27T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_349",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_349.jpg",
-    "prompt": "A striking, high-fashion portrait of a stylish young man wearing a light gray denim jacket. He stands in profile against a minimalist pale background with subtle mist and a hint of water at the bottom of the frame. A large, dark snake with intricate white markings coils dramatically around his shoulders and arm, its tongue flicking outward. The man has perfectly styled, voluminous hair with a sharp shaved line design on the side and wears black sunglasses, a small cross earring, a wristwatch, and a bracelet. His pose is calm and confident, with one hand adjusting his sunglasses. The atmosphere is intense yet elegant, with cinematic lighting, ultra-realistic textures on the snake’s scales and the denim fabric. High-resolution, fashion editorial photography style with a touch of surrealism.",
-    "category": "Fashion Portrait",
-    "tags": ["Aesthetic", "Cinematic", "Male", "India", "Pakistan"],
-    "popularity": 0,
-    "createdAt": "2025-11-27T16:31:42Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_348",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_348.jpg",
-    "prompt": "A hyper-realistic cinematic editorial portrait of the uploaded person (preserve face 100%). He is sitting on a black horse a dark moody jungle theme, surrounded by soft drifting smoke under a dramatic spotlight. Outfit: slate-black luxury suit with straight fit trousers, paired with a slightly unbuttoned white silk shirt. one hand tucked casually in pockets, and other hand on horse, shoulders relaxed, confident expression, head tilted slightly",
-    "category": "Fantasy Portrait",
-    "tags": ["Cinematic", "Male", "India", "Pakistan"],
-    "popularity": 0,
-    "createdAt": "2025-11-27T16:31:42Z",
-    "isFeatured": false
-  }
-    ,
-    
+ 
   {
     "id": "prompt_321",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_321.jpg",
