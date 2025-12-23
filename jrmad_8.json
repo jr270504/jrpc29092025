@@ -708,6 +708,96 @@
     "popularity": 0,
     "createdAt": "2025-12-23T16:31:49Z",
     "isFeatured": false
+  },
+    {
+    "id": "prompt_504",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_504.jpg",
+    "prompt": "Transform single person into elegant evening gown/formal suit, standing on luxury rooftop overlooking city lights at night, giant sparkling diamond-textured \"2026\" numbers floating in the sky above their head, golden fireworks spelling \"Happy New Year\" clearly visible in upper background, person looking up at the numbers with confident pose, cinematic lighting, atmospheric depth, 8K quality",
+    "category": "Portrait",
+    "tags": ["2026 New Year🎊", "Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T12:43:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_505",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_505.jpg",
+    "prompt": "Style single person in vibrant neon green/yellow sequin evening dress, sitting elegantly on huge 3D chrome diamond-textured \"2026\" number sculpture, person positioned on the \"6\" with legs dangling, black reflective floor mirroring the scene, \"Happy New Year\" text in golden glow at bottom, spotlight dramatic lighting, ultra-luxurious studio setting",
+    "category": "Portrait",
+    "tags": ["2026 New Year🎊", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T12:43:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_506",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_506.jpg",
+    "prompt": "Transform reference person into stunning rainbow gradient mermaid gown with crystal embellishments, leaning gracefully against giant transparent 3D \"2026\" sculpture made of prismatic diamond crystals, black studio background, person positioned beside the \"0\" with elegant hand gesture, holographic star particles floating around, \"Happy New Year\" in silver cursive above, studio fashion photography lighting",
+    "category": "Portrait",
+    "tags": ["2026 New Year🎊", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T12:43:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_507",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_507.jpg",
+    "prompt": "Place single person in professional white business suit with elegant coat, holding golden trophy high above head in victorious pose, giant glowing golden \"2026\" numbers floating in sky background, dark blue gradient backdrop with golden bokeh lights, \"Happy New Year\" and \"The New beginning 365/days\" text in golden cursive clearly visible, golden confetti stars falling around, motivational success theme",
+    "category": "Portrait",
+    "tags": ["2026 New Year🎊", "AI LinkedIn Prompts for Men", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T12:43:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_508",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_508.jpg",
+    "prompt": "Style single person in casual denim jacket and jeans with sunglasses and backpack, walking confidently on mountain trail with misty peaks in background, giant \"2026\" text in teal gradient positioned in left side sky, \"The New beginning 365/DAYS\" subtitle clearly visible, atmospheric fog and bokeh particles, adventure travel photography vibe, natural outdoor lighting",
+    "category": "Portrait",
+    "tags": ["2026 New Year🎊", "Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T12:43:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_509",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_509.jpg",
+    "prompt": "Transform 3-4 people into warm family in coordinated elegant outfits, standing together on luxury rooftop looking up at giant glowing golden \"2026\" floating in the night sky, positioned left to right across frame, city lights below, golden fireworks with \"Happy New Year\" clearly visible above, warm family bonding atmosphere, cinematic depth of field",
+    "category": "Portrait",
+    "tags": ["2026 New Year🎊", "Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T12:43:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_510",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_510.jpg",
+    "prompt": "Style 3-4 people in casual travel outfits with backpacks and sunglasses, walking together on mountain trail with misty peaks behind, giant \"2026\" text in teal gradient in the sky, \"The New beginning 365/DAYS\" clearly visible, golden hour lighting with atmospheric fog, adventure friendship travel photography",
+    "category": "Portrait",
+    "tags": ["2026 New Year🎊", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T12:43:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_511",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_511.jpg",
+    "prompt": "Transform 3-4 people into stylish friends in evening party wear, standing together on luxury rooftop with arms around each other, giant glowing \"2026\" floating in the night sky above, city lights below, golden fireworks with \"Happy New Year\" clearly visible, warm friendship bonding atmosphere, cinematic celebration photography",
+    "category": "Portrait",
+    "tags": ["2026 New Year🎊", "Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T12:43:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_512",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_512.jpg",
+    "prompt": "Transform 2 people into romantic couple in elegant evening wear, standing on luxury rooftop at night gazing up at giant sparkling diamond \"2026\" numbers floating in the sky, person on left looking at person on right, city lights twinkling below, golden and blue fireworks with \"Happy New Year\" text above, atmospheric depth with bokeh lights, intimate romantic moment under the numbers",
+    "category": "Portrait",
+    "tags": ["2026 New Year🎊", "Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T12:43:00Z",
+    "isFeatured": false
   }
   ]
 }
