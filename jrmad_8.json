@@ -628,6 +628,86 @@
       "popularity": 0,
       "createdAt": "2025-12-15T15:10:00Z",
       "isFeatured": false
-    }
+    },
+    {
+    "id": "prompt_496",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_496.jpg",
+    "prompt": "A hyper-realistic cinematic portrait with harsh, high-contrast black and white lighting of indian man. Subject stands on a wet, rainy city street at 3 AM. Film Noir aesthetic, moody shadows, heavy film grain, shot on a 50mm lens. Low-key lighting with a single streetlamp creating a strong rim light",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T16:31:42Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_497",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_497.jpg",
+    "prompt": "An ultra-detailed 8K cinematic portrait of man. Subject is dramatically backlit by a vibrant golden hour sunset. Warm, glowing halo effect around the hair, deep, soft shadows on the face, shallow depth of field (bokeh), Kodak Portra 400 film emulation, soft lens flare",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T16:31:43Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_498",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_498.jpg",
+    "prompt": "A gritty, neon-soaked cyberpunk portrait of man. Subject is under bright pink and cyan neon sign reflections on a rain-slicked pavement. HDR lighting, strong teal and orange contrast color grade. Shot at a wide-angle low-angle perspective with high detail",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T16:31:44Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_499",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_499.jpg",
+    "prompt": "A contemplative portrait shot through a rain-streaked window of man. Subject is illuminated by warm, soft indoor light. Blurred city lights outside creating colorful bokeh. Moody, reflective atmosphere, with a cool blue film filter applied",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Stunning Winter Photos"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T16:31:45Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_500",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_500.jpg",
+    "prompt": "A powerful urban lifestyle portrait. Subject is standing against a raw, weathered concrete wall of man. Hard, midday sunlight creating stark, geometric shadows on the face and clothes. Gritty, realistic texture, high contrast, shot on a 35mm lens.",
+    "category": "Portrait",
+    "tags": ["AI LinkedIn Prompts for Men", "Cinematic"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T16:31:46Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_501",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_501.jpg",
+    "prompt": "A hyper-realistic portrait in a dark, futuristic science lab of man. Subject’s face is illuminated by harsh, oscillating green and white fluorescent light. Wet, reflective surfaces in the background, sharp focus, low-key composition",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Dark Legendary Horror Duos Art"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T16:31:47Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_502",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_502.jpg",
+    "prompt": "An intimate medium close-up portrait of man illuminated only by the soft, flickering light of a single candle. Warm, buttery yellow color tone, extremely shallow depth of field. Grainy, romantic, classic Mamiya film aesthetic",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Restore and Recreate Old Damaged Photos"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T16:31:48Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_503",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_503.jpg",
+    "prompt": "A dramatic fantasy portrait of man with ash and smoke drifting past the subject. Lit by the bright, intense orange glow of nearby lava or fire. Deep blacks and fiery highlights. Epic, mythological, and intense mood",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2025-12-23T16:31:49Z",
+    "isFeatured": false
+  }
   ]
 }
