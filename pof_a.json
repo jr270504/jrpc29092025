@@ -14,8 +14,8 @@
     
   ],
   "values": {
-    "dailyFreeCopies": 0,
-    "adRewardCredits": 0,
+    "dailyFreeCopies": 1,
+    "adRewardCredits": 2,
     "adCooldownSeconds": 0,
     "maxRewardedAdsPerSession": 100,
     "maxInterstitialPerSession": 100,
