@@ -15,7 +15,7 @@
   ],
   "values": {
     "dailyFreeCopies": 0,
-    "adRewardCredits": 1,
+    "adRewardCredits": 0,
     "adCooldownSeconds": 0,
     "maxRewardedAdsPerSession": 100,
     "maxInterstitialPerSession": 100,
@@ -28,14 +28,13 @@
   "desiredOrder": [
       "Trending", 
     "2026 New Year🎊",
-    "Christmas🎅 🎄 🎁 ✨",
     "Stunning Winter Photos",
         "Dhurandhar Akshaye Khanna Style Photo Prompts",
     "Restore and Recreate Old Damaged Photos",
     "Cinematic",
     "Happy Birthday AI Photo Editing Prompt for Girls",
     "Passport Size Photo",
-    "AI LinkedIn Prompts for Men","Dark Legendary Horror Duos Art"
+    "AI LinkedIn Prompts for Men"
    
     ],
 "festivals": {
