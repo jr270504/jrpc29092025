@@ -798,6 +798,66 @@
     "popularity": 0,
     "createdAt": "2025-12-23T12:43:00Z",
     "isFeatured": false
+  },
+    {
+    "id": "prompt_513",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_513.jpeg",
+    "prompt": "A moody urban portrait of the same person from the reference image with identical facial features, hairstyle, and skin tone. Do not alter or stylize the face—maintain 100% facial accuracy from the reference. He stands on an old European street, amidst a dense arrangement of stacked vintage cameras, old film reels, photographic darkroom equipment, and early studio lighting fixtures, filling the entire background. The equipment is either off or showing subtle reflections and light leaks, adding nostalgic depth. The street is made of aged, worn cobblestones with subtle texture and character. He wears a collared, folded-sleeved dark maroon colour shirt, unbuttoned over a plain white t-shirt, with loose light beige colour chinos. He’s wearing black colour smart watch, no other accessories. Man is making a rectangular frame gesture with both hands in front of his face, winking with one eye, smiling slightly, elbows bent, upper body facing camera, relaxed confident posture. Lighting is cinematic, with a mix of ambient street light and focused overhead lighting, creating deep shadows under the jawline and dramatic falloff around the edges, with subtle rim light separation from the background. The overall mood is intense and atmospheric, with a film look inspired by analog photography. Color grading should follow a Fuji Classic Chrome aesthetic: warm highlights, rich contrast, subdued shadows, slightly desaturated colors, non-blue tones, and a subtle brown cinematic mood. Add fine film grain, soft vignette, and realistic lens texture. Shot on 35mm lens, f/2.8 aperture, ISO 400, shutter speed 1/125, eye-level framing. Shallow depth of field with the vintage photography equipment slightly blurred behind for depth. No distortion, no AI artifacts, no cartoon look—ultra-realistic, premium portrait style.",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T11:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_514",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_514.jpg",
+    "prompt": "Ultra-detailed 8K cinematic portrait of a man sitting on a wooden chair, arms crossed over the chair backrest, his head slightly tilted. He wears a black turtleneck and stylish sunglasses. Strong directional light enters through venetian blinds, casting dramatic shadow lines across his face, body, and background wall. The composition is minimalist, with a dark neutral background and geometric light patterns. His expression is confident yet calm, adding to the cinematic and stylish mood. Important: The face, hairstyle, and sunglasses must exactly follow the reference image provided. Maintain the same hairstyle texture and length, the same facial proportions, and the exact shape of sunglasses. Lighting must replicate the striped shadow effect from blinds across his face and body. The subject must remain seated on the wooden chair, with crossed arms, not standing. Style: ultra high-resolution, 8K details, cinematic photography, sharp details, dramatic light and shadow play, moody atmosphere, luxury editorial look.",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T11:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_515",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_515.jpeg",
+    "prompt": "A moody urban portrait of the same person from the reference image with identical facial features, hairstyle, and skin tone. Do not alter or stylize the face—maintain 100% facial accuracy from the reference. He stands on an old European street, amidst a dense arrangement of stacked vintage typewriters, old books, globes, telescopes, and antique scientific instruments, filling the entire background. The equipment is either off or showing subtle reflections and light leaks, adding nostalgic depth. The street is made of aged, worn cobblestones with subtle texture and character. He wears a dark green knitted sweater over a light blue denim shirt, with dark grey tailored trousers. He’s wearing a classic silver watch with a leather strap, no other accessories. Man is holding a vintage brass telescope up to one eye, looking directly at the camera with a curious, slightly smiling expression. His other hand is in his pocket, elbows bent, upper body facing camera, relaxed confident posture. Lighting is cinematic, with a mix of ambient street light and focused overhead lighting, creating deep shadows under the jawline and dramatic falloff around the edges, with subtle rim light separation from the background. The overall mood is intense and atmospheric, with a film look inspired by analog photography. Color grading should follow a Fuji Classic Chrome aesthetic: warm highlights, rich contrast, subdued shadows, slightly desaturated colors, non-blue tones, and a subtle brown cinematic mood. Add fine film grain, soft vignette, and realistic lens texture. Shot on 35mm lens, f/2.8 aperture, ISO 400, shutter speed 1/125, eye-level framing. Shallow depth of field with the vintage items slightly blurred behind for depth. No distortion, no AI artifacts, no cartoon look—ultra-realistic, premium portrait style.",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T11:00:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_516",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_516.jpeg",
+    "prompt": "A noir-style conceptual film poster with high contrast, arranged as a vertical photo collage of five strips featuring the face of the same handsome young man — each strip expresses a different emotion and cinematic atmosphere. From left to right: 1. quiet and clean side profile in warm amber light, 2. reflective and introspective half-light profile, 3. a serious look directly to the camera with deep chiaroscuro lighting, 4. A mysterious profile that fades into a dark shadow with cold blue shades, 5. and the screaming profile is full of sadness, illuminated by a loud light that penetrates the smoke. The man has a firm jawline, a symmetrical face, flawless skin, and a sentimental expression — identical to the original reference. He wears a sleek black suit and shirt, embodying calm power and sophistication with a deep noir background. Cinematic lighting with high contrast, combining warm orange and cold blue shades in a classic film noir style. The atmosphere feels intense, emotional, and mysterious, with volumetric smoke, lens light effects, vignettes, and dramatic shadows that add depth and texture. Style: cinematic noir lighting, fine art realism, emotional expression, chiaroscuro, dramatic contrast, black suit, film poster, smoke diffusion, HDR portrait photography.",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T11:00:00Z",
+    "isFeatured": false
+  },
+    {
+    "id": "prompt_517",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_517.jpeg",
+    "prompt": "Moody fashion portrait of a man holding a fan of playing cards partially covering his face while cards float around him. He’s wearing white suit and shirt. Three-quarter angle, medium close-up, 35mm lens, shallow depth of field, dark background, cinematic low-key lighting. Don’t change the face. (Use the attached image)",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T11:00:00Z",
+    "isFeatured": false
+  },
+    {
+    "id": "prompt_518",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_518.jpeg",
+    "prompt": "Moody fashion portrait of a man holding a fan of playing cards partially covering his face while cards float around him. He’s wearing white suit and shirt. Three-quarter angle, medium close-up, 35mm lens, shallow depth of field, dark background, cinematic low-key lighting. Don’t change the face. (Use the attached image)",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Trending"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T11:00:00Z",
+    "isFeatured": false
   }
   ]
 }
