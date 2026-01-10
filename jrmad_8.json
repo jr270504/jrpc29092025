@@ -854,9 +854,69 @@
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_518.jpeg",
     "prompt": "Moody fashion portrait of a man holding a fan of playing cards partially covering his face while cards float around him. He’s wearing white suit and shirt. Three-quarter angle, medium close-up, 35mm lens, shallow depth of field, dark background, cinematic low-key lighting. Don’t change the face. (Use the attached image)",
     "category": "Portrait",
-    "tags": ["Cinematic", "Trending", "Fashion", "Male"],
+    "tags": ["Cinematic", "Trending", "Male"],
     "popularity": 0,
     "createdAt": "2026-01-10T11:00:00Z",
+    "isFeatured": false
+  },
+    {
+    "id": "prompt_519",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_519.jpg",
+    "prompt": "A man with a full beard and short, dark hair is seated on a low stone or concrete ledge along the side of a narrow, urban street or alleyway. He is positioned in profile, facing toward the left of the frame, but his head is tilted downward as he looks intently at a smartphone held in both hands. He appears to be a man in his late 20s to early 40s. He is wearing a white or light gray collared shirt with thin, horizontal pinstripes, dark gray or black pants, and black sneakers. He has dark-tinted sunglasses pushed up onto his head or around his neck, and a dark watch is visible on his left wrist. The setting suggests a weathered or aged environment. The ledge he is sitting on is rough, and the wall immediately behind and to his right is constructed of distressed brick and stone, with a gray, closed metal shutter or door next to it. The ground is paved with large, irregularly shaped stone tiles. Behind the man, a black motorcycle or scooter is parked, facing toward the background. A small, square sign, partially obscured, is visible near the motorcycle. Further down the street, which extends into the background, another man, wearing a light-colored shirt, is walking away from the camera. The street is lined with parked motorcycles and scooters along the left side. The lighting is subdued, suggesting a cloudy day or a deeply shaded area. The image uses a desaturated color palette, with most colors muted except for the white of the man's shirt and the pavement. The overall mood is somewhat dark or moody.",
+    "category": "Portrait",
+    "tags": ["Trending", "All", "Male","Cinematic"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T17:21:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_520",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_520.jpg",
+    "prompt": "A man, likely in his late 20s to early 30s, is photographed in a wide-angle, low-perspective shot, looking down at a smartphone he holds in his right hand. He has a tanned skin tone and a full, dark beard. He is wearing a bright red short-sleeved t-shirt and has a black strap, possibly from a backpack or camera bag, draped over his right shoulder. On his head, he wears a dark gray and black checkered fedora or trilby hat, pulled low, and he is wearing dark sunglasses with white frames. A black wristwatch is visible on his left wrist. The man is positioned slightly to the right of the frame's center, in a setting that appears to be a historical or cultural site, possibly in India, given the architectural style. The background features buildings with a distinctive salmon or terracotta orange color, characterized by ornate arches, detailed cornices, and battlements. The structure on the left side of the frame features large arched gateways and appears to be a fort or palace entrance. The building on the right side also shows a series of arches. The ground is paved with stone or concrete. The sky is visible and features soft, scattered white and gray clouds, suggesting an overcast or bright day with diffused light. The overall lighting is somewhat dramatic due to the wide-angle lens and the contrast between the man's dark accessories and the bright colors of his shirt and the buildings.",
+    "category": "Portrait",
+    "tags": ["Trending", "All", "Male"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T17:21:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_521",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_521.jpg",
+    "prompt": "A vertical, medium close-up outdoor portrait features a man with a reddish-brown beard and hair, looking pensively to his right. The man, who appears to be in his late 20s to early 30s, is positioned slightly off-center and fills much of the frame. He has light brown skin and his right hand is raised near his mouth, with his index finger touching his nose. He is wearing a light grey or beige collared, long-sleeved shirt, possibly a kurta or tunic, and a dark blue patterned scarf with a paisley or similar intricate design is wrapped around his neck. A wristwatch with a black leather strap and a dark face is visible on his left wrist. The background is a mix of lush green foliage and palm leaves, suggesting a tropical or outdoor garden setting. The leaves are soft-focused, creating a shallow depth of field that emphasizes the subject. The lighting suggests a bright day, possibly with some direct sunlight or strong ambient light, contributing to a slightly cinematic or moody feel, characterized by rich shadows and contrast. The upper portion of the background shows a bright, pale blue sky. The bottom of the image shows a thin, horizontal grey railing, indicating the man might be standing on a balcony or elevated area. The overall color palette is dominated by muted greens and blues, contrasting with the man's reddish hair and beard, and the light tone of his shirt.",
+    "category": "Portrait",
+    "tags": ["Trending", "All", "Male","Cinematic"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T17:21:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_522",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_522.jpg",
+    "prompt": "A close-up, dramatic portrait of a man with light-to-medium skin tone, bathed in warm, intense reddish-orange light from the left side, against a dark, featureless background. The man appears to be in his late 20s to early 40s. He has a full, reddish-brown beard and mustache that is neatly trimmed. His head is slightly tilted, and his gaze is directed toward the camera with a serious or intense expression. The left side of his face and his beard are brightly illuminated by the warm light, creating strong highlights and deep shadows. The right side of his face falls into deep shadow, offering a stark contrast. He is wearing a dark, possibly black, crew-neck shirt, which merges with the dark background. The overall mood is intense, mysterious, and moody, emphasized by the single-source, saturated color lighting and the heavy grain or noise present in the image texture.",
+    "category": "Portrait",
+    "tags": ["Trending", "All", "Male"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T17:21:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_523",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_523.jpg",
+    "prompt": "A photograph taken from a low angle captures a single adult male with a fair complexion, wearing an orange short-sleeved collared shirt, dark sunglasses, and dark gray denim jeans, squatting down in a dynamic pose. The man has a beard and short hair that appears reddish-brown. He is extending his right arm and hand toward the camera, palm open, in a gesture that seems powerful or dramatic. The setting appears to be indoors in a modern space with high ceilings and a large, bright window or skylight structure in the background. The low angle emphasizes the height of the ceiling and the dramatic lighting. The background architecture is characterized by clean white or light-colored walls and ceiling, with several parallel wooden or dark-colored beams crossing the large, rectangular light source overhead. The light from the window/skylight is extremely bright, creating a high-key look and some lens flare, particularly near the edges of the frame. The floor is a light, neutral-colored tile or concrete. The man's outfit includes black or dark gray slip-on shoes. He has a tattoo visible on his right arm, extending onto his shoulder. The light source strongly backlights the subject, outlining his silhouette and casting his front in shadow, though his face and clothing details are still somewhat visible. The overall mood is stylized and energetic due to the pose and the strong architectural framing.",
+    "category": "Portrait",
+    "tags": ["Trending", "All", "Male"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T17:21:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_524",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_524.jpg",
+    "prompt": "A medium, vertical, full-frame shot shows a South Asian man in his 30s with dark hair, a beard, and sunglasses standing center-frame amongst a large, dense crowd of men dressed in red suits and black masks. The crowd extends into the distance, creating a patterned and intimidating background. The man in the center is dressed in a dark blue suit jacket, a white t-shirt, and dark sunglasses. His expression is stern and confident. The men surrounding him are dressed in identical bright red suits, red shirts, and black face masks covering their entire heads. Each mask features a white geometric shape: a circle, a triangle, or a square. These shapes are randomly distributed across the masks, creating visual interest and uniformity. The perspective is slightly elevated, looking down upon the crowd, which is arranged in neat, deep rows. The lighting is bright and evenly distributed, highlighting the vibrant red suits and the contrast with the central figure's dark attire.",
+    "category": "Portrait",
+    "tags": ["Trending", "All", "Male", "Cinematic"],
+    "popularity": 0,
+    "createdAt": "2026-01-10T17:21:00Z",
     "isFeatured": false
   }
 
