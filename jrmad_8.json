@@ -918,6 +918,86 @@
     "popularity": 0,
     "createdAt": "2026-01-10T17:21:00Z",
     "isFeatured": false
+  },
+    {
+    "id": "prompt_525",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_525.jpeg",
+    "prompt": "Sunlit urban streetwear portrait of stylish young man sitting casually on a sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones in shoulder, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.",
+    "category": "Portrait",
+    "tags": ["Urban", "Streetwear", "90s", "Cinematic"],
+    "popularity": 0,
+    "createdAt": "2026-01-17T19:01:40Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_526",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_526.jpeg",
+    "prompt": "Convert this image into a beautiful funny sketch cartoon effect, digitally drawn with expressive ink-style outlines, and exaggerated but recognizable facial features. Use vivid digital colors with subtle shading and mild hatching. Maintain a clean [white] background with a few gestural elements to suggest movement. The style should feel lively, energetic, and hand-drawn, capturing the intensity in a playful, caricature-like tone. The overall aesthetic is kinetic and full of personality",
+    "category": "Artistic",
+    "tags": ["Cartoon", "Sketch", "Caricature", "Digital Art"],
+    "popularity": 0,
+    "createdAt": "2026-01-17T19:01:40Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_527",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_527.jpeg",
+    "prompt": "A stylish high-quality portrait of a Indian boy with same hairstyle, wearing a deep red and black gradient shirt,he is holding a modern smartphone, taking a mirror selfie. The subject has a glowing white 'sticker-cutout' outline around her. The background is a dense, artistic collage of various music player interfaces, Spotify-style song cards and dark indie album covers (Lana Del Rey, MGMT style). Moody, cinematic lighting, 4k resolution, Gen-Z aesthetic, high contrast.",
+    "category": "Portrait",
+    "tags": ["Selfie", "Gen-Z", "Indian", "Cinematic"],
+    "popularity": 0,
+    "createdAt": "2026-01-17T19:01:40Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_528",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_528.jpeg",
+    "prompt": "Creat a high-resolution urban-style portrait of a handsome man with dark hair and well-trimmed beard. He is wearing an open black button-down shirt over a crisp white t-shirt, paired with light beige or cream-colored trousers. He poses confidently with one hand touching his chin and a smart watch on his other wrist. The background is a creative, grayscale collage in a street-art or 'grunge' aesthetic.",
+    "category": "Portrait",
+    "tags": ["Urban", "Male", "Grunge", "Street Art"],
+    "popularity": 0,
+    "createdAt": "2026-01-17T19:01:40Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_529",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_529.jpeg",
+    "prompt": "A vibrant indoor lifestyle photo of a young boy sitting in a circular wooden nook On wall with hanging plants and neon lights with big white ball,, wearing a colorful pink rose colour fullSleeve sweetshirt, light white trousers, White Apple Watch, Wight socks, and chunky white sports shoes , Full Body View casual relaxed pose looking down, One Hand holding a flower bookey, bright soft lighting cozy modern cafe vibe with flowers in backgrounds",
+    "category": "Lifestyle",
+    "tags": ["Indoor", "Cafe", "Vibrant", "Modern"],
+    "popularity": 0,
+    "createdAt": "2026-01-17T19:01:40Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_530",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_530.jpeg",
+    "prompt": "Ultra-realistic, cinematic portrait of a young boy looking up, his face softly illuminated by a dazzling, overexposed sun directly above his head. The background is an intense, vivid sky, a brilliant turquoise-blue, framed by the lush, dark green and bright lime-green foliage of an overhead tree canopy. The perspective is a low-angle shot (worm's-eye view) making the man appear in the foreground and the sun/sky the central element.",
+    "category": "Portrait",
+    "tags": ["Cinematic", "Realistic", "Low-angle", "Nature"],
+    "popularity": 0,
+    "createdAt": "2026-01-17T19:01:40Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_531",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_531.jpeg",
+    "prompt": "A young boy with short, dark hair and fair skin sits outdoors against a steep, rocky hillside in the late afternoon or early evening, as indicated by the warm, golden lighting. He wears a light brown trench coat over a white top and worn, ripped jeans with frayed edges and patches of fur or textured fabric, and matching shoes. He sits in a relaxed, contemplative position, with his head lowered and his arms wrapped around his knees. Tall, dry grass and thin, upright branches partially obscure him, adding a natural, earthy element to the scene.",
+    "category": "Portrait",
+    "tags": ["Outdoors", "Rugged", "Golden Hour", "Moody"],
+    "popularity": 0,
+    "createdAt": "2026-01-17T19:01:40Z",
+    "isFeatured": false
+  },
+  {
+    "id": "prompt_532",
+    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_532.jpeg",
+    "prompt": "Create a young boy with stylish messy windswept hair, sitting low on a minimalist metal stool, leg spread forward, and in a relaxed grounded face fleet planted on eventer, one hand loosely resting between the knees, holding thin leather rains, shoulder slightly slouched, Head title downward in calm intro, prospective expression, the subject wear, dark oversized layer, clothing, wild leg trousers, leather boots. A strong Black horse stand closely behind the seated, figure, aligned, protectively",
+    "category": "Portrait",
+    "tags": ["Minimalist", "Horse", "Cinematic", "Male"],
+    "popularity": 0,
+    "createdAt": "2026-01-17T19:01:40Z",
+    "isFeatured": false
   }
 
   ]
