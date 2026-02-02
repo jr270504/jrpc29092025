@@ -1,26 +1,6 @@
 {
   "prompts": [
   {
-    "id": "prompt_560",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_560.jpeg",
-    "prompt": "A portrait of young man standing confidently in the center, wearing a long olive-green overcoat over a black outfit and sneakers. Behind him is a circular, symmetrical montage displaying multiple versions of the same man in different moods and outfits, arranged like a time-wheel or fate diagram",
-    "category": "Cinematic",
-    "tags": ["Trending", "Digital Art", "Cinematic"],
-    "popularity": 0,
-    "createdAt": "2026-01-24T00:00:00Z",
-    "isFeatured": false
-  },
-  {
-    "id": "prompt_559",
-    "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_559.jpeg",
-    "prompt": "Ultra-realstic, 16k, A high-quality full-body portrait of a young man standing on a natural pathway surrounded by lush green bushes and flowers. wearing a white graphic sweatshirt with graffiti-style prints, dark blue jogger cargo pants with hanging strap details, white casual sneakers. Black watchsmart, He is leaning casually on a metal gate, holding a small red roses in three hand with a soft, calm smile. Natural daylight, aesthetic pink rose white background and peaceful mood, skin tone,",
-    "category": "Digital Art",
-    "tags": ["Trending", "Digital Art", "Cinematic"],
-    "popularity": 0,
-    "createdAt": "2026-01-24T00:00:00Z",
-    "isFeatured": false
-  },
-  {
     "id": "prompt_558",
     "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_558.jpeg",
     "prompt": "A surreal and moody conceptual portrait shot from a slightly elevated medium angle, featuring the uploaded face as reference positioned centrally amidst a dense, claustrophobic crowd of anonymous figures. The surrounding mob is uniformly dressed in deep black formal wear, blending into the shadows, but their heads are completely shrouded in tight, white fabric sacks that obscure all facial features, creating a disturbing and dystopian uniformity.",
