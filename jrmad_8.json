@@ -1,6 +1,32 @@
 {
   "prompts": [
     {
+      "id": "prompt_562",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_562.jpeg",
+      "prompt": "rdytfyghkj",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "New"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-04T19:09:41.755758Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_561",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_561.jpeg",
+      "prompt": "This is sample prompt",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "New"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-04T19:03:43.351898Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_557",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_557.jpeg",
       "prompt": "A young man wearing a white kurta and white pants, peeks around a colorful wall. His white clothing is smudged with yellow and green powder. smiling and reaching out with his left hand, while his right arm is bent. A cloud of yellow powder is exploding behind him, creating a dramatic effect. background is dark and out of focus. The wall is painted in vibrant yellow and teal colors, with a rough texture. The lighting is dramatic, casting shadows and highlighting the powder explosion.",
