@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_562",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_562.jpeg",
+      "prompt": "Illustrated portrait using uploaded reference photo, preserve exact facial identity (same eyes, nose, lips, face shape, skin tone, beard, hairstyle). Handsome 20-year-old Indian man, medium slim athletic build, tousled dark brown hair on forehead with side volume, trimmed beard, wheatish skin. Calm confident expression, subtle smile, gaze up-right, face slightly tilted sideways & viewed slightly from above, head tilted up, body lightly turned right, relaxed pose.\nOutfit: inner light pink/off-white collared shirt with subtle checkered/floral pattern, top button open; over it slim-fit light beige/cream knitted round-neck sweater; outer dark charcoal brown heavy quilted puffer jacket with horizontal quilting, zipper Front, slightly oversized, hood up but folded back.\nStyle: semi-realistic 2D digital illustration (NOT photorealistic, NOT cartoon), hand-drawn look, Indian miniature + modern poster style, clean outlines, soft painted shading, visible linework, textured brush strokes.\nBackground: deep maroon/crimson red fabric-style flat background with mandala, lotus, rangoli patterns, traditional Indian textile look, worn grainy vintage paper/ fabric texture, NOT 3D.\nColors: rich reds, maroons, muted gold, warm browns, soft beige highlights.\nLighting: soft even illustration lighting.\nComposition: wide-angle shot, strong subject focus, clean edges.\nQuality: ultra-high resolution, premium illustrated poster / mobile wallpaper.\nAspect ratio: 3:4 vertical",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "Digital Art"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-05T20:03:17.011037Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_561",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_561.jpeg",
       "prompt": "Ultra-realistic, hyper-detailed, 8K cinematic portrait of a young stylish man, using the uploaded image for exact face and hairstyle. A young man wearing an orange long-sleeved t-shirt with a zipper, ripped black loose jeans, and sneakers, sitting on green grass while holding dark sunglasses in one hand, looking towards the camera with a subtle expression. The background features a blurred outdoor scene dominated by warm orange and red tones, with glowing bokeh light, captured in cinematic lighting with natural skin texture and photorealistic detail.",
