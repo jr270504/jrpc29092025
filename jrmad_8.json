@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_564",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_564.jpeg",
+      "prompt": "A cinematic night-time portrait of a young man standing on a modern balcony. He is wearing a light beige/cream striped formal shirt with sleeves rolled up and black trousers, a luxury metal wristwatch on his left hand. Scene includes three compositions:\nBack-facing shot – the man stands casually, one hand touching the back of his head, overlooking a city skyline at night.\nClose-up portrait – soft focus, moody expression, slightly messy wavy hair falling on his forehead, subtle stubble beard, shallow depth of field.\nSide profile medium shot – leaning on a wooden railing, confident posture, city lights bokeh in the background.\nEnvironment: modern apartment balcony, wooden railing, green plants, concrete walls, warm ambient wall lights, deep blue night sky, distant city lights.\nLighting: soft cinematic lighting, warm tones on skin, natural shadows, low-light photography look.\nStyle: cinematic, realistic photography, luxury lifestyle aesthetic, Instagram portrait style.\nCamera: DSLR, 50mm",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "Cinematic"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-05T20:30:10.222976Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_563",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_563.jpeg",
       "prompt": "Maintain the same face and person (use attached photo for accurate facial identity). Create a hyper-realistic, high-definition portrait using my uploaded photos as precise face, skin, hair, nose, lips, moustache, and jawline reference.\nA raw, cinematic close-up portrait of a young man. The framing shows half of his face vertically, including one eye, full moustache, lips, and chin clearly visible. Messy strands of hair partially fall across his forehead and eye, but do not cover the moustache, lips, or chin. His face is lit by a warm café-style ambient glow, creating soft highlights on skin texture and facial hair.\nThe other half of the face fades naturally into shadow or shallow depth of field, not cropped abruptly.\nUltra-realistic skin texture, natural facial proportions, accurate beard and moustache density, sharp facial details.\nNo facial distortion, no missing facial features, no over-cropping. Photorealistic, DSLR-quality portrait, cinematic depth of field.",
