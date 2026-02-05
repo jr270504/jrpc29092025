@@ -1,6 +1,20 @@
 {
   "prompts": [
     {
+      "id": "prompt_563",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_563.jpeg",
+      "prompt": "Maintain the same face and person (use attached photo for accurate facial identity). Create a hyper-realistic, high-definition portrait using my uploaded photos as precise face, skin, hair, nose, lips, moustache, and jawline reference.\nA raw, cinematic close-up portrait of a young man. The framing shows half of his face vertically, including one eye, full moustache, lips, and chin clearly visible. Messy strands of hair partially fall across his forehead and eye, but do not cover the moustache, lips, or chin. His face is lit by a warm café-style ambient glow, creating soft highlights on skin texture and facial hair.\nThe other half of the face fades naturally into shadow or shallow depth of field, not cropped abruptly.\nUltra-realistic skin texture, natural facial proportions, accurate beard and moustache density, sharp facial details.\nNo facial distortion, no missing facial features, no over-cropping. Photorealistic, DSLR-quality portrait, cinematic depth of field.",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "Trending",
+        "Cinematic"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-05T20:22:33.408002Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_562",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_562.jpeg",
       "prompt": "Illustrated portrait using uploaded reference photo, preserve exact facial identity (same eyes, nose, lips, face shape, skin tone, beard, hairstyle). Handsome 20-year-old Indian man, medium slim athletic build, tousled dark brown hair on forehead with side volume, trimmed beard, wheatish skin. Calm confident expression, subtle smile, gaze up-right, face slightly tilted sideways & viewed slightly from above, head tilted up, body lightly turned right, relaxed pose.\nOutfit: inner light pink/off-white collared shirt with subtle checkered/floral pattern, top button open; over it slim-fit light beige/cream knitted round-neck sweater; outer dark charcoal brown heavy quilted puffer jacket with horizontal quilting, zipper Front, slightly oversized, hood up but folded back.\nStyle: semi-realistic 2D digital illustration (NOT photorealistic, NOT cartoon), hand-drawn look, Indian miniature + modern poster style, clean outlines, soft painted shading, visible linework, textured brush strokes.\nBackground: deep maroon/crimson red fabric-style flat background with mandala, lotus, rangoli patterns, traditional Indian textile look, worn grainy vintage paper/ fabric texture, NOT 3D.\nColors: rich reds, maroons, muted gold, warm browns, soft beige highlights.\nLighting: soft even illustration lighting.\nComposition: wide-angle shot, strong subject focus, clean edges.\nQuality: ultra-high resolution, premium illustrated poster / mobile wallpaper.\nAspect ratio: 3:4 vertical",
