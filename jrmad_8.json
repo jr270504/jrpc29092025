@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_561",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_561.jpeg",
+      "prompt": "Ultra-realistic, hyper-detailed, 8K cinematic portrait of a young stylish man, using the uploaded image for exact face and hairstyle. A young man wearing an orange long-sleeved t-shirt with a zipper, ripped black loose jeans, and sneakers, sitting on green grass while holding dark sunglasses in one hand, looking towards the camera with a subtle expression. The background features a blurred outdoor scene dominated by warm orange and red tones, with glowing bokeh light, captured in cinematic lighting with natural skin texture and photorealistic detail.",
+      "category": "Portrait",
+      "tags": [
+        "Trending"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-05T13:07:47.440129Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_557",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/main/prompt_557.jpeg",
       "prompt": "A young man wearing a white kurta and white pants, peeks around a colorful wall. His white clothing is smudged with yellow and green powder. smiling and reaching out with his left hand, while his right arm is bent. A cloud of yellow powder is exploding behind him, creating a dramatic effect. background is dark and out of focus. The wall is painted in vibrant yellow and teal colors, with a rough texture. The lighting is dramatic, casting shadows and highlighting the powder explosion.",
