@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_566",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_566.jpeg",
+      "prompt": "Hyper-realistic cinematic photograph of a young man standing alone in a modern underground subway station platform, centered in the frame, dramatic symmetrical composition. The subject is full-body, facing forward, with a calm but powerful stance, the other relaxed by his side - pose exactly matching the second reference image. He has quiff-style, tousled mid-length black hair, slightly messy with natural volume, a light mustache, sharp jawline, and is wearing rectangular black sunglasses with a glossy finish.\nOutfit: Black leather bomber jacket with a subtle matte shine White oversized button down shirt layered underneath, slightly wrinkled Black slim tie loosely worn, casual and undone look Olive/grey oversized cargo pants with multiple pockets and straps Dark chunky sneakers Hands casually placed (one partially holding his tie, one relaxed), relaxed street-fashion posture Behind him towers a massive anime-style supernatural entity, glowing in intense purple energy, with cracked stone-like wings spread wide, glowing yellow eyes, and an intimidating presence. The entity holds two glowing purple energy blades, emitting smoke, sparks, and particle effects. Only the entity is in anime illustration style, while the human subject remains hyper-realistic. Purple lightning wraps around the man's body, traveling from the ground upward, subtle but powerful, blending realism with supernatural energy. The subway environment features tiled flooring, metallic walls, overhead fluorescent lighting, and soft reflections on the ground. Lighting & Atmosphere: Neon purple glow dominating the scene Volumetric lighting and fog Cinematic contrast with deep shadows Ultra-sharp focus on subject, slight depth blur in background High dynamic range (HDR) Photoreal skin texture, fabric realism, energy particle details Camera & Style: Full-body shot Eye-level angle Centered framing high resolution Jity tic anime-realism fusion No text, no watermark, no logo",
+      "category": "Portrait",
+      "tags": [
+        "Digital Art",
+        "All"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-06T07:53:40.830899Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_565",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_565.jpeg",
       "prompt": "The generated image uses the uploaded image as a reference for the character, wearing a baige turtleneck, with brown pant and brown blazer. A cluster of withered wood and orange-pink flowers lies beside an old newsstand, the grainy texture of vintage film interwoven, the blurred background with noticeable trailing shadows, and the double-image effect creating a fantastical atmosphere. A handsome young man, carrying flowers, is shown in Profile, his fair skin delicate and translucent. the outline of his figure slightly swaying with the panning camera, the soft focus making the image even more hazy and languid. A warm-toned, low-saturation filter enhances the effect, he have messy hairs, the details concealing a captivating yet dangerous allure.\nthe film grain, creating a trendy, Instagram-worthy image while the blurred image outlines a dynamic scene full of story, cleverly balancing bewit",
