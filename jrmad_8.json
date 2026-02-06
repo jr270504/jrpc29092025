@@ -1,6 +1,20 @@
 {
   "prompts": [
     {
+      "id": "prompt_565",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_565.jpeg",
+      "prompt": "The generated image uses the uploaded image as a reference for the character, wearing a baige turtleneck, with brown pant and brown blazer. A cluster of withered wood and orange-pink flowers lies beside an old newsstand, the grainy texture of vintage film interwoven, the blurred background with noticeable trailing shadows, and the double-image effect creating a fantastical atmosphere. A handsome young man, carrying flowers, is shown in Profile, his fair skin delicate and translucent. the outline of his figure slightly swaying with the panning camera, the soft focus making the image even more hazy and languid. A warm-toned, low-saturation filter enhances the effect, he have messy hairs, the details concealing a captivating yet dangerous allure.\nthe film grain, creating a trendy, Instagram-worthy image while the blurred image outlines a dynamic scene full of story, cleverly balancing bewit",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "New",
+        "Valentine Day"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-06T07:43:17.192280Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_564",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_564.jpeg",
       "prompt": "A cinematic night-time portrait of a young man standing on a modern balcony. He is wearing a light beige/cream striped formal shirt with sleeves rolled up and black trousers, a luxury metal wristwatch on his left hand. Scene includes three compositions:\nBack-facing shot – the man stands casually, one hand touching the back of his head, overlooking a city skyline at night.\nClose-up portrait – soft focus, moody expression, slightly messy wavy hair falling on his forehead, subtle stubble beard, shallow depth of field.\nSide profile medium shot – leaning on a wooden railing, confident posture, city lights bokeh in the background.\nEnvironment: modern apartment balcony, wooden railing, green plants, concrete walls, warm ambient wall lights, deep blue night sky, distant city lights.\nLighting: soft cinematic lighting, warm tones on skin, natural shadows, low-light photography look.\nStyle: cinematic, realistic photography, luxury lifestyle aesthetic, Instagram portrait style.\nCamera: DSLR, 50mm",
