@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_568",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_568.jpeg",
+      "prompt": "Create a image: Add a giant golden-brown sand anime spirit behind the person, similar to a sand guardian avatar. The spirit is made of glowing golden sand and dust, semi-transparent, with intense anime facial features and spiky hair.\nThe sand spirit's massive hands are forming around the person, protecting or controlling them. Golden sand particles and swirling sand energy wrap around the subject's body.\nCinematic lighting, ultra-detailed VFX, realistic anime fusion style, dramatic atmosphere, glowing sand aura, high-detail sand texture, dynamic motion, epic anime power effect.",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "Digital Art"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-06T10:56:34.541538Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_567",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_567.jpeg",
       "prompt": "Add a giant blue lightning anime spirit behind the person, similar to a thunder guardian avatar. The spirit is made of glowing electric blue energy and plasma, semi-transparent, with sharp anime facial features and spiky glowing hair. Massive armored arms and hands formed from blue energy are positioned protectively around the subject. Intense blue lightning bolts and electric arcs surround the person's body. Blue energy aura, crackling electricity, cinematic lighting, ultra-detailed VFX, realistic anime fusion style, dramatic atmosphere, high-energy motion, epic anime power effect, glowing blue plasma texture.",
