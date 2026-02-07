@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_571",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_571.jpeg",
+      "prompt": "Create a image :photorealistic medium shot of young man standing outdoors. He is giving a cool mafiya pose. He is wearing 1920s vintage attire: a white dress shirt with sleeves rolled up to the elbows,He is wearing dark sunglasses with a gold side logo, a dark grey herringbone tweed waistcoat (vest), matching trousers, and a silver pocket watch chain hanging from the vest pocket. He has his a serious, contemplative expression. The background features blurred and grass. The lighting is soft and overcast, creating a moody, atmospheric, and vintage photography aesthetic. High contrast, sharp focus on the subject, shallow depth of field.\nChange pose",
+      "category": "Portrait",
+      "tags": [
+        "All"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-07T07:48:50.082761Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_570",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_570.jpeg",
       "prompt": "Ultra-realistic cinematic close-up portrait of a young man, sharp facial features, light stubble beard, natural skin texture, intense expressive eyes, slightly messy hair falling on forehead, soft moody lighting, shallow depth of field, DSLR photography, 85mm lens, f/1.8, detailed pores, high contrast, dramatic shadows, neutral background, natural color grading, realistic Indian male face, photorealistic, 4K quality, professional portrait photography",
