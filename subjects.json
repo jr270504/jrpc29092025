@@ -1,0 +1,27 @@
+[
+  {
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "test_id": "eb12602d-b5e8-4aa1-846b-9d62a21073bb",
+    "subject_name": "Biology"
+  },
+  {
+    "subject_id": "78ea7227-f086-4e08-bbfa-75af32ef3fb3",
+    "test_id": "eb12602d-b5e8-4aa1-846b-9d62a21073bb",
+    "subject_name": "Chemistry"
+  },
+  {
+    "subject_id": "739e6f90-f518-4f71-9753-2406406e6804",
+    "test_id": "eb12602d-b5e8-4aa1-846b-9d62a21073bb",
+    "subject_name": "Physics"
+  },
+  {
+    "subject_id": "e820c70c-6c65-40be-9c18-a840ff9f33e7",
+    "test_id": "eb12602d-b5e8-4aa1-846b-9d62a21073bb",
+    "subject_name": "English"
+  },
+  {
+    "subject_id": "29030b84-9cac-436a-af91-968c1bd7d58e",
+    "test_id": "eb12602d-b5e8-4aa1-846b-9d62a21073bb",
+    "subject_name": "Logical Reasoning"
+  }
+]

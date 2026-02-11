@@ -1,0 +1,107 @@
+[
+  {
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Bioenergetics"
+  },
+  {
+    "topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Cell Biology (Structure and Function)"
+  },
+  {
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Coordination and Control (Nervous and Chemical)"
+  },
+  {
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Biological Molecules"
+  },
+  {
+    "topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Genetics and Inheritance"
+  },
+  {
+    "topic_id": "1bca8573-e392-47a9-b732-13496e648483",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Kingdom Animalia (Diversity Among Animals)"
+  },
+  {
+    "topic_id": "e5646d8a-1fe3-4725-85e1-7525f4d5acb1",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Enzymes"
+  },
+  {
+    "topic_id": "18d567f8-3f9f-42fa-87b3-875735f17a35",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Transport in Humans (Circulatory System)"
+  },
+  {
+    "topic_id": "55314d81-faf1-4206-93d4-a11fbbf0b082",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Reproduction"
+  },
+  {
+    "topic_id": "354967cf-9641-4023-a3b3-9ddafd2442c3",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Support and Movement"
+  },
+  {
+    "topic_id": "3638c40f-a972-4114-af34-5f48271da6ff",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Gas Exchange (Respiratory System)"
+  },
+  {
+    "topic_id": "4a477e72-3373-4d93-9b70-a565ce217840",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Digestion and Absorption"
+  },
+  {
+    "topic_id": "3f0ae4ed-dee9-411a-bb22-21df08cdaa4d",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Excretion and Osmoregulation"
+  },
+  {
+    "topic_id": "ed32eb4e-b228-4e8c-8e85-85b1a4e05b81",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Evolution"
+  },
+  {
+    "topic_id": "cc1035ef-7147-434b-af6f-10b3148b8ae5",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Prokaryotes (Kingdom Monera)"
+  },
+  {
+    "topic_id": "34111b63-7bb2-4665-9cdb-b8d256083256",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Biotechnology"
+  },
+  {
+    "topic_id": "9a9d38ef-2b8c-4edf-a7a8-79ff70a82120",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Kingdom Plantae (Diversity Among Plants)"
+  },
+  {
+    "topic_id": "f1c02f2f-44af-4b63-807a-7d4e5dff666e",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Immunity"
+  },
+  {
+    "topic_id": "894b5d10-9998-4f3b-8c4d-86e8771c2841",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Growth and Development"
+  },
+  {
+    "topic_id": "8413f130-5c57-4e7f-ac9b-7b91a87fc19b",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Ecosystem and Environmental Biology"
+  },
+  {
+    "topic_id": "565bbb6d-ed92-4803-acad-0b3837acb70a",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Kingdom Protista and Fungi"
+  }
+]

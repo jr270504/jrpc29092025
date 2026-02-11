@@ -1,0 +1,182 @@
+[
+  {
+    "test_id": "eb12602d-b5e8-4aa1-846b-9d62a21073bb",
+    "test_name": "MDCAT (Medical & Dental College Admission Test)",
+    "description": "The single largest competitive entrance exam in Pakistan for aspiring doctors, conducted regionally (UHS, DUHS, KMU, etc.) under PMDC regulations, determining admission to public and private medical colleges.",
+    "last_updated": "2026-02-11T09:56:56.856Z"
+  },
+  {
+    "test_id": "a36521e7-2f81-40b0-8326-be07cec82a61",
+    "test_name": "CSS (Central Superior Services) Exam",
+    "description": "The most prestigious competitive examination in the country conducted by the FPSC, selecting bureaucrats for BS-17 positions in federal groups like PAS, PSP, and FSP.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "e70f9b00-b203-4d22-be30-97611297503b",
+    "test_name": "PPSC General Recruitment (One Paper MCQs)",
+    "description": "High-volume recruitment tests conducted by the Punjab Public Service Commission for various provincial BS-14 to BS-17 posts, attracting hundreds of thousands of applicants annually.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "efde46b3-28d8-495a-8996-63f929eec857",
+    "test_name": "PMA Long Course Initial & ISSB",
+    "description": "The primary recruitment channel for Commissioned Officers in the Pakistan Army, involving an initial academic/physical test followed by the comprehensive Inter-Services Selection Board (ISSB) assessment.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "9ab71d7b-b1a8-4e78-8202-67034f93a32f",
+    "test_name": "NTS GAT (General & Subject)",
+    "description": "Conducted by the National Testing Service, this is a mandatory prerequisite for M.Phil/PhD admissions and various public/private sector job recruitments across Pakistan.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "f1937272-a89d-461f-b41f-a8f8c4dcc4d2",
+    "test_name": "PMS Punjab (Provincial Management Service)",
+    "description": "A highly competitive exam conducted by PPSC specifically for administrative and executive posts within the Punjab provincial government, second only to CSS in difficulty and prestige.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "7fb3a625-14c9-4b11-81db-03092eb4ffc7",
+    "test_name": "FPSC General Recruitment (Phase Tests)",
+    "description": "Aggregated screening tests for federal positions in ministries and departments (excluding CSS), covering jobs like Appraising Officers, Section Officers, and Senior Auditors.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "e95e82ea-ed8b-4fe6-bae0-ba64d1349abf",
+    "test_name": "Police Constable & ASI Recruitment Tests",
+    "description": "Mass recruitment exams conducted by provincial police departments or testing agencies (like NTS/PTS) for law enforcement roles at the district level.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "d1729797-81a8-42c4-a660-0a01c754a3d7",
+    "test_name": "ECAT (Engineering College Admission Test)",
+    "description": "The standard entrance examination for public sector engineering universities, primarily conducted by UET Lahore for Punjab, determining merit for engineering disciplines.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "1da6e809-59fa-487d-a527-f52ea87ab9a1",
+    "test_name": "FIA Assistant Director & Inspector Exam",
+    "description": "A highly sought-after specific recruitment drive under the FPSC for the Federal Investigation Agency, known for high applicant volume due to the power and perks of the agency.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "c08b6adc-66fe-4a5d-9ad5-532bcd1032fe",
+    "test_name": "Educators & School Teacher Interns (STI) Tests",
+    "description": "Large-scale seasonal recruitment tests for teaching positions in government schools, often conducted by NTS or provincial education departments.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "c42f0b04-5c26-4cf3-9911-020bc6a4cb48",
+    "test_name": "HEC LAT (Law Admission Test)",
+    "description": "A mandatory standardized test conducted by the Higher Education Commission (HEC) for anyone seeking admission to a 5-year LL.B program in Pakistan.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "913ba90f-a54d-42d1-beff-72155a241f9d",
+    "test_name": "CCE / PMS Sindh",
+    "description": "The Combined Competitive Examination conducted by the Sindh Public Service Commission (SPSC) for executive provincial posts, serving as the Sindhi equivalent to CSS/PMS Punjab.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "0ec54d45-a66d-4212-bf7a-134832ebf02e",
+    "test_name": "Lecturer & Subject Specialist Tests (PPSC/FPSC/SPSC)",
+    "description": "Subject-specific competitive exams for appointing lecturers in government colleges and higher secondary schools, requiring a master's degree in the relevant field.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "9946c7cc-d91a-4d87-9c99-a8afbcdcc996",
+    "test_name": "ASF (Airport Security Force) Corporal & ASI Tests",
+    "description": "Physical and written tests for uniform posts in aviation security, popular among intermediate and graduate candidates due to federal benefits.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "d4ffba98-0867-4239-a8f1-9d0734aeec31",
+    "test_name": "KPPSC General Recruitment",
+    "description": "The primary testing avenue for provincial government jobs in Khyber Pakhtunkhwa, ranging from administrative staff to technical specialists.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "dd4adf83-a932-4415-bda5-7fb6995610bd",
+    "test_name": "IB (Intelligence Bureau) GD & OM Tests",
+    "description": "Recruitment tests for the premier civilian intelligence agency, often conducted directly or via testing services for posts like GD (General Duty) and OM (Office Management).",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "bd34439b-9c93-4ddd-8628-5a305c3cf230",
+    "test_name": "Customs Inspector & Preventive Officer Exam",
+    "description": "FPSC-conducted examinations for uniform and non-uniform roles within the Federal Board of Revenue (FBR) Customs department.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "ee4435ce-c4c8-4e35-820f-da3c55cde2a1",
+    "test_name": "HEC USAT (Undergraduate Studies Admission Test)",
+    "description": "A standardized scholastic aptitude test introduced by HEC for undergraduate admissions in universities across Pakistan.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "3902d4f7-a7b1-427a-aa0f-0169e391f7ce",
+    "test_name": "Tehsildar & Naib Tehsildar Exam",
+    "description": "A periodic but intense competition conducted by provincial commissions (PPSC/SPSC) for revenue department administration roles.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "141d5ffa-b113-41e1-a0a2-fdb100d2188b",
+    "test_name": "NUMS Entry Test",
+    "description": "A specialized medical entrance exam for Army Medical College and its affiliated combined military hospitals, separate from the general provincial MDCAT.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "c5508e6f-c621-4946-8fcd-dc1ed11d1505",
+    "test_name": "SPSC General Recruitment",
+    "description": "Screening tests for general vacancies in the Sindh Government, covering diverse departments from Health to Local Government.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "429f865a-974c-4a28-94e1-387a1d7bd215",
+    "test_name": "STS (IBA Sukkur) Recruitment Tests",
+    "description": "Tests conducted by the SIBA Testing Service, currently the preferred body for transparency in Sindh government recruitments (e.g., PST/JEST teachers).",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "51465944-dfb1-4976-bec0-b99d191d5f5b",
+    "test_name": "PAF GD Pilot & CAE Tests",
+    "description": "Selection tests for the Pakistan Air Force, focusing on intelligence, physics, and English for induction into the General Duty Pilot or Engineering branches.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "fac2e776-d90e-4bc8-b8c6-5ed9e6e02c1c",
+    "test_name": "BPSC General Recruitment",
+    "description": "Competitive exams for provincial jobs in Balochistan, conducted by the Balochistan Public Service Commission.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "46ec5f69-c892-4d0e-9862-45a95c83c148",
+    "test_name": "ANF (Anti-Narcotics Force) Recruitment",
+    "description": "Tests for Sub-Inspectors, ASIs, and Constables within the ANF, focusing on drug enforcement roles.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "6bd8a21b-5921-4a13-95fd-3d98fb93acef",
+    "test_name": "PN Cadet Term Test",
+    "description": "The entrance mechanism for the Pakistan Navy to join as a Permanent Commission officer, involving academic and intelligence testing.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "6af5345c-a85f-4f2a-835c-a83f48ce364c",
+    "test_name": "AJKPSC Competitive Exams",
+    "description": "Recruitment tests for gazetted and non-gazetted posts specifically for the government of Azad Jammu & Kashmir.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "dc59ec9b-c7b8-4e33-ad72-a799594a3dd7",
+    "test_name": "OTS & PTS General Screening",
+    "description": "Open Testing Service and Pakistan Testing Service exams used by various public sector organizations (WAPDA, Railways) for contract and permanent staffing.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  },
+  {
+    "test_id": "017eb30f-f195-4e76-90ae-e76f550e5634",
+    "test_name": "GBPSC (Gilgit-Baltistan Public Service Commission)",
+    "description": "Competitive exams for civil administration and functional roles within the semi-autonomous Gilgit-Baltistan region.",
+    "last_updated": "2026-02-11T09:56:56.857Z"
+  }
+]
