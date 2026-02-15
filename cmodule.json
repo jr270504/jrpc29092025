@@ -9,6 +9,36 @@
       "action_type": "navigate",
       "route": "ebus_home",
       "is_coming_soon": false
+    },
+     {
+      "id": "ebus",
+      "title": "E-Bus Schedule",
+      "subtitle": "Live bus timings",
+      "icon_code": 58156,
+      "color_hex": "0xFF009688",
+      "action_type": "navigate",
+      "route": "ebus_home",
+      "is_coming_soon": false
+    },
+     {
+      "id": "ebus",
+      "title": "E-Bus Schedule",
+      "subtitle": "Live bus timings",
+      "icon_code": 58156,
+      "color_hex": "0xFF009688",
+      "action_type": "navigate",
+      "route": "ebus_home",
+      "is_coming_soon": false
+    },
+     {
+      "id": "ebus",
+      "title": "E-Bus Schedule",
+      "subtitle": "Live bus timings",
+      "icon_code": 58156,
+      "color_hex": "0xFF009688",
+      "action_type": "navigate",
+      "route": "ebus_home",
+      "is_coming_soon": false
     }
   ]
 }
