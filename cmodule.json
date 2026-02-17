@@ -9,16 +9,6 @@
       "action_type": "navigate",
       "route": "ebus_home",
       "is_coming_soon": false
-    },
-    {
-  "id": "food_menu_001",
-  "title": "Food Menu",
-  "subtitle": "Restaurants & Cafes",
-  "icon_code": 58675,
-  "color_hex": "0xFFFF5722",
-  "action_type": "navigate",
-  "route": "food_menu_home",
-  "is_coming_soon": false
-}
+    }
   ]
 }
