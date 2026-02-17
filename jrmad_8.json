@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_572",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_572.jpeg",
+      "prompt": "8K DSLR hyper-realistic medium length, with natural skin, with dark messy korean-style hair, with same beard & mustache, (same face 💯%), dark villain vibe, sitting on a charpai front at bonfire, soft glowing warm light on his face, holding a tea cup, wearing a traditional shawl and white shalwar kameez, village mud house in background DSLR blurred, 85mm lens f/1.8, sharp focus, creating a glossy high-fashion skin.\"",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "New"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-17T13:14:55.274475Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_571",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_571.jpeg",
       "prompt": "Create a image :photorealistic medium shot of young man standing outdoors. He is giving a cool mafiya pose. He is wearing 1920s vintage attire: a white dress shirt with sleeves rolled up to the elbows,He is wearing dark sunglasses with a gold side logo, a dark grey herringbone tweed waistcoat (vest), matching trousers, and a silver pocket watch chain hanging from the vest pocket. He has his a serious, contemplative expression. The background features blurred and grass. The lighting is soft and overcast, creating a moody, atmospheric, and vintage photography aesthetic. High contrast, sharp focus on the subject, shallow depth of field.\nChange pose",
