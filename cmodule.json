@@ -9,6 +9,16 @@
       "action_type": "navigate",
       "route": "ebus_home",
       "is_coming_soon": false
-    }
+    },
+    {
+  "id": "ramadan_2026",
+  "title": "Ramadan 2026",
+  "subtitle": "Sehri & Iftar Times",
+  "icon_code": 58412,
+  "color_hex": "0xFF673AB7",
+  "action_type": "navigate",
+  "route": "ramadan_home",
+  "is_coming_soon": false
+}
   ]
 }
