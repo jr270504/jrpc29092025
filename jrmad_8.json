@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_573",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_573.jpeg",
+      "prompt": "A young man (use refrence image) stands outdoors in a relaxed pose While folding the one hand shirt, wearing a loose, black -colored patterned shirt with an open collar and gray wide-leg trousers. head tilted down in a candid gesture. He has a stylish watch on his wrist. The background features blurred greenery and tall trees, giving a safy,) natural, urban vibe with daylight and casual fashion focus. Keep my face 100% accurate. ar 9 :16.",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "New"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-18T07:49:14.630794Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_572",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_572.jpeg",
       "prompt": "8K DSLR hyper-realistic medium length, with natural skin, with dark messy korean-style hair, with same beard & mustache, (same face 💯%), dark villain vibe, sitting on a charpai front at bonfire, soft glowing warm light on his face, holding a tea cup, wearing a traditional shawl and white shalwar kameez, village mud house in background DSLR blurred, 85mm lens f/1.8, sharp focus, creating a glossy high-fashion skin.\"",
