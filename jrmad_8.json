@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_576",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_576.jpeg",
+      "prompt": "Prompt:\nCreate an image of a 18-year young boy inside a  Khwaja Garib Nawaz . kneeling and praying. Dress him in a black beautiful panjabi and panjabi and kuti and white Tupi . He should be wearing a Rolex watch. The young boy is wishing 'Jumma Mubarak' to everyone, and the text 'Jumma Mubarak' should be written at the top of the image. Make his face smooth, removing all blemishes.\" 100% same face and body as uploaded photo reference.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-02-19T01:28:41.718405Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_575",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_575.jpeg",
       "prompt": "Create a professional realistic image of the young man in the raised image with no change in any details of a smiling face, wearing a white dress and and white islamic cap and front hair cap se bahir looking from behind a rustic wooden door, holding a glowing antique brass lantern (lantern) emitting a warm golden light. In the background, the phrase \"Ramadan Kareem appears written in an elegant Arabic font, creating a friendly festive atmosphere. High resolution (8k), masterful artistic design.",
@@ -18,7 +28,7 @@
       "prompt": "Nighttime Ramadan Mubarak scene. Young Muslim man in black traditional outfit, side/back view, raising hands in dua while holding prayer beads. Warm peaceful expression, devotional mood. Soft golden bokeh lights, large blurred moon in background. Calm serene atmosphere, cinematic low-light photography. Elegant corner text: Ramadan Mubarak.",
       "category": "Portrait",
       "tags": [
-       "Ramadan 2026"
+        "Ramadan 2026"
       ],
       "popularity": 0,
       "createdAt": "2026-02-19T01:09:59.508476Z",
