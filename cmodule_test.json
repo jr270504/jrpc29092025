@@ -29,6 +29,16 @@
                     "action_type": "navigate",
                     "route": "train_home",
                     "is_coming_soon": false
+                },
+                {
+                    "id": "train2",
+                    "title": "Train Schedule2",
+                    "subtitle": "Railway Station Info2",
+                    "icon_code": 57704,
+                    "color_hex": "0xFFFF5722",
+                    "action_type": "navigate",
+                    "route": "train_home2",
+                    "is_coming_soon": false
                 }
             ]
         },
