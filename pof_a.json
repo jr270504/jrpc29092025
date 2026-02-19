@@ -26,9 +26,8 @@
     "removeBannerDurationSeconds": 3600
   },
   "desiredOrder": [
-    "Valentine Day",
-    "Ramadan 2026",
        "Trending", 
+     "Ramadan 2026",
     "Digital Art",
     "Cinematic",
     "Birthday",
