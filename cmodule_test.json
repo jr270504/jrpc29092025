@@ -39,6 +39,162 @@
                     "action_type": "navigate",
                     "route": "train_home",
                     "is_coming_soon": true
+                },
+                {
+                    "id": "rent_car",
+                    "title": "Rent A Car",
+                    "subtitle": "Private Car Rentals",
+                    "icon_code": 57698,
+                    "color_hex": "0xFF607D8B",
+                    "action_type": "navigate",
+                    "route": "rent_car_home",
+                    "is_coming_soon": true
+                }
+            ]
+        },
+        {
+            "id": "health_hub",
+            "title": "Health Care",
+            "subtitle": "Hospitals & Labs",
+            "icon_code": 57558,
+            "color_hex": "0xFFE91E63",
+            "action_type": "category",
+            "route": "",
+            "is_coming_soon": false,
+            "items": [
+                {
+                    "id": "hospitals",
+                    "title": "Hospitals",
+                    "subtitle": "Sheikh Zayed & Others",
+                    "icon_code": 57558,
+                    "color_hex": "0xFFE91E63",
+                    "action_type": "navigate",
+                    "route": "hospitals_list",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "labs",
+                    "title": "Laboratories",
+                    "subtitle": "Diagnostic Centers",
+                    "icon_code": 58162,
+                    "color_hex": "0xFF9C27B0",
+                    "action_type": "navigate",
+                    "route": "labs_list",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "pharmacies",
+                    "title": "Pharmacies",
+                    "subtitle": "24/7 Medical Stores",
+                    "icon_code": 58632,
+                    "color_hex": "0xFF4CAF50",
+                    "action_type": "navigate",
+                    "route": "pharmacies_list",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "doctors",
+                    "title": "Find a Doctor",
+                    "subtitle": "Specialists Directory",
+                    "icon_code": 58348,
+                    "color_hex": "0xFF2196F3",
+                    "action_type": "navigate",
+                    "route": "doctors_list",
+                    "is_coming_soon": true
+                }
+            ]
+        },
+        {
+            "id": "education_hub",
+            "title": "Education",
+            "subtitle": "Schools & Universities",
+            "icon_code": 58012,
+            "color_hex": "0xFF3F51B5",
+            "action_type": "category",
+            "route": "",
+            "is_coming_soon": false,
+            "items": [
+                {
+                    "id": "universities",
+                    "title": "Universities",
+                    "subtitle": "KFUEIT, IUB & More",
+                    "icon_code": 58012,
+                    "color_hex": "0xFF3F51B5",
+                    "action_type": "navigate",
+                    "route": "universities_list",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "colleges",
+                    "title": "Colleges",
+                    "subtitle": "Govt & Private",
+                    "icon_code": 59515,
+                    "color_hex": "0xFF2196F3",
+                    "action_type": "navigate",
+                    "route": "colleges_list",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "schools",
+                    "title": "Schools",
+                    "subtitle": "Top Schools in RYK",
+                    "icon_code": 60233,
+                    "color_hex": "0xFF00BCD4",
+                    "action_type": "navigate",
+                    "route": "schools_list",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "academies",
+                    "title": "Academies",
+                    "subtitle": "Tuition Centers",
+                    "icon_code": 58679,
+                    "color_hex": "0xFFFFC107",
+                    "action_type": "navigate",
+                    "route": "academies_list",
+                    "is_coming_soon": true
+                }
+            ]
+        },
+        {
+            "id": "utilities_hub",
+            "title": "Utilities",
+            "subtitle": "Bills & Services",
+            "icon_code": 61474,
+            "color_hex": "0xFF607D8B",
+            "action_type": "category",
+            "route": "",
+            "is_coming_soon": false,
+            "items": [
+                {
+                    "id": "mepco",
+                    "title": "Electricity (MEPCO)",
+                    "subtitle": "Check Online Bill",
+                    "icon_code": 57936,
+                    "color_hex": "0xFFFFC107",
+                    "action_type": "navigate",
+                    "route": "mepco_home",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "gas",
+                    "title": "Sui Gas (SNGPL)",
+                    "subtitle": "Check Online Bill",
+                    "icon_code": 57902,
+                    "color_hex": "0xFF2196F3",
+                    "action_type": "navigate",
+                    "route": "gas_home",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "internet",
+                    "title": "Internet Providers",
+                    "subtitle": "Fiber & Broadband",
+                    "icon_code": 57864,
+                    "color_hex": "0xFF9C27B0",
+                    "action_type": "navigate",
+                    "route": "internet_home",
+                    "is_coming_soon": true
                 }
             ]
         },
@@ -66,11 +222,149 @@
             "id": "emergency",
             "title": "Emergency",
             "subtitle": "Ambulance & Police",
-            "icon_code": 57558,
+            "icon_code": 58253,
             "color_hex": "0xFFF44336",
-            "action_type": "navigate",
-            "route": "emergency_home",
-            "is_coming_soon": true
+            "action_type": "category",
+            "route": "",
+            "is_coming_soon": false,
+            "items": [
+                {
+                    "id": "rescue_1122",
+                    "title": "Rescue 1122",
+                    "subtitle": "Ambulance & Fire",
+                    "icon_code": 58253,
+                    "color_hex": "0xFFF44336",
+                    "action_type": "navigate",
+                    "route": "rescue_1122",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "police",
+                    "title": "Police Stations",
+                    "subtitle": "Local Stations Info",
+                    "icon_code": 58167,
+                    "color_hex": "0xFF3F51B5",
+                    "action_type": "navigate",
+                    "route": "police_stations",
+                    "is_coming_soon": true
+                }
+            ]
+        },
+        {
+            "id": "jobs_hub",
+            "title": "Jobs & Careers",
+            "subtitle": "Govt & Private Jobs",
+            "icon_code": 58693,
+            "color_hex": "0xFF7CB342",
+            "action_type": "category",
+            "route": "",
+            "is_coming_soon": false,
+            "items": [
+                {
+                    "id": "govt_jobs",
+                    "title": "Government Jobs",
+                    "subtitle": "Latest Openings",
+                    "icon_code": 59515,
+                    "color_hex": "0xFF4CAF50",
+                    "action_type": "navigate",
+                    "route": "govt_jobs_list",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "private_jobs",
+                    "title": "Private Jobs",
+                    "subtitle": "Local Companies",
+                    "icon_code": 58693,
+                    "color_hex": "0xFF8BC34A",
+                    "action_type": "navigate",
+                    "route": "private_jobs_list",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "online_work",
+                    "title": "Online Work",
+                    "subtitle": "Freelancing & Remote",
+                    "icon_code": 58166,
+                    "color_hex": "0xFF009688",
+                    "action_type": "navigate",
+                    "route": "online_work_list",
+                    "is_coming_soon": true
+                }
+            ]
+        },
+        {
+            "id": "property_hub",
+            "title": "Real Estate",
+            "subtitle": "Buy, Rent & Sell",
+            "icon_code": 58138,
+            "color_hex": "0xFF795548",
+            "action_type": "category",
+            "route": "",
+            "is_coming_soon": false,
+            "items": [
+                {
+                    "id": "buy_property",
+                    "title": "Buy Property",
+                    "subtitle": "Houses & Plots",
+                    "icon_code": 58138,
+                    "color_hex": "0xFF5D4037",
+                    "action_type": "navigate",
+                    "route": "buy_property_list",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "rent_property",
+                    "title": "Rent Property",
+                    "subtitle": "Houses & Portions",
+                    "icon_code": 58339,
+                    "color_hex": "0xFF8D6E63",
+                    "action_type": "navigate",
+                    "route": "rent_property_list",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "societies",
+                    "title": "Housing Societies",
+                    "subtitle": "Maps & Info",
+                    "icon_code": 58715,
+                    "color_hex": "0xFFA1887F",
+                    "action_type": "navigate",
+                    "route": "societies_list",
+                    "is_coming_soon": true
+                }
+            ]
+        },
+        {
+            "id": "tourism_hub",
+            "title": "Visit RYK",
+            "subtitle": "Places & History",
+            "icon_code": 58691,
+            "color_hex": "0xFF795548",
+            "action_type": "category",
+            "route": "",
+            "is_coming_soon": false,
+            "items": [
+                {
+                    "id": "places",
+                    "title": "Historical Places",
+                    "subtitle": "Bhong Mosque etc.",
+                    "icon_code": 58691,
+                    "color_hex": "0xFF795548",
+                    "action_type": "navigate",
+                    "route": "places_list",
+                    "is_coming_soon": true
+                },
+                {
+                    "id": "parks",
+                    "title": "Parks & Recreation",
+                    "subtitle": "City Park, Desert",
+                    "icon_code": 58784,
+                    "color_hex": "0xFF4CAF50",
+                    "action_type": "navigate",
+                    "route": "parks_list",
+                    "is_coming_soon": true
+                }
+            ]
         }
     ]
 }
