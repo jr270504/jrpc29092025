@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_574",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_574.jpeg",
+      "prompt": "Nighttime Ramadan Mubarak scene. Young Muslim man in black traditional outfit, side/back view, raising hands in dua while holding prayer beads. Warm peaceful expression, devotional mood. Soft golden bokeh lights, large blurred moon in background. Calm serene atmosphere, cinematic low-light photography. Elegant corner text: Ramadan Mubarak.",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "New"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-19T01:09:59.508476Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_573",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_573.jpeg",
       "prompt": "A young man (use refrence image) stands outdoors in a relaxed pose While folding the one hand shirt, wearing a loose, black -colored patterned shirt with an open collar and gray wide-leg trousers. head tilted down in a candid gesture. He has a stylish watch on his wrist. The background features blurred greenery and tall trees, giving a safy,) natural, urban vibe with daylight and casual fashion focus. Keep my face 100% accurate. ar 9 :16.",
