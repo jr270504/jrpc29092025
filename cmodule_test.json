@@ -28,7 +28,7 @@
                     "color_hex": "0xFFFF5722",
                     "action_type": "navigate",
                     "route": "train_home",
-                    "is_coming_soon": true
+                    "is_coming_soon": false
                 }
             ]
         },
