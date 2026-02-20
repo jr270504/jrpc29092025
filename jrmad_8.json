@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_580",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_580.jpeg",
+      "prompt": "Create a completely new ultra realistic Instagram vertical 4:5 selfie image for Gemini 3 Pro Nano Banana of the same handsome, youthful, physically fit man with identical facial features to the reference selfie, holding the phone slightly above eye level at arm’s length so we clearly see his face and upper body. He gives a relaxed confident half smile and looks straight into the camera. All the classic Angry Birds characters are crowded in close around him like friends in a group selfie: Red pressed to one side of his shoulder, Chuck leaning in from the bottom, Bomb just behind him, Stella peeking over his other shoulder, plus a few green pigs photobombing from the back. Each character looks fully realistic with dense, soft feathers, subtle color variations, and believable light interaction on beaks, eyes, and feathers, not cartoon or plastic. The background is a softly blurred nostalgic Angry Birds landscape with floating wooden and stone blocks and a faint blue sky, evoking the original game without stealing focus from the faces. Lighting is bright but soft, like golden hour window light, giving natural skin tone, shiny eyes, and gentle highlights on feathers and hair. Artistic vision is a joyful nostalgic selfie that feels like a real photo with detailed textures and very fine film grain, graded using a warm cinematic LUT that keeps reds, yellows, and greens vibrant while preserving natural skin color. Phone camera perspective should feel authentic, as if shot on a 24 to 28 mm lens at around f/2.0, with the man and nearest characters in sharp focus and the background slightly blurred for depth.",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "Digital Art"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-20T00:50:58.213689Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_579",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_579.jpeg",
       "prompt": "Create a hyper-realistic portrait of a man sitting in a cliff a of rock in mountain, (Used reference photo 100% for Face details) the full shot of a man from the side view, with Wavy Farming massy hair, sitting on the edge of a rocky cliff. He is wearing a Black Oversized Hoodie and Brown oversized pants and white sneakers. A rests on the rock beside him. In the full dence misty background, there is a foggy, vast mountain view with a light, overcast sky.",
