@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_579",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_579.jpeg",
+      "prompt": "Create a hyper-realistic portrait of a man sitting in a cliff a of rock in mountain, (Used reference photo 100% for Face details) the full shot of a man from the side view, with Wavy Farming massy hair, sitting on the edge of a rocky cliff. He is wearing a Black Oversized Hoodie and Brown oversized pants and white sneakers. A rests on the rock beside him. In the full dence misty background, there is a foggy, vast mountain view with a light, overcast sky.",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "Cinematic"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-20T00:44:44.436321Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_578",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_578.jpeg",
       "prompt": "Create a hyper-realistic, cartoonish 3D version of the character in the attached image, with “big head” proportions (large head and small body). Maintain 100% faithful facial identity, with detailed skin texture, natural glow, soft shadows, and accurately modeled hair. Dress the character in their original outfit, displaying realistic fabric texture.\nProfessional studio lighting, neutral gray background with a blurred effect. Pixar style, friendly expression and dynamic, engaging posture",
