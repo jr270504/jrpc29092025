@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_583",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_583.jpeg",
+      "prompt": "Ultra-realistic DSLR portrait photograph of me  in deop prayer, studio style, extremely natural, 0% blur, sharp focus, real skin texture, no Al look, no CGI, no Illustration, no painting, no filters.\nCHARACTER & FACE:\nYoung adult male, fair to light wheatish skin tone, well-defined jawline, thick eyebrows, neatly trimmed short beard and mustache, soft masculine facial features.\nOUTFIT DETAILS:\nPure white long-sleeve kurta, traditional patterned headscarf/turban wrapped around head (earthy beige with green and red motifs), silver metal wristwatch on loft wrist, dark brown wooden tasbih (prayer beads), holding a red Qur'an with golden islamic pattern cover.\nPOSE DETAILS:\nUpper-body portrait,\narms crossed over chest, Qur'an pressed gently against heart, right hand holding tasbih resting on Qur'an,\nhead slightly tilted upward, eyes closed.\nEXPRESSION DETAILS:\nPeaceful,\nspiritually immersed,\ncalm face, serene emotion, devotional feeling.\nBACKGROUND DETAILS: Holy Kaaba cl\nUse reference face",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "Ramadan 2026"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-20T13:50:44.727795Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_582",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_582.jpeg",
       "prompt": "A high-quality cinematic medium shot me with a and glasses, wearing a pristine white thobe (jubba) and a white turban (imamate). He is captured in a soulful, expressive pose with his hands raised in prayer or supplication. The background is a lush, vibrant green garden with soft-focus bokeh, featuring blurred yellow and teal decorative banners. The lighting is bright and airy with a cool color grade, giving the scene a serene and spiritual atmosphere. 8k resolution, shot on a 85mm lens for deep background blur. keep original face and hairstyle 100% reference",
