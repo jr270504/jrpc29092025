@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_578",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_578.jpeg",
+      "prompt": "Create a hyper-realistic, cartoonish 3D version of the character in the attached image, with “big head” proportions (large head and small body). Maintain 100% faithful facial identity, with detailed skin texture, natural glow, soft shadows, and accurately modeled hair. Dress the character in their original outfit, displaying realistic fabric texture.\nProfessional studio lighting, neutral gray background with a blurred effect. Pixar style, friendly expression and dynamic, engaging posture",
+      "category": "Portrait",
+      "tags": [
+        "Digital Art"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-20T00:40:20.830549Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_577",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_577.jpeg",
       "prompt": "A young man standing peacefully in front of the Kaaba in Makkah during golden sunset, wearing pure white Ihram cloth. His eyes are closed, one hand placed gently on his chest, and the other below it, showing calm devotion. The atmosphere is spiritual and warm with soft sunlight. The background shows pilgrims in white clothes walking around.Replace the original person's face with [your uploaded face image]make sure the skin tone, lighting, and shadows match perfectly.",
@@ -17,7 +29,9 @@
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_576.jpeg",
       "prompt": "Prompt:\nCreate an image of a 18-year young boy inside a  Khwaja Garib Nawaz . kneeling and praying. Dress him in a black beautiful panjabi and panjabi and kuti and white Tupi . He should be wearing a Rolex watch. The young boy is wishing 'Jumma Mubarak' to everyone, and the text 'Jumma Mubarak' should be written at the top of the image. Make his face smooth, removing all blemishes.\" 100% same face and body as uploaded photo reference.",
       "category": "Portrait",
-      "tags": ["Ramadan 2026"],
+      "tags": [
+        "Ramadan 2026"
+      ],
       "popularity": 0,
       "createdAt": "2026-02-19T01:28:41.718405Z",
       "isFeatured": false
