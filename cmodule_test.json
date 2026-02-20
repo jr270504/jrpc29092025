@@ -25,7 +25,7 @@
                     "title": "Train Schedule",
                     "subtitle": "Railway Station Info",
                     "icon_code": 57813,
-                    "color_hex": "0xFFFF5722",
+                    "color_hex": "0xFF5E8053",
                     "action_type": "navigate",
                     "route": "train_home",
                     "is_coming_soon": false
