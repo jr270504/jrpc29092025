@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_582",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_582.jpeg",
+      "prompt": "A high-quality cinematic medium shot me with a and glasses, wearing a pristine white thobe (jubba) and a white turban (imamate). He is captured in a soulful, expressive pose with his hands raised in prayer or supplication. The background is a lush, vibrant green garden with soft-focus bokeh, featuring blurred yellow and teal decorative banners. The lighting is bright and airy with a cool color grade, giving the scene a serene and spiritual atmosphere. 8k resolution, shot on a 85mm lens for deep background blur. keep original face and hairstyle 100% reference",
+      "category": "Portrait",
+      "tags": [
+        "Ramadan 2026"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-20T13:43:01.624299Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_581",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_581.jpeg",
       "prompt": "Create a completely new ultra realistic Instagram vertical 4:5 image for Gemini 3 Pro Nano Banana of the same handsome, youthful, physically fit man with identical facial features to the selfie, now fully inside the Angry Birds game world. He is mid action, standing on a wooden platform among floating stone and glass blocks, laughing and pulling back a massive slingshot band with Red sitting in the pouch, while Chuck, Bomb, Stella and several green pigs are all around him reacting in dynamic poses. The man wears a cool modern gamer outfit inspired by the game colors: fitted black T-shirt with a small red bird icon on the chest, casual cargo pants in olive green, and white sneakers with subtle red and yellow accents, all looking real and textured. The environment recreates the classic Angry Birds level: blue sky with soft clouds, distant rolling green hills, and stacks of wooden beams, stone blocks, and glass panels suspended in the air, some already breaking with tiny realistic debris and dust. All characters appear lifelike with dense, detailed feathers, natural color variations, soft shadows between feather layers, realistic shine in their eyes, and slightly worn textures on the pigs’ skin and helmets, not cartoon, not CGI, not plastic. Lighting feels like bright late afternoon sun from one side, casting clear but soft shadows and warm highlights on the man’s skin, on the slingshot wood, and on the feathers, with a slight glow in the air that makes the world feel magical and nostalgic. The overall mood is joyful, fun, and full of motion, instantly bringing back memories of playing Angry Birds on a phone. Artistic style is cinematic but grounded, like a high budget movie adaptation of the game, with ultra high resolution detail, slight film grain, and a rich but controlled color grade that keeps reds, yellows, greens, and blues vivid while maintaining natural skin tone. Camera angle is a slightly low, dynamic three-quarter view, as if shot on a 24 mm lens at around f/3.2, keeping the man and the nearest characters crisply in focus while the far background structures are slightly blurred to create depth.",
