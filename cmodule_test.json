@@ -1,35 +1,46 @@
 {
-    "city_modules": [
-         {
-                    "id": "ebus",
-                    "title": "E-Bus Service",
-                    "subtitle": "Inner City Loop",
-                    "icon_code": 57813,
-                    "color_hex": "0xFF009688",
-                    "action_type": "navigate",
-                    "route": "ebus_home",
-                    "is_coming_soon": false
-                },
-                {
-                    "id": "train",
-                    "title": "Train Schedule",
-                    "subtitle": "Railway Station Info",
-                    "icon_code": 57813,
-                    "color_hex": "0xFF5E8053",
-                    "action_type": "navigate",
-                    "route": "train_home",
-                    "is_coming_soon": false
-                },
-      
+  "city_modules": [
+    {
+      "id": "transport_hub",
+      "title": "Public Transport",
+      "subtitle": "Bus, Train & Local",
+      "icon_code": 58738,
+      "color_hex": "0xFF009688",
+      "action_type": "category",
+      "route": "",
+      "is_coming_soon": false,
+      "items": [
         {
-            "id": "ramadan_2026",
-            "title": "Ramadan 2026",
-            "subtitle": "Sehri & Iftar Times",
-            "icon_code": 58412,
-            "color_hex": "0xFF673AB7",
-            "action_type": "navigate",
-            "route": "ramadan_home",
-            "is_coming_soon": false
+          "id": "ebus",
+          "title": "E-Bus Service",
+          "subtitle": "Inner City Loop",
+          "icon_code": 57813,
+          "color_hex": "0xFF009688",
+          "action_type": "navigate",
+          "route": "ebus_home",
+          "is_coming_soon": false
+        },
+        {
+          "id": "train",
+          "title": "Train Schedule",
+          "subtitle": "Railway Station Info",
+          "icon_code": 57813,
+          "color_hex": "0xFF5E8053",
+          "action_type": "navigate",
+          "route": "train_home",
+          "is_coming_soon": false
         }
-    ]
+      ]
+    },
+    {
+      "id": "ramadan_2026",
+      "title": "Ramadan 2026",
+      "subtitle": "Sehri & Iftar Times",
+      "icon_code": 58412,
+      "color_hex": "0xFF673AB7",
+      "action_type": "navigate",
+      "route": "ramadan_home",
+      "is_coming_soon": false
+    }
+  ]
 }
