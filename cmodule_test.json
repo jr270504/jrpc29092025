@@ -1,16 +1,6 @@
 {
     "city_modules": [
-        {
-            "id": "transport_hub",
-            "title": "Public Transport",
-            "subtitle": "Bus, Train & Local",
-            "icon_code": 58738,
-            "color_hex": "0xFF009688",
-            "action_type": "category",
-            "route": "",
-            "is_coming_soon": false,
-            "items": [
-                {
+         {
                     "id": "ebus",
                     "title": "E-Bus Service",
                     "subtitle": "Inner City Loop",
@@ -29,9 +19,8 @@
                     "action_type": "navigate",
                     "route": "train_home",
                     "is_coming_soon": false
-                }
-            ]
-        },
+                },
+      
         {
             "id": "ramadan_2026",
             "title": "Ramadan 2026",
