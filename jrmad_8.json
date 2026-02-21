@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_585",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_585.jpeg",
+      "prompt": "A young Muslim man (reference image) wearing a white ihram garment rests gently with his forehead and hand on the black Kiswah (cover) of the Kaaba, his eyes closed in deep spiritual reverence. The gold Arabic calligraphy embroidery KCMND on the Kiswah is visible. In the background, the courtyard of the Grand Mosque is visible, with pilgrims in white ihram garments walking through it. The sunset light is warm and soft, and the sky is a pastel pink and orange. There is a shallow depth of field and a slightly blurred background. The skin texture is realistic, the lighting is cinematic, the facial expression is natural, and the atmosphere is serene and emotional. Professional photography, DSLR camera, 50mm lens, f/1.8 aperture, Super Resolution, 8K, sharp focus, photographic realism, soft shadows,\nnatural colors.",
+      "category": "Portrait",
+      "tags": [
+        "Ramadan 2026"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-21T08:42:09.763915Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_584",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_584.jpeg",
       "prompt": "A stylish Pakistani man with same face as reference image, messy voluminous hair, and chiseled jawline wearing a black traditional Shalwar Kameez 2 buttons open, silver necklace visible and white black jacket sandals, sitting casually on a modern patio chair on a well-maintained green lawn at night seen full moon dark sky. He is holding an iPhone 17 pro max and looking down at it,",
