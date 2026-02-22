@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_586",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_586.jpeg",
+      "prompt": "Without changing my facial features, create a stylish, 4k modern portrait of a young boy 23  years old with same refference face Messy valume hair, look a behind wearing a oversized red & white line cheak shirt. Single accessorized with a smart_watch With black sunglasses. The background natural is colourful soft: minimal, and subtly blurred to emphasize a contemporary fashion-forward vifac.Cinematic lighting, ultra-detailed, realistic textures, and a polished editorial",
+      "category": "Portrait",
+      "tags": [
+        "New"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-22T11:14:33.685810Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_585",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_585.jpeg",
       "prompt": "A young Muslim man (reference image) wearing a white ihram garment rests gently with his forehead and hand on the black Kiswah (cover) of the Kaaba, his eyes closed in deep spiritual reverence. The gold Arabic calligraphy embroidery KCMND on the Kiswah is visible. In the background, the courtyard of the Grand Mosque is visible, with pilgrims in white ihram garments walking through it. The sunset light is warm and soft, and the sky is a pastel pink and orange. There is a shallow depth of field and a slightly blurred background. The skin texture is realistic, the lighting is cinematic, the facial expression is natural, and the atmosphere is serene and emotional. Professional photography, DSLR camera, 50mm lens, f/1.8 aperture, Super Resolution, 8K, sharp focus, photographic realism, soft shadows,\nnatural colors.",
