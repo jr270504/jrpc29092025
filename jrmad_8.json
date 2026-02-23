@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_588",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_588.jpeg",
+      "prompt": "A very handsome young boy with wavy fringe hair style, create a 8k hyper-realistic portrait with dramatic smile actions (refrence image given) with a slightly dark messy hairstyle and wearing a lose blue-white-black gradient half lineing shirt and white pant. He hold a blue-white fire rose, He is looking thoughtfully camera, light blue glow butterflys flying, high-key cinematic outdoor park night portrait, tial-blue-white bokeh.",
+      "category": "Portrait",
+      "tags": [
+        "Male"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-23T20:56:16.907217Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_587",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_587.jpeg",
       "prompt": "Creat a 16k hyper-realistic dark green portrait cinematic image with dramatic smile actions .(uploaded  photo 100% face match)A 5.10feet young handsome Man (same as uploaded photo don't change hairstyle and facial expressions and keep sunglasses) wearing traditional South Indian attire with a normal white shirt, white dhoti with golden border. He is accessorized, a chain, and brown sandals, White apple Watch, The Man walks confidently along a pathway, Holding a Dhoti in South Indian Style, surrounded by greenery, exuding charm and cuteness.Bright, vibrant outdoor photography with a blurred background and natural light",
