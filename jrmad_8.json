@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_589",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_589.jpeg",
+      "prompt": "Ganrate An ultra realistic resolution portrait of young man(same person in image, exactly same facial feature, same moustache and he is 6.1 feet Tall) with messy hair yet styled. outdoors under green tree branches; one hand raised holding a thick branch, other hand in pocket. Wearing a dark marun zipper knit sweater long collar,and white jeans ,smartwatch,. Confident candid pose. Natural daylight with surreal deep-blue ambient fill + warm golden-hour sunlight, high contrast lighting. 9:16 ratio",
+      "category": "Portrait",
+      "tags": [
+        "Cinematic"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-02-27T06:35:34.435515Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_588",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_588.jpeg",
       "prompt": "A very handsome young boy with wavy fringe hair style, create a 8k hyper-realistic portrait with dramatic smile actions (refrence image given) with a slightly dark messy hairstyle and wearing a lose blue-white-black gradient half lineing shirt and white pant. He hold a blue-white fire rose, He is looking thoughtfully camera, light blue glow butterflys flying, high-key cinematic outdoor park night portrait, tial-blue-white bokeh.",
