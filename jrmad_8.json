@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_593",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_593.jpeg",
+      "prompt": "Create a head-and-shoulders animated 3D portrait of a warmhearted person based on the reference image with thick, sculpted reddish-brown hair and a friendly, rounded face. He features a comforting open-mouthed smile with large, gentle eyes gazing forward while wearing a stylized oatmeal-colored wool turtleneck. Isolated on a seamless white background, the render showcases a soft clay aesthetic with flawless skin and gentle volumetric lighting.",
+      "category": "Portrait",
+      "tags": [
+        "Digital Art"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-03-02T19:29:58.478454Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_592",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_592.jpeg",
       "prompt": "A realistic 3D cartoon girl stepping out of a spiral sketchbook, illusion style. The notebook is placed on a rustic wooden desk with a pencil and pencil shavings around. On the notebook page there is a pencil sketch of the same girl, and the 3D version is coming out of the drawing, one foot still on the paper and one foot outside, creating a hyper-realistic 3D illusion effect. The girl has soft wavy brown hair, big expressive eyes, cute smile, wearing a pastel striped sleeveless top, fitted grey",
