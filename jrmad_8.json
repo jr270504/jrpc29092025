@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_591",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_591.jpeg",
+      "prompt": "Ultra-realistic cinematic portrait of a mature man(keep the facial features unchanged as uploaded image)with  curly loose manbun hair , no chest hair and full beard, side profile looking slightly upward, wearing dark round sunglasses and à deep green button shirt. Bold solid red studio background. Dramatic moody lighting with strong contrast and soft shadow falloff. Sharp skin texture, detailed beard, professional fashion photography, 85mm lens, f/1.8, studio lighting, 8K resolution.",
+      "category": "Portrait",
+      "tags": [
+        "All"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-03-02T19:02:19.374249Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_590",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_590.jpeg",
       "prompt": "A highly realistic and cinematic portrait of a 25+ year old Sindhi man standing confidently in front of an ancient historic fort in Sindh, Pakistan. The fort has old stone walls, traditional architecture, and a slightly weathered look.\nThe man is wearing a clean white shalwar kameez, a traditional Sindhi topi on his head, and a red and black Sindhi ajrak draped elegantly over his shoulder.\nHe has a calm and proud expression, natural beard, medium brown skin tone.\nGolden hour lighting, warm sunlight hitting the fort walls, soft shadows, high detail fabric texture, cinematic depth of field, sharp focus, ultra HD, realistic skin texture, cultural heritage vibe.\n9:16 aspect ratio, DSLR photography style, professional color grading.",
