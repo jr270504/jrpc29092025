@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_592",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_592.jpeg",
+      "prompt": "A realistic 3D cartoon girl stepping out of a spiral sketchbook, illusion style. The notebook is placed on a rustic wooden desk with a pencil and pencil shavings around. On the notebook page there is a pencil sketch of the same girl, and the 3D version is coming out of the drawing, one foot still on the paper and one foot outside, creating a hyper-realistic 3D illusion effect. The girl has soft wavy brown hair, big expressive eyes, cute smile, wearing a pastel striped sleeveless top, fitted grey",
+      "category": "Portrait",
+      "tags": [
+        "Digital Art"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-03-02T19:17:51.202923Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_591",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_591.jpeg",
       "prompt": "Ultra-realistic cinematic portrait of a mature man(keep the facial features unchanged as uploaded image)with  curly loose manbun hair , no chest hair and full beard, side profile looking slightly upward, wearing dark round sunglasses and à deep green button shirt. Bold solid red studio background. Dramatic moody lighting with strong contrast and soft shadow falloff. Sharp skin texture, detailed beard, professional fashion photography, 85mm lens, f/1.8, studio lighting, 8K resolution.",
