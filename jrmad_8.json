@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_590",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_590.jpeg",
+      "prompt": "A highly realistic and cinematic portrait of a 25+ year old Sindhi man standing confidently in front of an ancient historic fort in Sindh, Pakistan. The fort has old stone walls, traditional architecture, and a slightly weathered look.\nThe man is wearing a clean white shalwar kameez, a traditional Sindhi topi on his head, and a red and black Sindhi ajrak draped elegantly over his shoulder.\nHe has a calm and proud expression, natural beard, medium brown skin tone.\nGolden hour lighting, warm sunlight hitting the fort walls, soft shadows, high detail fabric texture, cinematic depth of field, sharp focus, ultra HD, realistic skin texture, cultural heritage vibe.\n9:16 aspect ratio, DSLR photography style, professional color grading.",
+      "category": "Portrait",
+      "tags": [
+        "All"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-03-02T10:40:12.471331Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_589",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_589.jpeg",
       "prompt": "Ganrate An ultra realistic resolution portrait of young man(same person in image, exactly same facial feature, same moustache and he is 6.1 feet Tall) with messy hair yet styled. outdoors under green tree branches; one hand raised holding a thick branch, other hand in pocket. Wearing a dark marun zipper knit sweater long collar,and white jeans ,smartwatch,. Confident candid pose. Natural daylight with surreal deep-blue ambient fill + warm golden-hour sunlight, high contrast lighting. 9:16 ratio",
