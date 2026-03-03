@@ -2,9 +2,9 @@
   "main_dialog": {
     "display_title": "Welcome to City Services",
     "message": "Explore the new Ramadan 2026 schedule and updated E-Bus routes.",
-    "image_url": "https://example.com/assets/dialog_banner.png",
-    "action_url": "https://cityapp.com/updates/ramadan-2026",
-    "button_text": "View Now",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BHONG_MOSQUE.jpg/960px-BHONG_MOSQUE.jpg",
+    "action_url": "https://en.wikipedia.org/wiki/Rahim_Yar_Khan",
+    "button_text": "Learn about Rahim Yar Khan",
     "is_active": true
   },
   "city_modules": [
