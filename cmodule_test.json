@@ -1,5 +1,6 @@
 {
   "main_dialog": {
+    "id": "md1",
     "display_title": "Welcome to City Services",
     "message": "Explore the new Ramadan 2026 schedule and updated E-Bus routes.",
     "image_url": "https://i.pinimg.com/564x/68/9b/71/689b71078cf4abec257cc18adb6c4d21.jpg",
