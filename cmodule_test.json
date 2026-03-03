@@ -1,4 +1,12 @@
 {
+  "main_dialog": {
+    "display_title": "Welcome to City Services",
+    "message": "Explore the new Ramadan 2026 schedule and updated E-Bus routes.",
+    "image_url": "https://example.com/assets/dialog_banner.png",
+    "action_url": "https://cityapp.com/updates/ramadan-2026",
+    "button_text": "View Now",
+    "is_active": true
+  },
   "city_modules": [
     {
       "id": "transport_hub",
@@ -52,4 +60,3 @@
     }
   ]
 }
-
