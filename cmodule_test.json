@@ -3,7 +3,9 @@
     {
       "id": "transport_hub",
       "title": "Public Transport",
+      "title_ur": "عوامی سواری",
       "subtitle": "Bus, Train & Local",
+      "subtitle_ur": "بس، ٹرین اور مقامی",
       "icon_code": 58738,
       "color_hex": "0xFF009688",
       "action_type": "category",
@@ -13,7 +15,9 @@
         {
           "id": "ebus",
           "title": "E-Bus Service",
+          "title_ur": "ای-بس سروس",
           "subtitle": "Inner City Loop",
+          "subtitle_ur": "اندرون شہر لوپ",
           "icon_code": 57813,
           "color_hex": "0xFF009688",
           "action_type": "navigate",
@@ -23,7 +27,9 @@
         {
           "id": "train",
           "title": "Train Schedule",
+          "title_ur": "ٹرین کا شیڈول",
           "subtitle": "Railway Station Info",
+          "subtitle_ur": "ریلوے اسٹیشن کی معلومات",
           "icon_code": 57813,
           "color_hex": "0xFF5E8053",
           "action_type": "navigate",
@@ -35,7 +41,9 @@
     {
       "id": "ramadan_2026",
       "title": "Ramadan 2026",
+      "title_ur": "رمضان ۲۰۲۶",
       "subtitle": "Sehri & Iftar Times",
+      "subtitle_ur": "سحر و افطار کے اوقات",
       "icon_code": 58412,
       "color_hex": "0xFF673AB7",
       "action_type": "navigate",
@@ -44,3 +52,4 @@
     }
   ]
 }
+
