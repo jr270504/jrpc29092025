@@ -1,4 +1,8 @@
 {
+    "facebook_config": {
+    "url": "https://www.facebook.com/share/1Ci8Gbh4xC/",
+    "is_active": true
+  },
   "main_dialog": {
     "id": "md1",
     "display_title": "Welcome to City Services",
