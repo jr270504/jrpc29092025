@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_594",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_594.jpeg",
+      "prompt": "Use my face and create a pic a young man with same hair and wear brown silk shalwar qameez standing with railings in his farm house and he is putt off his sunglasses with right hand and also seeing down also up his sleeves of his qameez,wear stylish chain in his right hand also wear black loafers, high realistic portrait 8k super resolution pic also with collard qameez.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-03-05T14:00:36.055154Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_593",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_593.jpeg",
       "prompt": "Create a head-and-shoulders animated 3D portrait of a warmhearted person based on the reference image with thick, sculpted reddish-brown hair and a friendly, rounded face. He features a comforting open-mouthed smile with large, gentle eyes gazing forward while wearing a stylized oatmeal-colored wool turtleneck. Isolated on a seamless white background, the render showcases a soft clay aesthetic with flawless skin and gentle volumetric lighting.",
