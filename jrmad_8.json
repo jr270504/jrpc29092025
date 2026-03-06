@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_595",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_595.jpeg",
+      "prompt": "Don't change the face.\nStylized low-angle chest-up urban portrait, head slightly raised, wearing green tinted sunglasses, gold chain, patterned green streetwear, heavy neck and face tattoos. Bold graphic digital illustration style with sharp shading. Large light green filled circular with grunge paint splashes on dark grey background. Warm reflections, high contrast poster look. Change only facial features.",
+      "category": "Portrait",
+      "tags": [
+        "Digital Art"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-03-06T10:57:54.496191Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_594",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_594.jpeg",
       "prompt": "Use my face and create a pic a young man with same hair and wear brown silk shalwar qameez standing with railings in his farm house and he is putt off his sunglasses with right hand and also seeing down also up his sleeves of his qameez,wear stylish chain in his right hand also wear black loafers, high realistic portrait 8k super resolution pic also with collard qameez.",
