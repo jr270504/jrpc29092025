@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_596",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_596.jpeg",
+      "prompt": "Ultra-realistic full body studio portrait of a handsome young man with short textured brown hair and light stubble, wearing a red hoodie with bold white graphic text, dark grey cargo pants and white high-top sneakers. Standing relaxed with one leg slightly crossed and hands in pockets. Solid red seamless studio background. Soft professional studio lighting, sharp fabric texture, fashion editorial photography, 50mm lens, high detail, 8K.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-03-06T11:38:37.917472Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_595",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_595.jpeg",
       "prompt": "Don't change the face.\nStylized low-angle chest-up urban portrait, head slightly raised, wearing green tinted sunglasses, gold chain, patterned green streetwear, heavy neck and face tattoos. Bold graphic digital illustration style with sharp shading. Large light green filled circular with grunge paint splashes on dark grey background. Warm reflections, high contrast poster look. Change only facial features.",
