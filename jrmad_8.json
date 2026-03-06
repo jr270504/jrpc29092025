@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_597",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_597.jpeg",
+      "prompt": "A stylish young man posing outdoors in front of a dark grey brick wall and modern metal gate, wearing black sunglasses, a black t-shirt, and a red and black checkered wool jacket with black leather pockets. His hair is thick, wavy, and styled with volume. Light stubble beard, sharp jawline, confident expression looking slightly to the side. Moody cinematic lighting, soft natural daylight, shallow depth of field, blurred background, high detail, ultra realistic, 4K portrait photography,",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-03-06T14:30:58.651880Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_596",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_596.jpeg",
       "prompt": "Ultra-realistic full body studio portrait of a handsome young man with short textured brown hair and light stubble, wearing a red hoodie with bold white graphic text, dark grey cargo pants and white high-top sneakers. Standing relaxed with one leg slightly crossed and hands in pockets. Solid red seamless studio background. Soft professional studio lighting, sharp fabric texture, fashion editorial photography, 50mm lens, high detail, 8K.",
