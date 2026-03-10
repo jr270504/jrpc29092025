@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_599",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_599.jpeg",
+      "prompt": "If no reference image is provided, ask for one. Tradition never goes out of style. In heritage attire, he carries the calm confidence of the past—where grace, respect, and character defined the essence of a man. In a world chasing trends, he stands rooted in timeless values, wearing not just clothing but the quiet pride of generations before him. Maintain the original facial expression.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-03-10T18:16:43.733891Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_598",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_598.jpeg",
       "prompt": "Tradition never goes out of style. In heritage attire, he carries the calm confidence of the past—where grace, respect, and character defined the essence of a man. In a world chasing trends, he stands rooted in timeless values, wearing not just clothing but the quiet pride of generations before him.",
