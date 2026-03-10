@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_598",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_598.jpeg",
+      "prompt": "Tradition never goes out of style. In heritage attire, he carries the calm confidence of the past—where grace, respect, and character defined the essence of a man. In a world chasing trends, he stands rooted in timeless values, wearing not just clothing but the quiet pride of generations before him.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-03-10T16:11:58.009296Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_597",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_597.jpeg",
       "prompt": "A stylish young man posing outdoors in front of a dark grey brick wall and modern metal gate, wearing black sunglasses, a black t-shirt, and a red and black checkered wool jacket with black leather pockets. His hair is thick, wavy, and styled with volume. Light stubble beard, sharp jawline, confident expression looking slightly to the side. Moody cinematic lighting, soft natural daylight, shallow depth of field, blurred background, high detail, ultra realistic, 4K portrait photography,",
