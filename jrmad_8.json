@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_601",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_601.jpeg",
+      "prompt": "A photorealistic masterpiece, Full Body Portrait of a young man(keep the facial features unchanged as uploaded image) sitting on the steps of a stopped city bus, from a low angle, posing naturally with a graceful posture, with a neutral expression, wearing premium urban streetwear, large-scale aesthetics with high-end designer accents, hard shadow lighting with realistic shadow play, sophisticated atmosphere, 8k resolution, ultra-detailed textures, sharp focus, masterpiece quality",
+      "category": "Portrait",
+      "tags": [
+        "Cinematic"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-03-11T13:41:18.529795Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_600",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_600.jpeg",
       "prompt": "If no reference image is provided, ask for one. Tradition never goes out of style. In heritage attire, he carries the calm confidence of the past—where grace, respect, and character defined the essence of a man. In a world chasing trends, he stands rooted in timeless values, wearing not just clothing but the quiet pride of generations before him. Maintain the original facial expression.",
