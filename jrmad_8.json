@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_602",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_602.jpeg",
+      "prompt": "Make a beautiful square Eid poster with a wooden texture, surrounded by a beautiful wooden frame and a 3D wood engraving design. The design looks like it is carved on wood and has depth with a slight shadow. Write in beautiful Urdu calligraphy on the top: \" all the people of Islam\" Write in small Arabic calligraphy below it: \"Taqleeb munna wa minkam\" Make a large beautiful 3D wooden Urdu calligraphy in the middle: \"Eid al-Fitr Mubarak\"\nOn the right side is a portrait of the picture given in Round frame, the light is soft and the portrait is close to reality. Below is a beautiful wooden nameplate with arrow designs on both sides and written in bold Urdu: \"Rao Yousuf\"\nStyle: Wood engraving, warm brown color, 3D effect, Islamic design, high resolution, square social media poster.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-03-12T18:43:58.655884Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_601",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_601.jpeg",
       "prompt": "A photorealistic masterpiece, Full Body Portrait of a young man(keep the facial features unchanged as uploaded image) sitting on the steps of a stopped city bus, from a low angle, posing naturally with a graceful posture, with a neutral expression, wearing premium urban streetwear, large-scale aesthetics with high-end designer accents, hard shadow lighting with realistic shadow play, sophisticated atmosphere, 8k resolution, ultra-detailed textures, sharp focus, masterpiece quality",
