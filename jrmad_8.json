@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_603",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_603.jpeg",
+      "prompt": "Use reference photo to create a Elegant Eid al-Fitr greeting card with a 3D pop-up paper craft design, featuring a realistic smiling Muslim man with folded arms wearing a traditional outfit and black peci. Surrounding him are luxurious pop-up decorations including a grand mosque dome, Ramadan lanterns, crescent moon, and intricate Islamic arabesque patterns. Emerald green and gold color palette with ivory accents.Placed on a table with luxury rid cards and watches box",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-03-14T21:28:40.477326Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_602",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_602.jpeg",
       "prompt": "Make a beautiful square Eid poster with a wooden texture, surrounded by a beautiful wooden frame and a 3D wood engraving design. The design looks like it is carved on wood and has depth with a slight shadow. Write in beautiful Urdu calligraphy on the top: \" all the people of Islam\" Write in small Arabic calligraphy below it: \"Taqleeb munna wa minkam\" Make a large beautiful 3D wooden Urdu calligraphy in the middle: \"Eid al-Fitr Mubarak\"\nOn the right side is a portrait of the picture given in Round frame, the light is soft and the portrait is close to reality. Below is a beautiful wooden nameplate with arrow designs on both sides and written in bold Urdu: \"Rao Yousuf\"\nStyle: Wood engraving, warm brown color, 3D effect, Islamic design, high resolution, square social media poster.",
