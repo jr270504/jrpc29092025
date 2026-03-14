@@ -3,6 +3,7 @@
     "url": "https://www.facebook.com/share/1Ci8Gbh4xC/",
     "is_active": true
   },
+  "data_url" : "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/abcryk.json",
   "main_dialog": {
     "id": "md1",
     "display_title": "Welcome to City Services",
