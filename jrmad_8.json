@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_605",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_605.jpeg",
+      "prompt": "A cinematic ultrawide, low-angle shot of a young man standing in the same outdoor setting. The man is leaning casually against a tall weathered concrete gate, surrounded by lush green branches and barbed wire above. The ground is wet, reflecting the rainy and misty atmosphere. a man wearing a white open rolledup sleeve cargo shirt and black baggy cargo pant. Keep the misty forest pathway in the background with a dreamy, moody atmosphere.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-03-17T12:19:45.747101Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_604",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_604.jpeg",
       "prompt": "A stylish young stylish man standing outdoors, leaning casually against a coconut tree trunk, wearing a deep Blue Punjabi with black design and white trouser a wristwatch. He is looking side off the camera with a calm expression. His legs are crossed naturally and one hand is in his pocket while the other rests relaxed. The setting is a lush green rural landscape with a vibrant rice field and tropical plants in the, Natural smile and perfect photo .",
