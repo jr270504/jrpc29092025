@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_606",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_606.jpeg",
+      "prompt": "Realistic ultra 12K portrait of a man wearing sunglasses, colorful Punjabi, off-white trousers, black loafers, holding a blue ja-namaz, walking confidently. Misty dreamy background with glowing Eid lanterns, crescent moon, mosque silhouettes, teal & emerald tones. Cinematic lighting, shallow depth of field, professional style, left side angle. Text: “EID MUBARAK” (teal & gold), “Advance Eid Wishes”, “Created by PhotoGem”.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-03-19T08:56:17.062272Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_605",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_605.jpeg",
       "prompt": "A cinematic ultrawide, low-angle shot of a young man standing in the same outdoor setting. The man is leaning casually against a tall weathered concrete gate, surrounded by lush green branches and barbed wire above. The ground is wet, reflecting the rainy and misty atmosphere. a man wearing a white open rolledup sleeve cargo shirt and black baggy cargo pant. Keep the misty forest pathway in the background with a dreamy, moody atmosphere.",
