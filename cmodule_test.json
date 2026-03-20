@@ -7,11 +7,11 @@
   "main_dialog": {
     "id": "md1",
     "display_title": "Welcome to City Services",
-    "message": "Explore the new Ramadan 2026 schedule and updated E-Bus routes.",
-    "image_url": "https://i.pinimg.com/564x/68/9b/71/689b71078cf4abec257cc18adb6c4d21.jpg",
-    "action_url": "https://en.wikipedia.org/wiki/Rahim_Yar_Khan",
-    "button_text": "Learn about Rahim Yar Khan",
-    "is_active": false
+    "message": "Eid Mubarak to Everyone.",
+    "image_url": "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/WhatsApp%20Image%202026-03-20%20at%2018.02.40.jpeg",
+    "action_url": "https://www.facebook.com/share/1Ci8Gbh4xC/",
+    "button_text": "Join our Pagen",
+    "is_active": true
   },
   "city_modules": [
     {
