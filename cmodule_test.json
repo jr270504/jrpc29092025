@@ -15,18 +15,6 @@
   },
   "city_modules": [
     {
-      "id": "transport_hub",
-      "title": "Public Transport",
-      "title_ur": "عوامی سواری",
-      "subtitle": "Bus, Train & Local",
-      "subtitle_ur": "بس، ٹرین اور مقامی",
-      "icon_code": 58738,
-      "color_hex": "0xFF009688",
-      "action_type": "category",
-      "route": "",
-      "is_coming_soon": false,
-      "items": [
-        {
           "id": "ebus",
           "title": "E-Bus Service",
           "title_ur": "ای-بس سروس",
@@ -50,19 +38,5 @@
           "route": "train_home",
           "is_coming_soon": false
         }
-      ]
-    },
-    {
-      "id": "ramadan_2026",
-      "title": "Ramadan 2026",
-      "title_ur": "رمضان ۲۰۲۶",
-      "subtitle": "Sehri & Iftar Times",
-      "subtitle_ur": "سحر و افطار کے اوقات",
-      "icon_code": 58412,
-      "color_hex": "0xFF673AB7",
-      "action_type": "navigate",
-      "route": "ramadan_home",
-      "is_coming_soon": false
-    }
   ]
 }
