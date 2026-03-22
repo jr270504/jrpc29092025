@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_607",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_607.jpeg",
+      "prompt": "A stylish young South Asian man standing on green grass in front of a dense, neatly trimmed hedge wall filled with dark green leaves. At the bottom of the hedge, there are small blooming flowers in shades of yellow and orange. He is wearing a clean white traditional shalwar kameez with sleeves slightly rolled up. He has medium-length dark hair brushed back, a well-groomed beard, and is wearing black sunglasses.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-03-22T08:35:47.871950Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_606",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_606.jpeg",
       "prompt": "Realistic ultra 12K portrait of a man wearing sunglasses, colorful Punjabi, off-white trousers, black loafers, holding a blue ja-namaz, walking confidently. Misty dreamy background with glowing Eid lanterns, crescent moon, mosque silhouettes, teal & emerald tones. Cinematic lighting, shallow depth of field, professional style, left side angle. Text: “EID MUBARAK” (teal & gold), “Advance Eid Wishes”, “Created by PhotoGem”.",
