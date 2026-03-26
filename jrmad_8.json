@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_610",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_610.jpeg",
+      "prompt": "A high-quality digital illustration in a vector-art style of a mature man who strongly resembles Indian actor Bobby Deol with a thick dark beard and tousled wavy hair. He has a serious, intense expression and is wearing a dark blue suit jacket over a white, unbuttoned collared shirt. The entire image is on a simple, off-white textured paper background. At the top center of the image, the text \"Ro kyu raha hai lala\" is written in a bold, brown, all-caps sans-serif font. Directly below it, the smaller text \"Prompt PhotoGem app me hai Ja ke Le le !\" is written in a bold, italicized, title-case sans-serif font. The layout is clean and minimalist, centered on the page.",
+      "category": "Portrait",
+      "tags": [
+        "Digital Art"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-03-26T15:08:07.269938Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_609",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_609.jpeg",
       "prompt": "A high-quality digital illustration in a caricature style of the famous Indian singer-composer Bappi Lahiri, rendered with a clean vector-art look. He has his signature hairstyle, a thick mustache, and large, clear aviator glasses. He is smiling widely and giving a confident thumbs-up to the viewer. He wears a teal Nehru jacket over a dark blue button-down shirt. The entire image is on a simple, off-white textured background. Arcing over his head and down his right side, in a whimsical, hand-written brown script, is the text: \"Baccha hai tu mera, PromptGem AI photos app install k r  Prompt le le !\" In the bottom right corner, there is a small, pink hand-drawn heart doodle. The overall lighting is soft and even.",
