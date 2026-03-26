@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_609",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_609.jpeg",
+      "prompt": "A high-quality digital illustration in a caricature style of the famous Indian singer-composer Bappi Lahiri, rendered with a clean vector-art look. He has his signature hairstyle, a thick mustache, and large, clear aviator glasses. He is smiling widely and giving a confident thumbs-up to the viewer. He wears a teal Nehru jacket over a dark blue button-down shirt. The entire image is on a simple, off-white textured background. Arcing over his head and down his right side, in a whimsical, hand-written brown script, is the text: \"Baccha hai tu mera, PromptGem AI photos app install k r  Prompt le le !\" In the bottom right corner, there is a small, pink hand-drawn heart doodle. The overall lighting is soft and even.",
+      "category": "Portrait",
+      "tags": [
+        "Digital Art"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-03-26T15:00:29.554807Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_608",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_608.jpeg",
       "prompt": "Prompt 8K DSL realistic portrait and use my real face as a upload picture ultra-realistic 2:3 vertical collage (7680×11520), same man with identical facial features, grey patterned kurta, light grey trousers, black watch, natural park with large tree, soft bokeh. poses: Relaxed Root Sit (seated on roots, side gaze), Leaning Contemplation (against tree, hands in pockets), Casual Walk Pause (mid-step, adjusting sleeve). Consistent styling, cinematic light.110% Same reference face match pose change",
