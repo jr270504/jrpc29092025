@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_619",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_619.jpeg",
+      "prompt": "16K ULTR REALISTIC CREATE\nA STYLISH YOUNG MAN WITH YESSY VOLUME HAIR, AT - POSING OUTDOORS IN A VIBRANT NATURAL SET Oversized white SHIRT Both Wahid Khan HANDS I \nLIGHTING, CREATING AN ULTRA-REALISTIC DSLR-QI EH®IMAGE. (RIGHT SIDE FACE FOCUS USE 100% ABOVE UPLOADED PHOTO sunglasses DSLR hand touch hairstyles.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-04-07T09:25:56.478092Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_618",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_618.jpeg",
       "prompt": "Keeping the facial features exact same without any alterations generate A candid, sharp-flash photography shot from a low, side perspective of an olive-skinned young man from reference image sitting casually in an office chair. He is making eye contact with the camera, resting his hand thoughtfully near his chin. His left foot, wearing white sneakers with black stripes, is resting up on a wooden desk, dominating the foreground.",
