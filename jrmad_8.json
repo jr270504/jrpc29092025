@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_621",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_621.jpeg",
+      "prompt": "Generate a realistic portrait of a young skinny man sitting in the indian bus at the seat, he leaning his head on back of the seat and his face slightly up, eyes are closed, messy and voluminous hairs fall on his forehead, wind come from window, shot taken under the middle of the bus corridor, low angle shot taken from far distance, some other people sitting around but they are blur, focus on me, he put earphones on his both ears, calm expression, he feel the moment,",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-04-11T15:09:28.752905Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_620",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_620.jpeg",
       "prompt": "A young man same face 100% from reference is wearing a white corduroy textured jacket, holding the collar with both hands. He has a plain white t-shirt underneath, and a silver chain is visible around his neck,  rimless rectangular Gradient black sunglasses. His hair appears tousled and styled. and the background is Snow Forest and Some snow falling at leaves some leaves at left side on him is out of focus, Ultra-detailed Realistic textures and aesthetic.",
