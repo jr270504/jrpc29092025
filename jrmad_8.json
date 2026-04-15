@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_624",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_624.jpeg",
+      "prompt": "A HIGH-QUALITY DIGITAL PAINTING OF A HANDSOME YOUNG INDIAN MAN WITH A JOYFUL SMILE, LOOKING OFF-CAMERA.\n\nHE HAS THICK, VOLUMINOUS WAVY\n\nBLACK HAIR STYLED IN A MESSY-CHIC LOOK. HE IS WEARING A CRISP WHITE LINEN SHIRT WITH A FEW BUTTONS OPEN, REVEALING A THICK GOLD CHAIN.\n\nTHE ART STYLE IS SMOOTH AND PAINTERLY WITH A SOFT GLOW, FEATURING A CLEAN WHITE VIGNETTE BACKGROUND. PROFESSIONAL LIGHTING, VIBRANT SKIN TONES, HYPER-REALISTIC FACIAL FEATURES, 8K RESOLUTION,\n\nOIL PAINTING TEXTURE",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-04-15T19:19:20.522800Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_623",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_623.jpeg",
       "prompt": "Cinematic, low-key portrait of a rugged man with a beard and messy, voluminous dark hair, seen from a side profile. He is wearing classic round gold-rimmed sunglasses that catch a warm,\namber highlight. The lighting is dramatic and moody, featuring deep shadows and a soft golden rim light tracing his silhouette against a solid black background. 8k resolution,\nphotorealistic, high contrast, melancholic atmosphere, fine film grain.",
