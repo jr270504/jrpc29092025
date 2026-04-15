@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_623",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_623.jpeg",
+      "prompt": "Cinematic, low-key portrait of a rugged man with a beard and messy, voluminous dark hair, seen from a side profile. He is wearing classic round gold-rimmed sunglasses that catch a warm,\namber highlight. The lighting is dramatic and moody, featuring deep shadows and a soft golden rim light tracing his silhouette against a solid black background. 8k resolution,\nphotorealistic, high contrast, melancholic atmosphere, fine film grain.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-04-15T19:12:17.346575Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_622",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_622.jpeg",
       "prompt": "Without changing my facial features, create a stylish, 4k modern portrait of a young boy (17-18) years old with same refference face Messy valume hair, look a behind wearing a oversized danim olive shirt. Single accessorized with a smart_watch With black sunglasses.The background natural is soft, minimal, and subtly blurred to emphasize a contemporary fashion-forward vifac.Cinematic lighting, ultra-detailed, realistic textures, and a polished editorial aesthetic same.",
