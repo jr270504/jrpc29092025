@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_625",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_625.jpeg",
+      "prompt": "A realistic low-angle wide shot of reference sitting relaxed on a wooden park bench, leaning back with head tilted up facing the sky, eyes closed. Wearing a white t-shirt, light beige trousers, and sneakers. The background is a vast bright blue sky filled with massive fluffy white cumulus clouds. A bright sun in the top corner creates a lens flare and soft glow. Sandy ground, ocean horizon in the distance. Summer atmosphere, peaceful, airy, dreamy, high resolution photography, photorealistic.",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "New"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-04-15T20:20:38.769574Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_624",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_624.jpeg",
       "prompt": "A HIGH-QUALITY DIGITAL PAINTING OF A HANDSOME YOUNG INDIAN MAN WITH A JOYFUL SMILE, LOOKING OFF-CAMERA.\n\nHE HAS THICK, VOLUMINOUS WAVY\n\nBLACK HAIR STYLED IN A MESSY-CHIC LOOK. HE IS WEARING A CRISP WHITE LINEN SHIRT WITH A FEW BUTTONS OPEN, REVEALING A THICK GOLD CHAIN.\n\nTHE ART STYLE IS SMOOTH AND PAINTERLY WITH A SOFT GLOW, FEATURING A CLEAN WHITE VIGNETTE BACKGROUND. PROFESSIONAL LIGHTING, VIBRANT SKIN TONES, HYPER-REALISTIC FACIAL FEATURES, 8K RESOLUTION,\n\nOIL PAINTING TEXTURE",
