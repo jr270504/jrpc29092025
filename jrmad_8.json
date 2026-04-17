@@ -1,6 +1,16 @@
 {
   "prompts": [
     {
+      "id": "prompt_627",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_627.jpeg",
+      "prompt": "A high-fashion, cinematic portrait of a Black man with a lean, sharp facial structure, looking slightly upward with a confident, stoic expression. He is wearing round, dark tinted sunglasses and multiple silver hoop earrings. The composition is a vertical mid-shot, centered against a large, glowing crimson-red sun or circular halo.",
+      "category": "Portrait",
+      "tags": [],
+      "popularity": 0,
+      "createdAt": "2026-04-17T09:43:56.772019Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_626",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_626.jpeg",
       "prompt": "A stylish 18-year-old boy leaning casually against a roadside metal guardrail on a curved road. He is wearing a loose black shirt over a light grey t-shirt, paired with black trousers and clean white sneakers. The boy has well-styled voluminous hair, a trimmed beard, and is wearing transparent modern eyeglasses. Pose: one hand resting on the railing, the other hand behind his neck, relaxed and confident posture, legs slightly crossed.",
