@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_628",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_628.jpeg",
+      "prompt": "A full-body digital illustration of a stylized man character (image Uploaded), sitting casually on a dark urban ledge. The man wears a dark baseball cap, a dark hooded sweatshirt, baggy grey cargo pants, and dark sneakers, from which a vivid crimson red smoke billows dramatically surrounds its lower body in a dense, glowing haze. The background is a grimy, dark concrete wall adorned with aggressive, dripping red graffiti. The composition is a slightly low-angle, central shot, emphasizing the character's presence. Dynamic, high-contrast lighting with strong directional shadows and an intense red glow from the smoke. The color palette is restricted to deep blacks, dark greys, bone white, and striking crimson red. The style is hyper-detailed vector art mixed with graphic novel aesthetics, street art influences, and a cool, edgy mood. Sharp lines, strong color grading, dramatic glow effects, --ar 9:16",
+      "category": "Portrait",
+      "tags": [
+        "Digital Art"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-04-21T06:24:11.142146Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_627",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_627.jpeg",
       "prompt": "A high-fashion, cinematic portrait of a Black man with a lean, sharp facial structure, looking slightly upward with a confident, stoic expression. He is wearing round, dark tinted sunglasses and multiple silver hoop earrings. The composition is a vertical mid-shot, centered against a large, glowing crimson-red sun or circular halo.",
