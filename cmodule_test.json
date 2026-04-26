@@ -5,13 +5,13 @@
   },
   "data_url" : "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/abcryk_weekend.json",
   "main_dialog": {
-    "id": "md2",
-    "display_title": "Eid Mubarak, Rahim Yar Khan!",
-    "message": "Eid Mubarak to the city of palms and the golden hearts of Rahim Yar Khan! 🌙🌴✨",
-    "image_url": "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/WhatsApp%20Image%202026-03-20%20at%2018.02.40.jpeg",
+    "id": "md3",
+    "display_title": "درخت لگاؤ، خوشیاں اگاؤ",
+    "message": "آنے والی نسلوں کے لیے — آج درخت لگاؤ",
+    "image_url": "https://raw.githubusercontent.com/jr270504/jrpc29092025/refs/heads/main/gt.jpeg",
     "action_url": "https://www.facebook.com/share/1Ci8Gbh4xC/",
     "button_text": "Join our Page",
-    "is_active": false
+    "is_active": true
   },
   "city_modules": [
     {
