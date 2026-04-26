@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_629",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_629.jpeg",
+      "prompt": "A vibrant and playful man character (image Uploaded), wearing stylish black wayfarer sunglasses, casually sipping bubble tea through a straw from a clear, beaded cup. The entire image is meticulously rendered in a unique 3D embossed bead art style, resembling millions of small, glossy, perfectly spherical, colorful plastic beads tightly packed together. Each bead reflects light subtly, creating a tactile, volumetric texture across all surfaces. The character wears a multi-colored beaded t-shirt. The background features a large, sunny yellow beaded circle and stylized tropical leaves in beaded green. Large, blocky beaded text 'Shaad Dev Studio' is at the top, and 'PhotoGem AI' is subtly integrated into the shirt. The color palette is highly saturated, featuring electric fuchsia, royal blue, vivid red, bright orange, sunny yellow, and lush green. Studio lighting, soft and even, highlights the beaded texture with subtle shadows, creating a deep relief effect. Clean lines, pop art aesthetic, high detail, --ar 9:16",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "Digital Art"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-04-26T07:12:30.350712Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_628",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_628.jpeg",
       "prompt": "A full-body digital illustration of a stylized man character (image Uploaded), sitting casually on a dark urban ledge. The man wears a dark baseball cap, a dark hooded sweatshirt, baggy grey cargo pants, and dark sneakers, from which a vivid crimson red smoke billows dramatically surrounds its lower body in a dense, glowing haze. The background is a grimy, dark concrete wall adorned with aggressive, dripping red graffiti. The composition is a slightly low-angle, central shot, emphasizing the character's presence. Dynamic, high-contrast lighting with strong directional shadows and an intense red glow from the smoke. The color palette is restricted to deep blacks, dark greys, bone white, and striking crimson red. The style is hyper-detailed vector art mixed with graphic novel aesthetics, street art influences, and a cool, edgy mood. Sharp lines, strong color grading, dramatic glow effects, --ar 9:16",
