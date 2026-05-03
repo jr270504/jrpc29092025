@@ -1,6 +1,19 @@
 {
   "prompts": [
     {
+      "id": "prompt_631",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_631.jpeg",
+      "prompt": "The road is illuminated with glowing orange neon running path lines like a fitness tracking app (Strava style). The path is irregular and zig-zag glowing under his feet. Foggy atmosphere, streetlights in the background, moody lighting, high contrast, ultra realistic, 4K, dramatic shadows. Add fitness stats text on road: distance 4.14 km, time 22:26, elevation 84 m in modern minimal font. Depth of field, soft glow, realistic reflections on wet road",
+      "category": "Portrait",
+      "tags": [
+        "All",
+        "New"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-05-03T13:59:02.568261Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_630",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_630.jpeg",
       "prompt": "Ultra-realistic conceptual portrait of a young man with curly hair and light stubble, wearing yellow-tinted rectangular sunglasses, a beige minimal t-shirt, blue jeans, and off-white sneakers. He is sitting casually with a relaxed posture.\n\nThe twist: he is seated on a large, hyper-realistic version of his own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept.\n\nComposition: centered, full-body shot, neutral studio background with soft beige tones, minimal aesthetic. Clean negative space.\n\nTypography integrated into the background:\n\n* Handwritten-style text at the top: “HEAVY”\n* Below it, smaller text: “ON MY OWN MIND” with “MIND” crossed out\n* Large, rough, scribbled text in black: “HEAD”\n\nLighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality.\n\nStyle: blend of surrealism and modern streetwear campaign, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture.\n\nMood: introspective, mental weight, identity, self-awareness.",
