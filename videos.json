@@ -1,1 +1,26 @@
 
+{
+  "prompts": [
+ 
+       {
+  "id": "prompt_v0",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/video_0.png",
+  "prompt": "smooth zoom on face then hold for 0.5second then camera pans to hands gripping bat and holds for 0.5 second → slow sweep to legs and ground → player taps bat on pitch while preparing stance →strictly Same live broadcast screen throughout.batsman hits the ball abd ball moves to out of boundary",
+  "category": "video prompt",
+  "tags": ["video prompt"],
+  "popularity": 0,
+  "createdAt": "2026-05-19T16:31:42Z",
+  "isFeatured": false
+},
+      {
+  "id": "prompt_vi0",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/videoi.png",
+  "prompt": "Aspect ratio 16:9. Use the uploaded reference image for face only — preserve my exact facial structure, hairstyle, beard, skin tone, beard texture, eyes, expression, and realistic likeness with high identity accuracy. The player is wearing the uploaded CSK jersey exactly as provided.Create an ultra-realistic IPL LIVE BROADCAST frame during a high-voltage night match between Chennai Super Kings and Royal Challengers Bengaluru inside a packed Indian cricket stadium. I am playing for CSK as a professional batsman, batting without helmet so my face is fully visible like a real IPL superstar captured on live TV.Capture the exact split-second before playing a powerful shot — realistic batting stance at the crease, knees slightly bent, eyes intensely focused on the incoming ball, bat raised naturally, balanced professional posture like preparing for a cover drive or pull shot. The frame should feel tense, dynamic, and cinematic like a real live-broadcast sports moment.Add dramatic stadium floodlights, roaring yellow crowd, waving CSK flags, giant LED stadium screens, realistic grass pitch, shallow depth of field, authentic IPL atmosphere, slight motion anticipation, sweat details, realistic sports shadows, and long-lens TV camera compression.IMPORTANT: Place all IPL broadcast graphics fully at the extreme bottom of the frame exactly like official Star Sports or JioHotstar coverage. Include realistic live telecast overlay showing:- Striker batsman name: “ARUSH”- Match: CSK vs RCB- Live score- Overs- Strike rate- Bowler stats- Boundary tracker- Team logos- Live indicator- Viewer count Professional sports broadcast camera look, authentic IPL telecast screenshot aesthetic, cinematic framing, ultra-realistic cricket body posture, premium 8K sports photography realism, natural skin texture, real-match energy, not a posed photoshoot or selfie.",
+  "category": "video prompt",
+  "tags": ["video prompt"],
+  "popularity": 0,
+  "createdAt": "2026-05-19T16:31:42Z",
+  "isFeatured": false
+}
+  ]
+}
