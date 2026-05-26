@@ -1,6 +1,18 @@
 {
   "prompts": [
     {
+      "id": "prompt_632",
+      "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_632.jpeg",
+      "prompt": "Use reference photo to create a realistic Ultra 12K Portrait, uploaded man wearing stylish sunglasses, dressed in a modern elegant white shalwar kameez paired with a stylish blazer and clean blue mozy . A blue ja-namaz is placed beside him. He is sitting casually on natural tree stumps And many child, with his left hand resting confidently on his knee across a soft blurred foreground and many animals like cow,bafflo and goat in background.. Text: Bakra Eid MUBARAK (big elegant gold)",
+      "category": "Portrait",
+      "tags": [
+        "All"
+      ],
+      "popularity": 0,
+      "createdAt": "2026-05-26T05:26:03.893331Z",
+      "isFeatured": false
+    },
+    {
       "id": "prompt_631",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_631.jpeg",
       "prompt": "The road is illuminated with glowing orange neon running path lines like a fitness tracking app (Strava style). The path is irregular and zig-zag glowing under his feet. Foggy atmosphere, streetlights in the background, moody lighting, high contrast, ultra realistic, 4K, dramatic shadows. Add fitness stats text on road: distance 4.14 km, time 22:26, elevation 84 m in modern minimal font. Depth of field, soft glow, realistic reflections on wet road",
